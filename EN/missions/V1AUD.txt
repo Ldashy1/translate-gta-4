@@ -1,0 +1,152 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A622AEF9	~z~He's the biggest crook in the neighborhood. Lucky I don't tell his customers what they're paying for.
+	A61846AD	~z~From people like me.
+	AA3C9F2A	V1_HA
+	A63E35C4	~z~What fuck you doing? You pay for that, crazy man.
+	9B223005	V1_JD
+	9962ABA6	V1_JC
+	A1DBEDC8	~z~Big man with the big bat. I so impressed.
+	9E8F09BF	~z~Only thing I understood was you owed him money.
+	B35F5006	~z~You should have paid Vlad his protection money.
+	B338FBCE	V1_HE
+	BBCFE1F2	~z~What are you doing hurting my friends, yokel? You trying to make me mad?
+	BBA271A5	~z~Seems careless to not be paying Vlad his protection money?
+	AD02A356	V1_HD
+	AC6D432D	~z~I did what you said, I got your money.
+	B0FA0C08	~z~Stupid man, you wasting your time.
+	B0E55C2B	~z~Hello, you got some nice stuff in here.
+	832C70AC	~z~I can smell you too.
+	8155F4AE	V1_KB
+	8699383E	V1_EA
+	8694A67B	~z~You know what, Vlad. I wanted that vodka all to myself, so I got rid of the shop owner.
+	7D032417	~z~Point proven. I get it.
+	795A0AAD	V1_HG
+	814D18DA	200200200
+	7F17E5A4	~z~For the record, I don't take orders from Vlad. I'm just doing a favor for my cousin.
+	959A0D01	V1_DA
+	94BE42CE	~z~I hope you don't mind.
+	9706F1DB	~z~Sure, whatever.
+	962D6B27	V1_GB
+	8BE268A8	010100100
+	893D0A3B	V1_IC
+	927D25A9	V1_CH
+	91718597	~z~Stupid jerk made a mistake of telling me how much he gets that shit for back east.
+	BC075AC2	~z~He paid up. I had to smash the shop up pretty good, but he paid.
+	F06ABF8B	V1_EC
+	EF5AA18E	V1_AB
+	F32ACF9C	~z~Vlad should pay me to tell punks like you to go away. He get no money.
+	F203AB6A	200020020020
+	EC017153	~z~You pathetic halfwit, what if I decide to get rid of your cousin when I next pay him a visit. Shit.
+	E9F2CD21	V1_ID
+	EF065EE5	010100100100
+	ECF358FF	V1_DB
+	FC157CE4	V1_CC
+	FC0F03C8	V1_FF
+	FFD652E1	V1_LB
+	FF760686	~z~I paid you all money I had. There's no more.
+	F8FBCF65	V1_EB
+	F4EFEC35	V1_CA
+	FACDD147	200020
+	FA42B4DD	V1_BA
+	C585514C	V1_AC
+	C56B8B4E	V1_FD
+	CB374082	~z~Stop it shit brain. I pay up now, I pay up.
+	C9BD19B5	V1_FA
+	C29767E2	~z~Don't worry your little peasant head about it.
+	BCFF659C	100010100100010100010
+	C551AE85	V1_CG
+	C2D0AFB5	~z~I don't give no shit about you Russians.
+	DDFC3521	010010100
+	DB057A92	V1_GA
+	E8B6B41C	~z~Sure, get out of my face.
+	E33347FD	V1_FE
+	CCA4BC1F	V1_CF
+	CBED647B	~z~Shit. Here. I thought Vlad and I had understanding?
+	D9903C39	V1_JA
+	D584FB29	100010100100100010100
+	7327D0A3	~z~Take this bottle of Cherenkov. Say you're sorry and you won't do it again.
+	28CE12D3	~z~Come to the bar.
+	298B3D67	~z~Fine.
+	31F92C36	~z~You think this door is going to save your shop? There's shit I can break out here.
+	26B81913	V1_HB
+	1EDE85C0	V1_HC
+	23C3CF19	~z~What are you doing? I pay you already.
+	26B7EF24	V1_CE
+	359AAC00	~z~I gave him the vodka.
+	4A2FA8A1	V1_HF
+	4CAEDA94	~z~You kissed and made up, that's sweet.
+	5044526E	~z~Now your cousin's going to have to owe me for this as well.
+	45F77301	200020
+	375E516A	~z~Hey yokel, you manage to do the job? Get Vlad his money?
+	3A83B63E	~z~If you give a shit about your fatty cousin's debt then I've got some more work for you.
+	424AD9B5	020200020
+	1EAC43F2	V1_AB
+	0D50A23B	~z~I thought you were protecting me now?
+	12016CF3	V1_AA
+	132A7869	V1_LA
+	0D26445F	~z~Smash, smash, smash. You boring me.
+	0131CA34	V1_AD
+	03A4E9F8	~z~That it? Can I go now?
+	095F6761	200200200200200200200200
+	17487150	V1_BC
+	1B4FE0B2	~z~Your arm starting to hurt already? I get tired just watching you.
+	1C220088	~z~Big Vlad and his protection money, I so scared. What I need protection from?
+	1E2F8DCA	V1_BB
+	1B04201C	V1_KA
+	175B7282	~z~Here's your money. I hope you and Vlad choke on it.
+	17B7DE27	020020200020
+	188D2B1D	V1_IA
+	50568822	~z~I will give you a bottle of vodka now to apologize for what I did.
+	62952C9F	~z~But know that there is nothing stopping me from coming back here and smashing it in your face.
+	6222AE99	~z~You're deaf as well as stupid. That's good to know, yokel. I said scare him, don't hurt him.
+	656C579D	V1_FG
+	6BCF0983	~z~Vlad, I scared the old man too much. He's dead.
+	567B915C	200020200
+	5DB32C41	V1_KC
+	5A7A8930	V1_LC
+	5E286E36	~z~Stupid peasant, think about it. Dead men can't pay me money.
+	57CF32C7	V1_MA
+	5F0BC380	V1_MB
+	5675F52F	~z~Hey, let me in. You owe Vlad protection money, old man.
+	6F4CA4FD	V1_FB
+	513E9A0B	V1_JB
+	702E0A6D	~z~Ok, this not so funny no more.
+	7321ADF7	V1_FC
+	71185D3A	V1_IB
+	5373ACA7	V1_CD
+	6C29DBEF	V1_CB
+	54F29439	~z~That means don't fucking hurt him, alright. Hear me now?
+	53C42206	~z~Big Vlad and his protection money, I so scared. What I need protection from?
+	6CE24139	~z~Hey, don't hurt me. Vlad say you too stupid to understand his orders.
+V1_CUT1_1	A48C001D	~z~-Ah, fuck you! You're a bunch of pussies and fags.~n~-Nice.
+V1_CUT1_10	B1AC90EC	~z~Yokel... fatty Roman's cousin...
+V1_CUT1_11	C2D73341	~z~-what's your name again?~n~-Big mouth prick.
+V1_CUT1_12	951957C6	~z~Very catchy, sit down
+V1_CUT1_13	9E4A6A28	~z~Cousin... Niko... that's it, Niko... not big mouth prick. You funny guy.
+V1_CUT1_14	6C470622	~z~I try.
+V1_CUT1_15	5727DBE0	~z~Yes... and this once, I let you take the shit out of me.
+V1_CUT1_16	67BF7D0F	~z~Take the shit?
+V1_CUT1_17	3285129B	~z~Yes, mickey about.
+V1_CUT1_18	434FB430	~z~I don't understand.
+V1_CUT1_19	0E024996	~z~People who fuck with me get fucked with!
+V1_CUT1_2	DEFAF4FA	~z~-I'm going back to the meetings.~n~-Good.
+V1_CUT1_20	5B3DE0A4	~z~Okay, fine. Calm down.
+V1_CUT1_21	5078CB1A	~z~Whatever, some old man not paid me in months,
+V1_CUT1_22	FF92A94F	~z~and I'm not kind of person who is treated this way.
+V1_CUT1_23	F1310C8C	~z~Old bastard owns a china shop on Camden Avenue in Dukes.
+V1_CUT1_24	24D873DA	~z~Here you go...
+V1_CUT1_25	1695D755	~z~Don't hurt him.
+V1_CUT1_26	C7913951	~z~Just teach him a lesson.
+V1_CUT1_27	BA559EDA	~z~I don't need a bat to teach a lesson.
+V1_CUT1_3	D12DD960	~z~-I'm going to be somebody!~n~-Yeah, yeah. See you later, Mel.
+V1_CUT1_4	AE999440	~z~You always were an asshole, Mickey...
+V1_CUT1_5	215B79C6	~z~-Hey! Watch where you're going.~n~-Hey!
+V1_CUT1_6	DB286D5D	~z~Hey...
+V1_CUT1_7	BD323171	~z~-I tried to tell ya.~n~-Fuck you...
+V1_CUT1_8	E807071E	~z~Excuse me.
+V1_CUT1_9	59ACEA68	~z~So, Ivan - I see you later, okay?

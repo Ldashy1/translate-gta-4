@@ -1,0 +1,229 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B0313795	GCK2_DATING_JE
+	AFA22481	GCK2_LIKE_HF
+	AEDF40BD	GCK2_POINT_KB
+	B1863485	GCK2_LIKE_HQ
+	B13B6190	~z~Thank you, I think.
+	B0C44802	GCK2_OPTIMISM_NC
+	AE9B0733	~z~No. Not really. I was trying to be more optimistic. My shrink tells me I need to be more optimistic
+	A7DEC4E7	~z~No you don't. You don't like anything. You tolerate me, like you tolerate life.
+	A7B31688	GCK2_FRIENDS_MC
+	A4B4487E	~z~He's my brother, but he's an idiot. You're not.
+	A890B2FC	~z~This is a good thing to do, you will help people. You should go back to school and become a teacher.
+	A83D97F8	GCK2_LIKE_HH
+	A83774EA	GCK2_LIKE_HK
+	B1C632B5	GCK2_LIKE_HB
+	B9F90380	GCK2_DATING_JM
+	B8FF6DD4	GCK2_FRIENDS_MI
+	B8FA830D	GCK2_FRIENDS_MO
+	BDA04B25	GCK2_QUESTION_ID
+	BCC8A38E	~z~silly idiot that she is.
+	BBAF0346	GCK2_OPTIMISM_NO
+	B7C8B82D	~z~I like you.
+	B4135990	100010100100100100010100010100100100010100010100
+	B3C75C65	~z~but if I was, I'd want to be with you.
+	B35665C2	~z~He just thinks that he'll find it by doing 5 hits of X a day, and smoking crack at weekends after a spot of bank robbing.
+	B73A120C	GCK2_POINT_KJ
+	B6B46405	GCK2_OPTIMISM_NS
+	B660CE9C	~z~Maybe I will.
+	A4074F1B	GCK2_OPTIMISM_NK
+	9051957A	~z~You seem okay to me.
+	8F548088	~z~I don't know. I think life can be simple if you let it be. I think that life can have meaning.
+	8EC54697	~z~I want to be a whole one. I do not want to be owned by anyone.
+	924E715B	~z~Sometimes I do not call my life survival, it is somewhere below that, but yeah. I take your point.
+	921CCE37	~z~Why don't you get involved with someone?
+	90D1D6E3	~z~Do you think this is strange - you and me being friends?
+	8E2C8FBE	GCK2_OPTIMISM_NI
+	86CB33B3	GCK2_DATING_JJ
+	84466A6C	~z~There can be no one thing that gives us purpose.
+	83E1B1C1	~z~not be caught up in craziness.
+	8D590FDC	~z~If you liked me, you'd give this up. Give up this life, for me, I mean.
+	8C5EE933	~z~Thank you.
+	8BBD6017	~z~Yes, good... no... no. I'm terrible.
+	92710567	GCK2_FRIENDS_ML
+	A16F6BEB	~z~It isn't a difficult question if you don't care about the answer. What kind of a man do I want to be?
+	A0C42367	~z~I want to be productive, I want to help people, I think that if I went back to school and became a teacher...
+	A0AF27AD	GCK2_POINT_KE
+	A36B11D3	GCK2_LIKE_HG
+	A2F9C50D	~z~My pleasure. You know what, Niko, I really... I really...
+	A1970FC8	~z~I don't know about you, but I have my fair share of physical scars.
+	9DBF48AA	GCK2_PSYCHOS_LJ
+	9961BD64	GCK2_OPTIMISM_NJ
+	96D7ACC5	~z~Packie's not a sociopath.
+	93CC0CEB	GCK2_POINT_KD
+	9D84321B	GCK2_DATING_JC
+	9AE74285	GCK2_LIKE_HL
+	9986A937	GCK2_OPTIMISM_NR
+	BF2BC459	GCK2_FRIENDS_MD
+	F2325F21	GCK2_FRIENDS_MJ
+	EE89D23C	~z~But you don't like me.
+	ED13B99E	GCK2_POINT_KH
+	F41A34CD	~z~Bad stuff has happened to people around us, to people we care about, to us even, but we have pulled through.
+	F29C2DD3	~z~I'm tired of this life - tired of this city.
+	F266A2D1	~z~The very idea I think about having a family given my genes is shameful.
+	E84DA113	~z~Thank you. I like you.
+	E5D5A776	GCK2_POINT_KC
+	E20BB944	~z~So you could do this until you've killed everyone? Or until you die? Your life must be hell.
+	E1D49042	~z~Okay, we're both survivors then. Maybe that's why we like each other.
+	E778F8EE	~z~Why do you go?
+	E6D31F82	GCK2_QUESTION_IB
+	E660A167	GCK2_DATING_JD
+	F51DAACB	~z~God, sometimes do you think - what is the point?
+	FBC00C52	GCK2_PSYCHOS_LD
+	FAF550F6	GCK2_LIKE_HC
+	FAE39E1A	~z~I care about the lives of people I care about... my family, my friends... yes!
+	FE78CD69	~z~I like you. I like what you are, and that's a good thing.
+	FD45DC65	~z~There is a void in us that cannot be filled.
+	FD0542A5	~z~Sorry.
+	FAAA6A3E	GCK2_DATING_JA
+	F575A029	~z~I don't know, maybe the fact that we both understand that the world is a fucked up place.
+	F56C746C	GCK2_OPTIMISM_NM
+	F5529FE3	~z~I think if two people like one another...
+	FA7C00BA	GCK2_PSYCHOS_LK
+	F80D1354	GCK2_LIKE_HN
+	F7A60BA7	GCK2_POINT_KQ
+	E061895E	~z~Tired of everything. Tired of myself. Tired of you.
+	C9F75C8A	~z~Oh, shut up, I don't mean that. I like you. I really like you. You know I do.
+	C904D28A	~z~The point of life. I just get the feeling sometimes that life is waiting between points.
+	C786DF82	~z~No.
+	D27FCEF4	~z~Great.
+	D105D03A	GCK2_QUESTION_IH
+	CF1CB550	GCK2_PSYCHOS_LF
+	C5C55842	GCK2_FRIENDS_MQ
+	C1A3F81E	~z~I'm not ready - I'm scared of all of that - you care about people, they die. I'm pretty messed up.
+	C0E8DFED	GCK2_POINT_KI
+	C02BF68A	GCK2_DATING_JB
+	C4A36B21	~z~Whether this will satisfy you though... that is another matter.
+	C415DD70	GCK2_QUESTION_IA
+	C3B5B160	~z~How you doing, Kate?
+	D2EE87B7	~z~We want things because we think they will make us whole.
+	DD26AB75	GCK2_OPTIMISM_NH
+	DC31B77C	~z~You really what?
+	DAECBF98	GCK2_PSYCHOS_LI
+	E0326A59	~z~Really?
+	E0061AA6	GCK2_DATING_JG
+	DECAEAA4	GCK2_QUESTION_II
+	DA847589	~z~The point of what?
+	D579A005	~z~Probably.
+	D3599BC5	~z~Thank you.
+	D3159871	GCK2_QUESTION_IJ
+	D9CD0412	~z~Genuinely awful, but at least you're not a fucking hypocrite. That can't be said of many people.
+	D7A3A110	GCK2_OPTIMISM_NB
+	D78C0C64	GCK2_LIKE_HD
+	83D5DD29	~z~I want to be able to make the right decision and it be my own decision to make.
+	2E65323D	~z~I do not want to be controlled by the actions of others.
+	2D869910	~z~You're like me - a whack job who should have been locked up years ago. You're a deranged psycho.
+	2BF38045	~z~What kind of man do you want to be, Niko?
+	3080C088	GCK2_FRIENDS_MM
+	2FE0A789	GCK2_FRIENDS_MF
+	2EC05349	GCK2_QUESTION_IK
+	2B3A4FE8	GCK2_FRIENDS_MG
+	23A607DB	~z~I don't want to get into that. But you know what I mean. What is the purpose of existence?
+	230B7B54	~z~What is it that makes us get on?
+	2278DADF	GCK2_PSYCHOS_LC
+	282E8586	~z~We have scars that come from these horrible situations and we can live to tell the tale.
+	27B7C480	~z~Doesn't really matter, you'll probably die tomorrow.
+	26A6427C	~z~I don't think men can change.
+	3163333D	~z~But I like you. You're genuine.
+	3BDDB5BE	~z~Good. You're a freak. That's why I like you.
+	3B476BA2	GCK2_OPTIMISM_NA
+	39C7E663	GCK2_OPTIMISM_NQ
+	3CF8CF64	~z~You see? Not difficult.
+	3CBDE58B	GCK2_OPTIMISM_NG
+	3C9E45E8	GCK2_FRIENDS_MB
+	3900C7CE	GCK2_DATING_JO
+	32EA4D6C	GCK2_OPTIMISM_ND
+	3253A536	~z~These are dates now?
+	31A70C5C	~z~It isn't a difficult question.
+	387EE62D	~z~Give it up. Move away. Grow up. Get out... you could be happy.
+	357A084A	GCK2_POINT_KP
+	34C671AB	GCK2_POINT_KK
+	220BDE35	GCK2_PSYCHOS_LG
+	0B3D8BAB	~z~You have a very American way of looking at things.
+	0B0E34B7	GCK2_POINT_KO
+	0A362995	GCK2_DATING_JL
+	0EB1CFB3	100010100100010100010010010010100100010100010010010100
+	0E9D7EFC	GCK2_POINT_KA
+	0B649F02	GCK2_LIKE_HI
+	09812461	GCK2_OPTIMISM_NP
+	03673BF8	~z~Because we've both been through shit.
+	02BC9C60	GCK2_POINT_KN
+	01A77860	~z~But you're not ready either. You're a lunatic. I don't know if you can change...
+	06F3E123	GCK2_QUESTION_IC
+	06BCE9DD	GCK2_LIKE_HE
+	03A8C1FE	100010100010010100010010100010100100100010010100
+	0EC0151F	100010100010100010100010010010010100
+	1F92D1A0	GCK2_FRIENDS_MN
+	1DF20482	~z~Are you okay Kate?
+	1B312B92	~z~Sure. I'll think about it.
+	21FC6B1A	010100100010100100010100010100100100010100010100100010100
+	21D001B7	~z~I'd rather not.
+	2058FEB5	~z~Thanks - what's wrong with you?
+	17F678CD	GCK2_FRIENDS_ME
+	149D6752	~z~You know what, when I'm with you, I can be myself.
+	13B1782A	GCK2_QUESTION_IE
+	0ECE7F76	~z~I hope you're wrong.
+	17843A8D	GCK2_LIKE_HM
+	171495AA	GCK2_POINT_KF
+	15E4EC59	~z~For a long time there was only one thing in my life that I cared about.
+	3ECF4A5E	~z~I like you too, Niko.
+	6A18D348	~z~How's my favorite sociopath today?
+	6807690B	GCK2_PSYCHOS_LH
+	67D735F0	GCK2_FRIENDS_MK
+	6CE94F01	~z~It's over. This life of yours. You can change. At least think about it.
+	6C2C7032	GCK2_POINT_KM
+	6B000088	010100010100100010100100010100010100100010100100010
+	67328EE7	~z~Now, after everything I have been through, I am not sure that life is so simple.
+	64F4E035	GCK2_DATING_JK
+	6480715E	~z~So you care what your "friend" wants to do with his life?
+	63E89490	~z~We have survived. That's what life is about - survival.
+	670AD4B7	GCK2_POINT_KL
+	65459174	GCK2_DATING_JI
+	650229C0	GCK2_POINT_KG
+	70F6AD4A	GCK2_FRIENDS_MP
+	7D97C3CC	~z~I'm not good at this optimism thing. I'm tired.
+	7C70F134	GCK2_FRIENDS_MH
+	7B288498	GCK2_DATING_JN
+	80D48C20	GCK2_LIKE_HJ
+	808B1716	~z~I can tell you stupid things, because I know you're as mad as me. I like being your friend.
+	7E71C4B4	GCK2_DATING_JH
+	7A207357	~z~He's a psychotic cocaine addict, sure, but he's actually quite sentimental and longs for normality.
+	735973F0	GCK2_OPTIMISM_NL
+	72F1DCEE	GCK2_OPTIMISM_NE
+	710BA299	~z~This one thing, it drove me, it gave me motivation in everything I did.
+	792E1719	GCK2_DATING_JQ
+	766AB284	100010100100010100100010100100
+	75B6156A	~z~Because I want to be happy - because I want to move away, have a family myself,
+	63BEDFAE	GCK2_PSYCHOS_LE
+	50F0EEA1	~z~Maybe that is why we get on. We're friends. I like you Kate. I really do.
+	4F205C57	~z~I should be forcibly sterilized... imagine a little baby Packie...
+	4C44C8EB	GCK2_PSYCHOS_LL
+	54AE82AD	GCK2_DATING_JP
+	544500B6	GCK2_DATING_JF
+	53E050CE	~z~Okay, you want an answer? What sort of man do I want to be?
+	4BF9D882	~z~It's the period between trips to the laundromat or calls from my mother or dates with you.
+	47945F9F	~z~I really like you. I mean, not like that. I'm not into that. Not with you.
+	462A54F2	~z~We don't have to be friends anymore, if it upsets you.
+	3FE4A827	~z~Here you are, coming with the big questions straight out of the gate. Give me a break.
+	4BC0027F	GCK2_OPTIMISM_NF
+	4934506B	~z~Good. Because I don't want to think about it. I hang out with you to forget about that life.
+	47D6C4EA	~z~Our mutual interest in wine, conversation, art house movies and long walks on the beach...
+	54BB5E9F	~z~Alright, why do we both understand that?
+	6054B5D8	~z~Thank you.
+	5FACF7A6	GCK2_QUESTION_IG
+	5C4B37AD	~z~I don't know - how is Packie?
+	63963758	GCK2_QUESTION_IL
+	6238FDDE	GCK2_QUESTION_IF
+	60F85D56	GCK2_POINT_KR
+	5A5A0532	GCK2_LIKE_HA
+	56A9D5B1	~z~It's important to me. I've been thinking about you a lot and knowing your aspirations is important.
+	561A615D	~z~You mean, we're both emotionally scarred?
+	5611BB25	GCK2_OPTIMISM_NN
+	5A0EBB21	GCK2_LIKE_HP
+	591DA713	~z~You're scarcely a good judge. No, I'm not ready for a relationship... but...
+	57BC6D7B	~z~I don't know, and I don't think I want to.

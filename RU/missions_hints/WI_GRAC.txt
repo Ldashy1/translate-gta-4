@@ -1,0 +1,8 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	F1DABA1E	Убейте охранников ~r~Анчелотти.~s~
+	683C4C18	~r~Охранники Грейси Анчелотти все еще живы.~s~

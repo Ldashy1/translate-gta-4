@@ -1,0 +1,170 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9CB01250	~z~I'm sick of punks like this screwing over hard workers because their grandfather got off the boat here not them.
+	9BFBF010	100100010010100100100010100
+	A0D2E1C6	~z~Bangkok, South America, Lebanon - I've partied everywhere.
+	9D22E7B8	PIH_JA
+	9AD91822	PIH_CG
+	94667640	PIH_HA
+	93C67E68	~z~Working for nothing, but the whole place would be shut down without them.
+	9A23591A	PIH_HE
+	9880F1B7	~z~Yeah, at least you like your job. I don't get paid for some of the things I do.
+	A9B92B32	~z~He's running for it, catch him.
+	A974A84E	100
+	AAAAD961	120210210
+	AA2D9510	~z~It's almost like getting paid to work is a bonus.
+	A6F6A4CC	~z~This and that, I make money how I can.
+	A6220EC1	PIH_GA
+	A28B8A6B	PIH_BE
+	A69F30DB	PIH_PC
+	A67C4C6F	010010100100010
+	91C932CA	~z~This guy's just over on Castle Drive.
+	7E293D08	~z~Yeah? Shit, Niko, you're human. You're helping me out when I'm in trouble.
+	7C6D18FB	~z~We're getting by though. Things could be worse.
+	817DF45F	~z~I'm going to get your money for you, Hossan.
+	80F4259C	PIH_HB
+	7B3B4FC4	PIH_PB
+	6E038829	PIH_GC
+	6DE4E001	PIH_QB
+	7868CF9A	PIH_CF
+	75BF638C	~z~Niko, you're amazing. A fucking savior.
+	89966C21	~z~Scumbags can do what they like to us. We're at the bottom of the pile.
+	88DAF5E0	100
+	907CADD3	~z~Shit, he's got away. I ain't gonna get that money.
+	8F41BEA4	~z~And nothing, I mean nothing, beats Liberty City.
+	888F4511	PIH_AA
+	835DC784	PIH_BI
+	8204DAE5	~z~I've been screwed over by a few employers as well.
+	87D2505A	~z~And these are things that make me doubt that I'm a human.
+	836A17B7	PIH_OD
+	E86870F8	~z~Big mansion, three women at a time, hot sports cars?
+	E84F39BA	PIH_NA
+	E94DFFA1	PIH_KA
+	E8899582	PIH_BD
+	E6ACDC0F	PIH_OF
+	E3618D75	100
+	E026EC94	~z~I ain't giving good American currency to an illegal.
+	E421AD17	PIH_PD
+	E3F6BFFD	~z~Thanks, man. You didn't have to do this, but thanks.
+	F3E0DA39	~z~Sounds like a good plan.
+	F38F939D	~z~Hey man, you got that money? I've been waiting a while.
+	FA14AB18	PIH_CE
+	FA04871A	PIH_OB
+	F22F5C6E	~z~Call it the stuff I'm not giving to the taxman. See you around, Niko.
+	ECD952F8	PIH_OG
+	ECA6FF1C	PIH_HD
+	F0673D91	100010010100100010100
+	EFC0365A	~z~Yeah, the immigrants is the slave class in this country.
+	DECCB00D	~z~It would be, as long as I don't give them all to the first woman who gets into bed with me.
+	B67A34B4	100
+	B4417A7D	PIH_OA
+	B8ECD8E0	PIH_MA
+	B8B4C848	~z~What are you up to, Niko?
+	B3A6BBBD	010100100
+	AF073F72	PIH_CD
+	AB77B6F3	PIH_CA
+	B31ABE9A	PIH_PA
+	B14A82BD	~z~Shit man, things are wild. How is your cousin?
+	D1C6A6CE	100100010010100100010
+	CED917B1	PIH_EA
+	D7E07674	PIH_BF
+	D59F4B66	~z~Turns out he wasn't doing as well as he made out.
+	CEB29575	~z~Really?
+	CA179635	PIH_QD
+	C51ECAF2	~z~Man, I never thought I'd see this cash.
+	CBC3C3CE	~z~I forgot to ask, you got a visa?
+	CAA85D6A	~z~Can you drop me in the alleyway between Feldspar and Garnet?
+	6C4F3193	~z~Hey man, that's the way the city works.
+	34F58A0D	~z~I thought you wanted to settle down, get a dog and all that stuff?
+	18FE2A0B	~z~Made me think I should settle down though, get that dog we talked about.
+	397F20AD	100
+	3804E280	~z~Yeah man, maybe I should.
+	3362B364	PIH_BA
+	2E43CEFE	~z~There ain't no point in getting screwed over by every chump in Liberty City.
+	19569DBE	PIH_QE
+	1DC39AA2	PIH_PG
+	3CC50706	PIH_OE
+	3C905FCD	PIH_DA
+	3EB20B4B	~z~Thanks anyway, Niko. It was good to see you.
+	3E8C42D9	100
+	15F79D50	~z~People get away with being assholes every day.
+	3BA785F2	~z~Come on, don't let him get away.
+	3C81F112	~z~Yeah, I don't know. Here's some of my pay.
+	3C2D4F33	~z~Amount of times I've done a job and then got stiffed for my pay...
+	21FEC71E	PIH_QA_QQQ1
+	251E3B9D	~z~I'm a fucking asshole, at least that's what all my ex-girlfriends are gonna tell you.
+	29EA4535	~z~This is different; it's a matter of principle.
+	2722251D	~z~Yeah, but the fun you can have in this city... it's worth it.
+	23DB67D9	~z~Shit, I still want the dog. Just not yet.
+	23A10721	100
+	23311221	PIH_BB
+	248CFB88	PIH_CI
+	2BE9E677	~z~Catch up to him, man.
+	2B7C9593	PIH_BG
+	2C7AC024	PIH_PF
+	2C422BD5	~z~Shit, he's got all my back pay. Can you get him?
+	2A6897E7	PIH_BC
+	20D2504C	~z~You're losing him.
+	20262406	PIH_CB
+	2AE8CDE0	~z~This was one more wild trip in Liberty City.
+	5E58AF2B	~z~You should work for yourself.
+	5E4180DB	100
+	5FE124FF	~z~Alright, here's where he said he'd meet me. Wait here.
+	02825BDE	~z~Shit, I can't even count them.
+	578EB019	PIH_QC
+	566F4D37	PIH_LA
+	5E134AC9	~z~Shit, he's getting a good lead.
+	040F7450	PIH_QF
+	682D6032	PIH_OC
+	0122BA14	PIH_CH
+	00AA72B6	~z~He ain't going to get away with being that much of an asshole.
+	6A16F44F	~z~What do you mean? Shit, this is the best city in the world.
+	637807A6	~z~As long as you're doing what you think is right when you have a choice, it's all good.
+	601FFDC5	PIH_EB
+	65E051D6	PIH_FA
+	645E0575	PIH_EC
+	54CD639B	~z~You have my back pay. Niko, you're a true friend.
+	4807B274	PIH_HC
+	0A3F7A62	PIH_PE
+	0A1CFB0C	PIH_CC
+	1486AFA6	PIH_QA
+	40BA98DC	100010100100100010010010100
+	4209D0D0	100
+	4579B832	PIH_GB
+	4AF2ECBE	~z~Is hard for us without visas. People don't want to treat us good.
+	508CAFBC	~z~He's getting away.
+	519563E1	~z~I'll try to keep that in mind.
+	52D9E391	100100100010100100010
+	4C9B0BB0	~z~These people, they're all the same.
+	4BD05782	PIH_BH
+	09570525	~z~I got some money, I could buy a load of handbags. Sell them myself.
+	065A727C	PIH_RA
+PIH_CUT1_1	A56FF28C	~z~Hey!
+PIH_CUT1_10	AB713FEE	~z~Nonstop madness.
+PIH_CUT1_11	ACB64278	~z~Brilliant! I have met a lot of lunatics and life is wild.
+PIH_CUT1_12	058B7421	~z~My friend's uncle gave me a job selling handbags...
+PIH_CUT1_13	97BC9885	~z~knock offs, you know.
+PIH_CUT1_14	46B0F663	~z~Sure.
+PIH_CUT1_15	D63F9586	~z~It's so easy! Easier than working on a Goddamn boat, anyway...
+PIH_CUT1_16	13180F32	~z~and women, they love you!
+PIH_CUT1_17	34A75250	~z~Man, after three months on that ship... let's just say I was not cut out for the sailor's life.
+PIH_CUT1_18	6D4C4399	~z~Ah, shit - it's good to see you...
+PIH_CUT1_19	7F19E734	~z~You too.
+PIH_CUT1_2	3C1D1FE8	~z~Hey.
+PIH_CUT1_20	B844DAFD	~z~Hey, Hossan speaking. Yes, I'm on my way.
+PIH_CUT1_21	4B9C01A9	~z~Niko, hey what are you up to?
+PIH_CUT1_22	4AC6FFEF	~z~Nothing too urgent.
+PIH_CUT1_23	DCEC243F	~z~Why don't you walk with me? I've got to go collect some money.
+PIH_CUT1_24	264936F4	~z~Okay, sure.
+PIH_CUT1_25	143A92D7	~z~Great.
+PIH_CUT1_3	82B1AD10	~z~Niko, it's me, Hossan.
+PIH_CUT1_4	90744895	~z~Hossan! How are you?
+PIH_CUT1_5	E3CB6F3A	~z~Wow, man, it's good to see you.
+PIH_CUT1_6	71D10B4F	~z~Ah, you too.
+PIH_CUT1_7	BF50A645	~z~So you stayed?
+PIH_CUT1_8	CD8E42C0	~z~Yes... and you... did you meet your cousin?
+PIH_CUT1_9	15735289	~z~Yes... things have been... complicated - how about you?

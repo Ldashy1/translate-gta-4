@@ -1,0 +1,56 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B9AF493B	~r~You spooked the loan sharks.
+	B7732E2C	~s~Red icons represent enemies.
+	B4273E2B	~r~Mission Failed.
+	C7D56587	~r~The loan sharks caught Roman.
+	C707BB49	You can zoom out on the radar by holding ~INPUT_ZOOM_RADAR~.
+	BB624D4F	~s~During a phone call press ~INPUT_KB_DOWN~ to skip through the conversation or ~INPUT_PHONE_CANCEL~ to hang up.
+	A179B112	~s~The icon above the radar tells you when a contact has been added to your phone.
+	96ED846A	~s~Your phone is ringing.
+	9025F629	~r~Roman's car has been trashed.
+	A5D88AF7	~s~When in a car use ~PAD_RSTICK_ALL~ to look around.
+	A51820BB	~s~Press ~INPUT_PHONE_CANCEL~ to hang up during a phone call.
+	A30661D1	~s~Press ~INPUT_PHONE_ACCEPT~ to call Roman.
+	C9AAE9E0	Press ~INPUT_PHONE_ACCEPT~ to answer a call.
+	F0DA7D7C	~s~Phone Roman and warn him.
+	EA431D55	~s~Select Options and press ~INPUT_PHONE_ACCEPT~ .
+	E2CB16E1	~s~When in a car press ~INPUT_VEH_LOOK_LEFT~ to look left or ~INPUT_VEH_LOOK_RIGHT~ to look right.
+	F9A38F0E	~s~This is the ~h~phonebook,~s~ your friends and contacts will be listed here.
+	F9369FF4	~s~Wait for ~b~Roman.
+	F14BB3E2	~s~Press ~INPUT_VEH_LOOK_LEFT~ and ~INPUT_VEH_LOOK_RIGHT~ simultaneously to look behind.
+	D389D49B	~s~Go and see ~b~Roman.
+	D16D17B0	~s~Lose the loan sharks and take Roman back to the ~y~cab depot.
+	D1461766	~s~Lose the ~r~loan sharks~s~ and take Roman back to the ~y~cab depot.
+	DF2BB32D	~s~Take Roman to the ~y~hardware store.
+	DEBDEB03	~s~Take Roman to the ~y~gambling den.
+	D3F6E733	Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind.
+	1933DFEE	~s~Remain stationary in the car and look out for the loan sharks.
+	14FD7B45	~s~Hold ~INPUT_VEH_LOOK_BEHIND~ to look behind. Releasing ~INPUT_VEH_LOOK_BEHIND~ resets the camera to its default position.
+	13E17091	~s~Press ~INPUT_PHONE_ACCEPT~ to enter the Menu.
+	2302F38C	~s~Wait outside the ~y~gambling den.
+	214FEFD8	~s~Get into ~b~Roman's car.
+	194E8878	~r~The entrance to the gambling den was blocked.
+	026F5ABE	~r~The loan sharks were attacked.
+	02575B19	~s~Mission Passed.
+	0241B20A	~s~Get back into ~b~Roman's car.
+	12897B9C	~s~Press ~INPUT_PHONE_ACCEPT~ to answer a call or press ~INPUT_PHONE_CANCEL~ to reject a call.
+	0A8CB0E0	~s~Press ~INPUT_PHONE_ACCEPT~ to select the phonebook.
+	05AFD42E	~s~Press ~INPUT_PHONE_TAKE_OUT~ to bring up the phone.
+	3D299619	~s~To exit manual dial highlight the red phone icon and press ~INPUT_PHONE_ACCEPT~.
+	74D78574	~s~Use ~INPUT_KB_UP~ and ~INPUT_KB_DOWN~ to scroll through your friends and contacts.
+	6E78F8B7	~s~Press ~INPUT_PHONE_TAKE_OUT~ to bring up the phone.
+	6CAB2F34	~r~Mission Failed.
+	82F3DBC5	~r~Roman is dead.
+	7D55A82C	~s~Do ~h~not~s~ attack the loan sharks.
+	7947B1D6	~s~Here come the loan sharks.
+	4FF7BBB5	~s~At the end of a call the phone is automatically put away.
+	4C096DED	~r~You left Roman behind.
+	4682BA87	~s~Take Roman back to the ~y~cab depot.
+	5C32D42B	~s~Press ~INPUT_PHONE_ACCEPT~ to access the menu.
+	59D2E127	~s~Evade the ~r~loan sharks.
+	500ECD9F	~s~Lose your wanted level.

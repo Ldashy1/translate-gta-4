@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AA4E1C1F	~r~Lenny got away.~s~
+	E87D04A1	~s~Press ~INPUT_ATTACK~ to shoot while driving with a gun.
+	E9BE55A6	~s~Take down ~r~Lenny.~s~ Do not let him escape.
+	1F71410B	~s~Take down ~r~Lenny~s~ on the station platform.
+	0479206B	~r~Lenny got on the train. You didn't get to the station in time~s~
+	1D7FB946	~s~Press ~PAD_LB~ to shoot while driving with a gun.
+	1DF4BE12	~s~Go to ~y~Guantanamo Ave~s~ in South Bohan.

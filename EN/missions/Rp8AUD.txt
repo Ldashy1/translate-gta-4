@@ -1,0 +1,219 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A9465C94	R8_LA
+	A844BD63	~z~The fare didn't get where they wanted to go. Sorry Roman.
+	A67E3A60	~z~You have, you have, but I mean officially.
+	AC7B8C3D	R8_AC
+	AC4841B9	010
+	A9FC3AE1	~z~I thought all I'd been doing since I got here was helping you out.
+	A47F8A9D	~z~You have to pick them up on Firefly Island.
+	A21C6F8C	~z~Cousin, I just sent out my last cab, I'm sorry. Maybe if you try later.
+	A215C304	100
+	A0DE903F	~z~No one's perfect. Call again if you're serious about driving a cab for me.
+	A405501A	R8_A_KA
+	A3E87BD8	~z~Roman, I'm doing my bit for Bellic Enterprises. Does anyone need to be picked up?
+	A2D2131F	~z~The fare is in South Bohan.
+	BA3F48E9	100
+	B951B393	R8_A_IA
+	B70340CC	~z~That fare is taken care of, Roman.
+	BB0AFC04	010
+	BA95DC14	~z~You have, you have, but I mean officially.
+	BA54EBE2	R8_FA
+	B6A0BBC3	~z~This is not so good for Bellic Enterprises. Call again if you want to help the family company.
+	B0DDCBD9	~z~You need to pick them up in Outlook, next to the park.
+	AFB544AF	100
+	ADE32E8C	~z~It's done, Roman.
+	B507C112	~z~Go to Bohan Industrial to pick them up, cousin.
+	B3F58EC9	100
+	B14F5002	~z~Niko, now that you've settled into life in Liberty City,
+	9E745528	010
+	8995D94E	R8_EA
+	86EA36AA	100
+	86957A09	~z~I've let Bellic Enterprises down, I couldn't complete the fare. Sorry.
+	8E3C361C	~z~Sure, you can come get a cab from the depot - if you promise to do this right?
+	8D914F3A	~z~Hey Roman, how about I drive someone for you?
+	8CFB33C4	~z~You are truly a Bellic, thank you cousin. Speak soon.
+	83E3B4C7	~z~You've got to pick them up in Northern Gardens.
+	7E789CDC	R8_A_FA
+	7E62B595	~z~Their destination is Meadows Park.
+	7DF395ED	R8_VA
+	8203B81F	~z~Roman, you got any fares for me?
+	80F61FB5	R8_A_OA
+	7F2A3655	~z~Pick them up from Beechwood City.
+	9BA68A13	~z~They're safely dropped off, Roman.
+	99CC2DED	R8_A_HA
+	98DC9F1D	~z~I thought all I'd been doing since I got here was helping you out.
+	9DFD84BB	R8_A_RA
+	9DEB6256	~z~The fare is over in Outlook.
+	9BE4E908	R8_AF
+	9841176B	~z~I was wondering if you could start to help your cousin with the family business?
+	9111F4DE	~z~I got them where they wanted to go.
+	90AE5564	~z~Roman, are there any fares going?
+	90A2519B	R8_AG
+	96E70E31	100
+	93DCD02A	100
+	93860DF1	~z~Niko, now that you've settled into life in Liberty City,
+	EC5383FD	~z~Sorry, Niko. No one is looking for cabs at the moment. Call later.
+	EBD50054	R8_UA
+	EB81D9AC	100
+	F3AF1E1B	R8_AD
+	F0EB9474	R8_AE
+	F044CDEC	~z~Okay then.
+	EAFD5A12	R8_PA
+	E633F8CC	R8_BA
+	E4446857	R8_WA
+	E42CA564	100
+	E97DDCFA	R8_OA
+	E8044E96	~z~Niko, you make my life so much easier. Thank you. Call me if you want more work.
+	E6617C49	100
+	FDBE68DF	~z~Just call me whenever you want to take a fare. You can do as many as you like, Niko.
+	FD74263E	~z~There aren't any fares at the moment, Niko. You should call back later.
+	FD4C2C35	R8_AF
+	FF1F50EF	~z~Cousin, they have been dropped off.
+	FE6028B6	R8_MA
+	FDC8156E	~z~Come get a cab from the depot, Niko. Please don't mess this up.
+	FCB101B5	100
+	F4F492C1	~z~Roman, come on, I have a car already. I will go straight to get them.
+	F4BABC3A	~z~Alright, man. I took care of that fare for you.
+	F47E6305	~z~Niko, you are a good cousin. I was hoping that you would start to help me.
+	FA0FD8FB	100
+	F78217A3	100
+	F5C5EA19	~z~You are truly a Bellic, thank you cousin. Speak soon.
+	E37D345D	~z~There are always more customers.
+	C31DF39F	~z~I was wondering if you could start to help your cousin with the family business?
+	C1332D34	R8_AH
+	C0F2EDC4	100
+	CA0F3975	R8_A_AA
+	C958E577	~z~I've done my bit for Bellic Enterprises, cousin.
+	C760E7C7	100100
+	BF553108	R8_AB
+	BBFB20CB	~z~Don't worry, Roman. I've already got a cab. I'll go straight there.
+	BBDAA5AF	R8_AB
+	BB7FD55E	~z~They want to be picked up in Little Bay.
+	BE57E398	~z~I need more drivers for the cab company. I'll pay you properly.
+	BE290ABC	100
+	BD5A1624	R8_A_DA
+	D68E488A	R8_DA
+	D3C03CAA	~z~Take them to Cerveza Heights.
+	D14FD61D	R8_AA
+	E2C9326F	~z~Sorry Roman, but something went wrong with the fare. I couldn't get them there.
+	E1D2707E	R8_AC
+	DE2E3C64	100
+	D0941899	100
+	CCD9AB13	R8_A_NA
+	CCD80D38	R8_TA
+	CBCC85D4	~z~Bring them to Fortside.
+	CE3FCCA9	R8_AG
+	CD80D5F0	~z~They're going to Boulevard.
+	CCDD6E9D	~z~You're driving them to Schottler.
+	7D89B99D	~z~Of course, Niko. Come get a cab from the depot.
+	2E8C80BA	100
+	2D1A9A35	R8_AE
+	2A52BDA9	R8_A_BA
+	2FCE44EC	R8_ZA
+	2FA991DA	~z~I'll pick them up.
+	2F9E085A	~z~Alright, the fare called from Northern Gardens.
+	292E0671	~z~Hey Roman, you want me to drive anyone anywhere?
+	23BAF113	R8_NA
+	2209EF69	~z~This is tough luck, NB. No one is calling for cabs. I don't know what's wrong.
+	1F104CAA	100
+	28647CB5	R8_AD
+	27DBE712	~z~Take them to East Island City.
+	2683DF04	~z~Go to Willis to pick them up.
+	3E6730D3	~z~Hey cousin, have you got any fares that need picking up?
+	3BBA2B89	~z~Roman, I want to take a fare for you.
+	3B005560	~z~They need to get to Steinway.
+	43E58E73	~z~Bring them up to the Concourse.
+	3F33F86F	~z~Come collect a car from the depot.
+	3EF55E83	100
+	3AF7447E	~z~Okay, Niko. That's too bad. Call me soon if you want another try.
+	373B7D5C	R8_A_MA
+	36ED07B7	~z~Come get a cab from the depot.
+	35AC39E8	~z~I guess this could not be helped. Call me if you want another fare.
+	3AAF1C22	~z~Drop them over in Meadow Hills.
+	3A233566	R8_AH
+	39D89A51	R8_AA
+	1D894B5C	R8_A_JA
+	089BBFFE	R8_A_QA
+	088CA19E	R8_A_CA
+	078EBA65	R8_QA
+	1148615E	010
+	0BE5167B	~z~I really appreciate this, cousin. If you want any more work you've got my number.
+	0BA3B5CA	100
+	0665FC8B	R8_A_EA
+	03D9A848	100
+	029C068C	100
+	007014C9	R8_ZA
+	063718A4	100
+	05791BE8	R8_HA
+	0442315C	~z~Don't you pay attention to who has your cars? I've already got one. I'll go right there.
+	1A1FB2F0	~z~Great, Niko. Thanks. If you want more fares just call.
+	1926E091	100
+	1903E788	~z~The pick up is in Waterdale.
+	1C3C8B2D	~z~The fare is taken care of, Roman.
+	1C352588	~z~I need more drivers for the cab company. I'll pay you properly.
+	1A603385	R8_CA
+	18E8E459	~z~I'm on it, Roman.
+	14C4990E	100
+	1446DB15	~z~I'll get on it.
+	13A25BD8	R8_A_LA
+	180D1667	100
+	1716C1E9	~z~Shit Roman, don't mean to let you down but I can't handle that fare for you. Hope that's cool?
+	1521A603	100100010100100010100100
+	65D65F67	~z~Roman, man. I'm not going to be able to look after that fare. Sorry.
+	651B9B01	010
+	64C23972	010
+	681278FB	~z~I'm already in one of your cars, I'll go collect them now.
+	672F0B76	~z~They're over in Boulevard. Go pick them up.
+	666D8DC3	~z~Bring them over to Meadow Hills station.
+	6402AEEF	~z~Just call me whenever you want to take a fare. You can do as many as you like, Niko.
+	61345C45	~z~Sure, I've got a fare for you, but you need to get this one where they're going.
+	5E339052	R8_JA
+	5D5AD730	~z~You need to pick them up in Downtown.
+	62D2086C	R8_SA
+	62673D0D	100
+	61F4766F	~z~Consider it done.
+	765AD994	~z~I couldn't get them there, Roman. I hope this fuck up doesn't affect your business.
+	749F2C08	100
+	743CB8C0	~z~The call came from South Slopes.
+	78EB338E	100
+	78D52430	~z~Sure, Roman. I'm doing it.
+	768CCC67	~z~They're going to Willis.
+	7398FAEC	~z~Cousin, I'm sorry about this but I can't do that job anymore.
+	6EC31C10	~z~I would only love you more if you had titties, Niko! Come get a cab from the depot.
+	6DAF2EE2	~z~You're taking them to Bohan Industrial.
+	6D67CDB6	R8_GA
+	73304D4A	~z~There are always more customers.
+	72B6F169	R8_A_GA
+	6F86F8EA	~z~You can collect a cab from the depot, but Niko, you should know that you messing these fares up is really bad for business.
+	5CF26C67	~z~Don't worry, I'm on it.
+	4B2A54DF	~z~You are an absolute star, Niko. Come get a cab from the depot.
+	49B125FE	100
+	4961A67E	~z~Hey Roman, something's come up. I'm not going to be able to help you out with the fare anymore.
+	4F7985DD	~z~Okay then.
+	4D4D5F84	100
+	4C3A064B	100
+	495B285F	100
+	47CD1E6D	R8_YA
+	473C40FB	~z~Okay, cousin. I'll do it now.
+	4684BF90	~z~On my way, cousin.
+	49543882	R8_KA
+	48AF8D60	100100010100100010100100
+	489D206A	~z~East Island City is where they're heading.
+	57BC4DF0	100
+	5770E2F6	~z~Cousin, I'd like to help you out by taking a fare.
+	56403A23	~z~Can you drop them off at Rotterdam Hill?
+	59CFDC76	~z~I have a car already. I'll go do it now.
+	58E3F052	~z~Niko, you are doing Bellic Enterprises proud. Come get a cab from the depot.
+	5819DB88	~z~Hopefully things will have picked up later.
+	55BD046A	100
+	527794AD	R8_IA
+	51DED368	R8_BB
+	509A02D2	R8_RA
+	55A5D70B	~z~They're waiting here, in Hove Beach.
+	545E2993	~z~Okay, go over to Cerveza Heights to pick up the fare.
+	53441620	R8_XA

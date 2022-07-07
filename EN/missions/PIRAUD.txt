@@ -1,0 +1,96 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9D8F6869	~z~Kiss me neck bwoy!
+	A25550DF	PIR_EA
+	99082422	PIR_CE
+	9952324E	~z~Yo, rudeboy, I catch you around an ting man, one love, rasta.
+	AA665FD0	~z~The youth a grind my youth, the man a hustlin youth, big respect fe him to that.
+	BC09A4B7	~z~I want my operation to run right. I don't want no Russian boy come tell me what fe do, ye see it?
+	BDE5FB75	~z~Dem Russian boy, cause me no more boderation rudeboy, respect due.
+	B0105FCA	~z~Don't worry about it man.
+	B14B8F3B	~z~Dem come pon me corner and ting. Come upon me city. An all a' dis a fucker, rudeboy.
+	7E4016C1	PIR_GC
+	852B99D3	PIR_BF
+	75994B5D	~z~I and I am a bred' that goin' mash the ting ya know. crossed the wrong rasta, rudeboy.
+	78725B12	100100100010100100010100100010100
+	8628C73E	PIR_HA
+	889F90F1	~z~You a righteous youth my youth.
+	8B8E2780	PIR_BE
+	8681F3F2	~z~Get dem boy dere my youth!
+	87C5EFB6	~z~You bout feel me teeth now!
+	C1F01D1B	~z~We a'galang a mash up dem boy der good.
+	E3D8E439	PIR_GA_QQQ1
+	E487DB5F	102
+	DFBB4307	100100010100
+	E0846DAC	~z~These bull buka Russians boy make I an' I vex, rasta!
+	E7D2B373	PIR_BJ
+	EF54E754	PIR_BH
+	F2D2924C	~z~You a righteous youth, my youth, you sound like a rastaman.
+	E942EBC0	~z~Go with Jacob, rasta. You got lots of spirit for Jah.
+	EAA5388A	PIR_FA
+	CCCA4722	~z~You see dat, my youth?
+	CD5A5A0C	PIR_GA
+	C470221B	~z~Shoot up dem bum-boys an' show dem boys da whole jam-down style
+	C9E831B8	PIR_GB
+	CF0DB332	PIR_BI
+	D719C76E	~z~I've never been to Jamaica.
+	D9F5E0BA	100
+	CF2F0547	~z~Mash up dem boy, youth!
+	D53C9081	100
+	15C992EC	120120
+	15AC9822	PIR_CA
+	328A7E4E	~z~He fucked with you, he fucked with me.
+	3830FEE3	PIR_BB
+	440AD652	100100
+	4A9779E2	PIR_HB
+	118841F9	PIR_AA
+	4A0C6CF6	100100010100100010100
+	11CE9186	PIR_CB
+	221A70DB	~z~My youth, listen, you a righteous youth, my youth. Jacob tell me about you long time.
+	24CCDC3B	PIR_BG
+	1C8D4698	PIR_BC
+	1D6B5410	~z~Cha, the boy done crossed the wrong rastaman now, me a' tell you.
+	2548BAAB	~z~Take I an' I a go Carrollton Street. Sight?
+	2A9ECA95	PIR_CF
+	2DBD4EA2	PIR_CD_QQQ1
+	28C2B875	~z~Kill them boy, rasta, kill dem!
+	17585B57	~z~Sure Badman, some Russians been up in my face as well.
+	4B4121BF	PIR_BA
+	60216CE4	~z~You know that youth. He love 'im girl and ting, ya no know?
+	63B0AE50	~z~Mek we end all these blood clots now!
+	5AAC2571	~z~The boy over pon Carrollton Street my youth. Come mek a' forward.
+	5B75B5BB	~z~Yo, rudeboy, this a' de place.
+	014EF372	PIR_CC
+	71AFC67F	PIR_BK
+	42028F33	PIR_EB
+	6B53A6FB	PIR_DA
+	6FBFDE4F	~z~Righteous a' rudeboy, see we reach us a' now
+	0BBDB0B5	~z~This Russian boy, dem greedy youth, my youth, come in like say, dem know what it takes to be the dan-dada.
+	4DDBC859	~z~Why youth, him a' doing ting right now, ya no see? Catch up wit 'im girl and ting.
+	4F40A982	~z~Yeah.
+	0708FDC6	PIR_CD
+	59CAC99E	PIR_BD
+	058D37C1	~z~Where is Jacob?
+PIR_CUT1_1	B5B79E77	~z~Hey, my youth! Wha' gwan?
+PIR_CUT1_10	CD0E2E72	~z~Yeah?
+PIR_CUT1_11	8B392AC9	~z~Debts, everyt'ing, disrespect...
+PIR_CUT1_12	7AAE89B4	~z~yo rudeboy lemme tell ya somethin' right now.
+PIR_CUT1_13	F4D5FDFD	~z~Me come y'here say fe drink milk, rudeboy... me no come yah fi count nah cow!
+PIR_CUT1_14	DE5FD111	~z~Right, whatever you say.
+PIR_CUT1_15	484624E4	~z~Yo rudeboy, lemme tell ya somethin'... y'see, fish could keep dem mouth closed...
+PIR_CUT1_16	71F77846	~z~dem wouldn't get caught, rudeboy.
+PIR_CUT1_17	AD6A6F2B	~z~Exactly... tell you what, let's go hit those Russian fuckers right now.
+PIR_CUT1_18	97184287	~z~Y'know what, rudeboy...
+PIR_CUT1_19	552BBEC3	~z~come mek a go deal wit' dem boy dere right now.
+PIR_CUT1_2	673C0149	~z~Uh... hey.
+PIR_CUT1_3	7979A5C4	~z~Hey! How ya gwa'an like ya dunno who me is rudeboy? Cho!
+PIR_CUT1_4	93BFDA50	~z~Ya dunno who me is?
+PIR_CUT1_5	A6067EDD	~z~Badman... what's up?
+PIR_CUT1_6	DE3E6F50	~z~Woy, me dare a rude boy! No one can test me nuh, rudeboy!
+PIR_CUT1_7	C07F33D2	~z~No one can test me, seen?
+PIR_CUT1_8	FAC3A85A	~z~Who's testing you?
+PIR_CUT1_9	CCFDCCCF	~z~Them slibba slabba Russian type, my youth.

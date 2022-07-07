@@ -1,0 +1,24 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	96AB8655	Duration
+	99264E24	Alderney
+	8A256CF5	10 mins
+	8C7E34D4	Dukes/Broker
+	9AE39C50	Location
+	D3A87FFA	$1000
+	F8FD1C92	Take over the opposition's ~COL_NET_2~turf,~s~ be careful to protect your ~COL_NET_1~own~s~ while you're at it.
+	A74FEA7B	Random
+	ABD9738A	Algonquin
+	39B52D4D	Taking Turf
+	3AD7C4C0	Turf ~1~% taken over.
+	020FF742	Lost Turf
+	249073B8	Take over the opposition's ~COL_NET_1~turf,~s~ be careful to protect your ~COL_NET_2~own~s~ while you're at it.
+	3AEE23CC	An enemy is nearby, turf cannot be taken over.
+	77C9C83E	20 mins
+	7DD09779	Bohan
+	5CD0924C	30 mins
+	666EFBB6	Gained Turf

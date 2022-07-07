@@ -1,0 +1,323 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A5F5044C	FCD3_ACT_GENERIC_INCAR_V10_JH
+	A631935A	~z~Но это непросто, старик. Не знаю, как справиться с этой хренью. Не знаю, как на все плевать.
+	A39DFAEA	FCD3_ACT_GENERIC_INCAR_V7_GD
+	A5703F83	~z~Ну, некоторые - может быть.
+	A67CC7C1	~z~Да?
+	A7A8BC3C	FCD3_ACT_GENERIC_INCAR_V4_DP
+	A95A7419	~z~Мы сделали так, как должны были, и все равно обидно.
+	A730A50D	FCD3_ACT_GENERIC_INCAR_V5_EL
+	A74C5A34	FCD3_ACT_GENERIC_INCAR_V5_EJ
+	A2D9580C	~z~Там, где я вырос, электричество провели, только когда мне стукнуло двенадцать.
+	A0E7BB14	FCD3_ACT_GENERIC_INCAR_V2_BF
+	A0F5E33E	FCD3_ACT_GENERIC_INCAR_V9_IE
+	9E6DC2F2	~z~Ага. Совсем еле-еле.
+	9F85CFAC	100010100010100100010100010
+	A0F9D45E	~z~Не-е, я слишком много повидал, меня сломали. Эта хрень не для меня.
+	A169C500	FCD3_ACT_GENERIC_INCAR_V4_DN
+	A1908EB3	FCD3_ACT_GENERIC_INCAR_V4_DB
+	A0FE318A	FCD3_ACT_GENERIC_INCAR_V11_KA
+	A11BB1C1	~z~Опять в начальную школу? Ты что, сынок, для этой хрени я уже стар.
+	A9C4C08F	FCD3_ACT_GENERIC_INCAR_V11_KC
+	BA731662	~z~Сочувствую.
+	BA77C1A5	~z~Моего папашу кокнули, а я ни черта не чувствовал. И тут облом, твою мать.
+	B72A5BEE	FCD3_ACT_GENERIC_INCAR_V11_KM
+	B9EA64C6	FCD3_ACT_GENERIC_INCAR_V11_KL
+	BCC4C09D	FCD3_ACT_GENERIC_INCAR_V1_AP
+	C06AD404	FCD3_ACT_GENERIC_INCAR_V6_FG
+	C1B41B9B	~z~Что?
+	BECBD0F1	FCD3_ACT_GENERIC_INCAR_V8_HH
+	C00207A2	~z~Знаю, умора. Каких-нибудь таблеток надо попить или еще какой дряни. Нервы подлечить.
+	B690FF05	~z~то ли я просто брал деньги у каждого попавшегося кретина.
+	AE514889	FCD3_ACT_GENERIC_INCAR_V4_DE
+	AF542B42	~z~Пытался обобрать каких-то местных торговцев. Помню ночь, когда его прикончили.
+	A9E3D9DA	~z~Обхохочешься.
+	ACC9EBFE	~z~Так женись, начни с кем-нибудь встречаться.
+	B54C3CD2	FCD3_ACT_GENERIC_INCAR_V8_HG
+	B677DC79	~z~Оно и видно.
+	B678BA89	FCD3_ACT_GENERIC_INCAR_V2_BD
+	B54CFCF3	~z~Вот дерьмо. Извиняй.
+	B649F2A6	~z~а к чтению был равнодушен, вот и не могу теперь найти работу, потому что ни хрена прочесть не способен.
+	9E1B9D27	FCD3_ACT_GENERIC_INCAR_V1_AJ
+	7F2AF96F	FCD3_ACT_GENERIC_INCAR_V3_CE
+	7F5E9117	~z~Да ладно.
+	7DD96C16	~z~Еще бы.
+	7E9C7801	~z~Да, не хотел. Я мечтал стать... черт, только не смейся... знаешь, кем я хотел стать?
+	7F9C81C2	100010100100100100100100100010100010
+	80F0097F	~z~Он был мне как младший брат, словно мой родич.
+	811F0855	~z~Читаю, сука, с трудом.
+	8012C725	FCD3_ACT_GENERIC_INCAR_V1_AA
+	80549291	~z~Не могу решить, то ли всех, кто себе жизнь сломал, я подсадил на крэк, и потому виноват,
+	7D8A3E9B	FCD3_ACT_GENERIC_INCAR_V3_CI
+	770CA45B	FCD3_ACT_GENERIC_INCAR_V2_BP
+	78125C23	FCD3_ACT_GENERIC_INCAR_V11_KF
+	759944FB	FCD3_ACT_GENERIC_INCAR_V5_EM
+	766DDBE3	FCD3_ACT_GENERIC_INCAR_V7_GH
+	7916BED4	~z~Ничего, старик. Абсолютно.
+	7CEBB75F	FCD3_ACT_GENERIC_INCAR_V1_AI
+	7D758818	FCD3_ACT_GENERIC_INCAR_V5_EG
+	79ECC080	~z~Нет.
+	7BF6659F	100010100010100100100100010100010100010100
+	81C408A1	FCD3_ACT_GENERIC_INCAR_V4_DI
+	931A15BE	~z~Как знаешь.
+	96E6B99A	FCD3_ACT_GENERIC_INCAR_V5_EF
+	90282667	~z~В школе мне было плевать на чтение, я туда ходил только подраться да избить кого-нибудь -
+	9231CD6B	~z~Ну вот, только сказал - и занервничал.
+	96F8E080	FCD3_ACT_GENERIC_INCAR_V7_GK
+	99CE4C6F	100010100100100010100100010100010100100100100010100100
+	9DC98B86	FCD3_ACT_GENERIC_INCAR_V6_FL
+	98BA7352	FCD3_ACT_GENERIC_INCAR_V5_EA
+	995D7120	FCD3_ACT_GENERIC_INCAR_V2_BR
+	8ED5A021	~z~Я знал, что поступаю неправильно, но думал, что у меня нет выбора.
+	876B4F3D	FCD3_ACT_GENERIC_INCAR_V4_DD
+	89933599	FCD3_ACT_GENERIC_INCAR_V9_ID
+	83AB28BB	~z~Само собой.
+	83BBC7AA	FCD3_ACT_GENERIC_INCAR_V10_JI
+	8A973AF1	~z~Но я знаю: кое-кто решил отделаться от меня. Похоже, мне хотят дать отставку.
+	8DA367ED	~z~Знаешь, что я почувствовал?
+	8EBF68DE	FCD3_ACT_GENERIC_INCAR_V1_AE
+	8BA784C3	100010100010100010100010100100100100010100100100100100
+	8D208873	FCD3_ACT_GENERIC_INCAR_V11_KJ
+	ECDC1B54	~z~И смотри, что из этого вышло. Сколько живу, а ни семьи, ничего.
+	ED2DA28A	FCD3_ACT_GENERIC_INCAR_V2_BC
+	EC1C54E3	FCD3_ACT_GENERIC_INCAR_V6_FK
+	ECA6399E	FCD3_ACT_GENERIC_INCAR_V10_JO
+	EDD8B49C	FCD3_ACT_GENERIC_INCAR_V5_EN
+	EE5821D3	FCD3_ACT_GENERIC_INCAR_V1_AN
+	EE915F93	~z~Знаешь, Нико, я всегда считал себя хорошим человеком.
+	EE1370DF	FCD3_ACT_GENERIC_INCAR_V7_GC
+	EE14231E	~z~Понимаешь, что вся жизнь ни хрена не значит, старик. И приучаешься на все плевать.
+	EBEC80DB	~z~Помню, папаша мой часто твердил:
+	E7CFC8B2	FCD3_ACT_GENERIC_INCAR_V6_FJ
+	E9E81E5F	FCD3_ACT_GENERIC_INCAR_V1_AM
+	E583511C	~z~Знаешь, за что мне стыдно?
+	E6E125B4	FCD3_ACT_GENERIC_INCAR_V6_FC
+	EA90BFE6	FCD3_ACT_GENERIC_INCAR_V11_KE
+	EB7731A0	FCD3_ACT_GENERIC_INCAR_V10_JL
+	EBD61EA2	~z~Знаю.
+	EA9CBC4B	FCD3_ACT_GENERIC_INCAR_V10_JM
+	EAFCB810	~z~Свихнуться можно, старик. Тому, кто не был бедным, не понять.
+	EEB7D215	~z~Все подряд. Они только об этом и думают - о себе.
+	FBCAEB67	FCD3_ACT_GENERIC_INCAR_V4_DG
+	FBD5D422	FCD3_ACT_GENERIC_INCAR_V5_EO
+	F86ED34C	~z~Знаешь, старик, я ведь рос в настоящей нищете.
+	FBA9B8DB	~z~Я всегда старался жить по принципам. Чтобы не стыдно было смотреть себе в глаза в зеркале.
+	FDA6BCE9	~z~Знаю, Дуэйн, ты святой.
+	FF5FEF74	FCD3_ACT_GENERIC_INCAR_V11_KB
+	FFDE03E4	FCD3_ACT_GENERIC_INCAR_V5_EH
+	FE92DB77	100010100010100010100010100100100010010010100010
+	FEFC0F14	FCD3_ACT_GENERIC_INCAR_V7_GB
+	F81F20AB	FCD3_ACT_GENERIC_INCAR_V9_IH
+	F0A53041	~z~видишь, как твои школьные приятели превращаются в зомби, и знаешь, что это твои будущие клиенты.
+	F12BE09F	FCD3_ACT_GENERIC_INCAR_V3_CD
+	EF99FF61	FCD3_ACT_GENERIC_INCAR_V9_IB
+	F014CFB2	~z~Замарался нахрен.
+	F27B470D	~z~Только старый телик, старые тряпки и никаких книг,
+	F5CB4695	~z~Помню, однажды она притащила бате какие-то клюшки для гольфа, потому что у его дружка такие были,
+	F7F1F463	FCD3_ACT_GENERIC_INCAR_V4_DL
+	F324F864	FCD3_ACT_GENERIC_INCAR_V6_FA
+	F4D56FC0	~z~Правда?
+	E31E9047	FCD3_ACT_GENERIC_INCAR_V1_AD
+	CF955440	FCD3_ACT_GENERIC_INCAR_V10_JG
+	D02AF4C7	FCD3_ACT_GENERIC_INCAR_V10_JC
+	CE01F3ED	FCD3_ACT_GENERIC_INCAR_V10_JD
+	CF5B136C	~z~Надеюсь.
+	D04868D2	FCD3_ACT_GENERIC_INCAR_V8_HA
+	D2C832BB	FCD3_ACT_GENERIC_INCAR_V6_FM
+	D2F1BE16	~z~Пусть я гребаное ничтожество, но я хотя бы не стукач хренов.
+	D099F27D	FCD3_ACT_GENERIC_INCAR_V8_HI
+	D2406DA8	FCD3_ACT_GENERIC_INCAR_V4_DO
+	CBA885B6	FCD3_ACT_GENERIC_INCAR_V11_KD
+	C4D79B92	~z~Думаю, сейчас это уже не так важно.
+	C5A19DA9	~z~Эх, старик, никакая мне работа не нужна, ничего не нужно, кроме долбаной семьи. Хочу быть отцом.
+	C49D3241	~z~Кретин гребаный. Но свое он получил.
+	C4A878DA	~z~Старик, со мной все кончено, в тюрьме испачкался так, что не отмоешь.
+	C7CAD467	FCD3_ACT_GENERIC_INCAR_V8_HB
+	CAFA51CA	FCD3_ACT_GENERIC_INCAR_V10_JE
+	CB0F9C84	FCD3_ACT_GENERIC_INCAR_V11_KK
+	C8C1B2FF	~z~Я скучаю по Плейбою, старик.
+	C94A9799	100010100100010100100100100100010100
+	D323E594	FCD3_ACT_GENERIC_INCAR_V5_EC
+	DE254EB4	~z~Свой шанс я упустил, когда начал сбывать наркоту. Все в жизни запуталось.
+	DFD58A14	FCD3_ACT_GENERIC_INCAR_V4_DC
+	DD256BC8	FCD3_ACT_GENERIC_INCAR_V7_GL
+	DD431C9D	~z~Не могу объяснить эту хрень.
+	E0693BCD	~z~Так это двадцать лет назад было, тогда черных в полиции не жаловали.
+	E16CB78F	~z~И я. Ты же обещал.
+	E215C09B	FCD3_ACT_GENERIC_INCAR_V3_CF
+	E0724F04	FCD3_ACT_GENERIC_INCAR_V5_ED
+	E0B3905E	~z~Гребаная жизнь, старик.
+	DBB25F72	FCD3_ACT_GENERIC_INCAR_V9_IC
+	D50376A0	~z~В дверь постучали. Мать заплакала, но наверное, притворялась, ни за что не поверю, что она всерьез.
+	D71B1A39	100010100100100100100010100100100100010100100100
+	D39F39A8	~z~Да и я тоже.
+	D3F10A51	~z~Помню, как мне впервые достались десять кусков -
+	D771B4F9	~z~За что?
+	D89FFBD3	FCD3_ACT_GENERIC_INCAR_V2_BA
+	DA758FEA	~z~Прикол.
+	D78DB56B	FCD3_ACT_GENERIC_INCAR_V4_DJ
+	D86B8BCE	~z~а он, подонок, даже читать не умел, хрен знает о чем она думала, и знаешь, что он сделал?
+	75818337	~z~Знаешь, что?
+	2888D8AE	~z~Все с тобой будет в порядке.
+	2A011792	FCD3_ACT_GENERIC_INCAR_V8_HF
+	27103152	FCD3_ACT_GENERIC_INCAR_V1_AL
+	28829701	FCD3_ACT_GENERIC_INCAR_V8_HC
+	2A324909	~z~Нет, я только предложил завалиться куда-нибудь. А будет прикольно или нет, это от нас обоих зависит.
+	2AF31215	FCD3_ACT_GENERIC_INCAR_V2_BK
+	2B76DE72	~z~Ничего
+	2A39D6EB	~z~Знаю. У тебя высокие моральные принципы. Для торговца крэком и киллера, само собой.
+	2A5AA39F	~z~Ты что, серьезно?
+	26C49C73	~z~Ага... только счастья они мне не принесли.
+	20D739FA	FCD3_ACT_GENERIC_INCAR_V11_KI
+	236ABB7A	~z~Да знаю я, старик, знаю. Я про людей.
+	1FCD860B	FCD3_ACT_GENERIC_INCAR_V3_CJ
+	1FF7F610	FCD3_ACT_GENERIC_INCAR_V10_JF
+	23E38962	~z~Черт, старик, ты уж извини.
+	267513DF	~z~Нет, они появляются, когда понимаешь, что везде одна и та же хрень -
+	26B37D8F	FCD3_ACT_GENERIC_INCAR_V7_GE
+	24D1ABB9	~z~вечно выкручивались, а у меня - раз! - и туева хуча бабла.
+	26143C8D	~z~В тюрьме? Да, но недолго.
+	2B77D452	FCD3_ACT_GENERIC_INCAR_V3_CC
+	34A62D05	100010100010100010100010100100010100100100010
+	382DB750	~z~Никаких?
+	33DB10BB	~z~И у меня ничего. Вся херня пучком. Тьфу-тьфу.
+	3448D8F6	~z~Странное дело, старик, там почему-то начинаешь думать о всякой обычной хрени.
+	383032F4	FCD3_ACT_GENERIC_INCAR_V8_HD
+	3AEAB91A	FCD3_ACT_GENERIC_INCAR_V1_AB
+	3B65C2B9	FCD3_ACT_GENERIC_INCAR_V2_BB
+	3A0A7B99	~z~Как жизнь?
+	3A88500E	~z~В детстве я видел, как отец бил мать. И как она из сил выбивалась.
+	335DE933	~z~Понимаю. Смешно, ты глянь, кем я стал.
+	2F113920	~z~Старик, жизнь жестянка.
+	3081A29E	~z~Да ладно, что там. Просто кончай ныть.
+	2C85F13D	~z~Вот и хорошо.
+	2CA50856	FCD3_ACT_GENERIC_INCAR_V7_GG
+	3131E08A	100010100010100100100100100100100100100
+	32375F68	~z~Да ну?!
+	32C36080	~z~Копом.
+	314791D7	FCD3_ACT_GENERIC_INCAR_V9_IF
+	31F19C72	FCD3_ACT_GENERIC_INCAR_V2_BN
+	1F5B0B88	FCD3_ACT_GENERIC_INCAR_V1_AO
+	07F21769	~z~У тебя всю дорогу депрессия!
+	08366B6B	~z~думала, он станет весь из себя культурный и все такое,
+	061B1BB5	FCD3_ACT_GENERIC_INCAR_V5_EE
+	06C45F92	FCD3_ACT_GENERIC_INCAR_V6_FF
+	0887D2AB	~z~Мир суров, в нем нелегко живется... и всегда одна и та же хрень.
+	0A48D6F2	FCD3_ACT_GENERIC_INCAR_V8_HE
+	0CAD2BC3	~z~А во второй шанс и в искупление я не верю.
+	09399E7D	FCD3_ACT_GENERIC_INCAR_V6_FI
+	095C7527	~z~Я тоже.
+	061680D2	~z~Я тебя не кидаю.
+	0366D5C4	~z~Но в своем деле я был лучшим. Прикольно это было, будто бы в аду живешь,
+	03E44EBE	~z~Черт, ты слышишь? Я скулю, как последняя шавка.
+	0126D1DB	FCD3_ACT_GENERIC_INCAR_V10_JJ
+	02661CFE	~z~скостить 8 лет со срока, деньги на оффшорных счетах, всякую херню.
+	049D8435	~z~Правда? И чего не стал?
+	059F0DB6	~z~Ничего мне не надо объяснять. Я тоже не ангел, дружище.
+	05FC1395	~z~Нет.
+	04BD2F33	FCD3_ACT_GENERIC_INCAR_V9_IA
+	05097EC8	~z~Сейчас развеемся, старик... по крайней мере, полегчает.
+	0D40DB25	FCD3_ACT_GENERIC_INCAR_V5_EB
+	1A4D7636	~z~Я видел, как восемь моих лучших друзей сдохли в канаве. Так что не только тебя жизнь потрепала.
+	1B673E6B	~z~Знаешь, как мне тяжело без Плейбоя?
+	17FFFEF6	~z~Я стал жалким долбаным параноиком, и даже всякую хрень не курил!
+	190907B3	FCD3_ACT_GENERIC_INCAR_V6_FE
+	1BD3FC09	FCD3_ACT_GENERIC_INCAR_V1_AC
+	1D3F52B0	~z~Когда я сдохну, я встречусь с творцом, зная, что никого не сдавал.
+	1D4E1226	FCD3_ACT_GENERIC_INCAR_V5_EK
+	1CA9E966	FCD3_ACT_GENERIC_INCAR_V9_II
+	1CD914B0	~z~В тюрьме я наслушался всякой бредятины у терапевта. Ну, там разговоры про детство, и так далее.
+	17F3EFC0	FCD3_ACT_GENERIC_INCAR_V7_GF
+	112BFD6E	FCD3_ACT_GENERIC_INCAR_V5_EP
+	14F4DF0D	FCD3_ACT_GENERIC_INCAR_V2_BQ
+	0DB4CCEE	FCD3_ACT_GENERIC_INCAR_V9_IG
+	0EC82008	~z~Но лет пятнадцать назад, а то и больше, такая хрень творилась - с ума сойти.
+	163A0E8A	~z~я тогда только начинал торговать и все такое. Прикинь, десять кусков.
+	16AEA148	FCD3_ACT_GENERIC_INCAR_V2_BG
+	175D9F20	~z~Ты когда-нибудь сидел?
+	16917E48	FCD3_ACT_GENERIC_INCAR_V6_FH
+	16A0B4C6	~z~А у меня депрессия.
+	6664CD18	~z~Черт, в самую точку.
+	67106078	FCD3_ACT_GENERIC_INCAR_V10_JA
+	62A5690E	FCD3_ACT_GENERIC_INCAR_V9_IJ
+	65D5ED11	~z~Он хотел вступить в игру, а в правилах не рубил. Мы были ближе, чем братья.
+	67691B79	~z~Ни радости, ни горя. Просто ничего.
+	6A097D13	~z~"Жди самого худшего, тогда будет тебе приятный сюрприз",
+	6A749E46	FCD3_ACT_GENERIC_INCAR_V1_AK
+	67D7069A	FCD3_ACT_GENERIC_INCAR_V1_AG
+	681A4098	~z~обходными путями находишь еду, ну, ты понял.
+	6141C4FA	~z~Ни образования у меня не было, ничего.
+	596EDBDE	~z~да, так и говорил, а потом лупил меня.
+	5984A36D	~z~Ага, к обстановке привыкаешь, используешь ее на всю катушку, учишься отпугивать маньяков,
+	5897B3A6	~z~И клиентам хорошо, и мне нехило.
+	58C9A1FB	~z~о дрянной кормежке, а потом вся эта хренотень теряет смысл.
+	59CB7A8B	~z~в тюрьме, на воле, с женщиной, без женщины,
+	5FAE0E45	~z~зато умел считать и пугать людей, так и начал впаривать наркоту.
+	5FD257D5	~z~Молодец.
+	5BF83AB7	FCD3_ACT_GENERIC_INCAR_V5_EI
+	5F0DB8C9	FCD3_ACT_GENERIC_INCAR_V2_BI
+	6A86A991	FCD3_ACT_GENERIC_INCAR_V6_FD
+	725E2CB4	FCD3_ACT_GENERIC_INCAR_V1_AF
+	73BDC278	~z~А то.
+	71957B5B	~z~Когда меня взяли, мне всякие сделки предлагали -
+	723EF662	~z~От всей этой херни мне одна польза. Ну, не знаю.
+	745BE472	FCD3_ACT_GENERIC_INCAR_V11_KH
+	754285E7	FCD3_ACT_GENERIC_INCAR_V3_CH
+	7559EB0E	FCD3_ACT_GENERIC_INCAR_V3_CA
+	747F8A64	~z~Я помню, как познакомился с ним - способный был мальчишка, но улицу совсем не знал.
+	74B768A5	FCD3_ACT_GENERIC_INCAR_V3_CB
+	713853EC	FCD3_ACT_GENERIC_INCAR_V7_GJ
+	6D2B1FBF	FCD3_ACT_GENERIC_INCAR_V1_AQ
+	6DAF4BBA	FCD3_ACT_GENERIC_INCAR_V7_GI
+	6B4740AD	FCD3_ACT_GENERIC_INCAR_V11_KN
+	6BE5DA64	100010100100010100100100010100
+	6E50B250	FCD3_ACT_GENERIC_INCAR_V10_JB
+	6FBA606A	FCD3_ACT_GENERIC_INCAR_V4_DM
+	7133295A	~z~Еще немного - и становится вообще не больно, и все, никаких тебе проблем.
+	6E83CD6F	~z~Да?
+	6F46576E	FCD3_ACT_GENERIC_INCAR_V3_CG
+	586E0C8C	FCD3_ACT_GENERIC_INCAR_V10_JK
+	451CFCEA	FCD3_ACT_GENERIC_INCAR_V4_DF
+	459442DF	FCD3_ACT_GENERIC_INCAR_V2_BO
+	4484003E	FCD3_ACT_GENERIC_INCAR_V2_BH
+	44A0B246	~z~Ничего... пожалуй.
+	45B3B468	~z~Суровый был мужик.
+	4783711C	~z~Сначала было здорово. Потому что я вылез из дерьма. Ни хрена у нас не было.
+	4929D948	~z~с деньгами, без денег, счастливым, несчастным, и ни хрена это не значит.
+	46164DE8	FCD3_ACT_GENERIC_INCAR_V4_DH
+	46E38852	FCD3_ACT_GENERIC_INCAR_V11_KG
+	4254260E	~z~Ни хрена ничего не меняется. Только человеку становится больно. Его ранят. Ты чего такой холодный?
+	3C51449C	FCD3_ACT_GENERIC_INCAR_V1_AR
+	3C80EDA6	~z~Вечно меня все кидают.
+	3BB618D2	~z~Я часто видел, как друзья убивают друг друга. И ты ничем от них не отличаешься.
+	3C10470A	~z~всюду купюры распиханы.
+	3CB679BC	~z~Сломал клюшки о ее спину. Зверюга херов. Когда он сдох, я был только рад.
+	406AFA9C	FCD3_ACT_GENERIC_INCAR_V3_CL
+	41E63DBB	FCD3_ACT_GENERIC_INCAR_V2_BM
+	3E858F76	FCD3_ACT_GENERIC_INCAR_V7_GA
+	3ED2BA3E	FCD3_ACT_GENERIC_INCAR_V1_AH
+	4A060474	~z~О каком-нибудь маньяке, который норовит трахнуть тебя в зад, о другом маньяке, который того и гляди тебе горло перережет,
+	5116A27C	~z~Жизнь сурова.
+	51659D94	~z~Нет.
+	50EADF54	FCD3_ACT_GENERIC_INCAR_V2_BJ
+	5102C36B	~z~Все меняется.
+	539BAD4B	~z~Взял бы да научился.
+	55F766BD	FCD3_ACT_GENERIC_INCAR_V2_BL
+	584FD9A4	~z~Ну, как дела, старик?
+	545B7046	FCD3_ACT_GENERIC_INCAR_V3_CK
+	5475A3B4	~z~Знаешь, что я тебе скажу, старик, - я никогда не хотел торговать наркотой.
+	505E7791	FCD3_ACT_GENERIC_INCAR_V6_FB
+	4CBF7F6F	FCD3_ACT_GENERIC_INCAR_V10_JN
+	4D07B240	~z~Но я не согласился. А если бы согласился - все, незачем жить.
+	4A84F007	~z~Я вот о чем - мне не с кого было брать пример.
+	4C468EBB	FCD3_ACT_GENERIC_INCAR_V2_BE
+	4DFB6AE0	~z~Бешеные бабки наваривал. Крэк с руками отрывали, на него мода пошла. У меня квартира была забита баблом -
+	4EF86A9C	FCD3_ACT_GENERIC_INCAR_V4_DA
+	4FCCA2CB	FCD3_ACT_GENERIC_INCAR_V4_DK
+	4E40977A	~z~Точно... и читал я кое-как,
+	4E689F48	~z~Жрать нечего, жить негде, а потом вдруг стал сбывать по пятьдесят доз в неделю.

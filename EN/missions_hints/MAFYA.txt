@@ -1,0 +1,203 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ABE32E49	Deliver Petrovic's ~b~laptop.
+	A9FAAE70	Steal the ~b~race bike.
+	A945FEE3	Grab the ~b~dirty weapons.
+	AEC8D074	Take down ~r~Vasil ~s~and his ~r~fed handlers.
+	AEC0EDC7	Got Pickup
+	AE0A8754	Destroy the ~r~stolen cars.
+	A5B48685	Deliver the marijuana to the ~y~dealers.
+	A5607714	Put the ~b~rigged vehicle ~s~in position.
+	A54EBD80	Take out the ~r~surveillance crew.
+	A713A74A	Punish the ~r~Stick-up men.
+	A6E4232B	Steal the detective's ~b~car.
+	A63EE5B5	Transporting Item
+	BBAFD1DA	Take the beaten up ~b~sedan.
+	BABCEDBB	Drop the ecstasy off ~y~here.
+	BA24CACC	Take the accountant's ~b~computer ~s~to Petrovic.
+	BCAF9DC2	Take ~b~Juliet ~S~home.
+	BC9CD178	Hook up with the ~b~wannabe gangster.
+	BC898C01	Drop it off ~y~here.
+	B42A1C3C	$15000
+	B38F223A	Deliver the bribe to the ~y~dirty cops.
+	AF53D1A6	Exterminate ~r~Boris ~s~the rat.
+	B8C3CAAA	Silence the ~r~woman.
+	B8BE9B94	Get rid of the ~r~manager ~s~from the fast food joint.
+	B8B49A38	Take down the ~r~thieves ~s~and return the stolen ~b~vehicle.
+	A469C115	Drop the laptop off ~y~here.
+	8FEFFCB8	Got Vehicle
+	8FECC9F1	Get to the ~r~hitmen ~s~first.
+	8A8B3DE2	Take some ~b~crystal~s~ to the bikers.
+	93F01AC3	Stop the ~r~LCPD.
+	936AD32D	Destroy the politician's ~r~campaign posters ~s~and take out his ~r~campaign manager.
+	9146F936	Drop them off ~y~here.
+	82C1A08A	Escort them to the ~y~contact.
+	7EA4D8EC	Drop them off in~y~ ~a~.
+	7E7AD021	Ice the ~r~tweakers ~s~and destroy their ~r~merchandise.
+	893DBECF	Destroy the ~r~hotdog stands.
+	8654C08E	$10000
+	84C661C0	Take ~b~Gordon ~s~out whoring.
+	9B750C80	Failed Task
+	9ADB692D	Leave the vehicle ~y~here.
+	997666D1	$7500
+	A448F15D	Distribute the ~b~marijuana ~s~to the dealers.
+	A1BF18E1	End the ~r~garbage collectors' ~s~careers.
+	9CB57487	Deliver the prototype gun to the ~y~buyer.
+	968355D2	Deliver the ~b~prototype gun ~s~to the buyer.
+	960F2460	Drop the computer off ~y~here.
+	955703D1	Crush the ~r~gang.
+	9736635E	~b~They ~w~aren't following you anymore.
+	972408C3	Steal the deputy mayor's ~b~car.
+	96AA03D7	Deliver the ~b~ecstasy.
+	EE4131F0	Return the ~b~Cognoscenti~s~ to Petrovic.
+	ED9A7F97	Collect Petrovic's ~b~wasted crew.
+	ECA733DB	Bury Anton's head at sea.
+	F2A595A8	$25000
+	F088379E	Help yourself to some ~b~grenades.
+	EE5135C4	Make an example of the ~r~scabs.
+	E010958F	Get the FIB agent's ~b~car.
+	DF79EA32	Sink the ~b~cars ~s~in the river.
+	DF30672B	Deliver the ~b~bribes ~s~to the dirty cops.
+	EC103172	Close down the ~r~manager ~s~and his ~r~traders.
+	E9CA2E12	Take Ivo's ~b~car.
+	E4F8BD9D	Drop the vehicle off in~y~ ~a~.
+	FC3DB39A	Take the drugs to the ~y~bikers.
+	FBDA2406	Get rid of the ~b~decapitated heads ~s~in the river.
+	FA6267A6	Clean up the ~r~dirty cops.
+	FF387EE9	Escorting Contact
+	FE46D31B	Help yourself to a ~b~sniper rifle.
+	FCEDCF49	Get a sexy ~b~truck ~s~for Brucie.
+	F4F0151A	Steal the ~b~vans ~s~for the job.
+	F4A98DB5	Take Igor's ~b~buddies ~s~to him.
+	F4A543C4	Steal Petrovic's ~b~car.
+	F7E5208F	Destroyed Car
+	F7B6B2C5	Drown her.
+	F7364EE3	Ditch the vehicle in the water.
+	DE231598	Exterminate the ~r~committee.
+	C99E69BF	Get rid of ~r~cops ~s~guarding Yuri and take the ~b~cop car ~s~with ~b~him ~s~in the back.
+	C947BDCE	Destroy the business's ~r~vans.
+	C7EC1BFF	Escorted Contact
+	CA9E4193	Grab a ~b~cache of weapons.
+	CA996E55	Take down the ~r~pornographers.
+	CA773951	Take the ~b~bridge partners ~s~to the game.
+	C11C7DDC	Now ~y~deliver ~w~the vehicle.
+	C10C74FB	Clean out the ~r~crack dealers ~s~from the area.
+	BFF772ED	Take down the ~r~Jury members.
+	C630B678	Dump the ~r~boyfriend.
+	C5A8B7A8	Destroy the ~r~illegal booze.
+	C3525C07	Destroy the delivery of ~r~vending machines.
+	DA64AE37	Drop him off in~y~ ~a~.
+	D7DB5419	Take ~b~Vanya ~s~somewhere to dry out.
+	D379FC56	Steal a pink ~b~Feltzer ~s~for Petrovic's daughter.
+	DC9EC22B	~y~Deliver~w~ the vehicle.
+	DC2AD4EC	Go and fuck with the ~r~bikers.
+	DB929047	Cull some of the ~r~Albanian hoods.
+	CCED7455	Steal the biker's ~b~bike.
+	CB9F0A20	Silence the ~r~associate.
+	CB84A1B2	Drop the protection money off ~y~here.
+	D16D4BA5	Deliver a re-up of ~b~marijuana ~s~to the dealers.
+	D01D6572	You need to deliver that ~b~vehicle.
+	CED375E5	Meet up with Petrovic's ~b~wife.
+	7DB8AF56	$2500
+	261A27D8	Drop her off in~y~ ~a~.
+	25E73EAF	Wipe out the ~r~dealer ~s~& his ~r~crew.
+	23B8A1F5	~y~Deliver~w~ the ecstasy.
+	2978DD17	~y~Deliver ~w~the vehicle.
+	283AF93F	Steal the ~b~stolen cars ~s~or destroy them if you can't.
+	26B978AC	Deliver the ~b~sports cars ~s~to Petrovic.
+	1ED0E203	Take the ~b~doctor ~s~to Vitali.
+	1E82781F	~y~Deliver~w~ the protection money.
+	1DE61A4D	~y~Deliver~w~ the vehicle.
+	219DED4D	Take down ~r~Sergey.
+	21644D74	Drop the prototype gun off ~y~here.
+	1FBA99F2	Destroy the biker's ~r~chopper.
+	34B40552	Escort him to the ~y~contact.
+	3484C386	Destroy the ~r~motorcycle.
+	34334C49	Drop her off ~y~here.
+	3B034C93	Help yourself to a ~b~rocket launcher.
+	36E2AEB5	Killed Target
+	351992FC	Steal the ~b~cash ~s~and the ~b~product.
+	2C1574BC	Bring Petrovic's ~b~men ~s~to him.
+	2B3201A1	Move the ~b~cars ~s~with heroin in them.
+	2AA92D8F	Escort Petrovic's ~b~girl.
+	31813D7F	Stop ~r~Anton ~s~getting to hospital.
+	308214EA	30 mins
+	2E607956	Pick up the ~b~recruits.
+	1D286466	Flush away the ~r~plumber.
+	062516F6	Drop the marijuana off ~y~here.
+	05749591	Drop the crystal off ~y~here.
+	0430B39B	Take one of Vanya's ~b~cars.
+	0A7E3F12	Silence the ~r~blackmailer.
+	09D9B049	Deal with the ~r~hoods.
+	088A67A2	Kill the ~r~hacker ~s~and take his ~b~laptop ~s~to Petrovic.
+	01983D6F	Get rid of the decapitated head in the river.
+	00869DA3	Meet up with the ~b~stuntwoman.
+	003430C5	$50000
+	03BB2BD8	Take the ~b~associate ~s~to hospital.
+	032D5F7C	Hit the ~r~Triad hit squad.
+	02A029AE	Destroy the ~r~Voodoos.
+	15F20668	Take the laptop to ~y~Petrovic.
+	14E15DA5	10 mins
+	1410D233	Destroy the ~r~vehicles ~s~and take out the ~r~workers.
+	19C7D021	Take the ~b~Commissioner ~s~to Petrovic.
+	1751D9DD	Destroy the politician's ~r~car.
+	16BC05B5	Take the ~b~creepy guy ~s~out of the area.
+	1168DDEC	~y~Deliver~w~ the case.
+	1104F837	Got Henchman
+	0FDA49CA	Audit the ~r~accountant.
+	133B311E	Drop the marijuana off ~y~here.
+	11D0FCC3	Deal with the Irish ~r~hoods.
+	119D935A	Escort her to the ~y~contact.
+	6DDCB11D	Destroy the property firm's ~r~advertisements.
+	6BAB0022	Wipe out the ~r~dealers ~s~and steal their ~b~vehicles.
+	6AB80955	$5000
+	6F24FF24	Stole Car
+	6EDCB43D	Kill Anton's ~r~murderers ~s~then bury Anton's ~b~head ~s~at sea.
+	6DF19700	Deliver the marijuana to the ~y~dealers.
+	63349E9D	Meet up with the ~b~Jamaicans.
+	632E2BE3	Drown them.
+	624F6FD7	Get one of the ~b~vehicles.
+	68F9DC9A	Drop the bribes off ~y~here.
+	64D8E642	Drown ~b~Officer MacHale ~s~in the river.
+	649B1C5A	Wipe out the ~r~bikers ~s~and steal the chapter leader's ~b~bike.
+	76DF1A16	Finish ~r~Councilman Rodgers.
+	76D4F850	Drop the case off ~y~here.
+	74F5C21F	Escort ~b~Jacob ~s~to the deal.
+	7D7E1530	Drop him off ~y~here.
+	7AA44AAC	Clear the area of the ~r~Triads.
+	78161C80	Deliver the ~b~Armored vans ~s~to Petrovic.
+	71613D3E	Steal the ~b~moped.
+	6FFF7D0E	Drown him.
+	6FCE8FFC	$20000
+	741E94A0	Completed Task
+	7312B949	Take ~b~Petrovic ~s~to see his bitches.
+	72373CAE	Rendezvous with the ~b~game designers.
+	5FE99813	Link up with the ~b~hip-hop posse.
+	48C8E81E	Destroy the ~r~arcade machines.
+	48510260	~b~She ~w~isn't following you anymore.
+	42BD3960	20 mins
+	4F255230	60 mins
+	4C510A0F	~b~He ~w~isn't following you anymore.
+	48ED8A1E	Drop the laptop off ~y~here.
+	3C314B8B	Take the new ~b~girls ~s~off to work.
+	3BE65009	Escort Petrovic's ~b~mistress ~s~out of the area.
+	3B9EA27A	Steal the ~b~trucks.
+	420CDE9D	~y~Deliver~w~ the laptop.
+	4187AD24	Clear out the ~r~bikers.
+	3E429916	Escort Petrovic's ~b~daughter ~s~and her ~b~friends ~s~to where they want to go.
+	5CBA8CA1	Take down the ~r~bachelors ~s~and rescue the ~b~girls.
+	597BD758	Get rid of the other ~r~Sultans.
+	58C95BA7	Clear out the ~r~gambler.
+	5FE4152C	Destroy the ~r~marble statues.
+	5F2001EA	Duration
+	5E4CF07F	45 mins
+	52B7CE38	Collect the ~b~protection money.
+	50853D9B	Fetch some ~b~prostitutes ~s~for Petrovic.
+	4FD67A30	Deliver the computer to ~y~Petrovic.
+	57EED44A	Destroy the ~r~garbage trucks.
+	56FCDA4A	Steal a ~b~SuperGT ~s~for Petrovic.
+	539F43CF	Convey Petrovic's ~b~nephew ~s~and his ~b~friends ~s~to him.

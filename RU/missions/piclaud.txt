@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BCBAFF68	~z~Я никому не позволю принижать меня.
+	ABC6A99C	100
+	98123617	~z~Твоя очередь падать на колени.
+	D7B21FC8	~z~Йо, деятель.
+	F866E131	~z~Йо, йо, йо.
+	EA94458C	~z~Эй, босс.
+	E66F52D0	~z~Я бы ни за что не оставил себя в живых. Глупец.
+	4F6C7C4B	100
+	1C0BA87A	~z~Босс, как дела?
+	0E420CE7	~z~Как сам, деятель?
+	5AA732FA	PICL_AA
+	92712B41	~z~Черт, мистер Босс. Не ожидал такого?
+	8B041BFB	~z~И кто у нас тут теперь большая шишка, босс?
+	88C7DCF3	PICL_BA

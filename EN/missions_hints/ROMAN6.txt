@@ -1,0 +1,32 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	90024370	Lose your wanted level.
+	A4FAF0C9	Use ~PAD_SIXAXIS_RELOAD~ to reload.
+	B3208AD4	Select the weapon Little Jacob gave you.
+	4A0938A3	Go to the ~y~lookout spot.
+	54EFCE70	Any weapon you pick up will go into your weapon inventory.
+	5EDCF80E	The target icon will indicate the height of the ~r~enemy~s~ in relation to you with an up or down arrow.
+	B76B2935	Go and pick up ~b~Little Jacob.
+	D8E0552B	Press ~INPUT_DUCK~ while crouched to stand.
+	E1B18BCC	Use ~INPUT_FREE_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies.
+	E8FC131D	Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at enemies. Press ~INPUT_ATTACK~ to fire your weapon.
+	B96B99AA	Stay close to Little Jacob.
+	C4F32E79	~r~Little Jacob is dead.
+	C555AE16	Press ~INPUT_VEH_HORN~ to sound the horn to get Little Jacob's attention.
+	16AD51EC	The target icon will indicate the height of your ~y~destination~s~ in relation to you with an up or down arrow.
+	1AEE5946	You left ~b~Little Jacob~s~ behind, go get him.
+	21E780A3	When locked onto enemies you can switch between targets using ~PAD_RSTICK_LEFTRIGHT~.
+	0301AA95	Use ~INPUT_PREV_WEAPON~ and ~INPUT_NEXT_WEAPON~ to cycle through weapons.
+	07E43332	Kill Little Jacob's ~r~enemies.
+	09A24DA2	Get Little Jacob back to the ~y~cafe.
+	286FF571	Go to ~y~Schottler.
+	3F332303	You've been given a pistol.
+	414CBF6D	Hold ~INPUT_AIM~ to lock onto enemies. Press ~INPUT_ATTACK~ to fire your weapon.
+	4250C175	Press ~INPUT_RELOAD~ to reload.
+	2C7DFC65	Crouch to stay out of sight. Use ~INPUT_DUCK~ to crouch, this will make your aim more accurate.
+	2DF19640	Wait for Little Jacob to get into position.
+	3A701BBD	Press ~INPUT_RELOAD~ or use ~PAD_SIXAXIS_RELOAD~ to reload.

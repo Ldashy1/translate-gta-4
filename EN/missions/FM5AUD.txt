@@ -1,0 +1,169 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	90EABC6F	~z~I'm doing real well for myself, real well. I'm sorry about how life turned out for you.
+	904C745E	~z~What's going to make you sure? You want me to give you a raise?
+	91AEFEA3	~z~The amount of smack my brother's gonna have to do to calm himself down after that.
+	91A1C119	FM5_EC
+	880972BD	~z~You know what, Frankie boy - I'm going to use that. I ever feel the heat on me, I'll call you.
+	870F5FA9	~z~This phone's running out a batteries, shit. Look after me, Niko.
+	8FC38E31	FM5_DB
+	886421A2	~z~This is Cain and Abel stuff, I'm telling you.
+	92A00099	~z~You're a real screw up, Niko.
+	A4A55A24	~z~Question is, which one of us is gonna be wandering the earth with a mark on his head
+	A030302A	FM5_DA
+	AEE5BD32	~z~I hope you've got over yourself and are ready for some fratricide.
+	AA291161	FM5_BF
+	9BDA8B7A	~z~Just a second here, Derrick. I gotta speak to one of the sergeants.
+	93F90A9C	~z~Sounds like I don't have a choice.
+	9D7D1A61	~z~Don't forget that I still got dirt on you. I know this ain't nice, but neither of us has a choice.
+	9C2E866F	FM5_AH
+	866C8913	FM5_NC
+	79F0E63C	FM5_AJ
+	79BAD620	~z~And you're going to make shit go away. That cool?
+	7C2DA1D7	~z~Then start feeling right, I got you by the balls here.
+	7A8FE795	FM5_GD
+	7102416C	~z~I'll hit who I'm aiming at, don't worry.
+	6FEBED15	FM5_PA
+	72D4D01D	FM5_BJ
+	714B8F58	FM5_GH
+	7C725B93	~z~You're a crook hiding behind his badge and a reputation.
+	8335E5D3	~z~Don't miss, Niko. You might hit me.
+	81DF666D	~z~At least Gerry and Packie are honest about what they do.
+	85EEE0C4	FM5_CA
+	853A4F59	FM5_LA
+	7E62701E	FM5_GC
+	FFAF70DA	FM5_GA
+	7F745A2E	~z~What the fuck? I thought you could shoot.
+	7F536D16	FM5_AI
+	B67B5A65	FM5_AD
+	EE238C9F	100
+	EDDE9EA8	FM5_OE
+	F29BA6E5	FM5_BA
+	EE311690	010100
+	E8BB8076	FM5_GG
+	E665CA40	FM5_NB
+	EB6A4B8C	FM5_GF
+	EB4DF244	FM5_EA
+	F331AA71	FM5_BD
+	FBEB6DC7	FM5_DD
+	FBA465E3	FM5_FB
+	FDAE8C39	~z~Niko, thank fuck you answered.
+	FC320CCF	FM5_CE
+	F52C3981	FM5_AG
+	F4403A05	FM5_AA
+	F783F9D8	FM5_EE
+	F781BC10	FM5_CD
+	E571FA2F	100100010100
+	C5C861E2	100100100100010100100100100100
+	C1FCD98D	010100100010010010010010100
+	CC3F77E5	~z~It's sounding like I've got no choice. One McReary brother is going to get me to kill another.
+	CA136F7F	~z~Cute, but he's a mule. No amount of smack could take him down.
+	B9386805	FM5_GE
+	B75E4281	~z~I'm not so sure about it.
+	BA0BD386	~z~Francis, I'm ready. What is the plan?
+	B9D9D31A	~z~That's what I like to hear.
+	CD8CB432	~z~Jesus. Frankie, I'm sorry. May God forgive us for what we've done.
+	DB6C20EA	FM5_AE
+	DB607620	FM5_OD
+	E50E564D	FM5_ED
+	E49C9D01	~z~Hey, what the problem? I thought you were going to make something happen for me?
+	D0865D03	FM5_BG
+	CE589A99	100100010100100
+	D424B136	FM5_ND
+	D1EAC1E8	FM5_DE
+	25603701	FM5_AC
+	279F0FC3	FM5_BB
+	2F901E85	FM5_BH
+	22FF56DE	~z~I think I can make the meeting.
+	1FA1572A	FM5_NE
+	1FDC7E12	FM5_BI
+	221CAF66	FM5_AF
+	3139F353	~z~You gotta take him out before he makes a move.
+	4735D613	FM5_AB
+	48B97422	~z~You don't think I know that. Christ, it happened right in front of me.
+	4A4D49E2	120210120120120
+	465CCF2B	010100100
+	3696078B	~z~Shit, when I heard you was back I nearly shat myself.
+	3A2C7730	FM5_NA
+	3F79C6B0	~z~Alright then, call it a bonus. Make this happen.
+	0C890DE9	~z~Shit, you did it. A bolt of lightning from outta the fucking blue.
+	12B7315F	290
+	13979824	~z~Derrick... shit. He's my brother...
+	0BD42884	~z~Frankie arranged to meet me at this park on Bismark, I think he's gonna try to kill me.
+	7DC0926B	FM5_NF
+	07ECAA39	~z~Frankie, what's this about? I've gotta say. I'm nervous about this little meeting.
+	0A1E0893	~z~This is the last bit of juice I got on this thing.
+	16F39097	~z~I did what you wanted me to do, I killed your brother.
+	1AEF5247	010100100010100100100100010
+	1C11064A	FM5_CC
+	1EC57210	100100
+	19F54E32	FM5_EB
+	1820462D	~z~May God forgive us for what we've done.
+	19372745	~z~I really got the feeling it was him or me back there.
+	19B17890	FM5_BC
+	5A16CE8C	~z~Derrick, my brother.
+	5B3991B9	~z~Maybe you'll get lucky and he'll die of an overdose.
+	5C05C8EA	~z~Do you know the place? Are you close? Can you get there in time?
+	6B080679	FM5_GI
+	4E9C8E31	~z~I'm a police officer. Come on, clear the area, clear the area.
+	4EEF808E	~z~Well, it's done. You and me are over.
+	54778857	~z~Get in position and put Derrick out of his misery. Shit, I better get ready to act surprised.
+	69DDC3D9	FM5_GB
+	65D22B0C	~z~I want you to take the window cleaning elevator on one of the buildings round back of the courtyard.
+	64E18E51	100100010100
+	64033595	FM5_DC
+	6631AF12	~z~I could feel you looking at me through that scope.
+	687F7A77	~z~It's not the money. I just don't feel right.
+	62DFE01E	~z~Sit down. Why didn't you call me? You coulda slept on my couch.
+	66B44242	~z~You don't know the half.
+	6BE768AD	~z~and who's gonna be six feet under, you know?
+	6DDF053A	~z~Don't you forget about that.
+	6B4248BD	FM5_FA
+	4DD02C7F	~z~Cops can kill who they like.
+	62D59972	FM5_CB
+	4D40623D	~z~That might help.
+FM5_CUT1_1	106A7545	~z~Why didn't you tell me Derrick was back?
+FM5_CUT1_10	42A54CB2	~z~Making a fool of himself. Betraying people. Going into hiding.
+FM5_CUT1_11	4CEB613E	~z~He's an idiot... and a coward.
+FM5_CUT1_12	974875F7	~z~It's not my business.
+FM5_CUT1_13	277D1662	~z~Whatever he stood for, he betrayed.
+FM5_CUT1_14	400B4786	~z~He only left here in the first place because he was caught stealing...
+FM5_CUT1_15	59C47AF8	~z~from the Mafia!
+FM5_CUT1_16	1D06017C	~z~He's a pathetic wretch.
+FM5_CUT1_17	2F38A5E1	~z~Okay, I got it, so?
+FM5_CUT1_18	06D7D510	~z~Now, he's going to ruin my life!
+FM5_CUT1_19	A0A808B2	~z~If it wasn't bad enough having a bunch of crooks for brothers,
+FM5_CUT1_2	FADD4A2B	~z~What?
+FM5_CUT1_20	A05F1284	~z~now I've got him threatening to talk to a journalist!
+FM5_CUT1_21	90247203	~z~About his family, about me!
+FM5_CUT1_22	1E2C8E15	~z~Well, tell him to be quiet.
+FM5_CUT1_23	0C12E9DE	~z~I am trying to become the Commissioner of Police.
+FM5_CUT1_24	3AFB47B2	~z~I'll be a laughing stock.
+FM5_CUT1_25	28ACA315	~z~A cop with a famous, snitching traitor for a brother.
+FM5_CUT1_26	E5311C1B	~z~You know,
+FM5_CUT1_27	D6F77FA8	~z~the crooks I can handle, see that I can spin, but not this. Not this.
+FM5_CUT1_28	01D5D564	~z~You've got a big problem then.
+FM5_CUT1_29	EF653083	~z~Me? Uh-uh.
+FM5_CUT1_3	5DE01037	~z~Why didn't you tell me you was hanging around with my brother?
+FM5_CUT1_30	BEC74BE0	~z~We, my friend. We.
+FM5_CUT1_31	B40A3666	~z~You stop him.
+FM5_CUT1_32	A0E5901D	~z~-Stop?~n~-Shh.
+FM5_CUT1_33	97057C69	~z~Stop.
+FM5_CUT1_34	1580F952	~z~-Kill your brother?~n~-He's already dead.
+FM5_CUT1_35	EBBFA5D0	~z~Just put him out of his misery.
+FM5_CUT1_36	DC4906E3	~z~-Fuck you.~n~-No, fuck you, pal.
+FM5_CUT1_37	CF8AED67	~z~I'm going to meet him in the courtyard park off Bismark in Lancet.
+FM5_CUT1_38	10B1EFBC	~z~Deal with him.
+FM5_CUT1_39	FE544B01	~z~Make him a tragedy, not a disaster.
+FM5_CUT1_4	9065F542	~z~I assumed if you cared, you'd have found out.
+FM5_CUT1_40	63451611	~z~Do it, or I will put you away.
+FM5_CUT1_41	4D04E991	~z~Oh - don't push me.
+FM5_CUT1_5	C984E77B	~z~Well, I have found out!
+FM5_CUT1_6	74113C99	~z~Jesus. You know Derrick's not well?
+FM5_CUT1_7	1B040A80	~z~-No?~n~-No. He's sick.
+FM5_CUT1_8	4CDEEE35	~z~Always was.
+FM5_CUT1_9	7EB951E9	~z~He's always off getting involved in someone else's fight.

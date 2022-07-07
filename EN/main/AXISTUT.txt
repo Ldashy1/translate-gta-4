@@ -1,0 +1,61 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BB080FF5	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.~n~_~n~_~n~
+	BADD9696	~s~You must remain at the airport to complete the SIXAXIS™ tutorial.
+	AF497217	~s~Land at the ~y~marker.
+	C2D18DC4	~s~SIXAXIS™ can be used to reload your weapon.
+	C2A87092	~s~Throughout the game you can use SIXAXIS™ control.
+	BD32F598	~r~The helicopter got stuck.
+	AD3CCBE9	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.
+	9721EA9E	~s~SIXAXIS™ Tutorial complete.
+	946A9417	~s~SIXAXIS™ is enabled throughout this tutorial. It can be turned off/on by going to Controls in the front end menu and selecting SIXAXIS™.
+	90E08B7C	~r~You destroyed the bike.
+	A5EA9531	~s~Get back into the ~b~boat.
+	A53DE58D	~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards.
+	9B76285C	~s~You can use SIXAXIS™ to shift your weight forwards and backwards whilst on a bike. This will allow you to perform stunts such as stoppies and wheelies.
+	C866AAB2	~s~Take off and increase your altitude.
+	E693BD54	~s~Get back into the ~b~helicopter.
+	E6173655	~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.
+	E4486275	~s~Use SIXAXIS™ to fly forwards into the ~y~marker.
+	F3717848	By enabling the Auto Pitch Calibration option in the Controls menu, upon entering a vehicle the current pitch of the SIXAXIS™ is used as the central pitch position for all vehicle controls.
+	F0C2C5E2	~r~You destroyed the helicopter.
+	EBA620A3	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.
+	E2D944F7	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.
+	D2F7175D	~s~Use SIXAXIS™ to steer the bike through the ~y~markers.
+	CEBD2C94	Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left and right.
+	C8F52034	~s~Go to the ~y~marker.
+	DD5B840E	~s~Use SIXAXIS™ to steer the boat through the ~y~markers.
+	D8691F2A	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the boat.~n~_~n~_~n~
+	D3242E69	~s~Use ~PAD_SIXAXIS_RELOAD~ to reload the pistol.~n~_~n~_~n~
+	8F90B907	~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude.
+	2B5BF0A3	~s~Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+	271DB173	~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.
+	2233C7CE	You can use SIXAXIS™ to control boats.
+	43B317B2	You can use SIXAXIS™ to control helicopters.
+	40350CBD	You can use SIXAXIS™ to control bikes.
+	35FF859C	~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.
+	1D83C32B	~s~Reload your weapon using SIXAXIS™.
+	08A0EC25	~s~SIXAXIS™ Tutorial failed.
+	0873FE5F	~s~Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
+	02CF4EF5	~s~You can use ~PAD_SIXAXIS_PITCH~ to adjust the trim.~n~_~n~_~n~
+	1D365458	~s~Use ~PAD_SIXAXIS_PITCH~ and hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate forwards.~n~_~n~_~n~
+	13FE2F6D	~s~Get back on the ~b~bike.
+	100839FC	~s~Use SIXAXIS™ to fly the helicopter through the ~y~markers.
+	476FC2BE	~r~The bike got stuck.
+	7C7F61D2	Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+	78ABDA55	~r~You destroyed the boat.
+	77D56117	~s~Use ~PAD_SIXAXIS_PITCH~ whilst driving to lean forward or backwards.~n~_~n~_~n~
+	8DC18CF3	~s~Use SIXAXIS™ to perform a stunt.
+	82A71630	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.~n~_~n~_~n~
+	805A2D51	~r~The boat got stuck.
+	76261C2D	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the helicopter.
+	5D90358E	~r~You left the airport and canceled the SIXAXIS™ tutorial.
+	5C664B03	Press ~INPUT_VEH_ACCELERATE~ to accelerate. Press ~INPUT_VEH_BRAKE~ to brake.
+	4C49E1C7	~s~Use ~PAD_SIXAXIS_ROLL~ to steer the bike.
+	73DA9136	~s~Use ~PAD_SIXAXIS_PITCH~ to adjust the trim.
+	69C23B2C	Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_PITCH~ to bank the helicopter in the direction you wish to move.
+	675939F9	SIXAXIS™ can be overridden at any time by using ~PAD_LSTICK_ALL~ and ~PAD_RSTICK_ALL~ when appropriate.

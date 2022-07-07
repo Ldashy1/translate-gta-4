@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6ACD4214	~s~Take the bodies to the ~y~doctor.
+	63E4B443	~s~Get in the ~b~car.
+	CA9F81BF	Press ~INPUT_PICKUP~ to close the trunk.
+	FC446508	~r~The bodies were discovered.
+	ECC0C601	~s~The cops have spotted the bodies. Lose your wanted level.
+	1A3EB12B	You may want to close the trunk, the police will be able to see its contents.
+	17631B45	~r~The bodies were left too close to Elizabeta's place.
+	381E5CBB	~s~Lose your wanted level.
+	4E8C8993	~r~The bodies have been destroyed.
+	4622F8C4	~s~The bodies will be identified if left there, blow up the ~r~car.

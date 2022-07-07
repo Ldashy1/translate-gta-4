@@ -1,0 +1,344 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9471AFD1	R11_MO
+	9750ADFD	R11_NC
+	9228412C	R11_NG_QQQ1
+	92AF075F	R11_KL
+	97AEF31E	~z~Pure like my Mallorie. In the dream Mallorie and me are married.
+	98CF4F11	~z~I had bought her a ring.
+	9BA1B2BA	~z~Sure it was, Niko. Sure it was.
+	980252A7	R11_NT
+	9847A8F7	R11_NY_QQQ1
+	8CA1567E	R11_MD
+	8CD1BC62	~z~Yeah... we sat down and finished it off there and then. Wait... wait...
+	8B0532B1	R11_KF
+	8C50E641	~z~You are a sick fuck, cousin. No wonder half of Broker wants you dead.
+	8D03961B	~z~You know what? I think maybe they might get me when going after you.
+	90FB7E45	R11_NH
+	91CBA2F7	~z~Must think about the future. A new apartment in South Bohan, another business,
+	9086046D	R11_KK
+	90D313D8	~z~A classy place. None of this fast-food, diner bullshit. We own a real restaurant, a tavern.
+	9C04DBB0	SFX_PAUSE_2000
+	A74F0150	R11_NR
+	A885923F	~z~I do not speak of diamonds, but of one diamond and a band of gold.
+	A473C45E	~z~Great.
+	A725EBBE	~z~You can still do that.
+	A8AAF1B2	~z~It's on fire, fuck!
+	AD0B26CD	100
+	B18FFEB1	R11_NI
+	A98B75D5	~z~We're here in America now and I should be thinking about my life here, my life which is ruined.
+	ABB8D385	~z~I am the one end up feeling the pain after you piss people off.
+	9D0B4470	R11_MN
+	9DB22D96	~z~Yes, you and I had a place of our own. A place where people come to eat and relax.
+	9C0D3F78	~z~No, what do you mean?
+	9C8CCB32	100100
+	9FB6BB81	~z~That seems like the pattern of events since you get here.
+	A37461F4	~z~Here we are, the beginning of our new lives... again.
+	A4114782	~z~You cannot escape the past. Only thing is future, right?
+	A196EE9E	R11_EC
+	A3524EBE	R11_ML
+	8893879C	~z~Well, it doesn't matter. Now it's gone along with everything else.
+	754EF04C	R11_GC
+	76A0151B	R11_KH
+	72C995CE	R11_LC
+	7367A07F	~z~I do not care though. We are in this situation. We must deal with it.
+	76C6BB21	~z~Even I would not go with those hookers on the point, cousin.
+	79BF5516	R11_FH
+	7A75428A	~z~I am glad you have a sense of humor about this now.
+	77489150	~z~I don't want to talk about back home.
+	7997655D	~z~I was thinking about getting out of the cab business. Last night I had a dream...
+	6A2BEFBB	R11_KC
+	6C714B11	~z~Really?
+	69CBFA94	~z~Hey beautiful.
+	69ED179B	~z~Everything is perfect.
+	6CDC74E3	R11_NP
+	707DDD10	~z~You have your life, Roman. You have a life which is worth a lot more than mine at the moment.
+	716B8F28	R11_ED
+	6DEDDA70	R11_NAA
+	6FE0C729	R11_OA
+	7B0B9C46	R11_CB
+	81327E8D	R11_NB
+	814FA993	~z~Any of your cousins have a place we could use out in Bohan?
+	808AA620	R11_CA
+	80E99889	R11_NL
+	822826F3	~z~Just a pile of rubble... everything smashed,
+	85368C41	R11_NA
+	858C44C8	~z~One dead Bellic will give them a little bit of happiness while they wait for next.
+	82C7FB5B	R11_FF
+	837A967D	R11_NG
+	7C42FCD3	R11_XYA
+	7DE87ABE	R11_KO
+	7B423A45	~z~This could be the start of that. A fresh beginning.
+	7BB444FC	~z~I always put a saddle on a horse before I ride her, Roman. I won't catch nothing.
+	7E3F88DC	SFX_DIALLING
+	7F737358	R11_EJ
+	7F83EC97	R11_LA
+	7F18E277	100100010100
+	7F7025E0	~z~You're an angel - beautiful and kind. I love you. We'll see you there.
+	E5F3BE18	~z~Not now, but in the dream you've met the right woman. She is beautiful.
+	E7235025	~z~What are you expressing when you spend your money in backroom card games?
+	E388BDF3	R11_FE
+	E3D94F13	~z~We're coming to your cousin's, are you there?
+	E8041964	R11_EK
+	EC18EE2E	R11_NO
+	EC2FCED7	~z~I slept under my desk at that place for over a year...
+	E873DA17	SFX_PAUSE_2000
+	EB26D5AC	~z~And, perhaps, a date with the man I came to this city to find.
+	DBA4E101	R11_DF
+	DC462D2E	R11_FG
+	D9E52A42	~z~Finally I bought a cab and then another, then I got the depot...
+	DA72D1D3	~z~But I wanted to really have her. I wanted to marry her.
+	DCE13BA1	~z~America is about showing what you have, you express yourself with money you spend.
+	DF8B0049	~z~There were not diamonds and gold in that apartment.
+	E20ED506	R11_NK
+	DDEC971A	100010100010100100100010100100100100010100
+	DE52FDD9	~z~You probably would have gambled them away if there had been anyway.
+	ED695648	~z~I will add that to the long list of your secrets that are safe with me.
+	F6AD6F39	~z~You do not need a ring to propose. Mallorie loves you for who you are, not for some ring.
+	F81475EC	R11_XYB
+	F4F82B27	~z~Roman, you sound like you did in those emails you sent me before I arrived here.
+	F670E359	~z~then I got the apartment, the apartment you thought was so shitty.
+	F8D38CC6	R11_IC
+	FDCB9884	~z~I can't have the tavern now. I have nothing to buy it with. I have, I have nothing.
+	FE7F4FBB	~z~They took it all.
+	FAB41611	R11_MG
+	FB4189C7	R11_NQ
+	EF42B142	~z~We'll meet Mallorie in Bohan. You still have her.
+	EF5C0C0B	~z~What the hell?
+	EDFB7968	~z~Come on, Roman, pull yourself together. You've been here before.
+	EF3C0161	R11_MH
+	EFA0669D	~z~I haven't been crying, it's my allergies. Niko's wearing this new cologne.
+	F1740985	~z~Leave it, cousin.
+	F37189DD	100100010100010100100100190190010100100100100010
+	F0CEA2D0	~z~Cruel, Niko, cruel.
+	F159AA5F	R11_ID
+	D8D53109	~z~The man who betrayed our village.
+	BDCC4E46	~z~And you, for all the good you've done me.
+	BE501CF4	~z~Jesus!
+	BAEDA393	R11_EE
+	BD93773A	~z~I'm sorry, Roman. I tell you, I am sorry.
+	BE6F7EBE	~z~I do not spend money at these games, I risk it for reward.
+	C271A255	~z~That is what I wanted to show you. It was a beautiful ring.
+	C44D04AD	~z~I guess you cannot escape your past.
+	BF50F0D3	~z~It is a place of distinction, you know?
+	C0B51013	R11_NM
+	B44605FE	~z~It was worthy of her. Now I have nothing!
+	B6A2F4A3	~z~Hey beautiful, what's up?
+	B42EDA8F	~z~I can't see myself settling down.
+	B440E7E1	~z~Only thing I see in my future is more people trying to kill me.
+	B6B72719	R11_MA
+	B8C19AAA	R11_FM
+	BA107535	R11_KR
+	B717E872	R11_FB
+	B86DAA8A	~z~Positive mental attitude. Come on.
+	C50C5CD6	~z~I'm sorry, Roman, I'm really sorry but we have to go.
+	D3DC299B	R11_FJ_QQQ1
+	D3DFDF73	R11_EF
+	D2A146E0	R11_KB
+	D2EF2154	~z~I get Mallorie to arrange place for us to stay in South Bohan.
+	D3F36195	~z~I do not think it will be much difference to them, Niko.
+	D7763AA0	R11_IA
+	D81E3AE4	R11_IE
+	D5125B92	R11_NV_QQQ1
+	D646289F	~z~Shit man, you're right.
+	C9320DDA	~z~Anyway, you will not have to become some crack whore's pimp.
+	CC2E1A3B	~z~I risk my bets to win more so I can spend on the hot
+	C54639A6	R11_NU
+	C5C8BD0B	R11_XXA
+	CCF52147	~z~Yeah, trying to impress Michelle or something.
+	D17FA508	R11_MK
+	D1C7BC13	SFX_PAUSE_2000
+	CE7AC78F	R11_NAF
+	CE9C1C97	~z~a bigger diamond for Mallorie. The future, yes?
+	3CD1B344	~z~Bring on Bohan.
+	1381A8A5	~z~This was the engagement ring I bought for Mallorie.
+	3B996952	100010010100
+	3BF61946	100010010010010010100100100100010100100010100100010100100100100010010100100100010010100100100100010010010
+	3D7C716F	~z~I've been beaten up, I was kidnapped and then shot in the stomach,
+	3DAA1F20	R11_NS
+	13611FEF	R11_FC
+	3CF1755B	~z~It was just a joke... about the whores, you know?
+	38CD7058	R11_FK
+	39ABB48D	~z~Diamonds and gold?
+	376A329A	~z~We will, but I have left something important at the apartment. Something I must show you, cousin.
+	16D3B54B	R11_GB
+	1435D8EB	~z~I know you were.
+	3B43A706	~z~Do you know how long it took me to get a place of my own?
+	14984BE9	~z~Just drive, shut up and drive.
+	3A47A5D3	SFX_PAUSE_2000
+	12449FF6	R11_FA
+	120C25F6	~z~No, we are not. I was going to propose to her but it is no longer possible.
+	130422B3	R11_KQ
+	440A3C00	R11_NQ_QQQ1
+	45D13706	R11_KI
+	464705CF	R11_NZ
+	4556380A	~z~What is going on?
+	45BDFC76	~z~I'll call Mallorie, she might have somewhere we can hide out.
+	40376833	R11_HC
+	40E07DDA	~z~cars and the sharp clothes and my beautiful Mallorie.
+	3FB3A5FB	~z~This place is gone.
+	135622C6	~z~Now, I have nothing to spend... nothing. Oh yeah, I have you. Great.
+	43632DCA	R11_LJ
+	436582E0	~z~Bulgarin and Dimitri shall not be happy that I survived our meeting.
+	4165505B	~z~Maybe they will let us live with them in their crack dens.
+	430EE67E	R11_FI
+	376117BE	R11_KG
+	28B7DB7E	R11_DB_QQQ1
+	1FBFB74C	R11_FD
+	204AC273	~z~I do not have a ring. It burnt in my apartment along with everything else.
+	28B41542	R11_EA
+	2CB483CE	R11_FN
+	2F77F8D2	R11_DD
+	28EE5874	R11_GD
+	2C9458C6	R11_FL
+	251B7AB6	~z~You got off the boat and I was here for you.
+	27661002	~z~I am sorry that your worldly possessions have been destroyed, but you were not that rich a man.
+	25EF7B23	R11_NV
+	253F4C20	~z~You and Mallorie are engaged?
+	20FEB874	~z~I said I was sorry.
+	2861D9BF	R11_GA
+	232A48C3	R11_KN
+	2199A8E8	R11_HA
+	333D99FF	SFX_PAUSE_2000
+	34A42472	R11_EI
+	33355CE1	~z~You have a lot to apologize for. Since you got here I've had my computer smashed,
+	1C704752	R11_ND
+	17491B2B	~z~Great, see you in a bit, beautiful.
+	34BA9072	~z~Listen, me and Niko are in a bit of trouble - need to get out of Broker a few days.
+	1B31B405	R11_NAD
+	1B110D7F	100
+	310E1264	R11_NX
+	31837FF3	~z~My dream, it was just that... a dream.
+	1DC88922	~z~Then we shut everything up and get to Bohan.
+	30EF2F6F	~z~Is simple, we go collect our stuff from the apartment and the depot.
+	1D83782C	100100100100100100100
+	330288A9	~z~my apartment got burned down and so did my business.
+	328A9EB6	~z~Okay.
+	32E8807A	R11_NE
+	46518319	~z~Do you know how long it took me to get set up here? You don't because it was easy for you.
+	060B18B1	R11_IB
+	63E183DF	R11_MC
+	6316A947	100100010010100100010100010010100100100100100010
+	073ACFAC	~z~Do diamonds burn, cousin? How about gold, will that melt in a fire?
+	05E43C48	~z~I got here and I had nothing, nobody. I worked my way up from the fucking dirt.
+	65A06E0C	R11_KA
+	65916AB2	R11_MF
+	659304D6	~z~At least they want me dead and not you.
+	5EDA4DC3	R11_NJ
+	0A50C70E	R11_LE
+	0AA88076	R11_HD
+	5CEEA2F9	R11_HB
+	62B66C00	~z~Holy fuck, it's fucking burning. The whole place... I've got to go in, I've got to get something.
+	6309F371	~z~What the fuck?
+	6093C6C6	R11_MJ
+	6159FCA9	R11_EH
+	01C52F4B	R11_LG
+	682C6EC8	R11_ME
+	0411C956	~z~You add these insults to the injuries I have already suffered.
+	03F4A5A6	R11_KE
+	698ECF5E	R11_NAC
+	69C7DFB2	100100100100100100100100100100100
+	0044252C	R11_MI
+	68AF3DF6	SFX_RP11_ROMANS_SORROW_RINGING
+	663C6F1C	~z~Things have been going so great, just great, since you showed up.
+	67367303	R11_KJ
+	65F4197C	~z~You know what you can catch from those girls?
+	66006A56	100100100100100100010100100100100010010010100100100100
+	67A1E3D2	R11_NN
+	04B651D0	R11_EL
+	6769F93F	100100010010100
+	04D70B8C	~z~You are still new here, cousin. You do not understand.
+	5AE3D887	~z~except for that one bottle of vodka.
+	4D875ED0	~z~All I know is we have to get as far from Dimitri and Bulgarin as we can.
+	4D9A18CA	100100
+	0DDA7514	R11_EM
+	4D0F259C	R11_DB
+	4EA94764	R11_EB
+	4F86239F	R11_MM
+	4E62C62D	R11_NY
+	0C8F53E8	R11_MB
+	4852F1BC	R11_KM
+	499D9330	R11_NAB
+	46EF800E	~z~This, I did not expect.
+	47D19268	R11_NAE
+	4B0C2275	R11_NF
+	4B38C6AA	R11_FO
+	4A96CDC3	R11_EG
+	1169BD28	R11_KD
+	53EDCE6F	~z~They burnt it... they fucking burnt it, Niko!
+	5402F596	~z~What are we going to do in Bohan? Pick up the whores on Chase Point?
+	529B1ACE	R11_LH
+	0C04C55C	~z~You're kidding me?
+	588F2794	~z~You had it all from day one. It took me months to get some cash together.
+	0BE3398F	R11_MG_QQQ1
+	545299A3	~z~We can pick up our stuff, and then get out of here.
+	56D8A30B	R11_EJ_QQQ1
+	50A4A173	R11_KP
+	51291485	~z~Maybe things are not so bad.
+	0C3CEB36	~z~I've got nothing left. Not my home, not my business, nothing.
+	4FE94276	~z~You remember that time we went to the bar back home and found it razed to the ground?
+	0C0844F1	SFX_PAUSE_2000
+	528AA08D	~z~She has her local connections.
+	0C1DB528	~z~I told you, you still have Mallorie.
+	5215A40C	R11_FJ
+R11_CUT1_1	FEA555A1	~z~Roman?
+R11_CUT1_10	53612478	~z~So we're dead?
+R11_CUT1_11	251B47ED	~z~More or less.
+R11_CUT1_12	0E731A9D	~z~-Everything was fine before you...~n~-Yes, yes...
+R11_CUT1_13	902F9E14	~z~Fine and now this. Thank you. Thanks a lot!
+R11_CUT1_14	9A48B246	~z~~c~I'm sorry.~s~
+R11_CUT1_15	6BB6D523	~z~~c~Whatever.~s~
+R11_CUT1_16	756CE88F	~z~What's done is done.
+R11_CUT1_17	D7432C3E	~z~Yes, but there's a bigger problem...
+R11_CUT1_18	A8DA4F6D	~z~What?
+R11_CUT1_19	B30C63D1	~z~That guy I owed money to, Bulgarin.
+R11_CUT1_2	0BD9F00A	~z~Roman? Where are you?
+R11_CUT1_20	020584E6	~z~Yes, the guy in Europe... who lives by the Adriatic.
+R11_CUT1_21	C4580988	~z~Yeah, yeah, he's here now.
+R11_CUT1_22	B6826DDD	~z~Great.
+R11_CUT1_23	DFEDC0B3	~z~I'm sorry...
+R11_CUT1_24	D1BF2456	~z~I've ruined your life.
+R11_CUT1_25	7B80F7DB	~z~No. Don't be like that... we can find a way out of this...
+R11_CUT1_26	6CA6DA27	~z~-bunch of idiot Russians... ~n~-I will kill every one of them.
+R11_CUT1_27	A6E2CE9E	~z~No... that's exactly what you won't do.
+R11_CUT1_28	8819910C	~z~We don't have time for revenge. We can't afford it.
+R11_CUT1_29	524FA575	~z~What can we afford?
+R11_CUT1_3	A21B1C8E	~z~In here. I'm stuck. Let me out...
+R11_CUT1_30	6D9E5B2A	~z~We can lay low... and start over.
+R11_CUT1_31	34B36955	~z~Please... come on, let's go back to the apartment.
+R11_CUT1_4	B78B476E	~z~Shit, man...
+R11_CUT1_5	C5BDE3D3	~z~what are you doing in there?
+R11_CUT1_6	6C743139	~z~I got scared... people started calling the house and hanging up.
+R11_CUT1_7	832E5EAD	~z~You weren't answering your phone! What happened?
+R11_CUT1_8	90D8FA02	~z~We've got a big problem.
+R11_CUT1_9	27C727E0	~z~Dimitri was not a man of his word.
+R11_CUT2_1	43EFD1F2	~z~Not so bad...
+R11_CUT2_10	5BFDD120	~z~I guess I'm an optimist.
+R11_CUT2_11	39E78CF4	~z~An idiot, not an optimist.
+R11_CUT2_12	00849A2F	~z~I was bored of Broker anyway!
+R11_CUT2_13	6E5275C9	~z~I'm glad you turned up and made some Russian killers burn down my home and business!
+R11_CUT2_14	14F84316	~z~Oh yeah, thanks Niko! Thanks a bunch! Is that better?
+R11_CUT2_15	0F8C383E	~z~Much!
+R11_CUT2_16	B8E50AF1	~z~Thank God you're okay...
+R11_CUT2_17	2700E727	~z~both of you.
+R11_CUT2_18	DA924E4B	~z~We're fucked - we're broke and on the run.
+R11_CUT2_19	C880AA28	~z~No, I'm from up here, Niko.
+R11_CUT2_2	8B4BE0AD	~z~I mean, I don't think we'll be impressing women with our wonderful hot tub, but, err, this looks okay...
+R11_CUT2_20	09E33030	~z~I know a bunch of people who might be able to help out.
+R11_CUT2_21	E08CDD84	~z~Why don't you come and meet me at the community center later on?
+R11_CUT2_22	2671E94D	~z~I've got to go to work. Bye, Pappy.
+R11_CUT2_23	FD3096CB	~z~And have a shower - you smell a little, erm, mature?
+R11_CUT2_24	9947CEFB	~z~So... I guess we start again.
+R11_CUT2_25	A7056A76	~z~Sure.
+R11_CUT2_26	B578875C	~z~I'm going out.
+R11_CUT2_3	7983BD1D	~z~Yes, great!
+R11_CUT2_4	30D9ABC6	~z~Come on, what's... what's wrong?
+R11_CUT2_5	7EE747E4	~z~What's wrong? What's wrong?
+R11_CUT2_6	C66756DF	~z~Where should I start? Alright, I'll start with you - what's wrong with you?
+R11_CUT2_7	D487F320	~z~Fifteen minutes ago you were cowering in fear because you didn't know what was going to happen.
+R11_CUT2_8	67E119D4	~z~Now, you know everything is shit and we are going to be killed, and you're all cheerful.
+R11_CUT2_9	7872BAF7	~z~I don't get it!

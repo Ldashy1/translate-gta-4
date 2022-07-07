@@ -1,0 +1,90 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8F611444	~z~Shit, you're serious, I'll stay away from her.
+	9065AB32	PII_CD
+	80F2F1F3	PII_BB
+	8508A0C1	~z~I'll fuck who I wanna fuck.
+	99594AB8	PII_DE
+	A116B7AF	~z~Okay, okay... I'm persuaded. I won't see the bitch again.
+	90E79833	~z~Hey, slimeball.
+	967A43A4	~z~That bitch is lucky to have me.
+	79BE77B9	PII_AD
+	62B55C95	PII_DD
+	63676035	PII_DB
+	5D0DD0C8	~z~Crazy damn Russians.
+	5E324402	~z~It's Ilyena. Anna is leaving me. I have nothing now. She's moving in with that sleaze.
+	6C35168F	~z~I know that things must be hard, but you are strong enough for the both of you.
+	6E1AEDE6	010100100010100010
+	68854278	PII_BA
+	F84FE6BE	~z~Whaddya want, shit face?
+	EA90CB40	~z~Why does every Russian in this city call me that?
+	EBE44D49	~z~Cooze ain't worth all this trouble, man. I'm gonna dump the bitch.
+	DBD12DC1	~z~Yeah? And I want a blowjob every morning for the rest of my life, but we don't all get what we want.
+	E63DF1C0	PII_DA
+	F07CE895	~z~Goodbye.
+	F59360A7	~z~Shit, I was getting bored of her anyway. I won't see Anna again.
+	ED2CAB36	PII_GA
+	EEF16305	PII_AA
+	CDFD1219	~z~I want you to stay away from Anna Faustin... forever.
+	B1343235	~z~Who is this?
+	B5F2BBA6	~z~Another man in my daughter's life has met a violent death now. Thank you for that.
+	A57D5297	~z~Yes?
+	AC8EEFCD	~z~While I'm at it, I might hit that Russian bitch's mother too.
+	C371D6B0	~z~Ilyena Faustin. I thought you were different, Niko. I said no killing, all of you are the same.
+	CCA3BB6E	PII_CA
+	BD5585E7	010100100
+	BEB52934	PII_EA
+	58B44BAF	PII_DC
+	0FC8C893	PII_CC
+	343A5ED6	~z~In this case, I am going to get what I want.
+	15E68CC5	~z~You ever see Anna again, you're going to be breathing through a tube for the rest of your life. Slimeball!
+	383A8E5C	PII_DF
+	08654EED	~z~Do not be, the sleazeball has broken up with her. I owe you thanks. Anna is safe for now.
+	3369A4F5	~z~Hello?
+	28A2570F	010100010100010
+	149C1EBC	~z~Alright already, I'll find another bit of cooze.
+	24AC077A	~z~Niko, it's Ilyena. My daughter is upstairs in tears.
+	114815A8	PII_BC
+	2C01DE7D	PII_AB
+	53E785A0	100
+	490119A0	~z~She says I'm trying to come between them. I have nothing left. Nothing.
+	548396FB	PII_FA
+	0B94C14B	PII_CB
+	5889F3A9	100
+	16EDEBFE	~z~I am sorry.
+	6A9CAA2A	PII_AE
+	0830AD8C	010100100100
+	3A4D8B48	~z~Shit, you got a crush on that bitch or something?
+	466C0FF1	PII_AC
+	16069AB3	010
+ILY_CUT1_1	B8DD56F4	~z~Niko - how are you?
+ILY_CUT1_10	1EE8F1AC	~z~A murdering, drug addicted bully.
+ILY_CUT1_11	296786AD	~z~In many ways, the world is better off without him.
+ILY_CUT1_12	3B21AA21	~z~But, now I am alone.
+ILY_CUT1_13	47CCC377	~z~I'm sorry about that.
+ILY_CUT1_14	5A8EE8FB	~z~And my daughter grows up without a father. She's learning a bitter lesson very early.
+ILY_CUT1_15	A478FCCE	~z~Yes... it's bad.
+ILY_CUT1_16	763FA05C	~z~And now the money is gone, the house got repossessed and we are living in a one room apartment.
+ILY_CUT1_17	BED2B185	~z~The land of opportunity? I'd rather be back in Russia.
+ILY_CUT1_18	9091D500	~z~At least there people don't pretend life has any pleasure.
+ILY_CUT1_19	DB7C6AD8	~z~Do you need money?
+ILY_CUT1_2	CB207B7A	~z~Mrs. Faustin... it's nice to see you.
+ILY_CUT1_20	B5E61EC8	~z~I need more than that...
+ILY_CUT1_21	003CB374	~z~I need someone to come and get a man to leave my daughter alone.
+ILY_CUT1_22	D24BD793	~z~I can see he is a slimeball - I think he is trying to turn her into a stripper, or even worse.
+ILY_CUT1_23	08D6C4A8	~z~What guy?
+ILY_CUT1_24	1C1BEB32	~z~Some slimeball, hangs out on Dillon Street in Schottler.
+ILY_CUT1_25	35139D25	~z~I can't do much for you...
+ILY_CUT1_26	374DA199	~z~but I will get this slimeball to leave your daughter alone.
+ILY_CUT1_27	16C0E048	~z~Niko, thank you, but please... no more killing...
+ILY_CUT1_3	9D5A9FEF	~z~I'm okay... you know... it's difficult.
+ILY_CUT1_4	1B621C00	~z~Yes... very difficult.
+ILY_CUT1_5	1E21217E	~z~I was sorry to hear about your husband.
+ILY_CUT1_6	705745E9	~z~Were you? Maybe. Unlike that treacherous rat Dimitri.
+ILY_CUT1_7	829D6A75	~z~He and I are not friends.
+ILY_CUT1_8	010F6753	~z~My husband was not perfect.
+ILY_CUT1_9	CFE084F6	~z~Far from it, he was awful.

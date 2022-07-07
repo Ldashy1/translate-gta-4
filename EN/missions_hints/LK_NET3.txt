@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	883A5958	Take a picture of the gang members and send it to Playboy. Don't get too close.
+	967975D6	Kill all the ~r~gang members.~s~
+	8529FED3	Use ~PAD_LSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_RSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.
+	67B0D6D2	You are too far from the targets to obtain a clear shot.
+	7A04BCED	Go to the ~y~basketball courts~s~ on Exeter Avenue.
+	DF1D071C	Take down ~r~Marlon.~s~
+	FC54418A	Don't let ~r~Marlon~s~ get away. You have to take him out.
+	DE23902F	Press ~INPUT_PHONE_ACCEPT~ to select the phone's main menu.
+	B7DC6437	Press ~INPUT_PHONE_ACCEPT~ to capture an image on screen.
+	CE380146	Once the picture has been sent, wait a short moment for a reply.
+	256913B3	~r~You didn't answer Playboy's call.~s~
+	26817E5C	~r~Marlon got away.~s~
+	1554DC03	~r~Your cover is blown, you were seen.~s~
+	0075E5C1	Press ~INPUT_PHONE_ACCEPT~ to send a picture to a contact.
+	0D07EDF7	From the menu scroll down and select ~h~Camera.~s~ Activate the camera by pressing ~INPUT_PHONE_ACCEPT~.
+	51D4EC8A	~r~One of the gang members got away, it could have been Marlon.~s~
+	6292B9A5	Use ~PAD_RSTICK_ALL~ to move the camera. Zoom in and out using ~PAD_LSTICK_UPDOWN~. Press ~INPUT_PHONE_ACCEPT~ to capture an image. When taking a photo of a person make sure you get a clear shot of their face.
+	430B4EF7	~r~The target was not identified.~s~
+	2B352A51	To take a picture with your phone you will need to access the phone's main menu. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+	34B81AC9	The ~r~gang members~s~ are across the road, take a picture of them without getting too close and send it to Playboy.

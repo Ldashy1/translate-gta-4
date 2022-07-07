@@ -1,0 +1,27 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8D4C0A99	~s~To throw a grenade, aim at a target then press ~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade.
+	95B21451	~s~You'll see better from a good vantage point.
+	8A981972	~s~You left ~b~Playboy~s~ behind.
+	84C22F7E	~r~The last Union leader got away.
+	8A367D5A	~s~Strike out the ~r~Union leaders.
+	D9C32089	~s~The longer you hold ~INPUT_ATTACK~ the shorter the fuse will become.
+	EC1DC02F	~s~Take down the next ~r~Union leader.
+	C31FEF2C	~s~There are lookouts on 3 of the cranes.
+	A544F083	~r~Playboy is dead.
+	AC0C451C	~s~When not aiming press then release ~INPUT_ATTACK~ to drop a grenade.
+	796CE016	~s~To throw a grenade, free aim or lock on to a target then press ~INPUT_ATTACK~ to pull the pin. Release ~INPUT_ATTACK~ to throw the grenade.
+	39E15BB5	~s~You've been spotted. Get to the ~r~first leader~s~ and take him out.
+	516D8BC9	~s~Use the sniper rifle to take them out.
+	36CAD668	~s~Take out the ~r~lookouts.
+	18A61A1F	~s~Backup has arrived to protect the last ~r~leader.~s~ Take him down.
+	290CBAEC	~s~Go to the construction site and find the first ~r~Union leader.
+	6F0446F6	~s~Get in the ~g~car~s~ to retrieve weapons.
+	738D8D15	~r~Playboy was abandoned.
+	6676F2D8	~r~The car holding the weapons has been destroyed.
+	5C9C36FA	~s~Go to the ~g~car~s~ in the alley downtown.
+	60BA2A62	~s~Playboy has left the weapons in a ~g~car~s~ in an alley downtown.

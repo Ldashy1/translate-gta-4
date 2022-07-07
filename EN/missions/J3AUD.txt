@@ -1,0 +1,125 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A027A364	100
+	A927230A	J3_CA
+	AEEDA521	J3_LD
+	98120833	J3_AA
+	9B48BB94	~z~Oh shit, I didn't have a choice. They was gonna put me away for some hard time.
+	9D36293C	J3_NA
+	B9574534	J3_QA
+	BD545024	~z~Stay away from the burns ward. It's not a pretty sight.
+	C2657F8E	J3_RA
+	B6BC9A7C	~z~I don't think you will be seeing Anthony on the witness stand.
+	B6F672EF	~z~Shit, Niko. You here to see the boss? He's just this way.
+	B7C3228D	J3_IA
+	94E0BB9F	~z~He's not looking too good, Doc.
+	787B7021	100
+	79985DF8	100
+	FEE4F353	400
+	6F933313	~z~Hey, you can't go past here.
+	70773A73	J3_JA
+	77EC4914	J3_AB
+	888B961A	~z~Wait, isn't the boss in jail? What're you here for?
+	8A398603	600600600600600
+	8A6F312E	090
+	7D21CFBC	~z~Do I know you? I've seen so many green doctors, patients and cadavers, I don't recognize anyone anymore.
+	7D2F33EA	400
+	869B1F14	~z~Patient's back there, Doc. Look after him.
+	C35AA786	~z~Huh?
+	EB57DBB1	~z~I never thought it'd be me that turned rat.
+	ECB713F1	~z~He may be a scumbag, but we need him for trial.
+	EFE3BCFE	~z~Cops act all nice when they get shot but it's Mr. Toughguy now that they're down the hall with a witness.
+	E67679EF	~z~I better not be seeing you up there neither. Or anybody else I know for that matter.
+	E79701C1	~z~You think that coat's gonna fool me? You ain't a doctor.
+	EAE171D3	500
+	F7057941	~z~Tell Peg I'm sorry.
+	F940AE98	060
+	FBD4C5E5	~z~I need a little doctor patient confidentiality.
+	F0ADAAE0	J3_LB
+	F4B25871	J3_KA
+	F62E59E6	J3_PA
+	E23643EC	400
+	D1204311	~z~Didn't I just?
+	D12BE91E	300
+	D1B37028	J3_LA
+	C6FBAC37	J3_SA
+	C7D69AE4	~z~Argh... my arm... Peg... Peg...
+	C8C7D9D1	J3_LE
+	DA71E9C7	~z~I wanted to stretch my legs anyway.
+	DAE93771	J3_MA
+	DD6E1813	~z~Hey, watch out for those cops. They're down the hall acting like they own the place.
+	D3C05483	~z~Fucking feds. Turning everybody into rats. See ya round, Niko.
+	D42E9B25	590
+	D6B69D67	J3_PC
+	1909E4A6	~z~Hey, I saw you a second ago. If you're a doctor I'm the Pope.
+	3EF55E58	~z~You should have kept your fat mouth shut.
+	3EA8E77C	~z~It's only hospital staff beyond this point sir.
+	350C4465	J3_AC
+	3E5950A0	~z~This is private back here.
+	13DC0BBD	~z~Any inquiries, try the ER reception.
+	13CADC78	~z~You can have one minute.
+	4B35E10B	J3_LC
+	42C952D8	J3_EA
+	16D81A41	J3_PB
+	1C83B1EB	J3_DA
+	299E33AA	~z~Stupid rat.
+	1E60F744	~z~Keep this fucker away from the witness.
+	1FDE5BF0	~z~Oh, it looks like I messed something up. Sorry about that, Anthony.
+	2044C35C	J3_BA
+	31358B17	J3_HA
+	1A4A3C09	120120210120
+	1B7DA92F	310130
+	2E33390E	J3_FA
+	2FF3CA12	~z~Visiting hours are over.
+	4D43FAF5	~z~No one likes a rat.
+	31A4FF7D	~z~Go to sleep, Anthony. You look tired.
+	096F611A	~z~Can I have some time alone with my patient?
+	543BAD7B	~z~Boss... Peg, is that you? I'm sorry. I'm sorry.
+	5B0B95F4	800
+	0663E7AD	J3_AD
+	059DA079	050
+	01CE3E1F	~z~Protect the witness.
+	5D04A4FF	590
+	61588F39	010100100
+	0F627C38	~z~The witness is down. Stop that Doctor.
+	50BF31EE	J3_OA
+	0F705036	690
+	0E741514	J3_BB
+	5252C2FD	J3_GA
+J3_CUT1_1	FA02D8A0	~z~Not you as well. Tell me it ain't you as well, you Slavic fuck!
+J3_CUT1_10	FC96A2B2	~z~My personal bodyguard wearing a wire!
+J3_CUT1_11	0E404605	~z~I raised that kid like he was my own.
+J3_CUT1_12	B81899B7	~z~I beat him like he was my own son!
+J3_CUT1_13	C9C73D14	~z~When my son killed himself, Anthony became my son.
+J3_CUT1_14	4572346C	~z~Now this? The world is a cunt!
+J3_CUT1_15	50004988	~z~Where is Anthony?
+J3_CUT1_16	60F6EB75	~z~I heard he's wearing a wire, so I freak out...
+J3_CUT1_17	EB9100A7	~z~I call him up...
+J3_CUT1_18	6F2B87DE	~z~he's such a moron, he leaves his cell phone on, so we speak.
+J3_CUT1_19	98FBDB7E	~z~after he's gone state's of course...
+J3_CUT1_2	0C517D3D	~z~What you talking about?
+J3_CUT1_20	6F9800CF	~z~I mean, Jesus, what a chump.
+J3_CUT1_21	8151A442	~z~He freaks out on the phone, and I put the fear of God in him.
+J3_CUT1_22	5CB75B06	~z~I think maybe I've talked him out of it...
+J3_CUT1_23	6EF9FF8B	~z~then he has a Goddamn heart attack on the phone.
+J3_CUT1_24	7A1D15D1	~z~I'm thinking problem solved - he's dying right in front of my ears.
+J3_CUT1_25	8A8AB6AC	~z~But the asshole lived and now he's in the Leftwood hospital under heavy guard.
+J3_CUT1_26	0579AC84	~z~Okay, okay.
+J3_CUT1_27	0FBFC110	~z~Of course, he's got you on the fuckin' tape too.
+J3_CUT1_28	232567DB	~z~Of course.
+J3_CUT1_29	4B40B819	~z~So you'll do this for me?
+J3_CUT1_3	20ABA5F1	~z~Speak, you Balkan piece of shit - I'm done with you, done with everyone.
+J3_CUT1_30	77061EAB	~z~So you want me to talk to him?
+J3_CUT1_31	82A135E1	~z~I want you to whack him.
+J3_CUT1_32	53D2D845	~z~And after that I want you to kill all the other rats I surround myself with...
+J3_CUT1_33	66157CCA	~z~Okay, okay. Don't worry.
+J3_CUT1_4	7AE75A67	~z~I'll go, but I ain't going quietly!
+J3_CUT1_5	45286EEA	~z~Mr. Pegorino, I don't know what you're talking about. I came as quickly as I could.
+J3_CUT1_6	0F6A036E	~z~Fucking Anthony!
+J3_CUT1_7	B38C4BB8	~z~What about Anthony?
+J3_CUT1_8	C1CAE835	~z~He was wearing a fucking wire!
+J3_CUT1_9	8C21FCDC	~z~That is a problem.

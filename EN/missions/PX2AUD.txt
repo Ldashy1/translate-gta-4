@@ -1,0 +1,106 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9365BF2C	~z~Peace out, cousins.
+	9534D09E	PX2_AD
+	8A69390B	PX2_AF
+	8E91C438	PX2_AE
+	9EED498D	~z~So shut the fuck up.
+	ABF79FDE	~z~You the man, son. You money. You my ice-cold Slavic killer! See you soon.
+	AF8356F6	~z~Marlon's the one dressed like a damn canary. Wearing that yellow jacket and shit. Get rid of him.
+	A29A0F02	PX2_BA
+	A72F7DC6	~z~Come see me when you can handle the shit I got for you to do.
+	86ADCED7	PX2_FB
+	72060D79	PX2_AB
+	7219F00C	~z~What you doing, man? You not thinking.
+	6686D8C1	~z~What you talking about? You a drug dealing gang banger.
+	719690E0	100010
+	7622FD02	100010
+	81F31C47	~z~Who you eye ballin', fool?
+	845B8519	010100100
+	778D141B	PX2_AJ
+	7BA88869	130130
+	DA38FF33	PX2_BB
+	DD066973	~z~I thought you was my boy, Niko? I thought you knew how to chase down them dollar bills?
+	D58537B6	210120
+	D8C1A972	~z~I'll do it.
+	E6D61B82	PX2_FC
+	EC3663D3	~z~Yo, money. Marlon's the one in the black jacket. Smoke him.
+	EDAF16FA	PX2_GA
+	E7E08A37	010100
+	E8FF2EDA	~z~Money, Marlon's the man in blue. Ice that bitch.
+	C55E88A8	PX2_AH
+	BA139627	PX2_AK
+	BDFF8766	~z~Sure.
+	AFC4B66C	210120120120210210210210120
+	B5587663	~z~Whatever you say, fool. I'm free.
+	BE1EC42C	~z~Marlon is dead.
+	C28D3481	~z~Your man got away.
+	C2BB62A2	~z~Shit, Lieutenant, that's something I was forced into from the necessity of my financial situation.
+	C0085D3C	~z~My body is forced to rob and deal in order to sustain my own well bein' and that of my immediate family.
+	C246FE25	PX2_CA
+	0C7D75D6	~z~Yeah.
+	31F1E02F	PX2_EA
+	0D2792FD	PX2_CB
+	28525C55	~z~... and that's why the Penetrators ain't doin' nothing this season. They got no one who can work the lanes, man.
+	031C91EA	~z~That's the oppressors limiting your mind.
+	30564062	100010
+	33879BE6	PX2_GC
+	39F6FF9E	~z~You conforming to stereotypes, cousin. All you talk about is the rap game and basketball game.
+	15ED487C	PX2_HA
+	3A690086	~z~You 'bout as stereo fucking typical as they come.
+	44E947EF	PX2_FA
+	448F14F7	~z~I shot at the guys by the courts.
+	44353210	PX2_AC
+	2578F4B1	PX2_DB
+	61DBC836	PX2_EB
+	18D9BD64	~z~Ain't there something more elevated you can conversate on?
+	665ACB92	PX2_AG
+	1938E671	PX2_GB
+	6514E4FC	PX2_DA
+	637452C1	~z~I didn't even tell you what Marlon looked like. Get it together and come see me.
+	58E3DE65	PX2_AA
+	23746113	010100100
+	50DB2D6A	~z~My mind ain't trapped. I just like hearing cats spit rhymes and I know you like pushing rocks on the corner.
+	542943D3	PX2_HB
+	4F9E428A	PX2_AL
+PX2_CUT1_1	ABDC3C10	~z~Wassup, money?
+PX2_CUT1_10	FC2ACB04	~z~No?
+PX2_CUT1_11	4A1766D8	~z~No...
+PX2_CUT1_12	17E2826F	~z~Some motherfucker's been calling me a phoney, calling me a snitch,
+PX2_CUT1_13	BF3E512C	~z~calling me all kinds of bullshit.
+PX2_CUT1_14	D6037EB6	~z~Big deal...
+PX2_CUT1_15	0B0F68CD	~z~Yeah big deal. Damn right! Until I discover, that same motherfucker?
+PX2_CUT1_16	F18735BD	~z~Well... he's got some real loose lips.
+PX2_CUT1_17	982B0302	~z~Not bad. So, you need this guy silenced?
+PX2_CUT1_18	A6DAA061	~z~Yeah. He hangs out with his team near the courts on Exeter between X and W.
+PX2_CUT1_19	C3C5DA37	~z~Okay. What does he look like?
+PX2_CUT1_2	FA9F5995	~z~Not much, how are you?
+PX2_CUT1_20	46B150FC	~z~Well, son ain't too diesel or nothing, he a regular lookin' dude, nahmean?
+PX2_CUT1_21	8FCC6331	~z~Now he don't flash his guap too much,
+PX2_CUT1_22	660E0FB5	~z~but you can see it in his eye, that he a hustler.
+PX2_CUT1_23	3B413A1C	~z~Eh?
+PX2_CUT1_24	1189E6AE	~z~Homie ain't too brolic, but he ain't scrawny neither.
+PX2_CUT1_25	5696F0C7	~z~And he be stylin' on 'em a little, ya dig?
+PX2_CUT1_26	2CD49D43	~z~I mean, he ain't too bummy, but he grimy too.
+PX2_CUT1_27	E2478876	~z~So, he's the average one?
+PX2_CUT1_28	F7F0B3C8	~z~Look. He's brown skinned, B.
+PX2_CUT1_29	FED3418D	~z~Motherfucker be rockin' baggy clothes all that -
+PX2_CUT1_3	C769F32B	~z~Chilling... s'all good.
+PX2_CUT1_30	B9D5C41B	~z~jewels, and he stay fresh with the clean sneakers, nahmean?
+PX2_CUT1_31	EC90298F	~z~And sometimes a bandana.
+PX2_CUT1_32	DE728D54	~z~Look. I need more than that to go on.
+PX2_CUT1_33	A6D19E0F	~z~Jesus.
+PX2_CUT1_34	91707349	~z~Here, take this, head down there, take a photo,
+PX2_CUT1_35	C84360F2	~z~send it to me, and I'll point out which one of them motherfuckers it is.
+PX2_CUT1_36	B9DAC421	~z~Fine.
+PX2_CUT1_37	5DCC0C01	~z~And that's a little gift for you.
+PX2_CUT1_4	9623109E	~z~Well, mostly good.
+PX2_CUT1_5	65BAAFC6	~z~Mostly?
+PX2_CUT1_6	B365CB23	~z~Yeah, Dwayne's been getting on my nerves... pushing me, man.
+PX2_CUT1_7	8076653D	~z~But whatever... we spoke about that shit already.
+PX2_CUT1_8	4EFB8248	~z~Give him time. He's just out of prison.
+PX2_CUT1_9	4C497CE0	~z~For real... listen, G. Dwayne ain't the only thing I got on my mind...

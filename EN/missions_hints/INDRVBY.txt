@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	847AEE3A	~s~If you are in a vehicle and have an appropriate weapon you can fire it.
+	7FC1FD82	~s~Press ~INPUT_VEH_HEADLIGHT~ to select different weapons to perform a vehicle attack with.
+	7F06FD5E	~s~Go and get a ~b~car~s~ to be used in the attack.
+	B479E843	~s~Clean out the ~r~gang members.
+	AE82032F	~S~They are trying to escape in a ~r~car,~s~ don't let them get away.
+	9B30B5B1	~s~Go to ~y~Windmill Street.
+	20D3A6ED	~s~Use ~PAD_RSTICK_ALL~ to aim at your target.
+	14CC088E	~r~Some of the gang members outside the garage got away.
+	06016AF9	~r~Some of the gang members got away.
+	7029C598	~s~To fire your weapon from a vehicle, hold ~INPUT_VEH_ATTACK~.
+	630C6851	~s~Press ~INPUT_VEH_NEXT_WEAPON~ to select different weapons to perform a vehicle attack with.
+	268EAC13	~r~Some of the gang members in the car got away.

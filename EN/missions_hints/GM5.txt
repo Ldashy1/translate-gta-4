@@ -1,0 +1,31 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AAA9EE97	~r~ Packie and Gracie are dead.
+	AB390798	~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+	B1D169D7	~s~Make your way across to the ~y~walkway.
+	860D124F	~s~Go around the back to the ~y~exchange point.
+	87222788	~r~ The car was destroyed.
+	8D6BA0E4	~s~Drive to the ~y~Charge Island Sewage Works.
+	F0B3C01E	~s~ You are too far away from ~b~Packie.~s~ Go back and get him.
+	F1AF7CA1	~r~Packie is dead.
+	F8E4D9E8	~s~Lose your wanted level.
+	BC81FF10	~s~Wait for ~b~Packie~s~ to get in the car.
+	EF616F45	~s~Go to the ~y~meeting point~s~ upstairs.
+	F038C3F2	~s~Take out the last of ~r~Bulgarin's men.
+	802B199A	~r~Gracie is dead.
+	2245B5AE	~s~ Take Packie back to his ~y~Ma's House~s~ in Dukes.
+	33A4DDF5	~s~When on a ladder, press ~INPUT_SPRINT~ and use ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+	35A2E04D	~s~When on a ladder, press ~PAD_Y~ to slide down quickly.~s~
+	0130893D	~s~Take out ~r~Bulgarin's men.
+	0866218A	~s~Take down the ~r~reinforcements.
+	1624DDD5	~s~When on a ladder, use ~INPUT_SPRINT~ and ~PAD_LSTICK_DOWN~ to slide down quickly.~s~
+	4E5B3633	~r~ Gracie drowned.
+	53636499	~s~Follow ~b~Packie.
+	7F2E0469	~s~Go to ~b~Packie's car~s~ in Northwood.
+	3C5C8B62	~s~Continue to the ~y~Charge Island Sewage Works.
+	47EB8294	~s~Continue to the ~y~exchange point.
+	4ABB9B85	~s~Get back into ~b~Packie's car.

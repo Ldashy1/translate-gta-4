@@ -1,0 +1,282 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A29DAB51	BC3_A_HB
+	A1712EA2	BC3_RA
+	A133DF76	BC3_KD
+	A46B87F8	BC3_CE
+	A829AD9D	BC3_KC
+	A6947FC2	~z~Uh oh.
+	A4CC5CB3	~z~Stop immediately or we will use lethal force.
+	A0B26166	~z~Fun time.
+	9B9C8390	101101101
+	9B3DFC31	BC3_OA
+	9B17A47E	BC3_NA
+	9D5D6F2D	~z~Do you want to go to a musical later? There are some great things playing on Burlesque at the moment.
+	A090DC94	BC3_A_CC
+	9FF7FFDB	100
+	9DF99662	BC3_A_EA
+	A8D2E511	~z~Mmmm.
+	B2A6F868	~z~Stop your engines at once or you will be considered a security threat and eliminated.
+	B23648E8	~z~Ruler of the high seas, Niko Bellic.
+	B22F644F	~z~So long sailor.
+	B2F905F3	~z~Yee haw.
+	B9055D09	100100100100010010100
+	B77EC503	~z~We got them.
+	B41C0584	~z~My feet need to feel solid ground, Niko.
+	B1D16587	100
+	AB631917	BC3_CA_QQQ1
+	AB35B527	~z~Balls.
+	A98871DF	BC3_A_CC_QQQ1
+	AEC2387E	BC3_KE
+	B138F734	BC3_ZA
+	AFB8999A	BC3_A_BB
+	AF94ABDE	100
+	81BAA34C	~z~They got away from you, babe. Who knows when they'll come back. I'll never sleep again.
+	819F4AAB	~z~We're going after them.
+	7F889041	~z~Stop your engines immediately. This is the Harbor Unit of the Liberty City Police Department.
+	82555AB2	100100010
+	84DD554C	BC3_BA
+	840F19FF	100
+	83929A91	~z~Ahoy, sailor. Cute guys off the starport brow!
+	7F6A85D7	~z~Go toward the headland, that's where the best rays are going to be.
+	7E7945B5	BC3_YA
+	7B162EEC	~z~This isn't good.
+	7B126A44	BC3_A_IA
+	7E83DB45	~z~You'll catch something.
+	7F30E2D6	~z~Take them.
+	7ECBC5F0	BC3_FA
+	7EC1CDBD	~z~Ahhhhhh! Bryce's boat.
+	85444348	~z~Move it, sister.
+	93948AAD	BC3_LC
+	92D0F3FD	~z~Perfect, sweetie. Let's stop.
+	929969AD	~z~They're wide open, sweetie, I'm focused. One hundred percent. Let's get 'em.
+	94BC0CE8	100
+	99AE6F24	100
+	974DE753	~z~We're losing them.
+	97254B8F	~z~Get me to the coast. I'm done with this.
+	8F8F51B8	~z~Bryce's boat.
+	89C34BB0	BC3_CA
+	863A63A3	~z~Punish them.
+	859A43EC	~z~Channel your anger, Niko. Catch up to them.
+	8A15FAB4	100
+	8F483E92	~z~Up and away.
+	8D97CA8F	BC3_GA
+	8D1B2138	~z~Head out to sea, sailor.
+	B90D3366	BC3_LA
+	EB1054CB	BC3_EA
+	EAAAA804	BC3_A_AA
+	E97C376F	~z~We got them.
+	EBA09AF1	BC3_CB
+	EFF3F013	100010100100010
+	EF1BA452	BC3_FA_QQQ2
+	EE001A34	BC3_CD
+	E8741F42	~z~This is as good a spot as any.
+	DD22D0FA	~z~The bitch and her brats will never forgive him. Thanks, Niko.
+	DC2116A3	BC3_KB
+	DBDFB084	BC3_VA
+	DFEB2040	100
+	E5E78B68	100100
+	E57AB993	100
+	E26CB6E6	~z~I like them tight but not that tight.
+	F0DABD3B	BC3_A_FA
+	FD92BFA2	~z~I don't know. We just got to get these guys or they'll just come back.
+	FB5BD199	BC3_PA
+	F6B73447	BC3_UA
+	FDBE7017	292
+	FFFC2C81	~z~~c~This is a message from Dimitri Rascalov.
+	FEDABB3E	BC3_DD
+	FDCC2A4E	100100010010010100
+	F6767DAD	~z~I've still got my sea legs, I'll wait here.
+	F2E0A519	BC3_A_BB_QQQ1
+	F212425D	BC3_KA
+	F203B336	~z~Hop in!
+	F3430427	BC3_A_CD
+	F5501F11	~z~Bryce would never be seen with me at a play. People would ask questions.
+	F48BDB24	~z~Ohhh, close shave.
+	F3E31730	396
+	C1B7C599	BC3_TA
+	C1B43C1F	~z~How many knots are you doing, Niko?
+	C13A350D	~z~The bitch ain't gonna be happy.
+	C4B9301B	010
+	C7BC8F09	~z~Bye Niko.
+	C6953E92	100
+	C56CC304	~z~I don't know how else I can help you.
+	C0B46C13	396
+	BB85C552	~z~Drop anchor, skipper.
+	BA14073E	~z~This is your final warning. Stop your engines or force will be employed.
+	B99FFA41	~z~Go out toward that beach, Niko.
+	BE49111E	~z~Hey Bernie, are we cool to stop around here?
+	C08597C0	~z~They're gone, Bernie.
+	BF63CE58	BC3_IA
+	BF2CDD15	~z~Oh, crap.
+	C9160F43	100
+	D798E80E	~z~They're making a run for it, the land lubbers.
+	D696FC5D	~z~Jump in!
+	D3AB0BCD	~z~Giving it to them from behind.
+	D7DDCF0D	BC3_JA
+	DA9BB4C7	~z~Goodbye hon.
+	D9514363	~z~I'll watch the boat.
+	D7E867FB	~z~I think she suspects. It's a nightmare.
+	D3431E8D	100
+	CB200FC5	~z~You can handle this, right? I need to give Bryce his boat.
+	C9DB4C93	~z~We've scared them off the water, Niko.
+	C93E2FC8	~z~The life at sea is not for me. Take me back to terra firma.
+	CC615179	~z~They're leagues ahead, sweetie. What are you doing?
+	D083B593	~z~Hey Bernie, I'm going to stop here. That cool with you?
+	D00F3CE8	BC3_AB
+	CDD4325D	~z~Bryce's boat is as well, practically.
+	7AE82E88	~z~Come on, Niko. Put this thing into overdrive.
+	34230849	~z~Whoa.
+	33BEF3E8	~z~I'm sorry our fun day wasn't so very much fun. See you soon.
+	3288C316	~z~My hair's going to go all frizzy.
+	353650C2	BC3_MA
+	37AE7F26	~z~Uhh, my hair will never recover from this. It's a disaster, Niko. Wish me luck.
+	363750E4	~z~They're in our sights.
+	35EA077C	BC3_AA_QQQ1
+	30EB390E	~z~Go after them.
+	292B7889	100
+	2874855D	~z~I get all the stress of having a man but none of the perks. That's my tragedy.
+	27A7AD50	~z~That singed my eyebrows.
+	2998B34F	BC3_LD
+	30061839	~z~I know, sweetie, let's forget about him and have some F-U-N!
+	2B2FC86F	~z~This is going to give me blemishes.
+	29FEB668	100
+	44DB429D	~z~They're taking to the high ground, sweetie.
+	44D19E8C	~z~Why don't I just up and leave for San Fierro. They'd understand me there.
+	446D7E47	~z~I'm at the Pier in Fishmarket South. I need you... now.
+	451BCD3B	BC3_DC
+	4703C0AE	~z~Do you think they'll notice that?
+	4660ACC4	~z~We're airborne.
+	45A0436D	~z~Look how long it took me to find you.
+	42056588	BC3_LE
+	39DAE5C5	~z~I could almost feel it.
+	39B1BCE5	BC3_FA_QQQ1
+	39566C30	~z~I've got to get the bitch her dingy. Good luck.
+	3A2B9051	100100100010100100
+	3EAF91E5	~z~Does this look like the type of place we could hang out, Bernie?
+	3BB283D3	~z~Our noble hero returns from battle.
+	00D250D3	~z~Come on Sugar, in!
+	2795C8AF	~z~So long, sailor. Bernie has a lot of explaining to do.
+	0A647091	BC3_QA
+	09C38ABE	BC3_SA
+	08F09E4C	~z~See you.
+	0A7052B7	BC3_HA
+	0D8631E6	010
+	0CB4CF77	011
+	0C5EADA7	~z~Get himself elected for who he really is.
+	07E76DD4	~z~I wanted to get a tan, not a burn.
+	0395BB9C	~z~Musicals aren't really my thing, Bernie. You should go with Bryce.
+	02FA25C5	~z~Soldier, you ain't such a sailor. They got away. Now I've got to face the music.
+	02B79FB4	396
+	04A51A0E	~z~See you in a bit, Niko.
+	06F25274	BC3_CB_QQQ1
+	066B431F	BC3_A_HA
+	04F9EE6A	~z~There she blows.
+	230E9D55	~z~Make 'em suffer.
+	21BFB00D	100
+	20B325DC	~z~~c~We got you
+	233F2483	~z~Ohhhh.
+	26D1BFB3	~z~You cut it fine, don't you Niko?
+	25C8A575	BC3_KF
+	2588577B	~z~Niko, you are my knight in shining armor. Thank you.
+	1E10744E	~z~Niko, my life is in turmoil.
+	1399D3BC	~z~Do not be fucking with Dimitri Rascalov.
+	12AB9AC4	~z~Shit, Bernie, you're in trouble. I'll be there.
+	124E415D	BC3_A_CB
+	13A3B711	~z~You've destroyed Bryce's boat and I must have an infection from this water. This was the least fun ever.
+	1D1901A0	~z~They can't do that to us.
+	19D25EC0	100000100100
+	158E0921	~z~Ahhhh.
+	5F0552FB	~z~Haters, haters, haters. This city is full of haters, Niko. I just don't get it.
+	5E679B01	~z~Niko, they're getting away.
+	5E4A4DC1	~z~This is the LCPD Harbor Unit. Stop your engines and prepare to be boarded.
+	601AD39E	~z~Scratch that, not so cute.~c~ Ugly Russians.
+	64E10E58	BC3_WA
+	62349DE7	BC3_A_GA
+	75D83C15	100
+	5B5C12ED	~z~Let me see. They don't look like they're on a pleasure cruise.
+	5A7D7EDA	BC3_DA
+	5A2678C8	~z~Bryce's wife is going to freak out about his boat. This was meant to be our fun day, Niko.
+	5BABD657	BC3_AA
+	5D989314	BC3_XA
+	771CB2B4	~z~I told you that there was no time for this. People are after me and I have to stay alert.
+	5D0972B9	BC3_A_BA
+	660FE108	~z~You don't go because Bryce is here.
+	6975B0A0	BC3_LE_QQQ1
+	695F1739	~z~You, Bernie, are in this too. You have to keep your eyes open.
+	69218A6F	~z~His wife is getting on his back about yours truly -
+	6C36B69F	~z~I've heard of mud packs but that river is practically sewage.
+	70C93FD0	~z~You've got more important things to do than backstroke.
+	6E64413D	~z~Shoot them.
+	6E447C60	~z~We lost them, Niko. They're probably goin' after Bryce now. They've probably killed my baby.
+	66DE1529	~z~We're getting these scum.
+	662CC1C9	~z~Niko, Jesus, Niko.
+	74F625D8	~z~Be the water, Niko. Be the waves. Catch them.
+	72E69867	~z~I'm definitely not saying I took this now.
+	71842723	BC3_DB
+	69118ADB	~z~Snap to it, sailor. You're losing them.
+	68BB8A37	~z~They're getting away.
+	7A882D3C	~z~Bryce is pulling his hair out over this blackmail thing.
+	531E7C38	~z~Yee haw.
+	53363FEC	BC3_A_CA
+	49E3783C	~z~Didn't see that one coming, did ya?
+	5587F7BC	100
+	52943A11	~z~I came here because it was meant to be the most progressive city in the world. But it just isn't.
+	4DF7A85D	~z~They're not a problem anymore.
+	7A24527A	~z~That cannot be good for your skin.
+	4B85DCEA	BC3_CC
+	4B75DB67	~z~Why does everything that's meant to be fun have to be so miserable?
+	4F2BAF84	~z~This is the LCPD Harbor Unit, stop your engines.
+	49919D91	100
+	486DA0A4	~z~I don't know what I'm going to tell Bryce about this. The bitch will really stick the knife in now. Bye, Niko.
+	586645B5	~z~Bryce could come to San Fierro. He could even be himself there.
+	492F3EEA	~z~Dimitri Rascalov sends his regards.
+	7930D4BE	BC3_LB
+	479DC950	BC3_A_DA
+	5927DD6B	010100100
+	58EFB347	100
+BC3_CUT1_1	DB8D5AF0	~z~Yoohoo!
+BC3_CUT1_10	D428F940	~z~Oh, sometimes, I can't bear to be alone.
+BC3_CUT1_11	E1DC14A2	~z~I'm so glad you've come back into my life,
+BC3_CUT1_12	EFA2B02F	~z~even if you did try to kill me.
+BC3_CUT1_13	0D3AEB5F	~z~I'm so excited!
+BC3_CUT1_14	8D236B36	~z~What are we doing here?
+BC3_CUT1_15	997B03E5	~z~We're going to have fun!
+BC3_CUT1_16	A7C4A078	~z~Fun?
+BC3_CUT1_17	C606DCFC	~z~Yes.
+BC3_CUT1_18	E4AE1A7E	~z~It's a four letter word, I know, but we can still try.
+BC3_CUT1_19	D312F74C	~z~Look! More people want me dead than alive.
+BC3_CUT1_2	09C0B756	~z~Bernie, what's wrong?
+BC3_CUT1_20	561D7E87	~z~I'm working for the Mafia.
+BC3_CUT1_21	205B1303	~z~The police and a government agency are both on my case.
+BC3_CUT1_22	32A7B79C	~z~I kill and steal to scrape together a living
+BC3_CUT1_23	FADE480A	~z~so that my cousin can fritter it away online and pay off debts...
+BC3_CUT1_24	7B22C895	~z~and all the while?
+BC3_CUT1_25	8D646D18	~z~People are trying to kill us!
+BC3_CUT1_26	579F018E	~z~What is fun?
+BC3_CUT1_27	43F7DA3C	~z~Honey...
+BC3_CUT1_28	C44E5AEB	~z~you...
+BC3_CUT1_29	D603FE56	~z~are stressed.
+BC3_CUT1_3	C00BA3ED	~z~Nothing sweetie.
+BC3_CUT1_30	5EF08CC9	~z~Goodbye, Florian.
+BC3_CUT1_31	70472F76	~z~No! No! No! No! No you don't, Niko. I need you.
+BC3_CUT1_32	937675D4	~z~I need you to come on this boat trip with me.
+BC3_CUT1_33	A4979816	~z~I need to talk to someone who truly knows me.
+BC3_CUT1_34	25FD1ADF	~z~When I knew you you were training to be a shepherd.
+BC3_CUT1_35	375DBDA0	~z~And you wanted to be a professional wrestler.
+BC3_CUT1_36	3A70C3C6	~z~Actually, maybe it does all makes sense.
+BC3_CUT1_37	4B486575	~z~You understand me. Both of me!
+BC3_CUT1_38	E5269933	~z~Come on. Bryce accidentally left the keys on purpose somewhere I could steal them.
+BC3_CUT1_39	F7EB3EBC	~z~You drive, I'll work on my tan. My midriff is really pale.
+BC3_CUT1_4	EC71FCB9	~z~Oh, my God. You were the lucky one.
+BC3_CUT1_40	CEE46DD7	~z~Alright, lets have...
+BC3_CUT1_41	BB26465B	~z~fun.
+BC3_CUT1_5	12B8C946	~z~What?
+BC3_CUT1_6	412A2640	~z~You could slice cheese on those puppies.
+BC3_CUT1_7	F945165F	~z~I must be the only Slav without cheekbones.
+BC3_CUT1_8	25116DF7	~z~I'm thinking of getting implants.
+BC3_CUT1_9	88AD3545	~z~But you sounded hysterical.

@@ -1,0 +1,307 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ACFDD01D	~z~Look, if you're only going to pick me up in crap cars, I'll get Daddy's chauffeur to drive us.
+	AD5EEDC1	~z~I've said it before, Niko, but I like your car.
+	AC38A2C2	GCA_ACT_ARRIVE_CLUB_FAVOURITE
+	AC63EBCF	~z~Most guys I know trade up their cars whenever they can. It's good that you're holding on to this one.
+	AE78950B	GCA_ACT_PAL_INTRO
+	B0B7BE0B	~z~What happened to your face? It's those cheap glasses.
+	B308C2AD	~z~Eww, never wear those glasses again. They just scream bargain bucket.
+	AE874138	010
+	AEE37EF7	~z~Ohh, take me where you wanna take me biker boy.
+	A44D8DD9	GCA_ACT_ARRIVE_LATE
+	A56373BA	100100
+	A2D26742	~z~Niko, you have got to learn you get what you pay for and you didn't pay much for those pants.
+	A310E1C0	GCA_ACT_CAR_SAME_BAD
+	A69EACE8	GCA_ACT_PAL_HAT_BAD
+	AA4809FB	~z~If anything, that hat looks expensive, which is so in.
+	ABA30299	~z~Darts, how quaint, Niko.
+	A82F6208	~z~Nice, car. I got one of those for my sweet sixteen.
+	A9F9C0F1	~z~Yeah, I'd be surprised if they let you into any clubs wearing those shoes.
+	B314BD1B	GCA_ACT_PAL_GLASSHAT_GOOD
+	B98FA4C6	GCA_ACT_ARRIVE_DARTS_LAST
+	B9A14B67	~z~Well, getting rid of that old car was the first step toward self-improvement. Well done, Niko.
+	B896D826	~z~You're chest looks really cut in what you're wearing.
+	B933330F	GCA_ACT_CAR_NONE_AA
+	BA5552AE	100
+	BEC0655F	~z~Yeah, well maybe you should have done more than buy coke off drug dealers since then?
+	BFA28A52	GCA_ACT_PAL_CAR_BAD
+	BB76ED0F	~z~You really do like cheap cars, don't you Niko?
+	BD51A5F6	~z~Oh, darts. This is a real working man's pastime, isn't it.
+	B4F52798	GCA_ACT_ARRIVE_STRIP_BEFORE
+	B542EC78	~z~Those glasses give you a good vibe, Niko.
+	B3A3F3FF	GCA_ACT_CLOTHES_OKAY
+	B43D4D0C	010
+	B55B264B	~z~You're on foot. Are we taking a taxi or walking?
+	B82CA243	100
+	B8428F75	100
+	B5BEBFEF	100
+	B76A5AD3	100
+	A27B04F5	GCA_ACT_PAL_NOHAT_BAD
+	8BDB82C2	GCA_ACT_ARRIVEF_LATE
+	8C3C12D8	100
+	8B157D5A	~z~Your ass is giving mine a run for its money in those pants.
+	8BD42EA6	100
+	8C75949C	~z~The good thing about you seeing all these strippers is you'll realize how much better my body is.
+	931862BF	~z~Pool, Niko? Were you in a frat house or something? What next? Keg stands?
+	9330BE36	~z~Oh God, I hope none of my friends sees me out with a man dressed like this.
+	909A196F	100
+	917A795D	GCA_ACT_BORED_TAKEHOME
+	81731ABB	~z~You really need help in the fashion department, Niko.
+	882783C8	~z~What aren't I into? I'm just a Liberty city girl. I like shopping, lunches with the girls, cocktails.
+	80904F24	100
+	81635F63	~z~Niko, can't you go for a more preppy look? That hat makes you look like a criminal.
+	883432D2	GCA_ACT_PAL_TORSO_BAD
+	89CD7CE5	~z~It's a shame you got rid of those glasses, they made you look sophisticated.
+	8AEFCD63	~z~So, you take the whole "If it ain't broke, don't fix it." attitude to getting dressed then?
+	88EB24DA	~z~I like this car, I'm getting used to being driven in it.
+	89C128F9	~z~Hey mysterious European, let's go.
+	96C03344	GCA_ACT_PAL_FEET_BAD
+	9DD62F00	~z~Alright, change of plan. Take me somewhere else.
+	9E6DC7EA	100
+	9C8A637A	100
+	9C8FB0C2	~z~This car is alright, I think we bought my maid one.
+	9E74A85D	~z~You're dating an intellectual girl, maybe she's into things that are more cerebral than playing pool.
+	A17D29D2	GCA_ACT_CLOTHES_GOOD
+	A1EE10BD	~z~I remember going to the opening party of this place, it was wild.
+	A0AC377A	~z~Okay, you sell one crap car and you buy another. When did that ever make sense?
+	A0FA361C	~z~You look pretty good, Niko. Is that this season's collection?
+	98D02D26	~z~I like those shoes, very smart.
+	98E66950	~z~I liked those clothes the last time you wore them.
+	96DD8CEE	100
+	974E773C	~z~I'll explain anything to you that you don't get afterwards.
+	99F62765	~z~I write a blog. It's Liberated Woman on blogsnobs.org.
+	9C1345BA	~z~If you want to take me to a show, Niko. I'd check what time they started.
+	9C2CDDDE	GCA_ACT_BORED_LEAVING
+	9A68103D	100
+	9B483241	~z~I can get down with strippers. I can get into this. Let's go.
+	ECAFC87B	100
+	ECFF15BB	100
+	E92B5CB6	GCA_ACT_ARRIVE_SHOW_LATE
+	E9A006D1	GCA_ACT_CAR_NEW_GOOD
+	ED3C40E1	GCA_ACT_PAL_CAR_GOOD
+	EF54F41B	~z~Hey Niko. Let's go.
+	F002F7DD	~z~Yeah, don't worry Niko. I mean we all make fashion mistakes.
+	EDBA4BCC	~z~I'm the only person who's allowed to be late, Niko. You're making me sound like my mother. Just drive.
+	EDDF336A	~z~Okay, well you're moving up the ladder in terms of cars. You're moving slowly but you're moving.
+	E5BF5E21	~z~A motorbike? I haven't been on one of these since I dated a drug dealer in high school.
+	E60E0FCD	~z~Shit, if I see another fucking pool table I'll scream.
+	E1398BF7	~z~You were probably expecting some freak was going to kidnap you, right?
+	E452D1C0	~z~Niko, I've been waiting. No fucking wonder when you haven't brought a car.
+	E6695493	100
+	E703E6BE	~z~I only really dress up when I have to.
+	E84524E0	~z~Darling, with clothes as with everything else, you buy cheap, you buy twice. I think you'll be trading in your top.
+	E69EDD59	100
+	E6CF8933	~z~Well if I'd known that you didn't have a car I'd have got the chauffeur.
+	F0115E67	~z~Niko, I don't care how long you've had this car but I hate it.
+	FB7E8D1D	100
+	FB9125A3	~z~Uhh, thanks.
+	F884EAFE	GCA_ACT_CAR_BIKE
+	F9D271E9	~z~Oh, Niko. It's sweet that you're attached to this car but it really is disgusting.
+	FC64B45D	~z~Well I guess this is a walking date.
+	FEDC7FC1	GCA_ACT_ARRIVE_SHOW_RGERV
+	FFD2601A	100
+	FCD31774	~z~Niko, I'm starting to worry about you. Do you only want to look at naked women?
+	FD2DAB6F	010
+	F2EF5159	100
+	F31659A8	~z~I'm an intellectual, Niko. I like the finer things like culture and cocktails and gourmet food.
+	F0F82D50	GCA_ACT_CAR_GOOD
+	F14EA375	100
+	F3C6CE8D	~z~Well okay, the top half of your outfit is really working for me.
+	F4CE80C4	100
+	F5AD1903	100
+	F3F54489	~z~Okay, there's a reason why trendy people don't wear hats.
+	F44CC0EA	100
+	E0BED8CA	100
+	CACEBF57	~z~God, this place really reminds me of being underage.
+	CAE5D465	GCA_ACT_PAL_GLASSHAT_BAD
+	CA4CAFC3	100
+	CABBED9C	~z~Ooh, it is so nice to be taken in a car that isn't a death trap. Thanks for trading up, Niko.
+	CB889296	~z~Those shoes are nice, I might get some for Daddy.
+	CFC192FF	~z~The way I think about it, even if I hate something, I can write a blog about it.
+	D0E35198	GCA_ACT_PAL_CLOTHES_OKAY
+	CC9ABAD2	~z~It was brave of you to come out in these pants, Niko.
+	CD474DE2	010
+	C2A38E62	~z~Uhh, Niko. I was starting to think I'd been stood up. Umm, I'm not walking by the way.
+	C40089F3	~z~I'm digging those glasses.
+	C10BE789	100
+	C209B1EC	100
+	C5246512	~z~Niko, are you trying to lubricate me with liquor before making a move?
+	C8DD8213	~z~Okay, well you've wasted my time by being late. Don't waste my time getting me where we're going.
+	C9F93F84	~z~This is getting boring. I thought we were meant to be on a date? Can you take me home?
+	C71AFCDC	~z~I actually really enjoyed it the last time we came to a strip club. I picked up some moves.
+	C8D8FEAF	~z~God, are those shoes fashionable back in Europe? You must be so behind the Liberty City trends.
+	D17E488B	~z~This car is unreal, I thought they only drove cars like this in the third world.
+	DBFBC599	010
+	DCE29190	GCA_ACT_PAL_HINT
+	DAB733B3	~z~Sweetie, I think it's time to get a new car, like, ten years ago.
+	DBD1ED0E	~z~I don't normally like hats, but that one works for you.
+	DCFC5069	100
+	DF88AF69	~z~I don't like waiting Niko. Let's just go.
+	E02A7BE9	~z~Okay, tell me how we're getting where we're going because I don't see a car.
+	DD9D19B7	100
+	DE3C5450	~z~I guess you're having your other clothes washed. I mean, there can't be any other reason to be wearing these.
+	D3BCF45A	~z~My girlfriend dated the head chef here, he was really fussy.
+	D50CD3D3	~z~It was a sad day when the bouncer stopped asking me for ID at this place.
+	D1CA02E6	100
+	D3A3487E	~z~These bikes really take me back. Well let's get going, Niko.
+	D632EBA4	100
+	D8339F09	~z~Wow, back at the strip club, are we? Well you must have really liked the effect it had on me last time.
+	D98E19F0	GCA_ACT_DIFF_ACTIVITY_NO
+	D6608094	GCA_ACT_ARRIVEM_NOTLATE
+	D7CC5ED4	GCA_ACT_ARRIVE_HIGHEND
+	806644CE	100
+	2C96D6CB	010
+	2CC7161E	~z~We're playing pool, eh? Are you going to make me chug brewskies and chant as well?
+	29C87CB1	GCA_ACT_CAR_NEW_BAD
+	2BEC5E18	010
+	2CCC0337	GCA_ACT_PAL_SAME_BAD
+	2E2210B7	~z~This guy is like, seriously urban. I'm told he's like, very now.
+	2F28B028	GCA_ACT_ARRIVEC_NOTLATE
+	2D0B06CB	010
+	2DDF2E70	~z~It gets where it's meant to go.
+	2216B488	~z~I hate tardiness. Come on, let's go.
+	22EC7BE2	100
+	1FBE0F93	~z~So tell me, what are you into?
+	1FD4631B	100
+	23DD9009	GCA_ACT_CLOTHES_UNUSUAL
+	26F6CC31	~z~Niko, I thought a resourceful guy like you would be able to get hold of a better car than this.
+	28C549C5	~z~Well this is the place, Niko. I wonder who we'll see.
+	25348A71	~z~Shit, you're actually who you said you were. I was expecting a two-foot lesbian. I'm Alex.
+	255DB0EC	100
+	2F6A9656	~z~I'm getting used to those clothes you're wearing.
+	3B0C7421	GCA_ACT_PAL_NOGLASS_GOOD
+	3BA2B3CA	GCA_ACT_PAL_NOHAT_GOOD
+	36B658DA	~z~Let's go and hit some balls into holes with long sticks. Oh what fun.
+	3862CCBC	100
+	3BC37D6A	~z~You're taking me to play darts twice in a row. You're real imaginative, aren't you Niko?
+	3F2C35D9	~z~Well, if that's your only nice outfit you may as well get the most out of it.
+	3F76D12B	~z~It's a shame you're not wearing that hat any more. I found out how much it cost.
+	3C18AC67	GCA_ACT_CLOTHES_BAD
+	3E647668	GCA_ACT_HINT
+	31DA6995	GCA_ACT_PAL_NOGLASS_BAD
+	31FDAC98	~z~This is perfect, Niko. I'm an intellectual and I'm cultured so I really enjoy this.
+	30EE861C	~z~Do you think that anyone in Liberty City in the twenty-first century really eats this type of food? Yuk.
+	31A5C957	100
+	321511EF	GCA_ACT_PAL_LEGS_BAD
+	34D9077F	~z~What's this obsession with strip clubs, Niko? Aren't I enough for you?
+	35A0B315	100
+	32F01931	GCA_ACT_ARRIVE_DARTS_NOT
+	34A8BD2D	GCA_ACT_ARRIVE_STRIP_NOT
+	1F28E22F	GCA_ACT_PAL_LEGS_GOOD
+	0C94176C	~z~Niko, please get a new car. I'm embarrassed to be seen in this thing.
+	0DB3497A	GCA_ACT_ARRIVE_FASTFOOD
+	0A0599EF	~z~I'm surprised that you think an intellectual such as myself would be interested in playing darts again.
+	0C7717C7	100
+	0DB87639	~z~If I didn't know any better, I'd have thought you were trying to get me drunk.
+	0F636277	~z~Okay, let's play pool again. I feel like I've died and woken up in the Midwest.
+	10B167DE	100
+	0EA54713	~z~I gave my first blowjob in a restroom at this place.
+	0F5DF399	GCA_ACT_PAL_CAR_OKAY
+	03A15EEE	~z~Well, it's an improvement on the last thing you were driving.
+	04287E71	~z~This obsession with really shit cars is really taking shabby chic to its limits Niko.
+	00672A97	~z~Let's go, Niko. I hope the good mixologist is on tonight.
+	029A40C8	~z~I expected you to come in a car.
+	04F7FD6B	~z~I want new experiences, I want to see things that I haven't seen before.
+	08935866	GCA_ACT_ARRIVE_CLUB_GENERIC
+	09552D11	~z~Excuse me if I'm not jumping for joy that we're playing parts again.
+	0557062F	~z~Niko, Hi. How are we going to get around?
+	058853AE	~z~Oh, an English comic? How quaint and European.
+	10F2769F	GCA_ACT_ARRIVE_DARTS_BEFORE
+	1926ED93	100
+	1935C612	~z~Okay, I did not realize you were this... um... earthy. Do they still make clothes like that?
+	17E85B61	~z~Okay, if we're not going to do anything you can just take me home.
+	18B1A4DE	~z~God, you know. I'll try anything once. I tried picking up guys on craplist, didn't I?
+	19E86F64	~z~Alex Chilton does not take the bus. Please tell me that your car is around the corner.
+	1ABB355A	GCA_ACT_ARRIVE_STANDARD
+	1CE72B95	GCA_ACT_ARRIVE_POOL_LAST
+	1A168882	~z~Ahh, I see you've tried to save some money on the top half of your outfit.
+	1A9A7DF5	GCA_ACT_INTRO
+	12FCA82D	100
+	13B4B4FF	~z~Umm, Niko. All the shows started a while ago.
+	1170FA8D	~z~Well at least this car is better than your old one.
+	12A16A81	100
+	1406AB2E	~z~Or something, I guess. I don't think about clothes much.
+	173C26B3	~z~They love me at this place. I swear, you spend enough money and people forget that you threw up on the manager.
+	17982D6F	GCA_ACT_ARRIVE_SHOW_CABARET
+	1639D6DB	GCA_ACT_PAL_TORSO_GOOD
+	16502AE4	~z~You're still driving this? I guess you aren't moving up in the world.
+	661A4253	~z~I didn't think anything could be worse than the car you used to drive, I was wrong.
+	67AAC2A6	~z~Uhh, this isn't going to work out. Can we do something else?
+	647E1250	GCA_ACT_PAL_HAT_GOOD
+	65A8BE2C	~z~Umm, well you've got to be hungry to eat in a place like this. It hasn't even got a Liberty Tree rosette.
+	690078C2	GCA_ACT_ARRIVE_PUB_GENERIC
+	6DE8FD37	GCA_ACT_ARRIVE_POOL_BEFORE
+	6F6C8D24	100
+	6A99DDF3	~z~If I'd known you weren't bringing a car I would have gotten Daddy to lend us a driver.
+	6B63A462	GCA_ACT_ARRIVE_STRIP_LAST
+	5E264EF4	~z~No, people drive them here as well. Just not people who live in Middle Park East.
+	5FBDBCCE	100
+	5D48D267	~z~When I last met you I got the impression that you had a good dress sense.
+	5E0E7868	100
+	60C142E5	GCA_ACT_CAR_OKAY
+	61900B63	GCA_ACT_PAL_CLOTHES_GOOD
+	62FE3633	~z~Okay, those are some pretty bold choices. Are you hoping to come across as an eccentric or something?
+	60C4F272	~z~It's so good that that hat is gone. It made you look like a thug.
+	61480412	GCA_ACT_CAR_NONE_AB
+	705AD93C	~z~Okay, that's it. I'm going to make my own way home.
+	78B9847B	~z~Ooh, it is so nice to be driven around in a car you're used to, don't you think?
+	796D662B	~z~Can't we do something else instead?
+	775DEA5B	~z~Hey, Niko. I hope you aren't planning on carrying me on this date.
+	77DD07A8	GCA_ACT_PAL_CAR_BIKE
+	79A08645	~z~I'm pleased you've kept this car. Daddy gets rid of nice cars after driving them for a couple of weeks.
+	7F268F60	GCA_ACT_CAR_BAD
+	7F7F2CDC	010
+	7B795DC8	100
+	7DF0612E	~z~It's so nice to be able to properly see your face without those cheap glasses on.
+	72DA78D2	100
+	72E8E452	010
+	70795107	~z~Hi, I'm Niko. You must be the Liberated Woman. We met on craplist.
+	71C9B5D0	~z~Oh, I miss that hat of yours. It gave you an air of mystery.
+	73701DFA	100
+	74B1A0E7	~z~Oh, I guess that you feel comfortable in these clothes. Well, at least they're not disgusting.
+	75F8F396	100
+	73D8D989	100
+	7428519B	~z~I miss those glasses you used to wear. They gave you some class.
+	5BF2100A	~z~Thank God you've got rid of that thing you were driving before. I mean anything would be better than that.
+	4A0324D2	GCA_ACT_CAR_SAME_GOOD
+	4A5A8AD4	~z~Can you please explain to me what the appeal of really shit cars is? I don't get it.
+	48451979	GCA_ACT_PAL_CLOTHES_UNUSAL
+	49FD0705	~z~I did not want to make carbon footprint. We'll be fine.
+	4B0DADF1	~z~I think I preferred what you were wearing last time.
+	50D788DF	~z~I like your pants, darling. Nice.
+	514F52E7	GCA_ACT_PAL_FEET_GOOD
+	4BED8B06	~z~Hey, Niko. Is this like an off, off, off, off Burlesque show?
+	50651B41	100
+	400B0427	~z~They do where I am from.
+	41873448	GCA_ACT_PAL_CAR_BIKEX
+	3FABB3CA	~z~I'm a white chick but I'm really into street culture and the urban scene. I think I'll really like this.
+	3FF7C665	GCA_ACT_ARRIVEF_NOTLATE
+	41B7E6CA	100
+	44501E18	~z~Let's go my mysterious European.
+	4686B06C	GCA_ACT_PAL_SAME_GOOD
+	4220A457	GCA_ACT_ARRIVE_SHOW_K_WILL
+	42D05705	010
+	51529580	~z~Okay, let's eat here. It's not exactly going to be a gastronomic rollercoaster though, is it?
+	5737416F	~z~I'm glad you're still driving this thing.
+	57A0F9C6	GCA_ACT_PAL_CLOTHES_BAD
+	5611A4AA	~z~I'm sick of this shit. I'm getting home myself. I'll see you around, Niko.
+	56A177F0	100
+	585A3974	~z~Okay, where's your car?
+	5A1B1AB9	GCA_ACT_CAR_NONE
+	5B2C785D	100
+	58AFA48A	~z~What the fuck is this? I guess I'm about to find out.
+	59812B98	GCA_ACT_ARRIVE_POOL_NOT
+	53A50C98	~z~What a transformation, thank God you got rid of those glasses.
+	53B0C053	100
+	51E4CBD5	~z~Thanks.
+	5265181B	~z~Hey Niko, do you mind if we do something else?
+	53C65F0D	~z~Well Niko, if people are going to see you in the same set of clothes repeatedly, they may as well be fashionable ones.
+	54C2DA6E	~z~I am so pleased you got rid of that hat, please say you burned it.
+	55475715	100
+	540A7197	~z~So you didn't dress up for the first date. Why would you?
+	543EC2E3	~z~You want to play darts... again? Well this is really a hobby of yours, isn't it, Niko?

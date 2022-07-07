@@ -1,0 +1,180 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AC5115FA	~z~Alpha males, baby.
+	AAE5900B	~z~I like that, baby!
+	AD15D803	~z~Hustle, Nicky. We got to be at the top of the podium, baby!
+	B070D470	100100100100100100100100100100010010100100100010100100100100100010
+	AFA61950	~z~Winners baby, that's the only place for us...
+	A647474E	~z~Don't treat her right, treat her mean.
+	A44A9652	SFX_PAUSE_2000
+	A86B6395	~z~No, the other one. Of course it'll be cool.
+	AABA1DDD	BR4_GO
+	AA544F58	~z~bitches don't like losers, man. You're genetically different homie!
+	B0D63ED4	BR4_GR
+	BB3839AD	BR4_GD
+	BA222048	~z~Call me and we'll hang.
+	BBA5B4A3	~z~It's lonely at the top, NB. Lonely baby.
+	BE28212C	~z~He's fine with us taking it?
+	BBEBF5AF	~z~I thought the red army taught you better than this fucker?
+	B48AE3D5	~z~Don't hold back on this bitch.
+	B241A25E	100100
+	B4EAC232	~z~We woulda won, definitely. Next time we'll finish though, right?
+	B72AE905	~z~Be number one man, come on.
+	B5931222	100
+	A3F092B8	BR4_A_ED
+	9073DE90	~z~Domination. That's all. Domination.
+	8D4D79FA	BR4_A_HA
+	90E9365A	100100010100
+	945462D9	~z~Stevie-boy tunes these things like they're fucking pianos man. Pitch perfect.
+	90F4916E	100
+	8611C654	~z~This is a spiritual fucking experience.
+	853CAF42	SFX_DIALLING
+	870B6FE2	BR4_A_EA
+	89FF6D28	~z~We'll come back another time to really show them how we fuckin' roll.
+	89118FFB	~z~Winning is a state of mind, man. Hit this shit hit it!
+	94E34F97	BR4_GA
+	9DD534DA	100100
+	9D488182	100
+	9DDAB665	~z~Visualize yourself in first place, Nicky. First!
+	A258EEC9	BR4_NC
+	9DE839B0	~z~I don't think I've ever had to look at that back end of a competitor before.
+	975F2C96	~z~Give it 110 percent. Give it! Come on kid!
+	9557FDF4	BR4_ZA
+	9A889094	BR4_A_CB
+	9CD9845C	BR4_GM
+	9B5FF468	~z~All eyes are on us, Nicky.
+	BEA3C1B0	BR4_GK
+	E8FB7DFA	~z~Sure we did.
+	E8825954	100
+	EB1B8F38	~z~Man, there's a race going on. What you doing?
+	EDD1BDF6	~z~Come on Nicky, we need some wheels.
+	ED68D580	~z~Believe in yourself, NB. Believe you're a winner. Know you're a genetically different person you fucker!
+	E0E0F63E	~z~A little botulism special there? I like that homie.
+	DFFFE668	100100100100010
+	E1C1FD87	~z~You think someone like me has come second even once in his life? No fuckin' way.
+	E59FFB30	~z~Shit, Nicky. You're never going to be a winner if you don't believe that you're the best.
+	E45CE48C	BR4_XC
+	F46798C3	~z~You're the greatest, homie. Don't choke next time.
+	F9A90BF1	BR4_XA
+	F86315A1	~z~We won't have an incident like the last time I got a car for you?
+	FC304D60	BR4_OC
+	FE488F4A	~z~alright listen me... me and my ice cold friend Niko got to borrow your car.
+	FD38201A	BR4_NA
+	F5C5BE27	BR4_OA
+	F4B9763C	100100
+	F61D3B2E	BR4_GC
+	F7798DEE	100100100010
+	F75B435D	BR4_ZB
+	DEB4B818	~z~Punish the shit out of her.
+	C4B69C27	~z~No man, you can spot me. Ha ha.
+	C4443D05	~z~Here we be. You ready to feel the Gs?
+	C55B0FEE	~z~Shit, they're off. Hustle, hustle, hustle.
+	C786600A	BR4_VA
+	C611497A	~z~No-one, I mean no-one can touch us up here.
+	C06CBADD	~z~Numero uno.
+	BED4E900	BR4_SA
+	C095A93E	BR4_NB_QQQ1
+	C39BA572	~z~It's fuckin' over, man. Fuckin' over.
+	C11C0924	BR4_JA
+	CB30EEBE	~z~I've gotta call Stevie.
+	D49CFB0A	BR4_GA_QQQ1
+	D48E5ED1	~z~Shit man, I wanted to hit that race hard. But you got the rage, I feel that man. Another time.
+	D68AF42C	~z~You trashed the car, man. What's up with that? It was fucking beautiful.
+	DB92495C	100
+	DB1E0018	BR4_GJ
+	D0981997	BR4_UA
+	CB69CB50	~z~Your skin looks really rough man, you had some help?
+	D15C1D67	~z~Ride her so she won't fucking forget it man!
+	D1DE5DFC	~z~You're moving me Nicky.
+	D1C541C5	~z~Nicky, what the fuck? We ain't in this race no more.
+	1CDFDE9A	~z~It's outside? Great. I love you man.
+	1C4DE427	BR4_GQ
+	1D020FE3	BR4_OB
+	2787F18B	100
+	1EB1CBDD	~z~Here we are, see what I mean? Sweet.
+	18078525	100
+	16145263	~z~blond hair, no cellulite, and tan, yeah!
+	1A463010	BR4_WB
+	1B84758D	BR4_TA
+	1B491128	BR4_GS
+	28BEB2DE	BR4_A_HB
+	2F99CE75	100
+	2F729ACA	~z~Alright man, the race start is over on Stillwater Avenue. Let's do this.
+	310251B0	BR4_A_GA
+	3504BFE1	100100100
+	34CEC07F	BR4_ZD
+	2AB400B5	BR4_NB
+	29B57845	~z~No way, man. That was a one time only baby. Me and Stevie are tight. Okay, tighter than that.
+	2C47B1BA	~z~What the fuck man? This shit is rigged. That didn't count as a race.
+	2DBE30FE	BR4_ZC
+	2CDDA956	SFX_PAUSE_2000
+	12E85EDD	~z~Nicky, you animal. Get back in here.
+	0531D5EF	BR4_GL
+	0453CF3F	BR4_GI
+	07B3E893	~z~See you later then.
+	09CF6956	BR4_GB_QQQ1
+	096D3915	~z~A bomb that only affects girls with D-cups, tight asses,
+	012DBB68	~z~This is a car race, we ain't running. Now get in the car asshole.
+	0076BD73	~z~You pushed that shit too hard. I love it though.
+	01C34CD2	BR4_GN
+	028AC19B	~z~Nicky. You're insane man... in a good way.
+	0239FF22	~z~We wanna win this thing. Am I right, Nicky?
+	0C972BE7	~z~For sure. Alright, listen man,
+	10FD3023	~z~Niko, man, excuse me but I got to make this call to tell this guy we're borrowing his car.
+	10C7DB7C	100
+	11570858	BR4_RA
+	123510B6	BR4_A_GB
+	117123AB	BR4_EA
+	0D54D3AA	~z~Shit man, how we going to win this shit if you're not even in the car?
+	0CE0BE9C	~z~Wanna feel?
+	0EB97AC7	BR4_VB
+	0F4A9FF1	100
+	0EECF41F	BR4_KA
+	3687DBBC	~z~You wanted to win that bad. It's genetic. Genetically different homie.
+	6B4BFB59	~z~Cruising for bitches, destroying the town. You and me could be doing some serious damage.
+	694EF777	~z~God, this is exactly the type of shit you and me should be doing.
+	6C263431	BR4_GR_QQQ1
+	6D2317EF	~z~I'm getting altitude sickness because the top of the pile is so fuckin' high. Yeah.
+	6CE2FFFF	~z~Right? I don't know if I get your meaning but we can hang out sometime.
+	64D575AC	~z~Nicky. I feel like we really bonded back there. I'm close to you, man.
+	632E808E	~z~Oh yeah.
+	653D5150	BR4_PA
+	66E37629	BR4_GP
+	65EC8057	~z~You want a shot when we get back?
+	6F24EE2E	~z~Good driving. How do I look? Pretty good, right?
+	7E8D8FCE	~z~Stevie boy, how's tricks?
+	792FCA43	100100
+	80EF11C6	~z~Intense, intense, I fucking love you man. Number one.
+	83ED5B4C	SFX_PAUSE_2000
+	81875DAB	100
+	6FDAA6C9	~z~Not cool, Nicky. Not cool.
+	6FD7B415	BR4_GB
+	71E17F73	BR4_NB_QQQ2
+	77A623CA	~z~I'm fine.
+	73382075	~z~This is where we belong, first place.
+	62B00045	BR4_AA
+	475E4C66	~z~You got a hard body and the skills to back it up, baby.
+	422463C7	~z~Man, you trashed it. You just don't give a shit do you? You're an animal.
+	47D148B2	~z~What are you doing man? We got a race to win.
+	4FB502D5	~z~Stevie's place is on Freetown Avenue over in Willis.
+	4A982515	~z~Take me back to my apartment, man. I'm feeling jacked. I wanna hit the weights. Now.
+	39BEC82D	100100
+	377413C2	~z~Thanks, but I got my hands full.
+	3A09BD94	BR4_A_EC
+	421A7E98	BR4_WA
+	3C29E700	~z~Let's get out of here.
+	527FD101	~z~You let me inside. You let your armor down, you know? We had a moment, man.
+	5C7F48E3	~z~Yeah, pretty good.
+	5A2FD939	~z~Tighter than... shit I was gonna say my abs but I think you know that nothing's tighter than this shit.
+	5D815FC4	~z~Like a nuclear bomb up in this shit. But a sexy bomb, you know?
+	5F8DADCB	~z~You're a fucking animal, man. I fucking love it.
+	5F192116	BR4_A_EB
+	55BB7A6D	BR4_FA
+	54EBB15F	BR4_A_DA
+	56FA95D5	BR4_A_CA
+	59A1ED42	100100010
+	597DC869	BR4_XB

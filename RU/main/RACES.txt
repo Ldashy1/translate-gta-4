@@ -1,0 +1,94 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD771711	Повреждения
+	B4BDD255	Getting Wood
+	ABA04FA3	Strip Off
+	A7F9CA59	Riverside Drive
+	AB9CCE53	Quick Knives
+	B4CB6E76	Industrial Action
+	BCD4F722	Количество кругов
+	BE4E3E9E	Beat the Bitch
+	BB3B6D90	Heel-and-Toe
+	B83A4FF0	Пистолеты-пулеметы
+	B965EB2E	Black Gold
+	98E27350	Трасса
+	991A1B0E	Pilgrim's Progress
+	9138A751	Don't Look Down
+	8D6E5CDF	Get Wrecked
+	8E739401	Terminal Velocity
+	9B26F850	A.B.K. Endurance
+	A694EAA1	Business Trip
+	A70436E2	Docking
+	A5FCAB75	Пистолеты
+	9B7A3B98	Случайно
+	A18B4DD5	Новый личный рекорд
+	E2B1091C	The 556 Connection
+	E870B058	Все огнестрельное
+	DD245B9C	Машина
+	DA3525AB	Трасса
+	DCCA7D4F	Buzz the Tower
+	ED645F6B	Thunder Road
+	FBDB572D	Огнестрельное и гранаты
+	FF42C23F	Bohan Burning
+	FAC33610	Take Off
+	F346AA47	Smoke Screen
+	F6FA7297	Exhaust Fumes
+	C63B5031	Noise Pollution
+	C87CD530	Оружие
+	C402806B	Highs & Lows
+	BF0740E0	Трасса
+	C179626E	Откл.
+	C96B7755	Оружие
+	D3C006FB	Только здоровье
+	D4EE12B1	Get it Pumped
+	D22D9110	Время круга
+	CCEDF953	Все оружие
+	D08C631A	Water Hazard
+	48028869	Track Marks
+	48068724	Bawhan Dash
+	46C77666	Drive-thru
+	32A8DC69	Horse Punch
+	39915BFA	In the Drink
+	4893532A	Случайно
+	5642239B	Bogan's Run
+	575AA91C	Bohan Job
+	5533DF82	Как обычно
+	4A13E25F	Гонка скоро закончится.
+	50340947	Long Way Round
+	0B767FC5	Donut Dash
+	0F1D1552	Road to Bohan
+	0AFDA7D3	Ожидание прихода к финишу других игроков...
+	030DBB37	Только царапины
+	098F12B0	Трасса
+	10791957	Back Breaker
+	26C045E5	Coming Down
+	3060A47A	Boogie Down
+	1D4AB1AD	Stars in your Eyes
+	15EBEF91	Big Dip
+	1BA3BBE9	Rize in the East
+	7DB10006	Driving While High
+	80B7F886	Round the Block
+	73E6C574	Откл.
+	6F22A201	Home Turf
+	72A35C5D	Southern Switch
+	82FE8ADD	Duck and Weave
+	840ACBBD	Случайно
+	871C869C	Случайно
+	83FFE55A	Трасса
+	831E7EA0	Sinner & Saint
+	837C015E	Taxiing
+	5D6E9884	Аннигилятор
+	5E1F251D	Cargo Haul
+	5BDC13E3	Цвет
+	58B9B614	Short Circuit
+	5BB6FB26	Hard Eight
+	5EC1B5E7	D-Day
+	6CEC523C	Heart Stopper
+	6D6DDF7C	Drag Kings
+	6CA086C0	вырвался в лидеры!
+	67356399	Grand Tour
+	6BECC0B8	Случайно

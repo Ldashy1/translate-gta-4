@@ -1,0 +1,43 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C40A7596	~s~Get in a vehicle with Manny.
+	C046A69A	~s~Get in a vehicle other than a bus.
+	C644149F	~s~Choose the ~r~last man's~s~ fate.
+	C5B81132	~r~Manny is dead.~s~
+	BE06EF24	PLACEHOLDER FOR MOCAP CUTSCENE
+	B037B8F0	~r~You damaged the dealer's car.~s~
+	AC3B1C57	~r~You've lost Manny.~s~
+	BCC139DC	~s~Lose your wanted level.
+	B312DF73	~r~You spooked the dealer.~s~
+	EB4C2643	~s~Make sure the ~y~warehouse~s~ is clear.
+	E9D2C690	~s~Take down the ~r~dealer.
+	F7A7686B	~s~Don't leave ~b~Manny~s~ behind.
+	ED440C81	~r~You got a wanted level.~s~
+	DFB2EA54	~s~Get in a vehicle other than a helicopter.
+	DA95D83F	~s~Don't get too close to the ~r~dealer~s~ or he'll spot you. Back off.
+	CD8D615F	~s~Park ~y~behind~s~ the dealer.
+	DEE99D92	~s~Follow the ~r~dealer~s~ to the meet.
+	DB2C3131	~r~You left the deal.~s~
+	A1744AF4	~s~Choose the ~b~last man's~s~ fate.
+	3E520B83	~s~Shoot out the ~g~door.~s~
+	29ABB5F9	~s~Leave the warehouse.
+	54FE60CB	~s~The door is locked.
+	4B1DA5A6	~s~The ~r~dealer~s~ went into the warehouse, get him.
+	1B8EC614	~r~The dealer saw you.~s~
+	0B6D80B4	Don't get too close or the dealer will spot you.
+	01D71795	~s~Get in a vehicle other than a boat.
+	16A3475C	Press ~PAD_DPAD_RIGHT~ for projectiles, press ~PAD_DPAD_DOWN~ for shotguns, press ~PAD_DPAD_LEFT~ for pistols, and press ~PAD_DPAD_UP~ to switch between assault rifle and submachine gun.
+	0F37B885	To immediately equip weapons use quick swap.~n~Hold ~INPUT_PICKUP~ and press a direction on ~PAD_DPAD_ALL~.
+	97CC4CC0	~s~Shoot out the door.
+	92C31E87	~s~Go to the ~y~dealer's place~s~ with Manny.
+	A0335DD1	~s~Wipe out all the ~r~dealers.
+	9DE93073	~s~Follow the ~r~dealer~s~ to the meet, don't let him know you're following him.
+	80726AC0	Don't fire your weapon or do anything to attract attention.
+	5CE153D7	Each direction on ~PAD_DPAD_ALL~ will bring up a different type of weapon.
+	565B926B	Press ~PAD_X~ to focus on the dealer's car.
+	73853E7D	~r~The dealer got away.~s~
+	5FD6B352	~s~Get back to ~b~Manny~s~ before he leaves.

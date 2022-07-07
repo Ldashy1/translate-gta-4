@@ -1,0 +1,29 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	71EAA601	Obtain ~g~ammo~s~ for the sniper rifle.
+	870B5042	Get the sniper rifle from the ~g~car.
+	6738E841	~s~Hunt the ~r~dealer~s~ down.
+	63EF75CA	Call Francis.
+	64E78BFB	Go to a gun shop and obtain a sniper rifle.
+	96796F1E	Go to the gun shop and obtain ammo for the sniper rifle.
+	EB4309FB	~r~Your cover is blown.~s~
+	ED6CE0FC	Make your way to the dealer's apartment off ~y~Denver Avenue.
+	BCE5BBF6	Get ammo for your sniper rifle from the ~g~car.
+	B192FAE0	~s~Lure the ~r~dealer~s~ into the open and take him out.
+	B901A6A9	~R~You lost the dealer.~S~
+	5717B0FD	To dial a number with your phone you will need to access the phone. Press ~INPUT_PHONE_TAKE_OUT~ to activate the phone.
+	27DCD288	To access the keypad press ~INPUT_PHONE_TAKE_OUT~ from the initial cellphone screen.
+	2C68B34C	~r~The dealer got away.~s~
+	18AC5E3D	Go to the ~y~rooftop.
+	036B33BB	Enter the ~y~building.
+	0E8A5F42	There is ~g~ammo~s~ for the sniper rifle in the car.
+	39F676BB	Navigate the mobile keypad using ~PAD_DPAD_ALL~. Select your desired input using ~INPUT_PHONE_ACCEPT~. To make a phone call select the phone icon on the top left of the keypad.
+	4F4F60CB	You need a sniper rifle.
+	56D7F42F	~r~The car has been destroyed. ~s~
+	45F25264	Leave the rooftop.
+	3D9E3D69	Take the ~g~sniper rifle~s~ from the car.
+	4033C294	Obtain a ~g~sniper_rifle.

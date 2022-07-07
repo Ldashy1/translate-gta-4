@@ -1,0 +1,322 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A7884832	B2_CH
+	A8969AF1	~z~Sure, sure, I get that. Whatever makes it all make sense in your head.
+	A461DB43	~z~Fuck you, I ain't. I just keep thinking these choppers is following me, that's all.
+	A4E262B4	102
+	A8C1BCF5	B2_DV
+	AD11D9ED	~z~And we make some money in the process by selling the stuff. Easy.
+	AD44E04C	B2_FX
+	A9AC1641	~z~Because these is the orders and we gotta follow them. That's the way things work.
+	A9F69CD1	~z~Depends how you define life.
+	9F41CB09	~z~There's something wrong about you. Get out of the truck real slow.
+	9FED9BFE	~z~No, but we can be pretty sure it's clean. Chill out.
+	9E06FF5D	~z~Give me some covering fire, kid.
+	9E1C957C	B2_CU
+	A00B40FD	B2_FT
+	A3A8941E	~z~Yeah, sure, this is just plan A. It's the one Jimmy P worked out.
+	A3AA94EB	B2_FQ
+	A07083EF	~z~That wasn't a successful operation by any way you look at it.
+	A11F6DF1	B2_GJ
+	AD88F524	B2_GP
+	B861CCE6	~z~And that means that certain people is gonna assume we'll rat.
+	B8774B5D	B2_CL
+	B74F147F	192
+	B75083FB	B2_JA
+	BAA407C7	~z~The Feds monitoring my every move. I flip out whenever I'm even outside.
+	BB553F8E	~z~It's all internet porn and dreamin about home, that ain't no life.
+	BBFA3ADD	~z~So, why don't we use a more subtle approach, not just drive right into the middle of them?
+	BAD4710A	B2_CF
+	BB0D37AE	B2_DH
+	AF583AD3	~z~You scan this thing for bugs?
+	B1876F94	~z~I don't let anyone in here until I get the word.
+	AF3E01B5	120210120210210100100
+	AF4EDF87	~z~You're a smart guy.
+	B2264EF5	B2_SC
+	B65DC131	~z~By your logic that means it's going to end up dissolving into the Humboldt River.
+	B6DCB77D	~z~I ain't part of no family. I'm an independent contractor.
+	B2453157	~z~It's the one the Russians is expecting to come pick up the C.
+	B4C0CE7E	010
+	88C01152	~z~Exactly. We're taking the C off the Russians so they can't deliver it to the Ancelottis.
+	89C0C083	B2_FH
+	885CD71F	~z~I been around long enough to know that there is some things that we don't have a choice about,
+	889610F6	~z~For the record I don't know what this man is talking about. We're rehearsing a scene for an acting class.
+	89D69E0D	B2_IF
+	8D69B67D	~z~Man, they ain't giving up easy. We got more of them!
+	8E05EAF6	010100100010100100100010010010100100100010100100100100010010100100
+	89DC742C	B2_CJ
+	8AE2B3FC	B2_GN
+	813D4CB9	B2_FR
+	8228C727	~z~You're gonna learn that there ain't much in this life that you got control of.
+	804DF589	100
+	809B258D	B2_GS
+	833C0762	~z~You're excused. What're we doing?
+	85805F6B	~z~Well a lot of people want to get hold of this merchandise as well.
+	8751E979	B2_DN
+	833F0E99	B2_FV
+	852A1710	B2_ID
+	8E405F6A	~z~You're the boss, it ain't like I'm working for free.
+	98803EC6	~z~We're taking this C to the docks in North Holland. Come on.
+	989AF444	~z~They're gonna let us take the coke with this truck then, are they?
+	93EAEAAB	~z~No, you ain't. I ain't either. That's why we gotta at least try what we're told to do.
+	9471E093	B2_CW
+	9A50B46B	~z~Shit, you sound like you're saying all this just so it's clear on the wire tap.
+	9B458301	B2_FP
+	9DEB7064	~z~We lost some of that sugar, it ain't no good taking it from the Russians if we can't sell it ourselves. Ciao.
+	9A5F7E7F	~z~All I care about is that you're loyal enough to get the jobs done and not turn state's.
+	9AFEB5CF	~z~That's what the talk about the docks was?
+	8FFEECCB	~z~Some of my boys stole it from the Ancelottis this morning.
+	904F65D3	B2_DE
+	8E956014	~z~You ain't gonna be happy about everything you get told to do, are ya?
+	8FB3A051	~z~Anyways, excuse me if I wanna be absolutely sure that we got our asses covered.
+	911D3F81	B2_GO
+	937D13A8	B2_DW
+	93A2FBB0	~z~Too many people wanted that ice, no one was ever going to end up with it.
+	928F1898	~z~Alright, this is the truck.
+	93180F71	B2_SB
+	E6A42B97	B2_RB
+	E713E0A6	~z~Shit, you seen any choppers? Any birds been in the sky?
+	E5E6A2C0	B2_RA
+	E631A885	~z~Which means we'll get whacked.
+	E85EB6C3	B2_VA
+	EDFE24EB	~z~Then, they ship you off to Ohio and get you selling microwaves.
+	EE559793	B2_FD
+	EA3F9780	~z~The problem was Ray's planning and the amount of people involved.
+	EC039E6F	~z~but there's other times where you got to look at something and make a decision for yourself.
+	E49EE6C0	B2_QA
+	E4A5F291	B2_HA
+	E34B8996	B2_DG
+	E47A85E0	B2_LA
+	E4CE1B20	B2_DI
+	E57A4AB9	B2_CB
+	E595827A	~z~You handled yourself real good back there. Kept your head. That's a valuable trait.
+	E568B867	B2_OA
+	E5731F5B	~z~Every move he makes is so obvious, it's disgusting to see him trying to sleaze his way up the ladder.
+	EF494E32	~z~You went too far this time.
+	F850C93F	B2_CQ
+	F8F93EC2	~z~Even Russian coke runners ain't that stupid.
+	F680AF9A	B2_GT
+	F7C326D5	~z~Thank you.
+	FA778177	~z~I don't speak English. Fuck off.
+	FF3FC76E	~z~These guys promise you a new life if you screw every person who ever did a kind thing for you.
+	FFE72390	~z~We need some wheels.
+	FBF8E0A9	B2_DR
+	FD7CEA99	~z~The drug game's ours, boys.
+	F2573CD0	B2_CT
+	F368C2F3	~z~It's about survival.
+	F054B896	100
+	F241ADCC	100
+	F3E42AA0	~z~And that the only way we're gonna be able to leave that place with the sugar is if all the Russians in there are dead.
+	F6225005	~z~Shit Niko, what we meant to do with a boat on dry land?
+	F65F3DB7	~z~Maybe he's getting somewhere. He definitely knows a lot of people.
+	F5431EDC	B2_CV
+	F5CEB205	~z~I can't follow every order I'm given.
+	C425C555	B2_FN
+	C4F553AE	~z~Shit man, I'm just the hired help. I'm the fucking immigrant maid cleaning up your guys' shit.
+	C342876E	~z~And it don't help that not everyone in the organization is pulling in the same direction.
+	C37D4A08	~z~I don't think I'd trust him to send me on another job after the shit he had me doing.
+	C53A16F9	~z~Niko, it looks like we're gonna have to do this the old fashioned way.
+	C825E736	B2_CO
+	C913DB0B	~z~There ain't no action and the only cannolis you're gonna see are the ones on TV.
+	C57E4DE5	~z~You and me know it ain't gonna work.
+	C74A5B61	~z~I don't know if anyone would give away a load of coke without asking any questions.
+	BDAABE63	~z~I'm hoping that this endeavor is gonna be more fruitful.
+	BE1E735E	B2_UB
+	BD00FE2E	100
+	BD0F7B08	~z~You mean that someone in the family would see someone else going inside as an opportunity to get ahead?
+	BF637E90	~z~Sounds straightforward. We take the coke so that the Russians and the Ancelottis have a falling out.
+	C20888B8	B2_IA
+	C21B4447	B2_DK
+	BF965753	B2_CR
+	C15C1E61	~z~Damn, looks like these guys really want to hold onto the coke!
+	C962F08C	B2_CM
+	DAB71D8D	100010100
+	DB209147	B2_CK
+	D6E309E8	~z~You're working with the wrong people if you expect 'em to whack you if you go inside.
+	D93D4FF4	B2_GQ
+	DB78D29A	~z~Phil, there's more of these guys coming after us.
+	DD994439	B2_IE
+	DE6FBBB3	B2_AA
+	DCC4EDCB	B2_NA
+	DD4CCD18	~z~I didn't pick you for a helicopter enthusiast.
+	CDF55C1C	B2_FM
+	CE2F44E4	B2_GM
+	CCF2D3DE	B2_FI
+	CD12F648	~z~Alright, alright. It's just that if we get caught on this one, you and me is going down for a long time.
+	CF9E2025	~z~Whacking someone who catches some heavy time is just an insurance policy.
+	D2DC4F5E	B2_GL
+	D4A01987	102
+	D116653A	~z~After all of that, you guys didn't even get the diamonds.
+	D1A26D08	~z~That's the attitude.
+	7FDC8C3F	~z~Hey, amigo, let's make this easy. I just wanna give the stuff to my boss and go home.
+	2AFC53EE	B2_KA
+	2DA3A1AE	~z~Yeah, well, maybe you're right. Maybe you ain't. I dunno.
+	2AEA246F	B2_DJ
+	2AF23223	B2_DS
+	2FFB7270	~z~Keep your head, things ain't even started yet. What're we doing?
+	30F9253F	~z~Cover me, Niko.
+	2F9EBE81	B2_DT
+	2FE55D4B	010
+	29FB9C95	B2_DB
+	209633D2	100010100100010100100100100100010010010100100100010010100100100100100010
+	20D71DCF	~z~If someone who knew what I knew got flipped then the whole organization would go down.
+	1F4F9673	B2_EA
+	206ACB50	~z~Hey Phil, that's got to be the last of them.
+	27193DD1	~z~You shoulda stayed out of this.
+	27C09C4C	~z~It should be a lot of sugar, but that ain't the only reason why we're taking this truck.
+	2490931F	B2_DA
+	260A5E8E	~z~Taking a shipment of coke from some Russians before they can sell it to the Ancelottis.
+	31326CDF	~z~I think we got the cocaine to ourselves now, Phil.
+	3F2E5518	~z~Ok listen. There's a truck waiting for us. It's under the overpass off Catskill Avenue, drive us there.
+	3F43351B	B2_CX
+	3CDEFAA9	~z~We just got the heads up that a shipment has arrived in Liberty City by boat.
+	3E8060C4	~z~That coke's lost. It's lost to us, man. Later.
+	4418CB41	~z~You know something? I woulda liked Ray to be on this job instead of me. But there's some things that he ain't trusted with.
+	4467AFD8	B2_WA
+	42C9C5BF	B2_GV
+	42CE9220	~z~Shoot these commies.
+	39F95C6D	B2_SA
+	357BB7C2	~z~Why we need this truck? It must be a shit load of coke we're taking?
+	35F95E26	B2_DX
+	3198379C	~z~Ray's a greedy rat. He wants this stuff more than anyone else, but that don't mean he's gonna get it.
+	322FF360	B2_GR
+	36FF6A46	B2_CE
+	38EBB35F	B2_FJ
+	3632CD0D	B2_GD
+	363FC0EB	~z~It's gonna take more than wanting it real bad. It's gonna take a clear head.
+	0BC5F780	~z~This is it, keep a cool head and everything should be fine.
+	0CA025C8	~z~Hey, buddy, we're here to pick up the shipment.
+	07F6ED19	B2_DL
+	0B3B4107	B2_GK
+	0FF6FF72	B2_GG
+	104274F9	~z~His moves might be easy for you to see, but maybe they're working.
+	0D67AD49	~z~I'm paranoid because we especially don't wanna get caught on this one.
+	0E9D82A1	B2_BA
+	05C2E9EA	B2_GF
+	01F2BB24	~z~Looks like we're gonna have to do this the old fashioned way. Get these commies, Niko.
+	0297E6EC	B2_GE
+	00192D30	B2_PA
+	01EF9659	~z~We get caught and everyone will be coming after us.
+	048CDA12	~z~Shit, if anyone does start listening to Ray's shit then I could be in some trouble.
+	050D0ECE	102
+	03CE605B	~z~That truck was part of the plan. You start cutting corners and you get sloppy. See you round.
+	03FE641E	~z~Where's the trust, Phil?
+	10F0117F	~z~Go back to fucking Moscow.
+	1AE20A30	~z~He's got his eyes on my position, the skipper's too, I'm sure. Wanting it and getting are two different things though.
+	1AEB5DDC	~z~We're heading to the docks in North Holland. Move out.
+	1A49FE56	~z~Family's a way of saying we ain't gonna fuck each other... at least that's what it's meant to mean.
+	1AB447AA	~z~The Feds'll throw away the key, the Russians and the Ancelottis'll know we was fucking them over.
+	1CEA3E08	100
+	1F3181B0	~z~Yo, Niko. On me.
+	1C09820D	~z~Hey man, this familiarity is getting to me. I'm a 'friend' of Ray's. I'm part of the 'family'.
+	1C80FC02	~z~For the record, I did everything I was meant to do.
+	1A172226	B2_GH
+	1288E692	B2_GU
+	139EB583	B2_TA
+	11B7F468	~z~I'm hoping that day don't come.
+	11FA5B43	~z~See you later.
+	1822B121	B2_CC
+	18492AFA	100100
+	16D2F036	B2_FK
+	17767647	B2_DC
+	6C074300	B2_DP
+	6C212203	~z~I'll get the jobs done if the money is there, and I ain't gonna turn state's.
+	6956DE3E	B2_IC
+	6A1843CA	~z~Eat, fucking, this.
+	6CC92A35	B2_GB
+	71863613	B2_DU
+	72C3A4A6	B2_FL
+	6D0F26EC	~z~We should be able to turn up and have 'em load it up for us.
+	7131F878	B2_CY
+	66F0C085	100010100100100010010100100100100010100100010100100100100010100010010100100100
+	66F4A018	B2_GC
+	66C798E6	B2_FS
+	66CB90E7	~z~Niko, I need some help here.
+	67CF5D61	~z~I'll see you at the docks in North Holland, Niko.
+	68A05A60	B2_FW
+	6908AEC1	B2_CN
+	67E5A436	~z~I don't want that to happen.
+	7E9BB495	B2_FC
+	72C8C177	010100100100100100010010100100100010100100010100100100100100010010010100
+	78C3EDEE	B2_CG
+	796B4CCC	B2_DM
+	7792B1FB	~z~or you're staying away from your kids because of a stupid court order and a malicious bitch of an ex-wife;
+	77B1EF2E	~z~I work in waste management. Everything we're saying is fiction, it has no bearing in the real world. Watch it Niko.
+	7AC196C6	~z~Err, Niko. The stuff's still on those boats. We best get 'em outta here.
+	7E2350B5	B2_GA
+	7E98D2FF	100100
+	7AD64864	B2_CS
+	7C49B469	B2_FG
+	74F16019	B2_UA
+	75C620B2	B2_FE
+	73D9C821	B2_DO
+	74B1EA5A	B2_CA
+	764BAFA6	~z~That's the plan. Whether it works or not remains to be seen.
+	7719B484	B2_DD
+	775B5DC5	B2_GI
+	76C5EE76	~z~We're taking a load of product off of some Russians the Ancelottis have been dealing with.
+	76C933F8	~z~there ain't that much control in anything.
+	627D4CA1	102
+	50E3B1A8	B2_IG
+	4840116B	~z~Since that little love affair ended, they been getting this Russian guy to supply them with C.
+	4B44739E	100
+	47C1D97D	~z~Hell, our own family might come after us for fear we'll turn state's.
+	599432DB	B2_CD
+	596DB3C6	~z~You was helping those Irish idiots cause some beef between the Ancellotis and their Albanian muscle a while back.
+	584A3EB4	~z~I'll take the one on the right, you get the one on the left. C'mon, move it, Niko!
+	4A8D6986	~z~Me neither. Maybe if we want it more than anyone else, we'll be able to hang onto it.
+	493BD54E	~z~Whether you're putting yourself in harm's way because that's the way the Skipper wants it done,
+	545BEC04	~z~Watch my back.
+	49334B1D	B2_FF
+	57D96DAE	B2_FO
+	5793F202	B2_FA
+	4C277FBD	B2_DQ
+	5F8F08DF	~z~Enough governments have let me down in the past. I don't know why I'd trust this one.
+	465F9260	B2_IB
+	4C79EED8	B2_CP
+	68521479	B2_DF
+	4CC29B7D	B2_FU
+	47880527	100
+	5EC20A52	~z~Then we drive away, no questions asked.
+	5E55030C	B2_FB
+	4DC2333D	B2_CZ
+	473B08AD	B2_CI
+B2_CUT1_1	226D9B5D	~z~Hey Tommy, check this out...
+B2_CUT1_10	3472B1DE	~z~No problem.
+B2_CUT1_11	26151523	~z~Ridiculous.
+B2_CUT1_12	D2166D27	~z~I'm a grown man walking around like a chump.
+B2_CUT1_13	C2DFCEBA	~z~I'm sorry about this.
+B2_CUT1_14	6BD6A0A9	~z~Hey, no problem.
+B2_CUT1_15	5F140724	~z~So you're a friend of Ray's?
+B2_CUT1_16	A00388EE	~z~A friend?
+B2_CUT1_17	1250ED9B	~z~No. I do some work for him.
+B2_CUT1_18	BC554191	~z~No, I mean a friend.
+B2_CUT1_19	AE16A514	~z~I don't understand. Whatever you say.
+B2_CUT1_2	2855A72D	~z~-seven horse, seven race, Joe Shmoe.~n~-Hey Phil.
+B2_CUT1_20	695A9F05	~z~He's a slimeball, but he pays.
+B2_CUT1_21	9323F297	~z~Sure, pal, sure. Listen to me...
+B2_CUT1_22	F71ABA77	~z~the thing about Ray is he's a good earner.
+B2_CUT1_23	E9431EC8	~z~He talks a lot of shit, but he's a good earner, capiche?
+B2_CUT1_24	A0B20DB3	~z~He's a rat,
+B2_CUT1_25	CA2D60A9	~z~doing an impression of a man.
+B2_CUT1_26	139A7382	~z~That's pretty good.
+B2_CUT1_27	058FD76D	~z~Phil! Phil!
+B2_CUT1_28	F745BAD9	~z~What, what, what do ya want?
+B2_CUT1_29	E9121E72	~z~It's the boss... said you gotta head down the docks... emergency... said you'd understand.
+B2_CUT1_3	16710370	~z~What?
+B2_CUT1_30	460D0C76	~z~Ah shit, it's three days early, Madonna mia, what am I gonna do?
+B2_CUT1_31	30A2E1A2	~z~What's the problem?
+B2_CUT1_32	D4132884	~z~Niko...
+B2_CUT1_33	C5E58C29	~z~I'm gonna have to take a chance with you, pal.
+B2_CUT1_34	F9CFF3FD	~z~Okay...
+B2_CUT1_35	EB595710	~z~C'mon, let's go.
+B2_CUT1_4	2AC82C1E	~z~Hey, pal... what's going on?
+B2_CUT1_5	398EC9AB	~z~Not too much. How are you?
+B2_CUT1_6	DFBE15FF	~z~I'm good. Wanna walk and talk?
+B2_CUT1_7	EFEFB662	~z~Sure.
+B2_CUT1_8	FE2152C5	~z~Tommy, gimme a call if my big buddy calls.
+B2_CUT1_9	145B7F39	~z~Tell him I went out to get some fresh air.

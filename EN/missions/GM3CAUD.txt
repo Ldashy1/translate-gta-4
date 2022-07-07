@@ -1,0 +1,125 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A5F1ADBE	GM3_A_GE
+	A71F0660	~z~Enjoy your freedom.
+	AB1A70C5	~z~It's painful enough looking after Gracie, at least let me watch what I wanna.
+	A2DF547A	GM3_A_LA
+	9748D319	~z~No can do, Jacob.
+	97FACC90	GM3_B_UA
+	9D94D5BA	~z~When you baby sit this bitch, you can choose what to watch.
+	B6904E9D	~z~Don't cause me no more trouble, look up here.
+	BA885960	~z~You don't need to think too much about the composition. Just take the photo that proves she's alive.
+	BAA557F9	GM3_A_GA
+	B68FD173	~z~You going to take my picture as well, Niko?
+	AB2AE91F	GM3_ZA
+	AC1486C3	GM3_B_TA
+	B1551D33	~z~Shit, man. I saw her and I got the rage. I killed Grace.
+	953718CE	GM3_A_KA
+	81249E41	GM3_A_JB
+	8277D60E	GM3_B_NA
+	8444AE5B	020
+	7749D550	~z~~s~
+	696CB726	~z~Photograph her already, you being here might get her all excited.
+	6AC4B116	~z~So, I'm a portrait photographer now?
+	6D61CACD	200
+	8ABFFC3C	~z~~s~
+	8F2D5B48	010
+	928BF183	200
+	8AAFE665	010100
+	84882D98	~z~Whappen rasta?
+	895C7D92	GM3_B_RA
+	89A1FBC5	~z~Niko, some fries would really hit the spot right now.
+	BE99B09D	~z~She's psychotic as fuck, Niko. You leave her for a second and the whole place is trashed.
+	E065A953	~z~This is nice, Niko. You planning on hanging out here long?
+	E2C84F82	100010
+	E6323873	~z~~s~
+	E01D64BD	~z~Let's speak soon though, huh?
+	D4CF15AD	~z~~s~
+	D5DC347F	GM3_A_JA
+	DA92B645	~z~Hey Gordon.
+	EEDE43F2	GM3_A_GD
+	F5E657DB	~z~~s~
+	F9C4257D	GM3_B_TB
+	EAEE167D	200
+	E9B05480	~z~Having fun, Gordo?
+	E9BB9D03	100100010010010
+	EACB242C	010100
+	D44FB95D	GM3_A_GB
+	C508ADAC	200
+	C70EB308	~z~Smile for your daddy, Grace.
+	C7EA2A6C	~z~Hey, what are ya doing? I was watching that.
+	C3FB1EF8	~z~Sorry, your shift ain't over, Gordo. I'm just here for some holiday pics.
+	BF9AB9BE	~z~You dumb chump. She was my meal ticket. Gerry ain't gonna be happy with ya. You're lucky he's in prison.
+	C07F5C82	~z~Will you do it? Ma's still upset.
+	C178E975	~z~~s~
+	CDDFC042	~z~I've got a girl with me and I don't think it would be appropriate.
+	CF0D5188	~z~Your problem, not mine.
+	D3079A71	GM3_B_TD
+	CD9081E0	~z~~s~
+	C8ACC97B	~z~See you later, man.
+	CBDCFC0D	~z~The sooner you take this fucking picture, the sooner we can give this lovely lady back to her daddy.
+	CD7FF827	GM3_A_IA
+	2463B14E	~z~From your sticking around here, I reckon you might have a soft spot for old Gracie.
+	2800526F	~z~There something you missed?
+	295AC743	010100100010010
+	21E73140	GM3_A_KB
+	238A331E	~z~~s~
+	24009F50	GM3_A_MA
+	29EF5B76	GM3_B_QA
+	31BC754D	GM3_A_GC
+	329A4697	~z~Come on Gracie, I want you looking pretty for the photo.
+	32AA0F99	GM3_A_JC
+	2A21C04D	~z~~s~
+	2D3F3BE1	~z~Hey, you been missing me? Look up here.
+	2E58436E	~z~~s~
+	21DBCEDD	GM3_A_LB
+	0506BD7A	~z~For now.
+	05A7CF28	GM3_B_PA
+	0E7A0DF5	GM3_B_TE
+	0164A7B3	~z~Fuck you.
+	028CF128	~z~~s~
+	03B589DA	~z~What are you doing back?
+	10740CF2	~z~~s~
+	18FC98B7	~z~~s~
+	1B4C9F20	~z~Why don't you make yourself useful and go get me some fries?
+	2015A6E9	~z~~s~
+	1475027E	GM3_A_HB
+	157B6317	~z~Have fun out there.
+	15D8873F	~z~How's my favorite girl?
+	36DA563B	~z~Shit, Niko. If you're gonna hang around, why don't you look after the bitch?
+	511188E0	~z~~s~
+	522C88A6	~z~Are you gonna photograph that fine lady, or what?
+	5269714C	200020
+	4E6CF580	GM3_A_MB
+	4CF93E73	~z~Yo, you wanna go down to the strip club, Mr. Mention?
+	4DADA9B7	~z~Nice one, Niko. Old man Ancelotti won't believe his girl's holed up with a guy no more.
+	4DE3483E	GM3_B_TC
+	63341D03	GM3_B_OA
+	6433D39E	190
+	69499E1E	GM3_B_SA
+	60411A74	GM3_A_MC
+	52E7A4E2	~z~I need to learn to control myself. Gordon's dead.
+	577E8A8A	~z~Okay, I'll send you it on my phone.
+	595B0465	GM3_A_HA
+	3EA7D8DD	~z~We need a picture of Grace, her pa thinks she's holed up with some guy. He don't believe we got her.
+	3732056C	~z~Where you been? I been jonesing for some fries for about five hours.
+	3F4AE553	~z~~s~
+	37D8EEC5	~z~You need to get some counseling or something because you're out of control. I'll talk to you later.
+	39EEF64C	~z~You forget something?
+	3E2EE867	~z~~s~
+	3FE175DF	200020200
+	3F3D6D45	200
+	45EF901C	GM3_A_IB
+	45968A40	~z~Jesus, Niko. What's wrong with you?
+	422FE3FF	010100100
+	4389956F	~z~Not unless that guy is into some sick shit. Later on, Packie.
+GM3_SAFE_1	54A48A94	~z~There he is! Stevie, dump the car. I'll take this piece of ass.
+GM3_SAFE_2	22EE2728	~z~Guys, the bitch better be worth the trouble.
+GM3_SAFE_3	3097C27B	~z~Her pa's got some serious cash and he pissed off Gerald.
+GM3_SAFE_4	0D907C65	~z~That's reason enough for me.
+GM3_SAFE_5	1EEB1F22	~z~Well he better pay quick.
+GM3_SAFE_6	E9FCB53E	~z~I hate to think of the fight she'll put up if you try to cut her fingers off.

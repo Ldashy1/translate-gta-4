@@ -1,0 +1,275 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B032F736	~z~Charges ain't gonna stick, don't worry. Anyway, it'd mean a lot to the family if you'd come to Francis's funeral.
+	B0CD2A33	MF6_A_IB
+	AF557ADC	~z~Kate and I are just friends. That's all Packie.
+	AFDBEDF7	100010100100010100
+	B2AD6467	100010100010100010100100010
+	B3A8D53E	MF6_A_KA
+	B1F3268F	MF6_B_BA
+	B21CE0D3	100010100
+	A9666A99	MF6_A_KD
+	A98A04BA	~z~Sure...
+	A8488FFD	~z~This number has not been recognized, please re-dial and try again.
+	A87AC9FF	MF6_A_NB
+	AE0965E7	MF6_A_ZA
+	AE1BB4DF	~z~That's unless you want to listen to an old man cough his lungs out.
+	AA7A1442	~z~What is it?
+	AB2F1E0C	100
+	B4F0CA22	MF6_A_LG
+	BEA91D23	100100010
+	BEB05608	~z~Well, call me back later then.
+	BC582D7A	~z~I'll give her a call man, but I don't think she'll wanna see me.
+	BCB25BF5	~z~I gotta be with me Ma, Niko. She don't got much left other than me. And that ain't much... see you, man.
+	C0CA6425	~z~It's enough, see you, man.
+	C2F05072	MF6_B_GA
+	BF16FBFA	100010100010100100010100100010100
+	BFA7860F	MF6_A_QB
+	B5DBD78B	100010100100100010
+	B77F6C20	MF6_A_FC
+	B58A4F46	~z~Speak to me again when it's done.
+	B5C2B432	100010100100010100010
+	B9ECB941	MF6_A_HC
+	BBD3AE14	~z~Remember to wear a suit, Niko. We can't have you dressed like a bum in the church.
+	B84748A6	MF6_A_LH
+	B94AFE85	~z~This number has not been recognized, please re-dial and try again.
+	A84234B6	~z~No, it's not done yet, Mr. Gravelli. I'm working on it.
+	95EA65FD	MF6_A_HJ
+	9604903B	~z~I'm an old man and I haven't got long left.
+	93928EE8	~z~I just hope he was smacked out of his brain when it happened because it wouldn't have suited him to be jonesing when he died.
+	954F81AD	~z~Good idea. Let's hang out soon. I'll be in touch.
+	972E37CC	~z~Yeah, I think you're doing too good for 'em.
+	97576051	~z~He's in a bad way. Last I heard he was spending his hours in some park in Acter.
+	966AE18C	~z~Look, I ain't a pimp or nothing.
+	966BDC8F	~z~The owner of this Whiz wireless cellphone is not available.
+	8DC261A1	100010100100010010
+	8F482F6A	MF6_A_PA
+	89797584	~z~I'm sorry, Packie. I was there, I tried to stop it...
+	8BB1AE34	~z~It's at the church in Suffolk today.
+	92C2AC12	MF6_A_JI
+	92F7BCE4	~z~Roman's going to miss me, but it'll be useful. Thanks, Packie, later on.
+	9023398B	MF6_A_FA
+	90E9B159	MF6_A_JJ
+	978025BA	MF6_A_FH
+	A05C420D	MF6_A_JC
+	A18895C3	~z~Please leave a message.
+	9E896DDB	MF6_A_FE
+	9EE0A1EF	~z~Niko, you've done it then. Great.
+	A4FE136C	~z~I'm always in need of money. See you there.
+	A82309FC	MF6_B_AA
+	A1F7CDE3	MF6_A_VA
+	A4079DD7	MF6_A_LF
+	98BB70C5	~z~Well, you've been spending time with the rest of my family, I figured you may as well complete the set.
+	9C8511B2	~z~Good luck with that thing. Goodbye.
+	97BB8163	MF6_A_LB
+	98392144	MF6_A_NF
+	9DB43124	MF6_A_SC
+	9E573438	MF6_A_FI
+	9CF63AE6	~z~Please leave a message.
+	9D075640	~z~Anyways, I weren't talking about me. When are you making an honest woman of my sister?
+	EEA53347	~z~This Whiz wireless cellphone is switched off.
+	EF1C6350	~z~Please leave a message
+	EC0401B8	MF6_A_GA
+	EDAEB1C5	MF6_B_CA
+	F010C7E3	~z~I guess not, Gerald got arrested too. They got him in the Alderney State Correctional Facility.
+	F069F7CB	~z~They're setting you up with a pad in Alderney.
+	EF98282C	MF6_A_LC
+	EFB8A5F0	MF6_A_ME
+	E45BFC1A	MF6_B_EA
+	E6F2FF8B	~z~Go down and check on him? Me and Gerald will cover any expenses incurred.
+	E1DAAB93	~z~Niko, I don't know if you've heard it but my brother, Derrick's dead.
+	E361060F	~z~Go down and check on him? Me and Gerald will cover any expenses incurred.
+	E9431A6E	~z~All our personnel are busy making this city a better place.
+	E9F65B43	100010100100010100100010
+	E8490233	~z~You remember my brother Derrick, came along on the bank job?
+	E9140463	MF6_A_FI
+	F0D1D6B2	MF6_A_OA
+	FA8DA6BC	~z~Well, you've been spending time with the rest of my family, I figured you may as well complete the set.
+	FC9C7754	MF6_A_JB
+	F941895A	~z~I mean that my cop brother Francis McReary is no longer with us.
+	F9CE3B84	~z~You have reached Goldberg, Ligner and Shyster.
+	FFDCF3FA	MF6_A_NE
+	FFF4CCAC	MF6_A_MG
+	FD5339F3	~z~He's in a bad way. Last I heard he was spending his hours in some park in Acter.
+	FD61D8CB	MF6_A_LE
+	F4901DD5	~z~Trust me, she will. Call her, man.
+	F5A315E5	100100100
+	F0F7EB5E	~z~I got a call from Ray saying Jimmy P wants to keep you close.
+	F178CB4E	MF6_B_FA
+	F7D7EF2B	MF6_A_JA
+	F882176B	100
+	F66E642B	MF6_A_OC
+	F6C7E544	MF6_A_ND
+	E1C94D01	~z~Niko, my man, how's it going? How you like working for those guidos?
+	CC8B2285	~z~I don't think I like it any better than you and your brother do. We gotta make a living though, don't we?
+	CCDB4B58	~z~What is it?
+	C8EF79A1	~z~Come to Derrick's funeral. It'd mean a lot to the family. It's today at the Church in Suffolk.
+	CADC84A2	MF6_A_NI
+	CF18860F	~z~No shit.
+	CFF6BDFB	100
+	CDAE7AF3	100010100100100010010010
+	CDC19471	100
+	C68985BA	MF6_A_OB
+	C6BADBB1	MF6_A_LG
+	C330CFE6	MF6_A_IA
+	C5E3FE4F	MF6_A_YA
+	C8394FC0	~z~Niko, I got a favor to ask ya.
+	C8D55B96	MF6_A_MB
+	C7215CBB	MF6_A_IE
+	C7CB73C8	~z~I can't have my time wasted with calls like this.
+	D147A150	~z~The owner of this Badger cellphone is not available.
+	DC8320C8	~z~They took Gerry down?
+	DCF0F5B7	~z~This number has not been recognized, please re-dial and try again.
+	DB508720	MF6_A_LA
+	DC301B10	~z~I never thought this would happen, Niko. I never fucking thought it. Kate, sweet, innocent Katie.
+	DF15671E	100
+	DF18EFD3	~z~Niko, I got a favor to ask ya.
+	DD66C5F7	MF6_A_RC
+	DE0870DA	~z~She likes you, just as friends, I'm gonna send you her number.
+	D482B980	100
+	D4E75B74	~z~Alright man, I'll go find him.
+	D28C59E2	~z~Niko man.
+	D29BFC45	~z~I'll do my best
+	D6F8B5A2	MF6_A_FE
+	D7D3C68F	MF6_A_KJ
+	D55AE359	MF6_A_WA
+	D6529071	100
+	89611871	MF6_Z_AC
+	2D987207	~z~There's one less cop on the streets of Liberty City.
+	2FD3DAC7	MF6_A_NC
+	2AE75F44	~z~Roman's going to miss me, but it'll be useful. Thanks, Packie, later on.
+	2C56213A	MF6_A_MC
+	3152F739	~z~I don't want to worry about you not kidnapping some guido bitch like you've been asked to do.
+	31A5D43C	MF6_B_DA
+	3089EC86	MF6_A_JE
+	30ACC0C0	MF6_A_LH
+	24797E2F	MF6_A_GB
+	24DE490F	~z~Remember to wear a suit, Niko. We can't have you dressed like a bum in the church.
+	21B7778B	MF6_A_GC
+	243D1312	100
+	28F4ADAB	MF6_A_LC
+	2A5A1E16	~z~Come over to me Ma's on Savannah Avenue in Meadows Park.
+	273EA581	~z~Niko, it's Packie.
+	284D5109	~z~Goodbye then.
+	32D680B7	MF6_A_KH
+	3D2F97B5	MF6_A_KF
+	3D4FE27C	~z~Yeah.
+	3B2CD8EC	~z~She didn't Packie, you're right.
+	3CDF136E	~z~This Tinkle cellphone is switched off.
+	40D02056	MF6_A_KE
+	423D1B4C	~z~Shit, is it serious?
+	3E04C56B	~z~Well, if I'd a known it was such a big deal to you, I woulda asked you to let them kill me.
+	403C8C8D	MF6_A_PA
+	366643D0	~z~Good.
+	37253819	MF6_A_LD
+	33F98426	~z~So when's the fucking wedding?
+	346002F6	MF6_A_KB
+	390D8911	~z~Niko, my man, how's it going? How you like working for those guidos?
+	3963EAB3	MF6_A_NA
+	3747EDE2	~z~I'll stop by, man. I'll see you there.
+	389CBA9B	~z~Anyway, if you're in need of extra funds I'm in need of a good man.
+	1F9053B4	~z~Hey Packie, I had other stuff to do. I'll get on it, alright? Speak to you soon.
+	0CDDE14B	MF6_A_LB
+	0D12A678	MF6_A_JD
+	0A95C240	MF6_A_GE
+	0B882DE7	~z~What do you mean, Packie?
+	0F14DD76	~z~Sure...
+	13094F2B	100
+	0D2910FA	MF6_A_NG
+	0D794FBB	~z~I'm saying, would you take my sister, Katie, out for a drink or something?
+	03D4CE41	MF6_A_LA
+	041BCF96	MF6_A_MD
+	015EEA7F	~z~There isn't any good way to go though, is there?
+	031F7A75	MF6_A_SB
+	09E52F85	MF6_A_FC
+	09FAA889	~z~Niko, I've got a grieving mother to look after,
+	042E88CC	~z~What is it, Niko? Something important?
+	0614959F	~z~If they paid me enough and helped me find the man I'm after, I'd sleep in a basket at the end of Pegorino's bed.
+	131DA2B5	MF6_A_SD
+	1A81B572	~z~No, Mr. Gravelli. Nothing important. I'll call you later.
+	1B70F7E6	100
+	19858A0F	~z~Hey.
+	19A46DCB	MF6_A_QA
+	1D575256	MF6_A_PA
+	1DB1B675	MF6_A_SE
+	1C615458	100010100100100
+	1D49E8C8	MF6_A_GD
+	14FB4691	MF6_A_FD
+	15503933	MF6_A_JF
+	135D3030	~z~A place of my own, eh?
+	137E8D29	100100010100100100010100
+	18CFF0EC	~z~You remember my brother Derrick, came along on the bank job?
+	191A4E68	~z~I might come from a religious family, but I ain't gonna take some chick down the aisle 'cause she ain't looking after herself.
+	17C46451	~z~She don't get out much and she sure as hell don't go on dates. We're starting to worry.
+	17DAF3C4	MF6_A_HA
+	6B5C2F59	~z~It's done is it, Niko? You're a fast worker.
+	6BD873FE	MF6_A_KG
+	6A5B0681	100
+	6B18638E	MF6_A_JG
+	6F9D7630	~z~Yeah, I think you're doing too good for 'em.
+	6FF5573B	MF6_A_MA
+	6CF4BC7B	~z~We're paying for that ourselves, she didn't have to pay too.
+	6F77B5F2	~z~Half my mates is dead and the other half is in AA so I'm kinda bored.
+	6347CDB3	MF6_Z_AB
+	6412932A	MF6_A_HI
+	60979832	~z~Yes - you better stop embarrassing me - if I lose my reputation as the family fuck up, I'll never forgive you.
+	61C00A39	MF6_A_HE
+	681A04EB	~z~What're you talking about, man?
+	69035F76	MF6_A_RA
+	652D56AA	MF6_A_RB
+	66DB6488	~z~You and Gerry must be very upset.
+	70E0AB9A	MF6_A_XA
+	81D51A9F	~z~A place of my own, eh?
+	82A71FF3	MF6_A_FB
+	80969D5F	~z~Sure, Niko. Keep telling yourself that.
+	80AB0B7F	MF6_A_QD
+	861F55AB	~z~Niko, it's Patrick McReary. You and me did some work for Elizabeta Torres together.
+	8671D9FD	MF6_A_IF
+	844E3BB9	MF6_A_FH
+	846510C5	MF6_Z_AA
+	77FE3CB2	100
+	782A0C1B	~z~This Badger cellphone is switched off.
+	7480B2C2	MF6_A_HH
+	74E5A833	100
+	7D135129	~z~Anyway, listen you want to hang out some time, go for some drinks, give us a call.
+	7DE46EDB	MF6_A_NH
+	7C7E96FB	100010100100100
+	7D03C828	MF6_A_MF
+	6096B926	MF6_A_SA
+	4C4261E6	~z~You mean I saved your ass?
+	4D604AAA	MF6_A_FF
+	4B1E69CE	MF6_A_LD
+	4B424E5D	~z~The owner of this Tinkle cellphone is not available.
+	5297AE15	MF6_A_QE
+	52F320B1	MF6_A_FA
+	4E780ACA	~z~Remember to wear a suit, Niko. We can't have you dressed like a bum in the church.
+	4E8B031C	MF6_A_IC
+	44B02032	~z~That said, the only celebrating Gerry's gonna be able to do will be in prison. He got hauled in last night.
+	450C8624	MF6_A_FB
+	42AB4CD8	MF6_A_HF
+	4377463E	~z~Alright man, I'll go find him.
+	49F1A612	MF6_A_KI
+	4A2B717D	MF6_A_LF
+	45C6A463	MF6_A_KC
+	47CD2BCD	~z~I don't know. Did you get one of those cheap sluts you go home with pregnant?
+	53CA7E98	~z~Gerry said you did good by him - he's grateful. Says you're the first decent person I ever introduced him to.
+	5B5CBD7F	MF6_A_QC
+	5C320332	MF6_A_ID
+	5A411C46	~z~Don't worry, he's always being hauled in but the charges don't stick.
+	5B00EFC1	MF6_A_GF
+	5F14BCA5	100010100100010100010100100010100
+	5FD4491D	~z~They're setting you up with a pad in Alderney.
+	5CD32780	~z~I'll stop by, man. I'll see you there.
+	5DD3D29D	~z~I don't think I like it any better than you and your brother do. We gotta make a living though, don't we?
+	56BA350A	MF6_A_JH
+	56E1C495	~z~Hardly - couldn't stand the bastard myself.
+	54F70D8E	100010100100010100100010
+	5531F24A	~z~If you have a complaint about a high ranking official, please leave your details after the tone.
+	594FFB89	MF6_A_HG
+	59CA9627	~z~She didn't do nothing to nobody. It was us McReary men who were the sinners.
+	58158524	MF6_A_LE
+	589C89DA	~z~That's not why I'm calling, Mr. Gravelli.

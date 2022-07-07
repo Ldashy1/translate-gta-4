@@ -1,0 +1,246 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AE6989F8	~z~I have put myself in situations such as these.
+	ACFE75F3	030300400040090400300300030
+	AC2C9148	FIN1C_MH
+	B105F254	~z~Seen me bredren, seen.
+	B2A2AF14	~z~Are you sure that he's going back to Pegorino? He's not going to go on the lamb?
+	B18822F8	FIN1C_NI
+	B13C640D	090300030400400040040400300030400300300030400040
+	AAAC88E8	FIN1C_ME
+	A63E02AD	~z~Irie, Niko.
+	A470CAC8	FIN1C_PK
+	AAB93100	~z~Me hear from me sources that Pegorino, he might be hiding in the North of Alderney somewhere.
+	ABB75845	FIN1C_OD
+	ABA616B9	FIN1C_QA
+	AAC17AC0	FIN1C_RI
+	BD3E5D5D	FIN1C_UI
+	BCCD6CE7	~z~Jacob have him sources, ya know. Dere be people who can help I and I when me in a fix, seen?
+	BC9039AD	FIN1C_VE
+	BD783CDB	~z~Seen, bredren. I and I be after him. Ain't no way de boy gwan live another day upon dis earth. Seen?
+	C00E3173	FIN1C_MC
+	BF482BB5	~z~But he has still got some money and two bit gangsters will give their lives for a man if he'll pay the right price.
+	BE564220	FIN1C_NH
+	B7C26335	~z~You're lucky we chose this as our escape vehicle, cousin.
+	B7488CD2	FIN1C_RF
+	B3BCF1CA	FIN1C_UK
+	B7E54B58	~z~Then we're going to make that shithead pay for what he did to Kate. Understand?
+	BAD30958	FIN1C_OO
+	B9CBB267	FIN1C_RL
+	B970F0F8	~z~You asked to be here, Roman. Now that you are on board, I do not want these complaints.
+	954581D4	~z~They say that the dying animal is the most dangerous in the jungle, cousin.
+	9346BBF8	~z~Dat no true blood. Ya got I and Roman, seen? Roman just scared and ting. He don't mean what him saying.
+	91B9DD98	~z~Boy, it no matter why ya are do dis ya know, me breda. I and I be backing you up for whatever.
+	96A0BB64	090340430430430430040400040300300400400040040
+	99AFFD2F	~z~I am not doing this to protect myself, I'm doing this because of Kate.
+	98F7C77A	FIN1C_OA
+	983D3C2B	FIN1C_UL
+	8A87CB45	~z~I smell his blood. Now it is only a matter of chasing him down.
+	870B0163	~z~Where'd you get this chopper, anyway? This is a serious piece of equipment.
+	8610E7B0	~z~Seen, Roman. I don't come pon dis ground neither and ting.
+	8D4F50D0	~z~Thank you both for helping me with this. It was not your fight.
+	8F3DE067	~z~This man will lead us there, we'll get him cousin. I assure you.
+	FFAEC859	FIN1C_UC
+	8D800EB1	~z~I think I know what you're talking about.
+	9EB63B83	~z~Not crushed by an oncoming truck or something. Dead men can't get revenge.
+	9E8C71D0	FIN1C_MD
+	9DC5438E	~z~I'm being shot at and all I have for company are two gangsters discussing the finer points of torture.
+	9F717907	~z~I an' I in dis for as long as ya be needing us.
+	A3817ED2	FIN1C_MI
+	A3549078	~z~That's not a possibility, cousin. This man has been picking stuff up for Pegorino since we found him.
+	A25E0999	FIN1C_QF
+	9A8E6B4E	~z~Seen, Niko. We going fe get him now. Dere ain't nowhere him can go.
+	9A7C1D61	FIN1C_VM
+	99CF8277	FIN1C_RN
+	9AF3EBAF	FIN1C_MG
+	9C6F946D	~z~He's going fe stop soon ya know, Niko.
+	9B78AAA2	~z~I'm only going to say this is done when Pegorino's heart stops beating. You understand?
+	9AFA7A01	FIN1C_ND
+	C0639113	~z~Shit, what's the plan when we get there?
+	E45058EC	~z~Pegorino ain't as strong as when he used to run the Aldreney family, is he Niko?
+	E40DC631	~z~Not yet.
+	E3C1870B	FIN1C_VH
+	E57BE05D	~z~Sure, sure. That's what I'm feeling. Niko,
+	E7B6E1DF	~z~I did... I do want to but, you know. I don't want to die, I have a wife to think about now.
+	E6020DEE	~z~He been running round town like a headless chicken,ya know rasta. Picking up shit, him desperate.
+	E5A2E0AF	~z~Roman, the last thing I want is to lose you as well as Kate. I can't imagine how I'd feel if I lost you today.
+	DEB04DB0	~z~Alright, this is starting to become a joke or something.
+	DE8A73C3	FIN1C_MF
+	DE7580CF	FIN1C_QE
+	E021978F	~z~I guess Pegorino is not so weak after all, there were many men with him.
+	E334C483	~z~This is great, just great. How's married life, Roman? It's really relaxing, thanks for asking.
+	E1BFF9B0	~z~This is something that I have to do. Kate had a messed up family, but she remained good.
+	E0620A92	~z~From what you tell me about Jimmy P, he's too desperate to do without this shit.
+	F4963463	FIN1C_NF
+	F3C5A975	~z~There's nowhere left for these guys to go. The whole city wants them dead now.
+	F35DC042	FIN1C_NK
+	F65668BE	FIN1C_PF
+	FEE0E3FD	FIN1C_VO
+	FA65B433	~z~I'm about ready to see that particular moron.
+	F69B2F35	090090300090300490490300030030030300400040
+	E88C51F6	FIN1C_PJ
+	E8692DB1	FIN1C_NL
+	E80A28C8	FIN1C_VB
+	E893EE88	FIN1C_RG
+	F2E6761C	~z~Where is Pegorino? What sort of wild turkey chase are we on?
+	F1CFA58B	FIN1C_VF
+	EE4E266A	~z~The only place Pegorino is going is into a coffin.
+	CCEB9991	FIN1C_PM
+	CA8C5703	~z~Well, I guess I'll be doing the whole city a favor when I kill Pegorino, then.
+	C9146A34	090300300300090300490490490490340430040400400
+	CDCFA823	FIN1C_UM
+	D2441F7A	FIN1C_PG
+	D08903B6	FIN1C_VL
+	CDE11474	FIN1C_PE
+	C4474FAB	FIN1C_QH
+	C085628B	FIN1C_UH
+	C06A8914	~z~Fools just pass out when dem see dem finger cut off.
+	C696F573	FIN1C_QL
+	C7FE09CE	FIN1C_PD
+	C7AC0D6E	~z~Okay, cousin, okay. I was just saying, be safe is all.
+	C72BE9E5	~z~Sure, cousin, sure. Eyes to the front. Mind on the job at hand and all that shit.
+	D7B66BC5	FIN1C_VI
+	D7AD44C4	~z~But, Roman, I will not let this piece of shit go. He is taking us back to Jimmy Pegorino.
+	D7A644B2	~z~I want to get this guy.I just don't think we want to take any unnecessary risks while we're doing that.
+	D868F2BC	~z~The fool thought he could be a big player.
+	DE09CE85	~z~I've got nobody now.
+	DA86E232	~z~True, Niko, true. Dere gonna be plenty of ras clots inna de ground.
+	DA01F29C	FIN1C_VG
+	D3865D3D	~z~She... was something worth protecting... by helping me today you are doing something good.
+	D318AFFC	FIN1C_OI
+	D2AD2D99	~z~But that don't work inna real life.
+	D5B26BC1	FIN1C_QB
+	D717F0CC	FIN1C_QD
+	D639BCBF	~z~You think that it'll just be this guy and Pegorino? We teach them a lesson and we go.
+	D5BFA995	~z~At least ya not dead and ting.
+	30D87421	~z~Cars are coming toward us, people are shooting at us.
+	3039BA22	~z~I showed a man that you cannot always get what you want at the cost of the lives of others.
+	2FB86772	~z~Motherfucker, why don't we just stop his car and start cutting off his fingers until he tells us where the fuck Pegorino is?
+	318CBC68	FIN1C_UA
+	326AEDC3	FIN1C_OJ
+	3264307D	FIN1C_ON
+	32530F75	FIN1C_RC
+	2606533D	FIN1C_PH
+	213799BA	~z~If that shit, Pegorino, understands the worth of his life, it will be all the more satisfying to take it away from him.
+	20E69D5D	~z~He cannot go much further, we must reach Pegorino soon.
+	276B98A4	~z~You have to do what you have to do, cousin. If he tried to kill you then, he will try to kill you again.
+	2F2139D2	~z~At least we're seeing some of Alderney. I don't normally come this side of the West River.
+	2D69DA8F	FIN1C_QI
+	2D2443BC	FIN1C_QM
+	32FD3D45	~z~Him fight for that when him got nothing else.
+	43635093	~z~I always said you could not escape the past.
+	41B903AA	FIN1C_PP
+	3E4D2EDF	FIN1C_MB
+	4458DFFC	~z~As long as he is dead...
+	4E69F41E	~z~We're going to get him, cousin. We're going to win this.
+	4CFDB26C	FIN1C_OL
+	446187CB	FIN1C_PC
+	3BC3EAD6	~z~You couldn't take the ras clot down inna dat place back there? Him get away from you?
+	3826B4B0	FIN1C_VD
+	378D9C58	FIN1C_MA
+	3C03D1B6	~z~We're going to win this, cousin.
+	3CB9992A	FIN1C_RE
+	3C5C0B2C	~z~Easy me breda. He's taking us to Pegorino. You need fe chill.
+	3C3BA5A2	FIN1C_RA
+	2039A792	FIN1C_VP
+	08A4994B	~z~What type of sick bastards have I gotten into a car with?
+	08053C3A	FIN1C_RB
+	06FAA12E	FIN1C_OC
+	08F8F6D5	FIN1C_VJ
+	0DF7E8C5	FIN1C_OM
+	0C61AB34	~z~Whatever chilled is, this is not it!
+	0B956E76	~z~True dat. When a man lose everything, and him still have him life, him know what it worth ya know.
+	028B9788	~z~You said you wanted to help, Roman. You said you wanted to give Pegorino payback just as much as I did.
+	015512F9	~z~I don't know, ya know rasta. Can't be far though.
+	8DF10571	FIN1C_PI
+	0291485A	FIN1C_VC
+	05D6BE8E	090300090400300090090300090090090400090
+	0423D223	FIN1C_UB
+	0394688E	FIN1C_PN
+	0E5C9B76	FIN1C_OE
+	19FE7DCA	~z~Word pon de street is dat Peg ain't got much, him held up somewhere a waiting fe get outta town.
+	19D3142D	FIN1C_VK
+	17F26618	~z~I do not care if I am killed, if I am hurt, as long as he pays for his attack.
+	1CA5CDA4	FIN1C_OB
+	1F40D0F2	~z~How can you be chilled? You've been smoking too much, Jacob.
+	1EC23D59	FIN1C_OF
+	1DFEC3FF	~z~Easy now Niko. Dat shit work in all dem spy torture type show pon TV, seen?
+	11140947	FIN1C_UE
+	10663323	FIN1C_UJ
+	0F20602A	~z~How do you know he's going back to Pegorino?
+	11CEF9A6	090400340340040040400330330090090090400
+	162D1299	FIN1C_UD
+	161CEBA1	~z~Yeah... uh, me too.
+	13233695	~z~Yeah, but this guy better not be fucking with us. He better be bringing us to Pegorino.
+	4E97AFA3	~z~I'm not fucking chilled. We're speeding down the highway at who knows how fast.
+	71C95744	~z~There ain't no getting away from us now that we got this thing. It's a flying tank. He's a dead man.
+	6EAAC597	FIN1C_UF
+	83705E26	FIN1C_VA
+	72C2A771	~z~He's a dead man, dead man! Fucked with the wrong rasta and ting.
+	72357E03	FIN1C_OK
+	71DC99EB	~z~I got ya back, me breda.
+	6CC813B1	FIN1C_NA
+	6B42E8F9	~z~Where the fuck is this guy going?
+	6A56AE57	~z~If I live, I will be able to say that today, I did not hesitate, I did what was right.
+	659E8E76	FIN1C_NJ
+	83BC8510	FIN1C_OH
+	84914AB4	FIN1C_QC
+	6BAC67A2	~z~No, he isn't as strong as he was back then.
+	7DBDC1B1	FIN1C_QG
+	7997D70B	FIN1C_PL
+	7988A033	~z~Shit, cousin, is this a good idea? Taking on all of these hired hoods?
+	7F5CE08C	FIN1C_QJ
+	80F543D6	~z~This he will realize soon enough.
+	7F12B457	~z~Niko, any fight of yours is mine as well. We are family.
+	7918B9B2	FIN1C_NE
+	76EF75DF	~z~I'm speeding into oncoming traffic!
+	75B0C50F	~z~We will kill Pegorino, cousin. Whether this constitutes a victory; that is another matter.
+	758CCA95	040400400300300090400090090300300
+	786F2E93	FIN1C_RK
+	78293E4F	FIN1C_RM
+	77CE9CBF	~z~I did not start this, I have no choice after Pegorino killed Kate.
+	6475455A	FIN1C_OG
+	54C7D422	FIN1C_RD
+	54269BFF	~z~That is what I owe Kate.
+	53520233	~z~It's a different city from de rest of Liberty, true?
+	5A31324A	FIN1C_PA
+	59142EF0	FIN1C_PB
+	58E0F11C	~z~We will keep on this guy and hopefully he won't fucking kill us or crash before he leads us to Pegorino.
+	85DC7F6A	~z~Alright, alright.
+	5021098C	FIN1C_VN
+	4F61E8B9	FIN1C_NC
+	4E9ADC90	~z~Okay, we're making some progress then.
+	52CA6F61	~z~Me man, Roman, be talking de truth, ya know.
+	518305F9	FIN1C_QK
+	5162AAC6	~z~Seen me bredren, seen.
+	612CFFAB	FIN1C_NB
+	5CEAD5DC	FIN1C_RH
+	63214E43	~z~Alright, we follow him back to Pegorino, then we cut his fucking fingers off.
+	62AFA0EE	~z~I am not taking you on some tourist sightseeing tour. We're chasing a scumbag back to his boss.
+	5C27795C	FIN1C_RJ
+	84F81F5B	~z~We gwan mash up dese ras clot. Mash em up good! Seen? Roman, dat's what you're feeling, don't it?
+	5CB8A313	FIN1C_UG
+FIN1C_CUT2_1	D15D898E	~z~I told you to leave me alone.
+FIN1C_CUT2_10	F12A9E6C	~z~And they thought you were a fat fucking joke.
+FIN1C_CUT2_11	C2FA420C	~z~Whatever.
+FIN1C_CUT2_12	D4A4E561	~z~A joke! Huh.
+FIN1C_CUT2_13	A64988AB	~z~Cousin!
+FIN1C_CUT2_14	8AD851E9	~z~Yeah.
+FIN1C_CUT2_15	B8BAAD9D	~z~You did it...
+FIN1C_CUT2_16	A66C0900	~z~Really?
+FIN1C_CUT2_17	D50D6642	~z~I don't know. What did I do?
+FIN1C_CUT2_18	5310E25B	~z~But we're done. Now we can start making money... freely.
+FIN1C_CUT2_19	81493ECB	~z~I suppose so.
+FIN1C_CUT2_2	014F696D	~z~I give the orders here. Me.
+FIN1C_CUT2_20	DCC2046B	~z~We won, man. We won!
+FIN1C_CUT2_3	91DC0A88	~z~You're not looking so good there, Jimmy.
+FIN1C_CUT2_4	A3ABAE27	~z~Screw you.
+FIN1C_CUT2_5	C672F3B5	~z~What the fuck did she ever do to you?
+FIN1C_CUT2_6	5A731BAF	~z~I wanted you, you immigrant dip shit.
+FIN1C_CUT2_7	6C2CBF22	~z~Big talk. You wanna know something funny?
+FIN1C_CUT2_8	6D16C0F6	~z~Not really.
+FIN1C_CUT2_9	7ED9647B	~z~The Commission - the old families - I know some of those guys.

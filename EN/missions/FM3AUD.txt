@@ -1,0 +1,237 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	89AB9B85	FM3_QB
+	88EF4EEE	FM3_AH
+	8D1B3186	~z~Listen up yo, get outta here.
+	8F6C32E0	FM3_NC
+	8E24A36E	500500050500500500500500500500500
+	88E9158B	~z~If you're makin' a mess in the stairwell, I'm sure as hell not cleaning it up.
+	838C310C	~z~Violent... me?
+	80966CE7	~z~You don't have to worry about Clarence anymore.
+	8482734F	SFX_DIALLING
+	87AB4B96	010010100100100
+	852604F2	~z~What you doin' round here, whiteboy?
+	90278175	~z~That's right. We the same, me and you. Look out for each other.
+	9696B0E6	~z~I told you boys to do your fighting outside.
+	9568F158	FM3_LA_QQQ1
+	99008A67	~z~Hey tourist, you want us to pose for a photo?
+	9AE37A0D	FM3_LC
+	9936EE8D	FM3_AE
+	95180150	FM3_MA
+	90EA4BC8	~z~You're starting to sound like your friend Manny.
+	9096A67B	590
+	92DE40B9	~z~You're the only one who's gonna get locked up, son.
+	94C2772B	FM3_JA
+	93B72FAD	FM3_DA
+	7FF16811	FM3_AA
+	6C785E90	~z~I surrender. You wouldn't kill an unarmed man, would you?
+	6C0C91F5	FM3_AG
+	6D79A04B	200
+	6E6993A4	690
+	6DAA7652	~z~The drug dealer is out on the street. Oh no! Lock up the children, Francis.
+	6AD0415B	~z~You did a good thing, Niko. That boy was mean. He had a tongue on him too.
+	67769860	FM3_LD
+	676B606B	~z~Should be on the second floor, keeps an eye on all his boys from up there.
+	67DB65DC	FM3_AF
+	6AABCFFE	~z~You're a long way from Star Junction, cracker.
+	6853BEC1	801
+	6F2AF9F3	FM3_AG
+	7990B890	~z~Please.
+	E70AD81D	FM3_OB
+	7AA9F90D	~z~Clarence, is that you again? Can't you deal out on another block?
+	7F4D1F20	100100011
+	7D910A4A	FM3_IA
+	76EC7ABC	FM3_QE
+	E92F481F	090
+	70306D0A	~z~There be a lot of brothers want to dead your ass in this project.
+	745E92B1	~z~Yeah you. Remember, you're doing a real service for the community by getting rid of this scumbag.
+	763D2E2E	FM3_AD
+	74AC201B	FM3_QC
+	BF5C571E	~z~You got the wrong people, son.
+	BF33E61B	~z~Good move. You shouldn't trust a word that comes out of that scum's mouth.
+	BF644436	~z~I'm too young to die. Please.
+	C12D618C	~z~Eat me.
+	C09B5572	FM3_PB
+	DE849C3A	~z~Fuck you.
+	B9C23F3F	~z~You just crossed the line, you punk ass bitch.
+	E3434FC8	FM3_CA
+	B9CDFA69	FM3_QA
+	E1618778	~z~Sorry.
+	BA936395	~z~This didn't have to go this way.
+	DC5A3CD2	FM3_SA
+	CCF975A8	FM3_HA
+	CB839D51	~z~It's trash day.
+	CFF5E633	~z~I need some help up in this bitch.
+	D576F6A8	~z~Shit, I hope you enjoyed your sightseeing tour. It's yo' last.
+	D59F6D5C	~z~Try to get off the ground floor before getting violent.
+	CB5A355A	FM3_FA
+	C665EDF1	~z~You the boss though, man. You the boss of me.
+	C60B2C0E	~z~Should be on the second floor, keeps an eye on all his boys from up there.
+	C773D73D	FM3_LG
+	C876B042	FM3_AE
+	C814A1C4	~z~You're starting to sound like your friend Manny.
+	B8A17DE7	~z~Momma told me not to kill nobody today.
+	A5B2D80A	~z~Clarence were specific about deading any fools that tried something.
+	A5ACAA8B	~z~Whatever.
+	E63051FE	~z~Don't kill me, boss.
+	A8B129C8	~z~Damn, son, you don't belong round here.
+	A78964C3	~z~Got you now!
+	A3641283	~z~Clarence don't want no strangers up in here. That's too bad for you.
+	9D06C457	~z~I'm outside the project, where is he?
+	9C2DA411	~z~Thank God for real justice.
+	9DA440E7	~z~I'll get out the game. Get a GED or some shit. Make something of my life.
+	9ED9D503	~z~You in the wrong hood homie, raise up.
+	9E306654	~z~Francis McReary is the community now?
+	AA0DBBCF	~z~He tried to convince me to let him go. Said he'd get out of town. I finished him anyway.
+	B482B39B	FM3_LE
+	B306C53F	~z~I can go where I like.
+	B67E4E22	~z~Get out of here. I see you again, you'll wish I had killed you now.
+	B83007FF	FM3_NB
+	B7A2B273	FM3_LB
+	B290DFC7	~z~I think someone stepped off the tourist trail.
+	ACDDC856	~z~That was the wrong move.
+	ABE5702F	FM3_AH
+	ACEF0865	400
+	E4CEB807	~z~Now you done pissed me off.
+	AF7031BC	FM3_PA
+	63D82AAE	~z~I'm gonna put a cap in your dome, fool.
+	20B4AD1F	010100100010
+	201CC5BA	~z~This isn't my choice, the police want you dead.
+	20CB8254	FM3_AA
+	F6A117F3	700
+	F7395CDC	~z~You came into the wrong project.
+	1FA27D72	FM3_AC
+	182D7DD1	FM3_PD
+	FBD7BDF6	~z~Where my boys at?
+	FB886500	FM3_OC
+	FB5155DF	~z~Yeah, sure, man.
+	1B6D3C5B	~z~Yo, yo, yo. Man, you got me, chill.
+	228F3092	SFX_PAUSE_500
+	3057F245	~z~Violent... me?
+	29DD9834	400
+	31446EA1	FM3_TA
+	EA6FC094	~z~Always talking his way out of court, willing to compromise anyone to get out of trouble.
+	3282973A	FM3_AB
+	27D0A7DC	~z~Shit, I wouldn't recommend going up there. It ain't gonna end well for you.
+	F182229A	FM3_AF
+	22F3E9D5	FM3_AI
+	2507A24E	~z~Upstairs for residents only. I know your white ass don't live in this shit.
+	26E0DF57	~z~Try to get off the ground floor before getting violent.
+	254A43B8	010100100100
+	16943EBE	~z~Francis McReary is the community now?
+	07BA1703	801
+	07A1A589	FM3_NA
+	08155BE8	~z~Clarence told me to dead any fool who don't belong in here.
+	0BB2637B	FM3_PC
+	095C983A	~z~Yo, it's that rat cop McReary. Ain't it?
+	FE11B527	100
+	02DF1B75	~z~You in some real shit now!
+	788476A8	~z~McReary going to think I'm dead. Word.
+	042F60C3	~z~This really ain't the place for you, tough guy.
+	FE3A02BD	~z~Take this, you whitetrash asshole.
+	04559A41	~z~Yeah you. Remember, you're doing a real service for the community by getting rid of this scumbag.
+	0C426EBA	300
+	149B0171	~z~Going up there would be a dumb play. I'm telling you that.
+	FCAA7D00	~z~Anyway, these projects all got the same layout, a staircase leading up on either side.
+	1521BFFA	~z~You 'bout to get banged dude!
+	165C74E4	FM3_BA
+	1570C580	~z~You're a real fuck up.
+	1362F51E	FM3_LH
+	0DC1BB86	100
+	0D37B1BD	~z~Yo, you better bounce.
+	1003A650	~z~Enjoy this, bitch.
+	1125A788	FM3_RA
+	10992C2B	FM3_UA
+	34899EB7	FM3_QD
+	565D73EE	FM3_LF
+	54EAAF75	~z~He don't like a younger brother with ambition. Tell you what, I'll reform.
+	E982194B	~z~Turn off your TVs and come out here to help me deal with this crazy psychopath.
+	58C6788B	300
+	58A392EC	~z~The guys you see are gonna be working for that scumbag in one way or another.
+	EA368517	090
+	5059923E	FM3_AB
+	4E7FE25B	FM3_LA
+	51290550	~z~This ain't looking good for you, bitch.
+	54227401	~z~This ain't the place for you, son. You dead.
+	5227BF4D	~z~You think this is funny?
+	E94EBE27	FM3_LI
+	5E264DE1	~z~I'm outside the project, where is he?
+	5E0B542B	010100100100100010100010010
+	5E46523E	~z~You ready to die?
+	616DB2ED	FM3_AD
+	5F61A1BD	~z~Even the cops be scared to come up here.
+	E948E012	081801081081
+	5C8220B1	~z~Whatever you say. They don't look much cleaner from where I'm standing.
+	5ACE3043	~z~Yo cracker, you a long ways from home.
+	5CA71881	~z~Screw you.
+	5D5DC4ED	801
+	5CB99C6D	~z~The cops ain't gonna help you in here, they scared as shit.
+	3BB36315	FM3_OA
+	3B7D0E47	~z~You might wanna go home...
+	35701EA6	200
+	3F2049FD	~z~You come to the wrong project, fool. And you gonna pay for it.
+	3D086BA6	FM3_AC
+	3B75087F	~z~The guys you see are gonna be working for that scumbag in one way or another.
+	38F7CA2A	~z~Only thing you'll find up there is a bunch a people who wanna kick your ass.
+	38336BBE	FM3_VA
+	3957E190	FM3_LJ
+	3AE2026E	~z~Clarence gonna be real pissed that you started this.
+	39B20832	FM3_AI
+	45185B15	FM3_EA
+	4CF28E08	801
+	4D179073	500500050
+	4DADACF0	~z~Anyway, these projects all got the same layout, a staircase leading up on either side.
+	42460A2C	~z~Come on, boss.
+	4DD0834E	~z~The streets are a little bit cleaner now he's gone. One percent - it's all we can hope for.
+	EA68B458	500
+	40D916DF	FM3_ND
+	40791BF0	~z~This guy is probably out dealing to them.
+FM3_CUT1_1	54CCC50A	~z~Sure, Ma. Sure...
+FM3_CUT1_10	735698F6	~z~You know there's no good, and no evil... just shades of fucking gray.
+FM3_CUT1_11	6C4B0B0B	~z~Whatever...
+FM3_CUT1_12	A21C76AD	~z~You make things one per cent better. That's enough.
+FM3_CUT1_13	8EFED072	~z~That's our duty.
+FM3_CUT1_14	C6973FA6	~z~If you say so.
+FM3_CUT1_15	D91964AA	~z~Oh I do say so. I want to make things a bit better.
+FM3_CUT1_16	C6DFC037	~z~By any means necessary.
+FM3_CUT1_17	FDB52DE1	~z~And you? What do you want?
+FM3_CUT1_18	EB72895C	~z~I want to get paid.
+FM3_CUT1_19	FE522F17	~z~Sure. Sure you do.
+FM3_CUT1_2	02C5A0FD	~z~I've always been a good boy, you know me, Ma.
+FM3_CUT1_20	B0D81738	~z~So listen, I got something I need you to do.
+FM3_CUT1_21	BB272BD6	~z~This is the last time.
+FM3_CUT1_22	0C554E31	~z~Of course.
+FM3_CUT1_23	16AB62DD	~z~Some drug dealer is holed up in a tower block in East Holland.
+FM3_CUT1_24	E5E3814E	~z~This scumbag's been pushing drugs, pimping women, you name it, he's done it.
+FM3_CUT1_25	5A416B1C	~z~I need him dealt with.
+FM3_CUT1_26	FD6AB15C	~z~Isn't that police work?
+FM3_CUT1_27	13B8DDF8	~z~Sure... and the moon is made of cheese and the streets is paved with gold.
+FM3_CUT1_28	20F2786B	~z~Wake up.
+FM3_CUT1_29	A73284ED	~z~Excuse me?
+FM3_CUT1_3	F8778C61	~z~Yes. I'll make Commissioner.
+FM3_CUT1_30	E1467734	~z~The guy's guilty as sin. He is sin.
+FM3_CUT1_31	BBFE2CA4	~z~But it'll take me a year to get the evidence. More maybe.
+FM3_CUT1_32	05B4C010	~z~And maybe good men will get taken down by that evidence.
+FM3_CUT1_33	1862656B	~z~Maybe people make mistakes.
+FM3_CUT1_34	F3131ACD	~z~But this guy, is scum.
+FM3_CUT1_35	213C771B	~z~How much?
+FM3_CUT1_36	FC2B2CF9	~z~Oh how much?
+FM3_CUT1_37	468EC1C3	~z~Good money.
+FM3_CUT1_38	585C655E	~z~Two G's.
+FM3_CUT1_39	331A1ADA	~z~Two?
+FM3_CUT1_4	27486A02	~z~No. I don't care about Packie... listen, Ma, I've got to go.
+FM3_CUT1_40	5432613A	~z~You mean five.
+FM3_CUT1_41	72999E0C	~z~You know,
+FM3_CUT1_42	D4CE6264	~z~If someone was to tell me you was some fresh off the boat killer with more balls than brains,
+FM3_CUT1_43	C5F8C4B9	~z~I'd say he was about right.
+FM3_CUT1_44	B93BAB3F	~z~Okay you got a deal. Head on up to Vauxite and call me.
+FM3_CUT1_45	1BAB701D	~z~Five G's...
+FM3_CUT1_5	CE06B780	~z~Love you too.
+FM3_CUT1_6	231161D0	~z~-Good to see you.~n~-I'm sure.
+FM3_CUT1_7	F84B0C44	~z~You know it's funny, but I see a lot of me in you.
+FM3_CUT1_8	075CAA67	~z~You know why?
+FM3_CUT1_9	5DA256F1	~z~No.

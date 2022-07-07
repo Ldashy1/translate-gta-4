@@ -1,0 +1,327 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9D8BAE5D	~z~Follow don't mean get all up in his shit. It's over.
+	9DD5095E	~z~What you doing firing that thing?
+	9C330C64	~z~An entrepreneur who's gonna clean this shit up. Money and respect.
+	9CA1693F	M1_A_EE
+	A065DCDD	~z~Hey, the message is what's important, man. It don't matter who gives it.
+	A0C1D3AB	~z~You ever thought about doing some TV? You might be able to get a series off the back of mine, you know?
+	9F64D706	~z~They be sucking the damn life out of these streets.
+	9FE85C62	M1_GF
+	9A45F34D	M1_A_CA
+	97279CBC	100100100010100100100010100100100100100
+	9787B5FE	~z~Shit, man. Manny's close to everyone who grew up on the streets of South Bohan, man.
+	96581C7C	M1_BA
+	972443B4	M1_CA
+	993AE62B	M1_PA
+	9A313CA2	~z~You're following him man, not ass raping him. Get back.
+	9850E595	~z~Drop the punk.
+	98CCA8A5	M1_AA
+	B13C76D8	M1_CB
+	B1C91782	~z~I don't think we sent an invitation to this punk. Eject him from the party.
+	AF0133F8	M1_A_EA
+	AF74C790	~z~I'm paying you to follow him so do it, man.
+	B3577790	M1_HB
+	B4C10104	M1_GK
+	B1F9F3E5	M1_HD
+	B2DF984E	100
+	ADFDAFF9	~z~Best of both worlds, man. I see myself that way, man.
+	A66120C7	M1_HM
+	AAC81294	~z~How we going to clean up these streets if there's cops on us, man? Lose the heat.
+	A1294532	M1_A_DI
+	A13476B6	M1_A_FA
+	ACC0CB66	100
+	ACD7AE85	M1_A_EB
+	AB65E8F3	~z~Niko Bellic: Street Justice, bro!
+	AC896152	~z~You on crack man? Get away from him.
+	82DF8005	~z~This is starting to annoy me!
+	842D246C	~z~Follow him into that warehouse and get rid of the dealers.
+	82887F57	~z~Shit, Niko. Don't be a punk!
+	82A72424	M1_GD
+	853B575E	M1_A_EI
+	FEF17EDD	~z~Man, I thought you was serious about cleaning up these streets, man.
+	84F63EE0	~z~Cut him up, boys.
+	85321153	~z~They my people, alright?
+	81C7A52E	~z~Only someone who has been to prison gets that close to a man. Hold off, man!
+	767CC124	~z~That's us, man, only at a street level.
+	77C3808E	~z~Of course he's seen us now. Shit, man.
+	73F5B3B3	M1_A_EL
+	74BE5AD2	~z~You cut them and they bleed. Man, that was good. I should write that down. You got a pen?
+	7F64E8EC	M1_YA
+	8197884F	M1_A_DG
+	77E781F7	~z~Not really my scene.
+	7C248DAB	M1_HG
+	9188ACD1	M1_LE
+	9281BCA5	M1_HE
+	8DE9377C	M1_GG
+	8F0FC599	M1_A_BB
+	945DC2E3	~z~Last I heard these dealers was up on Grand Boulevard. Let's go take a look, man.
+	954D604E	~z~Man, it's almost like you want this scum on the streets.
+	929CC11C	M1_QA
+	934BB083	M1_A_DC
+	8D03A456	M1_RA
+	8AC30B6D	100
+	8AD68EAD	M1_A_DD
+	89352371	~z~Shit, we meant to be keeping this shit on the down low. What you doing getting five-oh on our ass?
+	89F3053B	~z~I don't know why the people out there want to hurt people man?
+	8BD52FE7	~z~There he be. We gots to follow him to them other leeches, man.
+	8C1B1E4E	~z~You know, when I was stalking this girl in Europe, I found that two car lengths was the best distance.
+	8B36EA98	~z~Philanthropicalism, man, like one of them rich guys who makes computers and cures AIDS and shit.
+	8BB64D20	~z~Get some wheels so we can chase this sucker.
+	B4E58330	~z~Do you tell them "To get famous."?
+	E17349D4	~z~I don't know if he's grown up enough to make a good husband. What's it to you anyway?
+	E3EB5997	M1_HA
+	DF4831D5	~z~Man, you hit him. No way we can get the rest of them leeches now!
+	E172F8BB	100011100100100
+	E50467DD	100
+	E617DE56	~z~You sound like you got something else in your veins.
+	E4366A0A	~z~You gay or something man? Stay away from his ass.
+	E439FF31	100
+	DE5DDEE8	~z~You got too close, man. He saw us.
+	D6F34430	~z~You lost him, man. He probably selling drugs to kids right now.
+	D8594A17	~z~I always wanted to be a well-known idiot.
+	D47EEA2C	~z~I thought you was going to clean shit up. For me and these streets. For these people man, my people.
+	D5410101	M1_TA
+	DC8DC4BE	M1_LC
+	DDC9C1AA	~z~Apparently the mob teaches people to stay two car lengths behind a target.
+	DA7E0A7F	M1_SA
+	DB0B57B4	~z~This boy's got personal space issues, man. Stay back.
+	F7461F8E	M1_A_DB
+	F7C901B4	~z~You know, these streets is mine, man! I can feel them flowing through my veins.
+	F42F7A85	~z~I ain't touched that shit in years. Who you been talking to, man?
+	F6101313	M1_FA
+	FA2F5D04	~z~That guy gets away there'll be more drugs on the street, killing our kids.
+	FB4E08D4	~z~Shit, how about that for a title? 'Manny's Street Gospel' man.
+	F826479C	M1_HL
+	FA0A3017	100
+	F2E4CC43	290
+	EA3382EE	M1_A_EJ
+	ECE4E842	100100100100100010010010100100010100
+	E6BE8EAB	~z~Niko, you made a promise to me, man. Your bond is your word, man.
+	E7DDB861	~z~Step on it, man. I need you close to this guy, but not too close. You hear me?
+	F1724AA5	~z~He stopped at the red.
+	F2CD4D57	~z~Shit. He stopped again. Hold back.
+	F0AB037A	~z~Shit, man. He seen us. He ain't never gonna go to his boys now.
+	F0F87831	M1_HF
+	C00FB40F	~z~This boy think he can come up in our shit. Drop him.
+	C2BBD32B	~z~Yo, chill on the shooting, man. We trying to keep this shit on the down low.
+	BD169DFF	M1_GL
+	BF4252BA	~z~Yeah, I'm an entrepreneur, man. You got to have some money if people is gonna respect you out there, man.
+	C57DA145	~z~How'd you let him get away? Man, shit
+	C693FEB2	100100100010010010100100010
+	C42C9A80	~z~I'm clean, man. Serene. Fucking serene.
+	C51AAE21	M1_OA
+	BCF080CF	~z~He going to propose, right? He's going to make an honest woman of her, right?
+	B8B67BF0	M1_LB
+	B96076D1	M1_A_AB
+	B7C0C37F	~z~I like your vibe, man. I like it. You're out to make money but you want to make a difference too, man.
+	B8A4C6AE	M1_HN
+	BC369A0B	~z~He going see you, man.
+	BCBAB679	~z~This dealer's going to see us if we rolling with all this heat, man! You gotta shake the cops, man.
+	B96516BF	M1_A_BA
+	BAEB7CC5	~z~Sure.
+	D100F637	~z~What I seen of it at least.
+	D23A7228	~z~Shit, man. You don't need to fire that thing until we find the rest of those suckers, man.
+	D03DA942	M1_A_DF
+	D0F50169	M1_XA
+	D3154423	M1_GE
+	D4415D75	~z~Wrong warehouse, bitch.
+	D28BB73E	~z~Oh, I'm sorry.
+	D2FDAC32	M1_A_DH
+	CF9C254F	~z~It's two car lengths, right? That's how far you stay behind a woman when you're harassing her?
+	CA194086	M1_A_ED
+	CAB3AECC	~z~People say to me, "Manny why you do this? Why you want to clean up the streets so bad? What's your passion?"
+	C6A9E109	M1_A_EC
+	C8C3FA2E	~z~Don't let him shake you.
+	CDD922A0	~z~I didn't know you and Mallorie was that close.
+	CE7C3E96	~z~Stay off him, we need to find them leeches.
+	CB5CE434	100100010
+	CD63CEB7	~z~What's this fool think he's playing at? Finish him.
+	73A6835F	~z~I thought you were going to clean up the streets?
+	47A5A27D	100100
+	1CC315CE	M1_GH
+	1EAB42E9	100
+	1C70B9DB	~z~That's my bad. Boo fucking hoo. See you around, Manny.
+	48DFBAE9	M1_A_EK
+	1CC22EEF	M1_IA
+	41B8541D	M1_KA
+	1ED0BB04	M1_A_GA
+	3FE48806	~z~Shit, you look obvious being that close without a car, man.
+	43270DFF	M1_A_DE
+	4309A31E	M1_A_BC
+	42DAF708	~z~I am afraid not.
+	4A74EB50	M1_HK
+	4F404E99	M1_A_DA
+	1BB549A2	~z~You think Jesus started breaking shit up when those disciples followed him around with a bit of parchment?
+	4DE195FA	~z~Yo, we need a car if we're gonna clean these streets.
+	4FF9268E	~z~You think these streets is safe enough? See for yourself - get out.
+	15298F7B	100
+	4F644042	M1_A_EF
+	4B9B2FDE	M1_GJ
+	4B321D00	~z~If you can't clean up the streets, man, then you can walk on them, man. Get out.
+	1BBAA8C8	~z~He should be filming me every second.
+	4D0FB632	~z~You taking my money, aren't you? Be my voice. I'm gonna go back and get Jay.
+	4CF117A7	~z~Shit, he'd pulled up. It's almost like you don't care about the kids, man.
+	4C4612D3	~z~Niko, you punk, man. Behave!
+	324AFBA1	M1_GC
+	304A0EEF	M1_HI
+	25E8D13B	100100010010
+	24DA8AD6	~z~I guess the streets is going to have to stay dirty for a little longer. See you, Manny.
+	340D0199	M1_GA
+	25000E0E	100
+	2AA4CAD1	100
+	2A2BC5B2	~z~He's not around because I'd break his camera if he shoved it in my face again.
+	2983653E	~z~This film is my gospel, man. The gospel of the streets.
+	2D60B0A1	~z~It's for the kids, man. Believe that.
+	2D1DB00F	~z~The kids have to look up to me, man. To know that the clean path is the good path. You hear me?
+	26FDE767	~z~It's for the love, man. They know me coz I help people, man. I'm all love for these streets.
+	358B3572	M1_ZA
+	3A4F955E	M1_A_BD
+	1F16140C	~z~Sure, but I don't think you hear me.
+	1F31CD6A	M1_WA
+	3F1E3693	M1_HJ
+	3C6A2E85	~z~I don't know how we tailing him without wheels.
+	3B2E7D49	~z~I think that's as much of a decision of Mallorie's as it is Roman's.
+	21F5E27D	100
+	37362F8D	~z~Something else came up, I couldn't do it.
+	22583729	100
+	395980D0	M1_LA
+	1F495AA6	~z~I for one ain't in this shit for the ego trip.
+	37E2611F	~z~Chill, Niko. You got to get used to being filmed man.
+	02FB003E	~z~Not fucking cool, man!
+	06CB910C	M1_JA
+	03271E66	M1_GB
+	642E4DAA	M1_A_AA
+	0556934B	M1_LD
+	63CDE887	100
+	075A775A	~z~Aw man, you gonna lose him.
+	085BDE2E	100
+	61F7E6AB	M1_GM
+	6380CDE9	~z~ I love that girl, man, I love her, man. Your cousin better not be messing with her head.
+	6357A1CA	M1_GI
+	6A7056E2	~z~Looks like he about to stop yo. You best pull up behind him, man.
+	67A384FB	~z~Shit, man. I thought you were the streets man. We need to tail him.
+	6CBBADA2	~z~Me, I'm just after the money.
+	6DDC6254	~z~Everytime the streets is hurt, I hurt inside, man. You cut me deep, man. Get out of here.
+	04788F8E	~z~A kid dies tonight, man, on your head it be. Get outta here.
+	04E110AB	~z~So you and Mallorie is tight, huh? She and your cousin is together now.
+	66095E37	~z~Just wait 'til you see your face on the screen, man. Maybe you change your mind then!
+	645350E3	~z~He gonna see you standing, you right there.
+	66360160	~z~Ice this fool.
+	6678BE47	~z~Want to hurt these streets, man. They live and breathe.
+	038D6B5E	100
+	608F66B0	M1_EA
+	56F184C0	100010100100010100100010100010100010100
+	11257DD4	M1_A_EH
+	0D810C55	~z~You know, when I really start talking the truth, how come Jay's not around man?
+	0C961A26	~z~I thought you had passion in your veins, man.
+	0C98A554	M1_A_AC
+	122D32B2	100
+	511B938D	~z~How come whenever I say something that really sings.
+	3795C84D	~z~The dealer and his drug wagon are up there. Pull up behind and we wait.
+	52E6E99A	100
+	7231B28A	290
+	537C2F35	~z~What you doing so close to him?
+	09102458	~z~I wish I had a damn pen. Fuck, man.
+	70B2DBAC	~z~Yo! What the fuck are you doing?
+	5F25EBF9	M1_A_EG
+	02B31CE6	M1_HH
+	0205CF0F	100
+	601EC6D9	~z~I'm disappointed in you man. I thought we was on the same page. I thought you cared. Get out.
+	5AD56B5B	~z~How you gonna follow him without a car?
+	5A0A083F	~z~No amount of scrubbing is going to get this town clean.
+	0BA208FC	010
+	5BC5D860	M1_DA
+	011EE9FA	~z~Rojo, rojo. Hit the brakes, man.
+M1_CUT1_1	3582E9BF	~z~This is the one, man - we're gonna get a really nice shot of them, it's going to be beautiful.
+M1_CUT1_10	3C85ED6C	~z~You ready for this?
+M1_CUT1_11	6F2F52C2	~z~Yes I am. Turn this way, please?
+M1_CUT1_12	210A3675	~z~-Turn this way. Yeah. Looking at me.~n~-Five, six, seven and eight.
+M1_CUT1_13	C73C02DA	~z~Good, good, good. Right over here.
+M1_CUT1_14	F8FBE659	~z~Let me see you work! This way?
+M1_CUT1_15	2BBA4BD5	~z~Yes, good, good, perfect, cool, cool, cool.
+M1_CUT1_16	DD702F42	~z~So how do I look, man?
+M1_CUT1_17	C060F540	~z~You look good.
+M1_CUT1_18	A9E0C840	~z~Do I look gay?
+M1_CUT1_19	A4343CE7	~z~No, no, not at all. It's a very manly kind of dancing.
+M1_CUT1_2	273B4D30	~z~I mean, you taught them these moves, right?
+M1_CUT1_20	D956A847	~z~Okay, so here we go then... yeah...
+M1_CUT1_21	BBACECF0	~z~See, it's the streets man, but people gotta understand the struggles...
+M1_CUT1_22	A9EB496D	~z~for real, you know what I'm saying?
+M1_CUT1_23	982A25EB	~z~They gotta understand the struggles, yeah...
+M1_CUT1_24	865F8256	~z~Oh, hey, Niko!
+M1_CUT1_25	84537E3E	~z~This is my boyfriend's cousin, the guy I was telling you about, Niko.
+M1_CUT1_26	727DDA93	~z~How's my Roman doing, anyway?
+M1_CUT1_27	60B6B705	~z~For a guy who just lost his home and his business and who now has a price on his head?
+M1_CUT1_28	4F681468	~z~Pretty good.
+M1_CUT1_29	81DD795A	~z~I love his optimism.
+M1_CUT1_3	70615F7B	~z~No.
+M1_CUT1_30	017FF521	~z~So, Niko, this is Manny - we grew up together.
+M1_CUT1_31	F35DD8DD	~z~Hey, yeah, yeah, yeah. Whassup, man? Streets, man.
+M1_CUT1_32	2516BC4E	~z~-Hi.~n~-Hi.
+M1_CUT1_33	88188270	~z~This is the guy I told you about...
+M1_CUT1_34	BA5C66F7	~z~who beat up all those thugs in Broker?
+M1_CUT1_35	AC864B4B	~z~Yeah? Great! Listen, Mallorie, would you, uh,
+M1_CUT1_36	DEC72FB0	~z~-give us a little space please? Thanks.~n~-Alright, alright...
+M1_CUT1_37	2EE4D006	~z~Ok, yeah, great, so, eh, so you know streets take no prisoners, right?
+M1_CUT1_38	6120B481	~z~But, you know, kids need hope.
+M1_CUT1_39	56569EED	~z~You know what I'm saying?
+M1_CUT1_4	59F432A1	~z~-We wanna make sure that we see them,~n~-Okay.
+M1_CUT1_40	EB82CA33	~z~Not really.
+M1_CUT1_41	6E4E4FC8	~z~Yeah, well, you know, sometimes you gotta break some omelets to make some eggs, you know what I'm saying?
+M1_CUT1_42	9017935A	~z~Okay. And?
+M1_CUT1_43	C1C376B1	~z~Yeah, well, you know, we gotta clean up some eggs, brother.
+M1_CUT1_44	B4515BCD	~z~We gonna clean 'em up.
+M1_CUT1_45	26FE4125	~z~Yeah here, right here, right here, turn around, man, right here.
+M1_CUT1_46	592A2580	~z~Here Manny Escuela is rapping with a street accomplice
+M1_CUT1_47	4A8F084A	~z~-about cleaning up the streets of Bohan.~n~-Yeah!
+M1_CUT1_48	7CE9ECFF	~z~Turn that off.
+M1_CUT1_49	EFF4D313	~z~-These criminals are...~n~-Wait, wait, wait a second.
+M1_CUT1_5	FE737BA1	~z~-okay, but we want to see you, too.~n~-Just film it, man.
+M1_CUT1_50	7EB0F661	~z~-trying to reform their neighbourhood.~n~-Wait!
+M1_CUT1_51	44F302E6	~z~-Hey, hey! Please, please, what are you doing? Hey! My...~n~-Hey, hold on a second, man! Wha...
+M1_CUT1_52	544CA199	~z~cam...
+M1_CUT1_53	179BA7E0	~z~Manny!
+M1_CUT1_54	05350313	~z~Sorry.
+M1_CUT1_55	405E7965	~z~Ok everyone, that'll be all for today, that was great.
+M1_CUT1_56	262044E9	~z~Thank you very much, that'll be all for today, thanks a lot.
+M1_CUT1_57	4E51154A	~z~What are you doing?
+M1_CUT1_58	BC797199	~z~What were you saying?
+M1_CUT1_59	7AC5EE33	~z~We gotta get some of these dealers off the streets, man, you know?
+M1_CUT1_6	F091DFDE	~z~Okay, well just keep looking at me, but stand over there, okay?
+M1_CUT1_60	85D085B8	~z~And I want them to know it was me, man.
+M1_CUT1_61	B6ADE77A	~z~Fine, just don't point the camera at me when you're doing it.
+M1_CUT1_62	A8E3CBE6	~z~Well, that's my testimony, man.
+M1_CUT1_63	F250DEBF	~z~Look, brother, will you help? Please?
+M1_CUT1_64	838F013D	~z~Look, I got money. I got... I got money.
+M1_CUT1_65	CF819921	~z~In which case you've got help.
+M1_CUT1_66	01CB7DB4	~z~Good! Alright, hey, how's the camera?
+M1_CUT1_67	2AF6D00A	~z~It's not good.
+M1_CUT1_68	DD68B4EF	~z~Wh... what do you mean it's no good?
+M1_CUT1_69	03F8820E	~z~-Can you tape us...?~n~-Just don't even...
+M1_CUT1_7	11472148	~z~You mean here?
+M1_CUT1_70	13DA9E72	~z~Okay.
+M1_CUT1_71	48E48889	~z~Alright, okay, well listen, look... here's what were gonna do...
+M1_CUT1_72	6EDAD475	~z~We're gonna get all these dealers off the streets and we're gonna kick their ass and they're gonna know it was me...
+M1_CUT1_8	02AC8413	~z~Yes. Yes, yes, yes. Very cool. Good.
+M1_CUT1_9	D9AAB20C	~z~-Okay, go.~n~-Yeah, beautiful, beautiful, alright.
+M1_FILMING_1	F8B7F25F	~z~-The fearsome street warrior stands outside the site of another gangland massacre. Oh...~n~-Yeah... 'sright...
+M1_FILMING_10	71EF7446	~z~You looked great.
+M1_FILMING_11	5CE74A36	~z~Great, yeah, let's do it.
+M1_FILMING_12	4F1DAEA3	~z~Okay from the top?
+M1_FILMING_13	3952830D	~z~Yeah, right here. Wait... where are you going?
+M1_FILMING_14	2B91E788	~z~More senseless death and the police aren't even here yet.
+M1_FILMING_15	3641FCE4	~z~"Help" has only one name on the streets of South Bohan - Manny Escuela.
+M1_FILMING_16	218BD378	~z~That's right, follow me, but be prepared. Street life ain't pretty.
+M1_FILMING_2	CF4A9F7D	~z~Cut.
+M1_FILMING_3	DD7C3BE0	~z~-What?~n~-Okay.
+M1_FILMING_4	EAAF5646	~z~-What?~n~-Oh, oh, oh, oh.
+M1_FILMING_5	F8E9F2BB	~z~Could you walk out of there just one more time? We need to get the shot just right.
+M1_FILMING_6	861D0D23	~z~Oh yeah, yeah, that's a good idea.
+M1_FILMING_7	93F2A8CE	~z~I can put my foot through your face if you like.
+M1_FILMING_8	A1B7C458	~z~-I don't mind doing that again and again until I get it right.~n~-Oh, oh, easy, easy Niko.
+M1_FILMING_9	B38667F5	~z~Hey did it look good? Huh? Was it a good mixture of that sadness and resolve?

@@ -1,0 +1,268 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AE5D2E03	FIN1E_OAL
+	ACE1A46C	FIN1E_OAF
+	AC6392E7	~z~There you are cousin, let's move.
+	AE648245	~z~This is a good idea. I think you'll look so much better in a suit or something. It's Roman's big day.
+	AFA7CC7A	~z~I'll wait for you here, Niko. I'd like to get to know the groom.
+	AECCF58A	FIN1E_IO
+	AE9B50C5	~z~That there is a real human being under all that hardness.
+	AAE4D2A3	FIN1E_ON
+	A12D8503	400
+	A089D992	~z~Because I'm going to the wedding of a couple I've never met with a man I barely know.
+	9FEF42B4	FIN1E_OT
+	A1A793E3	~z~Maybe. The right person can make your life wonderful in the same way that the wrong one can ruin it.
+	A9642738	FIN1E_FA
+	A60D2412	FIN1E_FE
+	A3CC9995	~z~Well maybe they are. I don't want to be involved with the men I have been involved with.
+	B1517B1D	~z~Why is this weird?
+	BE90FD67	FIN1E_IU
+	BCBC699B	~z~Maybe you're right, Roman has been hurt.
+	BC61B230	~z~Thanks for coming to get me. You're looking really nice. Shall we go to the church?
+	BEC81293	FIN1E_IAJ
+	C1B2B8FA	~z~I might steal the collection box if the mood takes me though.
+	C0ED5DD6	~z~Are you prepared to say goodbye to the fast cars, the drugs, the violence, the cheap women?
+	BF135022	~z~Recently, I have tied up a lot of loose ends in this city.
+	BB667F1E	FIN1E_IX
+	B36C376C	~z~Yeah? Do you think that that is the answer for everyone then?
+	B1F9B2B5	~z~Can you pick me up and take me there? I'll be at my ma's.
+	B18EB519	~z~You're talking about your criminal exploits as if they are a thing of the past.
+	B48386E0	FIN1E_OAB
+	B7031F30	FIN1E_OR
+	B6F35AA4	FIN1E_IAB
+	B6623DA8	~z~I'm okay, he's still in my thoughts, you know.
+	88172D20	FIN1E_OAA
+	827BC9C5	FIN1E_IS
+	7F9E17B7	~z~So?
+	8B0266E5	~z~You remember how that turned out?
+	8CDFB23A	~z~So... what?
+	8C910A6D	FIN1E_IA
+	8B82F2CA	~z~Yes, I am.
+	7D08AFA7	~z~Oh really?
+	780A6F45	FIN1E_FC
+	77C8B37F	FIN1E_IR
+	77134707	~z~Oh, I didn't realize it was going to be such a casual service. Shall we go to the church?
+	781E4235	~z~After the war, I was involved in a life I felt was not for me.
+	7868FE7F	FIN1E_IJ
+	785DF5A2	FIN1E_IY
+	785DCC80	~z~It would be easier to be happy if I was with the right person though.
+	8CE11A44	FIN1E_OV
+	9BD1AA1A	~z~But the other half says he's good, he can be redeemed.
+	986302BA	~z~I have tried to separate myself from it. I am ready to try to be good.
+	96C4A303	FIN1E_IAH
+	9C035081	~z~So... this is weird.
+	9F9A3F5C	FIN1E_FB
+	9D64AAF4	FIN1E_IB
+	9D53CEEC	FIN1E_IL
+	931FB55C	FIN1E_OX
+	8E2FD1F5	~z~Will you fire a gun into the air as your cousin walks down the aisle?
+	8DD50241	FIN1E_IF
+	8D248652	FIN1E_OAD
+	909522D0	FIN1E_IV
+	931599BA	~z~Because... no matter how stupid I think this is, I'm willing to take a chance on you.
+	914D9C25	FIN1E_OP
+	91225315	~z~Look at you in those fancy clothes, Niko. Trying to upstage the groom on his wedding day? Let's get me married.
+	ECD7A2EF	FIN1E_OG
+	EC1FD118	FIN1E_IAG
+	E854B627	FIN1E_IE
+	EDF82CD3	~z~He brought it on himself and he wasn't a good person.
+	F159CCCD	FIN1E_IG_QQQ1
+	F0499FB3	400400040040400040400400400400040400400400040400040400400040040040400040040040040040400400040400040040400040040400
+	EE9A5B2D	FIN1E_OM
+	E8241F09	~z~Well it was the right thing to do. Are you coming to Roman's wedding?
+	E3744AC5	FIN1E_IT_QQQ1
+	E2C7A0DA	~z~Niko, what are you doing? I told you to dress up. We will wait. Go and change, quickly.
+	E2A7A116	~z~There's nothing else I can say.
+	E4EC6795	FIN1E_MA
+	E6F0C193	~z~Don't be stupid. I'm not coming to this wedding for the free nibbles.
+	E564BDDA	FIN1E_IAC
+	E4F73EE6	FIN1E_OI
+	F31F9BF3	~z~You know, it's not that weird to think that there might be some shooting at this wedding,
+	FA5110B4	~z~I'm not sure about those clothes.
+	F8A046DC	400
+	F6115C58	~z~If I can get pulled into this world I can pull myself out.
+	FAC3E6CD	~z~Good luck, Niko. I really hope you can walk away.
+	FE26EFFF	~z~Really?
+	FCB42971	FIN1E_OQ
+	FBB3C84A	~z~It's hard to say, but maybe the right person.
+	F5CCBBBD	FIN1E_OAJ
+	F3BD7362	FIN1E_OW
+	F33ED6A3	~z~He has lost a lot because of me.
+	F3248263	~z~I can't believe you'd wear that to a church.
+	F3D67DF3	FIN1E_IAK
+	F4FBF3AB	FIN1E_OY
+	F47406F3	FIN1E_EA
+	F444D9CF	~z~I was good once, I was a normal kid who got sucked into a war he didn't believe in
+	CB2A0845	FIN1E_IAF
+	CA8108B4	~z~He might be your only family, but he's not the only one who cares about you, Niko.
+	C6374203	~z~Yeah, I'll mug any nuns that are hanging around the church as well.
+	CC5DFA7B	400
+	CE2C0C7E	~z~Has your cousin been caught up in your mad life?
+	CE1D16E7	FIN1E_OO
+	CCF64734	~z~That's perfect, Niko.
+	C6329776	~z~Alright, time to preen like a peacock.
+	C36D7A69	~z~Willing to take a chance on the possibility that you can walk away from the craziness.
+	C2E07703	~z~And then there's no way out.
+	C2B383FE	200
+	C38A5908	~z~My past does not haunt me in the way that it used to.
+	C44BD97B	~z~Yeah. How are you about that? Do you miss him?
+	C3D25666	~z~See you soon.
+	C3C80F05	FIN1E_IW
+	CEE06FBC	~z~I want to surround myself with good people, not bad ones.
+	D944655C	400
+	D769E468	~z~No, there won't be any gunfire at this wedding.
+	D67A1958	~z~Here we are.
+	DC8B09A9	~z~The problem is that it's difficult to tell which one the man you are with is.
+	E2878C8B	FIN1E_IQ_QQQ1
+	E114B8FB	400
+	DF6A10C7	~z~Are you?
+	D6767BAE	~z~I'm really proud of you, Niko. It must have been really hard to turn down the money and stick to your principles.
+	D16D3950	FIN1E_ACT_ARRIVEC_NOTLATE_BA
+	D047F173	~z~When I think about him I just wish that he'd been happy in his life.
+	CFC710D4	~z~I thought that when you do the work that you do, that people get their hooks into you.
+	D3889747	~z~and forced to watch his friends die.
+	D5CEE979	200
+	D57CB5D5	FIN1E_KA
+	D49776EF	FIN1E_OAG
+	27FEABC3	~z~They will have to. I am not a slave.
+	27F7414B	~z~Do you just think you can just walk away from all that?
+	27C2DF70	FIN1E_IH
+	2863C0EC	~z~Tell me, have these good people been hurt by what you've had to do?
+	2D364BB1	~z~But, do you think the men you've dealt with will just let you leave and walk into the sunset?
+	2BC7B4EF	FIN1E_OJ
+	2A88FA14	FIN1E_DA
+	27732F4E	400
+	25A8A81F	FIN1E_OD
+	22E68DAC	FIN1E_OH
+	20D4DDC3	~z~That's not exactly a wedding outfit.
+	26143CFC	FIN1E_IAE
+	262D3ECF	~z~Rational blood doesn't flow through these veins.
+	26213097	FIN1E_IG
+	2617A0CE	100
+	3BCDE781	200
+	38C8E542	~z~Someone without his good naturedness and optimism would have been broken by what has happened to him.
+	36087E2F	FIN1E_IN
+	3CCC05EE	FIN1E_II
+	3E9A6E91	~z~A thieving, murdering, drug dealing idiot.
+	3E264C87	400
+	3D75EB10	~z~Good people like you. That has to count for something.
+	35F80470	~z~Okay, maybe it is weird, but maybe it isn't.
+	305B0DF8	~z~I like that.
+	2F4C52CC	FIN1E_IAD
+	2E09EA2D	~z~Yo, me not having no more a dis.
+	31A56045	400040400040400040040040040400400400040400400040400400040040040040040040040400400040040040040040400040400400400400400400400040400400040
+	35F44F1D	FIN1E_IF_QQQ1
+	3513C5ED	~z~You don't need to say anything else.
+	341D015D	FIN1E_OAC
+	0C22B457	~z~Maybe you want to try something smarter.
+	0A866597	FIN1E_OA
+	097A832A	~z~Forced to do things he did not want to do in order to survive.
+	0C906B0B	FIN1E_OB
+	10BB93E4	FIN1E_ID
+	0FDF934C	FIN1E_IC
+	0D136B09	~z~What would have made him happy?
+	08B282AA	~z~I can try.
+	0598E160	FIN1E_OF
+	0436CB46	010100010100010
+	01919302	~z~Can you get us a car?
+	05B5B8B2	~z~You'll look nice in the wedding in that.
+	0856C661	~z~not only do you seem to attract ultra-violence wherever you go,
+	06A47D6E	~z~to surround myself with good people rather than bad ones.
+	063E5CFC	FIN1E_OAI
+	18C1A534	~z~I'm coming because of you.
+	185C3D93	FIN1E_OZ
+	18599FB3	FIN1E_IZ
+	195BA2DC	~z~I have tried to make the right choices,
+	1E6AAE1A	~z~They will have to.
+	1D5A2441	FIN1E_GA
+	19AAC121	FIN1E_NA
+	1740C7AC	FIN1E_IP
+	13E69A42	~z~I'm Irish, Niko. We're a people known for strong whiskey, mystics and Catholicism.
+	13C53769	~z~Hey Niko! Let's get a car.
+	1110B598	FIN1E_IK
+	146C9A36	~z~But, you're a tough guy with a death wish.
+	17364B36	FIN1E_IAM
+	14E2858B	~z~I'll look after you, Kate. I promise I'll protect you.
+	149F25CC	FIN1E_IM
+	5AA46348	FIN1E_OS
+	5A77CD6F	~z~I have tied up a lot of loose ends in this city recently.
+	5A74CE8A	FIN1E_IAN
+	5C8DBC0E	FIN1E_IT
+	66383257	FIN1E_HA
+	65B63F20	~z~I am lucky that he is still happy to be part of my family.
+	5DBC173D	~z~Do you think that the men you've been dealing with will let you walk off into the sunset?
+	5444F560	FIN1E_OAH
+	4F7D12AE	~z~The one family I have in this city...
+	4EF2EFDF	~z~I've had some trouble telling right and wrong apart before.
+	55F9EBA9	FIN1E_ACT_ARRIVE_CLUB_FAVOURITE_AA
+	76C2C9AC	FIN1E_OK
+	5977A567	~z~You won't regret this, Kate. I'll look after you. I'll protect you.
+	58F6A9A4	FIN1E_IAO
+	711C7DE1	FIN1E_IAL
+	706C3382	FIN1E_OAK
+	6E13CE9F	~z~Well, which half are you going to listen to?
+	71D553D9	FIN1E_IAA
+	76347A9E	FIN1E_OU
+	74306A1D	GCK_ACT_ARRIVEF_NOTLATE
+	7304D070	FIN1E_JA
+	694FAFD1	400
+	6916A0FC	~z~Hey, Kate. I took your advice. I cut my connections with that man.
+	68766642	FIN1E_IQ
+	69906BA0	~z~I feel like it's time to move on, start living my life right.
+	6CF71389	FIN1E_LA
+	6A5BA6B0	~z~Those decisions became very difficult.
+	6A35AD40	FIN1E_FD
+	47EAE8E2	FIN1E_ACT_SPEC_BORED_CA
+	48F60464	~z~The rational half of me says get away from him - protect yourself.
+	4E80D2B4	~z~but this was the church where we had my brother's funeral.
+	453DA2FB	~z~I feel like I want to get to know you properly.
+	4DF276E8	FIN1E_OL
+	4D563311	FIN1E_IAI
+	4B016F48	FIN1E_OE
+	4B6A62D3	FIN1E_OAE
+	42BAE163	FIN1E_OC
+	59C060C2	~z~You look really smart in that.
+	4EE9576C	300
+	4C3EC5BF	~z~Aren't you dashing?
+	43EF3D71	~z~So, how do sociopaths behave at weddings?
+	42BB613C	~z~How do I know that you're right for me? How do I know that I won't get hurt?
+FIN1E_CUT1_1	74221E57	~z~Hey!... Yes!.... Yeah!... Congratulations cousin!... Thanks for coming!... Alright, yes, okay!... Yes, we are married!... Niko, mwah, mwah...
+FIN1E_CUT1_10	239D5232	~z~It's never over, iyah.
+FIN1E_CUT1_11	C1FC8EEE	~z~Niko, you can't blame yourself.
+FIN1E_CUT1_12	069E9835	~z~Of course I can! She's dead!
+FIN1E_CUT1_13	3545F583	~z~Easy, easy, easy... I your brother, man, easy. Calm down, man, calm down.
+FIN1E_CUT1_14	5C42C37C	~z~Niko, you have to get out of here.
+FIN1E_CUT1_15	16A2383C	~z~-Yes, go on man go on. We have to leave man, just leave.~n~-You have to go...
+FIN1E_CUT1_16	40460B83	~z~-Get out of here! Go!~n~-Go on, we take care of this, man. Leave!
+FIN1E_CUT1_17	6E7F67F5	~z~Okay! Okay!
+FIN1E_CUT1_2	C7AEC573	~z~You fucking double crossing immigrant shit!
+FIN1E_CUT1_3	4783451A	~z~Aaah! ... Get down! ... Oh!
+FIN1E_CUT1_4	396C28EC	~z~Oh man, man...
+FIN1E_CUT1_5	2B268C61	~z~Niko... Niko, come on...
+FIN1E_CUT1_6	9E3EF290	~z~Somebody call an ambulance! Call a fucking ambulance!
+FIN1E_CUT1_7	1EBC7389	~z~She's dead!
+FIN1E_CUT1_8	0F6AD4E6	~z~What? Oh shit. Shit, shit!
+FIN1E_CUT1_9	01B0B972	~z~She told me to leave it. I thought I had. I thought it was over!
+FIN1E_CUT2_1	DC32585C	~z~Yay!... Yeah!... Congratulations cousin!... Mwah!... Alright!... Yes... Thank you... Thank you all for coming!... Yes!... Okay!
+FIN1E_CUT2_10	2E5E67AC	~z~I left it!
+FIN1E_CUT2_11	622FCF4E	~z~-Niko, Niko, get up man, get up man, get up.~n~-Ohh... oh, man!
+FIN1E_CUT2_12	106DABCB	~z~Gotta get you outta here now, police dem soon come.
+FIN1E_CUT2_13	54923413	~z~Don't worry, man, me find Dimitri me call you. Leave!
+FIN1E_CUT2_14	42DF90AE	~z~Okay.
+FIN1E_CUT2_15	4DFE26E7	~z~No!
+FIN1E_CUT2_2	EFABFF4F	~z~Niko Bellic?
+FIN1E_CUT2_3	BB6196BB	~z~Yes?
+FIN1E_CUT2_4	CD1EBA35	~z~A gift from Dimitri Rascalov.
+FIN1E_CUT2_5	94F0C9D2	~z~Ah! Oh my God!
+FIN1E_CUT2_6	A6B46D59	~z~Ahhh! Roman... no!
+FIN1E_CUT2_7	92984525	~z~Bumbaclot.
+FIN1E_CUT2_8	A45B68AB	~z~Yo, yo, yo... Niko, Niko, Niko. Calm down man, calm down man. Easy, easy.
+FIN1E_CUT2_9	6E157C20	~z~He told me to leave it.
+FIN1E_CUT3_1	ABFDFD8B	~z~I now pronounce you husband and wife, you may kiss the bride.
+FIN1E_CUT3_2	D2CACB24	~z~Mwah!
+FIN1E_CUT3_3	87803490	~z~Yes!
+FIN1E_CUT3_4	6454EE32	~z~-Ah man, yes I did it! ~n~-Wonderful, wonderful...

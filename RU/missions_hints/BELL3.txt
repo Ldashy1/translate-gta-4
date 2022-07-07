@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B1B23826	~s~Задание ~g~выполнено.
+PB_COMMAND_01	5D1183AC	~s~Позвоните Беллу.
+PB_COMMAND_03	50ACEAE3	~s~Найдите ~r~цель.
+PB_COMMAND_04	43F9D17D	~s~Уничтожьте ~r~цель.
+PB_COMMAND_06	B7D73946	~s~Чтобы взять следующий заказ, вернитесь к телефону-автомату.
+PB_COMMAND_10	03712F95	~s~Уничтожьте ~r~цель.
+PB_COMMAND_100	0187858D	~s~Остановите ~r~группу сопровождения.
+PB_COMMAND_101	EB48590F	~s~~r~Цель~s~ пытается скрыться. Уничтожьте ее.
+PB_COMMAND_20	C718BA55	~s~Найдите способ добраться до ~r~цели.
+PB_COMMAND_21	9938DE92	~s~Преследуйте ~r~цель.
+PB_COMMAND_30	99FCFE76	~s~Вертолет находится над въездом в туннель Бута. Уничтожьте ~r~цель,~s~ пока она не ускользнула.
+PB_COMMAND_40	42B8CA53	~s~Уничтожьте ~r~цели~s~ во время заключения сделки.
+PB_COMMAND_41	5073E5C9	~s~Зайдите в ~y~"Бургер Шот".
+PB_COMMAND_50	FC8A41D3	~s~Догоните и уничтожьте ~r~цель.
+PB_COMMAND_51	F25C2D77	~s~Убейте их ~r~всех.
+PB_COMMAND_52	70D5AA68	~s~Вас привели в засаду. Уничтожьте ~r~противника.
+PB_COMMAND_60	5118EDFB	~s~Уничтожьте ~r~цели~s~ и всех ~r~телохранителей.
+PB_COMMAND_70	4315BA35	~s~Уничтожьте ~r~цели.
+PB_COMMAND_80	1A3A630F	~s~Уничтожьте ~r~цель.
+PB_COMMAND_90	0922C43C	~s~Уничтожьте ~r~цель,~s~ которая покидает полицейский участок.
+PB_FAIL_01	02777C22	~r~Задание провалено. -PH-
+PB_FAIL_02	90B31897	~r~Цель скрылась.
+PB_FAIL_03	0CBD10AD	~r~Одна или несколько целей скрылись.
+PB_MISC_01	9D710CB8	Цель
+PB_MISC_02	AC4FAA75	~s~Для каждого заказа связной предоставит вам оружие и броню.
+PB_MISSION_1	F0262F14	Water Hazard
+PB_MISSION_2	FA384350	Hook, Line and Sinker
+PB_MISSION_3	0C67E7AF	Migration Control
+PB_MISSION_4	E4C49869	R.U.B. Down
+PB_MISSION_5	F75D3D9A	Dead End
+PB_MISSION_6	C130D13E	Industrial Action
+PB_MISSION_7	D1DA7291	Derelict Target
+PB_MISSION_8	8BCE667A	Taken Out
+PB_MISSION_9	9E758BC8	Bailing Out for Good

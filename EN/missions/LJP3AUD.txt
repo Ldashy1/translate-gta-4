@@ -1,0 +1,143 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B245E7FC	~z~The stuff has been dropped off now, man.
+	B22C8800	LJp3_A_DF
+	B66DEBB7	~z~I an' I is sorry, Niko. But dere ain't nothing going at the moment.
+	B2A66C81	~z~Ya have fe meet me man under de Festival Towers inna Meadows Park. Seen Niko?
+	AB98FF81	~z~Alright man, if you got any product to move, I could do with the money.
+	AABE31F7	LJp3_A_DD
+	B08B2B7B	LJP3_A_RA
+	B01B82F8	~z~If that's true, then call me for some more deliveries then.
+	B715BB31	100010100100100010100100
+	C5ECFC98	LJp3_A_DF
+	C4ED4B64	LJP3_A_VA
+	C76E0AF4	100
+	C729132E	~z~Ya be meeting some boy inna dem projects inna Steinway me breda. One love.
+	C0489ABE	LJP3_A_MA
+	BD68BBF0	~z~That sounds good.
+	C34309D6	~z~The package is delivered, Jacob.
+	C18FC432	~z~Alright me man, Niko. How's it going?
+	8C2BD928	~z~Put de package inna Meadows Hills, rasta. Some boys be waiting fe pick it up. More times, Niko.
+	8B9AF291	LJp3_A_DE
+	94EED22D	~z~Jacob, do you and Badman have any packages you need to move?
+	8E789304	~z~Shit, Jacob. I'm sorry but the package didn't get delivered.
+	865534FA	~z~Hey, Jacob. Are you sitting on any packages that you need me to deliver?
+	85AF2CC6	LJp3_A_DH
+	8B9154D3	LJP3_A_YA
+	873DA438	LJP3_A_XA
+	9553EBAB	100
+	A416823E	~z~Ya have fe drop it under de bridge in Outlook Park. Lickle more.
+	9F684241	~z~Jacob, I've delivered the stuff, man.
+	AA9E965C	~z~Plenty o' corn in that for you, you know.
+	A5D1C192	~z~Hey man, I'm not such a good delivery boy. Sorry.
+	994FEAA2	LJp3_A_IA
+	98CFF2BF	~z~He want know if you want deliver some package around town to some various people and ting inna the city.
+	9E405AA0	LJp3_A_DA
+	99CBB819	~z~That sounds good.
+	F1847BF8	LJP3_A_PA
+	F0D39327	010
+	F223E7BF	~z~Alright, man? I dropped off that package for you.
+	F1FB20F7	100
+	EB41D55E	~z~Ahh, Niko, me sorry man, the last package I and I had just leave and ting. Ya need fe call another time, seen?
+	E9BC7043	LJp3_A_DD
+	EC1EDCBE	~z~Plenty o' corn in that for you, you know.
+	EBB5B3AC	LJP3_A_OA
+	F3374B36	100
+	FDA91A58	LJp3_A_DB
+	FCF8F8CC	~z~Boy, you need fe look somewhere else for work at de minute, brother. We don't got no packages.
+	FED8CA1E	~z~Dere be a package inna the transport by the café.
+	FE06010C	~z~He want know if you want deliver some package around town to some various people and ting inna the city.
+	F6D71076	~z~Rhaatid Niko. Me need fe get de package delivered, y'know star.
+	F64EF11E	~z~There be a lot of work so call whenever, you know. One love, bredren.
+	FC7C8129	100
+	F983EE19	LJP3_A_NA
+	D2C5C136	LJp3_A_DC
+	D1EB0B07	~z~Righteous job onna da las shipment. There another one inna the transport outside the café.
+	D4F5AD3B	~z~Jacob, I took that stuff where you wanted me to take it.
+	D425E95E	~z~Okay, you and Badman got any more work you need help with?
+	CB11BE66	~z~Jacob, what's up? I'm looking for a job if you have a package you want delivered.
+	C8A215C5	~z~Wicked, man. Give I a call when you ready for this first run.
+	D0441991	LJP3_A_WA
+	CB6B5B73	~z~De drop be in Schottler. One Love me breda.
+	D681053B	100
+	E7727878	~z~Put de package inna Meadows Park, me breda. Me man will come and pick it up later. Lickle more, Niko.
+	E4AB15C3	~z~Badman got real vexed the last time I tink, as you never deliver it...
+	E8C86AD7	~z~De business deal be happening with de man inna Beechwood City. Later on me bredren.
+	E78B5266	~z~Hey man, I successfully delivered the package.
+	DA1FD700	~z~Yo Niko, dis ain't no good business, ya know, star. Call me again if you tink you can actually help me, seen?
+	D86EC17B	~z~Dere be some boys inna an alley in Willis me breda. Give dem the stuff. Wicked.
+	DDEDA30C	~z~There be a package outside the café in a car me bredda. Ya a real mafia don delivering the last package, nuh true?
+	DBD60BB6	LJp3_A_DG
+	82D5ADEF	~z~Hey, I'm looking for something to do, are you and Badman in need of a delivery boy?
+	2289CA13	~z~Okay, you and Badman got any more work you need help with?
+	2114BD2A	100
+	2523E2DC	010
+	244DEDA2	100
+	1C00CCF9	100
+	1BAA3C54	~z~It's a funny thing that you should mention that to me, brother. Badman is right impressed with what you doing for I an' I.
+	1E409F36	~z~Thanks, Niko. I an' I be real happy, ya know, star. We give you more work if you want more work.
+	1DE1BF12	~z~The package is where you wanted it, Jacob.
+	28458984	~z~There be a package waiting for a mafia breda like you inna the car by the café.
+	329ACC6D	~z~Wicked Man! You did a real good job pon de last one, ya know. There's more kali outside in a car by de café, seen?
+	3125AEBB	~z~You need fe get this one there, seen? It in a car outside the café.
+	361EA536	~z~Irie. Badman was hoping you'd give us a call, ya know.
+	35ABD2EE	100
+	2C740580	~z~Put de Kali inna car stack inna Cerveza Heights. One love, Niko.
+	2B190C38	LJp3_A_FA
+	3036E56D	~z~Alright me man, Niko. How's it going?
+	2FFC02BF	~z~Cha, Niko. Badman not gwan be happy wit dis, ya know, star. Call me again, but ya better get there dis time, ya know.
+	07F95D69	LJP3_A_KA
+	071E4775	LJp3_A_HA
+	0A8AEFD7	~z~You need fe meet me main man inna some tunnel inna E.I.C. seen? Later on, Niko.
+	088EB3E5	~z~If you think you gonna actually get there this time, just call me for the delivery.
+	011988AC	LJp3_A_GA
+	00BDF791	~z~I couldn't get that thing where you wanted it to go. Sorry, Jacob.
+	0536AD2B	LJp3_A_DE
+	03FDFC66	LJP3_A_QA
+	0AD828FB	~z~Nice, Niko, ye dependable bredren an a star.
+	1A698E18	LJP3_A_UA
+	18F42515	100100
+	1B728355	~z~There's a package inna de car outside de café, but ya need fe deliver it this time, seen?
+	1B6E0500	100
+	0D53FDA1	LJp3_A_DB
+	0C1D1B89	~z~Jacob, man. I made the delivery.
+	14964BF4	~z~Cha Niko, me tell Badman say ya a dependable youth, ya know.
+	110E8E00	LJP3_A_LA
+	6C1F8083	~z~Alright man, I need some money. Do you and Badman have any product that needs delivering?
+	6A9637E8	~z~Nice, Niko. Ya a dependable, bredren, ya know, star. Call me if you want to make another delivery, seen?
+	6E9FD4CD	LJP3_A_SA
+	6CC7B14B	010
+	6766CF6A	~z~Hey Jacob, I'm going to have to back out of that delivery for you. Sorry.
+	66646D09	LJp3_A_DG
+	69811F71	~z~Alright brother, me got some kali and ting but you need fe get it there this time, ya know? It's in a car outside de café.
+	68A328DE	LJp3_A_DH
+	712CE2F6	~z~Hey man, I can't do that delivery anymore. Hope that's okay.
+	79AACC69	LJp3_A_DC
+	78BCFF26	100
+	82CE8D3D	LJP3_A_JA
+	7E41DC37	LJp3_A_DA
+	7329AB7F	100
+	71620B14	~z~Jacob, I can move a package for you if you have one.
+	75FEAD1D	~z~It's a funny thing that you should mention that to me, brother. Badman is right impressed with what you doing for I an' I.
+	750ECCD9	~z~Niko, ya me main man. Dat be some good work, ya know. Call me if ya want a next job.
+	40DD68F2	~z~Irie, Niko. I an' I were real happy about the last shipment. There be another one inna the transport outside a the café, seen?
+	3F3D3F8B	~z~Wicked, man. Give I a call when you ready for this first run.
+	4822EC44	LJp3_A_EA
+	41EE44ED	~z~There be a lot of work so call whenever, you know. One love, bredren.
+	386C538D	~z~Wicked, Niko. Badman gwan be mighty happy, ya know. Call me if you want some more work.
+	36737BA1	100
+	3B401434	100010100100100010100100
+	3AB8F60F	~z~Jacob, tell Badman that I can't deliver the package I said I would. Sorry.
+	4B1343DD	100
+	581BA627	~z~Jacob, I couldn't get the package to that place.
+	548829AD	~z~I don't like letting you down, Jacob, but I'm going to have to back out of delivering that package for you.
+	5CDB3E63	100
+	58E87B17	LJP3_A_TA
+	4D9867A0	~z~Boy, Badman get vex de last time you never deliver the package ya know bredren.
+	4C95C178	~z~Hey, Jacob. You got any product that needs delivering?
+	530DFE88	010
+	5301DB35	LJp3_A_FB

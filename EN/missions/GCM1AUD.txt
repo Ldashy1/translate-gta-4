@@ -1,0 +1,185 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ADC10746	~z~I can't wait, Niko. See you in a bit.
+	ADB3848A	010
+	AFAA1815	GCM_ACT_GETCALL_REJECT_VERYIRATE
+	B31AC3C5	GCM_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	B1DF3D99	GCM_ACT_CALL_HOSP_CANCEL_LOLIKE
+	AD2A48FF	GCM_ACT_PMI_CALL_DATE
+	AB7E0176	GCM_ACT_GETCALL_HOSP_REJ_LOLIKE
+	AAE9B0FF	100
+	AC6B4F00	~z~Michelle, listen, you're going to have to forgive me. Something has come up. I'm going to have to check the rain as they say.
+	ACFF5258	~z~I haven't heard from you in a really long time. I miss you.
+	ACF492A0	~z~Oh... you don't want to hang out? Well, thanks. Thanks a lot.
+	BB67D0DD	~z~You know, I'm kind of in the middle of things just now - some other time.
+	BA18EA5B	~z~Hey, Michelle, it's Niko. Niko Bellic - listen, it's annoying, but I'm going to have to cancel our date.
+	BF436D03	GCM_ACT_CALL_HOSP_CANCEL_MEDLIKE
+	C08A6323	010
+	C025187E	~z~Well, thanks for nothing - you know what? You might just lose me as a friend, Niko Bellic.
+	B697F423	~z~You wanna hang out?
+	B3C77612	GCM_ACT_PMI_GETCALL_DATE_YES
+	B3810E25	100
+	B43E90AE	100
+	B65FE702	GCM_ACT_CALL_SLEEP_REPLY
+	B5B26C1B	GCM_ACT_CALL_DATE_NO_GENERAL
+	936BA23A	010
+	92BB471D	100
+	960F1F86	100
+	9A2CD9B3	~z~I cannot, Michelle. Maybe some other time.
+	99DCB0BC	GCM_ACT_ANSWER_PHONE
+	918F6963	~z~What? You can't pick me up from the fucking hospital? You dick.
+	85352FC4	~z~I'm kind of in the middle of something. Some other time.
+	845A6181	~z~Yes. I'm not up to much, I'd like to see you. I'll be over in an hour.
+	87D8C7EA	~z~Thanks, I really appreciate that.
+	91730A27	~z~Okay - I guess I'll make my own way home.
+	8F4C3C51	~z~You want to meet up?
+	A4B73ADF	010
+	A4AA5048	~z~You free? Want to hang out or something?
+	A57B0C68	010
+	A86AA01F	~z~Yes, I'm not doing anything interesting, Pick me up in an hour.
+	A72AE0A8	010
+	A339440D	~z~I was asleep - I get up pretty early - call back after 6.
+	9A9CF0AD	010
+	9A766CB4	100
+	9CD0B1FB	~z~Oh you still have my number. I haven't heard from you in the longest time.
+	A230E73B	GCM_ACT_PMI_CALL_SLEEPING
+	9F61393A	GCM_ACT_PMI_GETCALL_DATE_NO
+	C127618E	GCM_ACT_PMI_CALL_GREET
+	F131613A	~z~Okay then - another time.
+	F0951952	100
+	F27B1EE2	~z~Hi. You've reached Michelle's phone. Unfortunately, I can't get to the phone just now, but please call back later.
+	F3AC7067	100
+	F33EBCC6	100
+	EF965E04	~z~Okay, no problem, I guess. Another time.
+	EE0305D4	GCM_ACT_CALL_CANCEL_HILIKE
+	EBD07DC9	~z~Niko - it's me - Michelle - you remember me? The idiot you haven't called for ages? Anyway, I miss you.
+	EE0FE986	GCM_ACT_PMI_GETCALL_HOSP_YES
+	EEC0867E	~z~Thanks - for absolutely nothing... asshole.
+	EE902CB8	~z~Maybe we'll reschedule and maybe we won't, I guess.
+	FD165748	GCM_ACT_CALL_HOSP_CANCEL_HILIKE
+	FC7788AF	GCM_ACT_GETCALL_REJECT_IRATE
+	FD7323E3	~z~Thanks - and thanks for the huge amount of respect you've shown me, asshole.
+	FE99530D	GCM_ACT_PMI_CALL_HOSP_CANCEL
+	FDA98BCD	010
+	FC54A91A	100
+	F5253104	~z~Niko - hey, it's been a while since we spoke.
+	F464A17F	~z~Great. Thanks... for nothing. Some other time, I guess.
+	F57C1326	GCM_ACT_GETCALL_HOSP_ASK
+	FBA7FE75	~z~Sorry - I guess I keep unconventional hours.
+	F9165716	~z~That is good news. See you soon.
+	CF4FE570	~z~Niko - how are you? It's Michelle.
+	CEE13FEC	100
+	D176923D	~z~I'd love to help, but I'm in the middle of something - make your own way home.
+	D7094214	GCM_ACT_CALL_DATE_NO_RECENT
+	D3BA0C5A	~z~Great news.
+	CD82945F	~z~Hey, Michelle, how are you? It's Niko.
+	C4BF3EAF	100
+	C1B70A94	~z~Sorry, Michelle - I lost track of time.
+	C922EC53	~z~I'd love to, but I can't spare the time just now.
+	CC6B24DC	GCM_ACT_CALL_LIKENO
+	CA8724F3	GCM_ACT_GETCALL_HOSP_REJ_HILIKE
+	E45EADA7	~z~Okay, see you in an hour.
+	E325C9DF	~z~Oh, it's you... it's been a while.
+	E71E5F28	100
+	E79E1E85	~z~Sure - I'd like that. Pick me up in an hour.
+	E73672AA	GCM_ACT_GETCALL_GREET
+	E287A9F5	~z~Cool. See you in an hour.
+	DA13F79B	100
+	D9948881	~z~Sure - I'll head over now and take you home.
+	DA7FE0C3	~z~That's the best news - see you in a bit.
+	DE73BE0A	GCM_ACT_GETCALL_DATE
+	DBD74B09	010
+	81E6766C	100
+	22D87E66	~z~Oh? Really? I wanted to see you. Well, maybe some other time, then. Bye.
+	20449020	~z~Okay - maybe some other time - maybe not.
+	230178E2	100
+	2616C3A5	~z~Niko - I'm being discharged - can you pick me up from the hospital?
+	23348723	~z~Okay, no problem.
+	1CF0092C	~z~You want to get together? Sure, pick me up in an hour.
+	18E1E1D3	GCM_ACT_GETCALL_HOSP_ACCEPT
+	174C27F5	~z~Hi Michelle.
+	1A96AE86	~z~Hello Michelle.
+	1CC39E6C	~z~Great. I'm on my way.
+	1B333D5C	~z~You busy? I mean you want to spend some time together?
+	2F264331	~z~Great, see you in an hour.
+	2E6CF50C	~z~Great! I love rejection - I really love it. You know you might just lose me, Niko.
+	3036460B	~z~I think you're a great guy, but I don't want to hang out again so soon. Another time.
+	361A1874	~z~You never want to hang out. Do you think I've got herpes or something?
+	308F1E92	~z~Okay, I'll call back another time.
+	2D122103	~z~Hey it's me, Michelle.
+	29BBB916	~z~Niko - we only just went out... maybe later.
+	27B1ACB3	~z~Thanks - for letting me down.
+	29E71AAD	~z~Hey Niko, it's me - Michelle.
+	2CD0F41C	GCM_ACT_PMI_CALL_REJECTED
+	2A9C7C4F	~z~Thanks for fucking nothing, you asshole.
+	0803BBCA	~z~Great, Niko - see you soon.
+	069B45EC	~z~Thanks - I really needed to feel like shit about myself. Thanks a lot.
+	097E99F3	~z~What are you doing? You wanna hang out?
+	0B566C04	~z~Sure, I'll be there in an hour.
+	0A112F8F	~z~I don't think so Niko. I'm still really mad at you because of what you did... another time, maybe.
+	0688F1FB	~z~Excellent, see you in an hour.
+	033AD5BE	~z~Yes, pick me up in an hour.
+	003257FA	100
+	041A8DA0	100
+	05F0A343	GCM_ACT_PMI_GETCALL_HOSP_NO
+	044881EA	~z~Michelle, it's Niko.
+	12FD43B5	~z~You want to hang out with me?
+	1296BE59	100
+	131A4A06	GCM_ACT_CALL_CANCEL_LOLIKE
+	14DBAD4A	~z~I haven't heard from you in a while, thought you'd forgotten about me.
+	14527088	100
+	107F1A5B	~z~Hi, it's Niko... Niko Bellic.
+	0C6CDA40	100
+	0B87B99B	010
+	0DA42A64	010
+	0DF7F77B	100
+	0DEFC023	100
+	37586628	~z~Niko it's me, Michelle - can you pick me up from the hospital, please? They're letting me go.
+	6D0C5374	~z~Hi there, it's me, Niko.
+	6C87B31E	~z~No - I'm kind of busy just now, another time.
+	70A7D880	100
+	71215AAD	GCM_ACT_CALL_IRATE
+	70C18683	GCM_ACT_CALL_CANCEL_MEDLIKE
+	6A8272BE	~z~Listen, do you want to go out?
+	638FE910	~z~Sorry, Michelle. Something's come up - I can't make it to the hospital.
+	60990804	~z~Niko - it's Michelle here.
+	64F65C7C	100
+	694F5036	~z~I was asleep - I'll be up early - call back after 6.
+	6524DFC8	GCM_ACT_PMI_CALL_DATE_CANCEL
+	7E1670E7	GCM_ACT_PMI_CALL_ACCEPTED
+	7D9998EC	~z~Are you doing anything? You want to meet up?
+	7FBE78D8	~z~Hey, Michelle, it's Niko.
+	808B2D55	~z~You're always too fucking busy!
+	7FFB0A71	~z~You're a dick, Niko - I'm in the hospital.
+	7C02DDA3	~z~Not again so soon - a girl's got to play hard to get - another time.
+	75E5B082	GCM_ACT_GETCALL_REJECT
+	7571A856	~z~Sure - I will call back another time.
+	7638C53E	~z~Yes, I'd enjoy that. I'll be there in an hour.
+	794C18C2	~z~Niko - it's me, Michelle - why haven't you called me? Don't be cold and weird with me. Come on.
+	79418C58	GCM_ACT_CALL_VERYIRATE
+	3F676E1D	~z~Sorry, Michelle - I'd love to help you but you'll have to find your own way home.
+	3EA9B58D	~z~Thanks - that means a lot to me.
+	3FAE1AB0	~z~After what you did? No way. I'm still mad at you, call back another time. Maybe I'll have calmed down.
+	4D79144E	~z~Michelle, it's Niko.
+	4821428C	GCM_ACT_GETCALL_IRATE
+	3E4DBA0F	~z~Okay, Michelle, some other time.
+	39A1C801	GCM_ACT_GETCALL_VERYIRATE
+	37D4F324	100
+	3C7F430A	100
+	3DDAE09A	~z~Great. I'm heading over to your place now.
+	3C948A98	100
+	5C4CC3A5	GCM_ACT_CALL_LIKEYES
+	5AE07334	~z~Sorry to hear that. Maybe I'll call another time.
+	5C9B2D82	GCM_ACT_CALL_DATE_YES
+	5EC21793	~z~No, I can't just now, maybe later.
+	5E2B789E	~z~Okay then - I'm willing to give you another chance - since you called back - pick me up in an hour.
+	598D73D4	~z~No problem, see you soon, I hope.
+	4F431589	GCM_ACT_GETCALL_ACCEPT
+	4EDFDA03	~z~Oh, it's you? Well, I'm going to give you another chance, since you called back... pick me up in an hour.
+	51EDEA94	~z~Niko, it's me, Michelle - it's been a while.
+	5978DEBF	~z~That's great news. See you in a bit.
+	579F14DC	~z~No - we hung out only recently - I'm not that easy, Niko. Maybe later.

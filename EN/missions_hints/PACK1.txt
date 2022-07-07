@@ -1,0 +1,37 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AEF9AC7D	~s~When in a vehicle, you can cycle to the Grenades in your inventory with ~PAD_LT~.
+	AFB5973C	~s~Reverse the van out of the warehouse.
+	B1FFF918	~s~Jump into the ledge to perform a hanging grab.
+	AE7806B5	~s~Follow ~b~Packie~s~ up on to the roof.
+	A558747E	~s~Get back to ~b~Packie.
+	A9E4E973	~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+	A9E76951	~s~Drive ~y~outside~s~ of the docks.
+	BBB5A0C1	~s~Wait for ~b~Packie~s~ to get in the truck.~s~
+	EC398237	~s~Follow ~b~Packie.
+	F2B48D3D	~s~You can pull the pin by holding ~INPUT_VEH_ATTACK~. Release ~INPUT_VEH_ATTACK~ to drop the grenade clear of your vehicle.
+	F3E886D7	~s~You are too far away from ~b~Packie.~s~ Go back and get him.
+	E9F3FDAC	~s~Get into the ~b~car.
+	C8E98AD4	~s~Get into the ~b~loaded van.
+	CB8E4910	~r~Packie is dead.~s~
+	E2EDFDB8	~s~Wait for ~b~Packie~s~ to get in the truck.
+	A02DF04C	~s~Escape in the van back to Packie's ~y~lockup.
+	4D8CB033	~s~Press ~PAD_Y~ to drop down.
+	50EECBA0	~b~Packie ~s~is in trouble. Help him take out the ~r~Triads.
+	5E6EE6A0	~s~Steal the ~b~truck.
+	20BFEB47	~s~Go to the ~y~harbor warehouse.
+	04143B3E	~s~Continue ~y~outside~s~ the docks.
+	077AE5C8	~s~Go to the ~y~lockup.
+	07E7A4EE	~s~Press ~PAD_X~ to climb onto an object.
+	60DAE988	~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~PAD_X~.
+	8FC30DB7	~s~Get into the ~b~truck.
+	951EEE6F	~s~Climb down the mini cabin to get to the ground.
+	9E99F1F5	~s~Continue to the ~y~harbor warehouse.
+	7E0D49DB	~s~When in a vehicle, you can cycle to the Grenades in your inventory by pressing ~INPUT_VEH_NEXT_WEAPON~.
+	6C43EDA1	~s~Use ~PAD_LSTICK_LEFT~ and ~PAD_LSTICK_RIGHT~ to shimmy.
+	736A9EB3	~s~Leave the van and exit the lockup.
+	74D5B01B	~r~The truck has been destroyed.~s~

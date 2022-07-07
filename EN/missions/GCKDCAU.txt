@@ -1,0 +1,98 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	88E5AE7B	~z~Do us a favor? Try not to freak out like you seem to when you get drunk.
+	8FC245F8	GCK2_DRUNK4_RJ
+	87601401	010100100010100100100010100010
+	844CEB91	GCK2_DRUNK4_RB
+	85987427	GCK2_DRUNK3_QG
+	9027D9EB	GCK2_DRUNK2_PC
+	9C5B5566	~z~That was fun...
+	9DBF2841	GCK2_DRUNK2_PI
+	944E02F2	GCK2_DRUNK3_QB
+	9141BF37	~z~That's better.
+	936874C2	100010100010100100100100100100100
+	8306C1E9	GCK2_DRUNK2_PE
+	738FFC0A	GCK2_DRUNK1_OJ
+	740A1A38	~z~I'm sorry... I'm so sorry.
+	70153DE5	~z~Shhh, calm down.
+	6F4A55C1	~z~Calm down.
+	6FE49D65	GCK2_DRUNK1_OF
+	76EA0A84	~z~Yeah, sure.
+	7F501B54	~z~Fuck you.
+	82993756	~z~Don't worry about it.
+	7B95EC14	GCK2_DRUNK3_QJ
+	79F8A1F9	GCK2_DRUNK2_PB
+	7A95C3C5	~z~Shit. I'm drunk.
+	ECCAFEE0	GCK2_DRUNK4_RF
+	EE9C6E79	GCK2_DRUNK1_OM
+	EB3F11A8	GCK2_DRUNK1_OG
+	E8928D8B	010100010100010100100010100010
+	E8EC8C97	GCK2_DRUNK2_PD
+	F038579B	~z~That was fun.
+	FD553328	GCK2_DRUNK2_PJ
+	FE68CB59	~z~Why would I worry? What in God's name have I got to worry about?
+	F30EC5B7	GCK2_DRUNK4_RC
+	F0AC2FE0	~z~What are you going to do now? Shoot me?
+	F2BEA5F1	~z~I'm drunk...
+	E5708BF9	100010100100100100100100100100010100010
+	B5C90FA1	GCK2_DRUNK4_RG
+	B6234E25	GCK2_DRUNK4_RA
+	AB1DCD67	~z~Great... that's a sensation worth paying for...
+	9FDCFC2D	GCK2_DRUNK1_OD
+	A5B4FD8D	~z~Shut up, please.
+	B7E721F1	~z~Probably, you psycho. You're crazy.
+	DA8B039E	~z~Really self indulgent, really idiotic, pathetic.
+	E1F93B1D	~z~Yeah great. Just great. I love drinking - gives you clarity.
+	CF01C572	GCK2_DRUNK4_RE
+	B95E69E8	~z~You already knew that, maybe... I hate myself and I want to die!
+	BF8F69F9	GCK2_DRUNK4_RK
+	2562E1F1	GCK2_DRUNK1_OH
+	276686B6	GCK2_DRUNK1_OL
+	23107676	GCK2_DRUNK1_OC
+	212F10E5	~z~Fuck... I'm just a neurotic, aren't I?
+	21941303	GCK2_DRUNK4_RI
+	283990EA	~z~My mother! She's great.
+	3B812AE7	GCK2_DRUNK2_PF
+	3BAE1409	~z~Please, leave me alone.
+	36D73C35	~z~I'm half crazy, out drinking with a killer,
+	32374B3A	GCK2_DRUNK3_QI
+	3505C7D3	GCK2_DRUNK3_QA
+	1CBD8AA6	GCK2_DRUNK4_RH
+	07B5CFE3	~z~Then why drink?
+	08EA799D	GCK2_DRUNK3_QF
+	0200B8C3	GCK2_DRUNK2_PG
+	00CDAF69	GCK2_DRUNK1_OK
+	01504314	~z~Isn't that fun?
+	09340996	~z~Fuck, what is wrong with me?
+	1607C8BD	~z~I'm sorry... I'm so sorry... I'm so sorry.
+	170D6E8E	~z~Yes - great fun. Reminds me of being at a funeral...
+	15726B5C	~z~I don't know - because my whole family does, and they're such a bunch of winners!
+	0A99D441	~z~Maybe.
+	0C08CDFB	GCK2_DRUNK2_PH
+	5B335313	~z~Yes, fuck you, you creep. You fucking lunatic creep. Fuck you.
+	5C191A06	~z~~s~
+	5A70837B	~z~No, why would I worry? Why would I fucking worry?
+	54BF20A7	~z~Calms you down... shows you that you really do hate yourself.
+	5662883C	GCK2_DRUNK3_QC
+	5CCDFA12	~z~I fucking knew, and my brothers - look at them.
+	6A63369A	~z~Look at them... I can't take it any more...
+	6D87F7BC	~z~You're a loser. You're a fucking loser. Fuck you. What is wrong with you, you cold hearted creep?
+	68748B1D	GCK2_DRUNK1_OE
+	5EA36F8F	GCK2_DRUNK1_OA
+	60BC38A5	~z~I'm trying... maybe I better shut up.
+	51BEE28E	GCK2_DRUNK2_PA
+	4406B4FA	GCK2_DRUNK1_OB
+	454CB33A	GCK2_DRUNK4_RD
+	40DD6D6E	GCK2_DRUNK3_QD
+	3E78BD68	~z~They haven't invented a tranquilizer strong enough, but if she combines them with whiskey, she can get to sleep.
+	3F7416F3	GCK2_DRUNK1_OI
+	4585D992	~z~and with this family so fucked up I don't even want to talk about it.
+	4E935D9D	~z~My dad - he did awful things to my brothers, I loved him, but I knew.
+	4FE08810	GCK2_DRUNK3_QE
+	4CD3FF37	GCK2_DRUNK3_QH
+	4681842C	~z~I don't know about that.
+	4C30E6E8	~z~Don't worry.

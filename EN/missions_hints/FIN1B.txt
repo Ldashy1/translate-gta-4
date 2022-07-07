@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A406757E	~s~Operate the ~y~controls~s~ to open the cargo hold.
+	99DA3C60	~s~Find a way to get to Dimitri, and get your revenge.
+	889199CF	~s~The doors to the cargo hold are controlled from the bridge.
+	EEB36609	~s~Dimitri is supervising the operation in the ship's hold.
+	DD0BC2BA	~s~The Russians are loading heroin onto the cargo ship.
+	BE5681DB	~s~Go to the ~y~bridge.
+	599CE0B0	~s~Get back on land.
+	410A2F8B	~s~Go to the cargo hold and get revenge on ~r~Dimitri.
+	0E7B4A6E	~s~Get off the ship.
+	6BB817F8	~s~Press ~INPUT_PICKUP~ to operate the controls.
+	65B27D83	~s~Go to the cargo hold's ~y~exit.~s~
+	5B7F387E	~s~Finish off ~r~Dimitri.

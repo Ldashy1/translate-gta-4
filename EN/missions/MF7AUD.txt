@@ -1,0 +1,160 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9EE1528F	MF3_SA
+	9ED8DBD2	MF3_RB
+	A3D9955F	~z~Word.
+	9FA59DC7	MF3_OM
+	9BBDF208	~z~Shit. Come to Drusilla's. And get here sharp.
+	905B4D3D	MF3_LB
+	8EB46EF2	MF3_NB
+	9AF8FDFE	100100100100
+	9A7E01C1	MF3_NF
+	A497451D	MF3_KB
+	B3CE624C	~z~Nicky, I hear you and the Irish have got your hands on Ancelotti's daughter.
+	B08B9B19	MF3_LF
+	BB4FD3B3	MF3_OL
+	B9BEBCCC	MF3_ND
+	B019E2A9	MF3_WD
+	AB321490	MF3_Z_CC
+	A9526F65	MF3_RA
+	AEF958A2	~z~What's it to you?
+	AD505BDC	MF3_XB
+	7AB91EC1	100100100010100
+	78AAC439	MF3_NA
+	7BADA863	MF3_OC
+	7B70F192	~z~The diamonds that got robbed off you in the Libertonian.
+	783AEC00	MF3_Z_DB
+	76F7D815	~z~Hey, Ray. I got some bad news for you. You weren't the only one who thought they owned those diamonds.
+	7673E96C	MF3_XF
+	778D782C	100010100100010010
+	76FB3DD6	MF3_NF
+	7BD22319	~z~Yeah, yeah, must have been.
+	83FF3ABB	MF3_PD
+	825C58BC	MF3_NB
+	8B99E4DC	~z~Niko, man. I was out today and I saw this bitch coming out a nail place. She looked just like my old girl, Cherise.
+	847524CB	SFX_MACHINE_BEEP
+	81EC3A34	MF3_Z_BD
+	7F3FB0D7	MF3_OB
+	7EC1506C	MF3_NA
+	81B1BE9E	MF3_LE
+	80BF733B	MF3_Z_CE
+	C0F75ED1	~z~Nah, man. Don't worry about that. She's not my type. We'll hang out soon.
+	EC22E814	~z~You got jumped by a white trash biker, Nicky.
+	E9F4562F	100010100100100100
+	F583C866	~z~If you gotta hold it, leave me a message.
+	F333E9D8	MF3_WC
+	E649538B	MF3_MC
+	E1C5F1FA	MF3_OE
+	DD657BEA	MF3_PA
+	E479445A	~z~Sorry, Ray. I'm freelance. I don't buy into that tribute stuff.
+	E217A111	~z~Yo, I hear you been rolling with Cherise, Niko. You two tight now?
+	F5ABD583	~z~Turns out a serious Russian called Bulgarin claims ownership as well.
+	FE4F8C71	~z~I told you to take our half of the money, and I said let Johnny take the half and you hold onto the other half.
+	FD96F2E0	SFX_MACHINE_BEEP
+	FF868A6D	~z~I thought I was doing that.
+	FF2179AA	~z~This work has many disadvantages, but, hey, at least it is tax free.
+	FD59F606	MF3_XA
+	FA388F06	~z~Getting too close to the skipper's wife.
+	F8528FC4	SFX_MACHINE_BEEP
+	FC71459A	MF3_WA
+	FB948141	MF3_MB
+	CFCDC647	100100
+	CECCFA7C	~z~So, you ain't no item? It ain't like that, is it Niko?
+	D1DD9F23	~z~Yeah? Well, remember who made the introduction. Remember who brought you in, don't you forget about me.
+	D0370A9A	~z~Liberty City Dump... I don't know. They got thrown into traffic.
+	CE1947AA	~z~No, man. Must have been someone else.
+	C39CB28C	MF3_OH
+	C33411C5	~z~I hear you need work. I wanna throw you a bone, Nicky.
+	C9C5A35A	~z~Shit. Come to Drusilla's. And get here sharp.
+	C5D6C639	~z~I told you to take our half of the money, and I said let Johnny take the half and you hold onto the other half.
+	D28F72CA	~z~Sorry, man. She's gone. Maybe things coulda been different in another life.
+	DAA0FBD0	MF3_Z_AA
+	DA2F7362	MF3_Z_CB
+	DC0847DF	~z~Because of that I got Phil telling me that the Peg - Jimmy Pegorino - is pissed.
+	DAB2B0CD	~z~If you wanted to pass something up to me... pay me some tribute.
+	D9F8E1AB	MF3_LA
+	D505B568	~z~Come over to Drusilla's in Little Italy. We'll have a little sit down.
+	D46D05BC	~z~I bumped into her, man. I helped her out with a problem she was having.
+	D929DFC9	100010100100
+	D8107ED7	MF3_NE
+	31741C18	MF3_LC
+	2F715623	~z~Keep on rolling people.
+	3316BDEB	~z~This Dwayne. Don't know why I'm doing this. Nobody leaving me messages. You all fake.
+	3182E702	MF3_KA
+	2D62D62C	~z~So, Nicky, you and the Peg is getting close I see?
+	295A0625	~z~Get me them diamonds off Tony.
+	2793AC85	~z~This is Dwayne, guess not many people got this number cause nobody's calling.
+	2CD7613C	100010100100100100010010100100100010
+	2A57CF61	~z~Don't get smart with me.
+	37467049	MF3_KC
+	41538BB0	MF3_Z_EE
+	4145F04B	~z~Oh yeah, how she be?
+	45524532	~z~Who are you talking about?
+	426398B5	MF3_SB
+	3D062EDE	MF3_PB
+	37AE6A0E	~z~I got the money robbed off of me by a biker, remember? The diamonds were sold.
+	3783DCC7	~z~Having man troubles. I helped her out.
+	3C3A1310	~z~I don't wanna see you get caught up in it, that's all. Just looking out for ya, pal.
+	3BBD345C	MF3_Z_CD
+	07FA2A89	~z~I mean, you got a whole city full a potential lays and he's chasing the skipper's cooze.
+	07BB5C90	100010100010
+	0E662C9E	~z~Who are you talking about?
+	08108B88	~z~He's got work, he pays. That's about it.
+	072488FB	~z~He must have robbed the diamonds off of Isaac.
+	013CDE22	MF3_MA
+	00053538	MF3_Z_BC
+	06CD55BC	MF3_NC
+	0389713E	~z~Dammit, Nicky. Cut the bullshit. You got 'em? Where are they?
+	0F0D8BDB	~z~Dwayne, man. I bumped into your ex. The one that messed you around while you were in the joint.
+	1E11755C	MF3_Z_BB
+	1C92B066	~z~Yo, this is Dwayne. I'm out and I ain't letting shit get me down.
+	25D7D70F	~z~Nicky, this is Ray Boccino. The man keeping your Irish friends in liquor.
+	23AB5728	~z~That fucking snake in the grass. When I'm done with that motherfucker...
+	1971782C	MF3_Z_AB
+	12ABE62A	100100010100010100
+	1125A111	MF3_XD
+	185DE6BE	100010100100100100
+	16AFB010	MF3_KD
+	4745E649	~z~You all got love for a fool at the top and don't know a fool at the bottom. Out.
+	6B0FD868	MF3_Z_EC
+	6AC38877	MF3_OA
+	6CC7F42B	~z~That is not my business.
+	6C29F786	010100010100010
+	68F29DCB	MF3_NC
+	65F0B9A0	~z~You a good friend, Niko. She ask about me? You think she been thinking about this fool?
+	63E37EA7	100100100100
+	68D7016E	MF3_OD
+	671C8E9E	MF3_Z_CA
+	6E4F574F	~z~Well, we took it off Tony in the first place, but it shoulda ended there.
+	7524A1C5	MF3_Z_BA
+	72658EB7	MF3_OI
+	7561855E	~z~Nicky, I got a piece of advice for ya - stay away from Phil. He's causing himself some problems.
+	7557A53C	~z~You got jumped by a white trash biker, Nicky.
+	71FF9E8C	~z~Because of that I got Phil telling me that the Peg - Jimmy Pegorino - is pissed.
+	71100E70	MF3_OG
+	6EA5150D	MF3_LD
+	7194D0E4	~z~Dwayne, she's no good for you. Forget about her. We'll hang out soon. Later on.
+	71780E65	~z~I was in the shower and I heard the phone ringing so I thought you mighta called or something. My bad. Later.
+	4FB61AA2	010010100010
+	4EA72539	MF3_MD
+	513BF021	~z~Shit, man. I coulda sworn it was her.
+	50C19C34	~z~It's her pal, Gay Tony, that's coughing up with my damn ice.
+	4E0EC793	~z~Hey man, did you just call me?
+	4A52A1EC	MF3_ME
+	47F9DD9D	~z~Dwayne, it was her. She screwed you over while you were inside. She's dead now.
+	4E04CF7A	~z~We're already square.
+	4AD3F53D	MF3_ON
+	52833794	SFX_MACHINE_BEEP
+	5BED8261	MF3_ND
+	5BE56DFC	MF3_PC
+	612C3D09	~z~It wouldn't be nothing, except I know that Ancelotti ain't gonna pay up.
+	5CD00749	~z~The one you said you killed with Jayvon outside the arcade. You sure that was her?
+	59E225AE	100010100100
+	566AFB4C	MF3_NE
+	5390E1AF	~z~That fucking snake in the grass. When I'm done with that motherfucker...
+	59165FA9	MF3_OF
+	5787E280	~z~The Irish'll be square with that and you'll be square with me.

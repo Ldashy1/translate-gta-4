@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A51194C7	Take out ~r~Frankie Garone.
+	8DA621DD	~r~Frankie Garone survived.~s~
+	AC1222D4	Get on the ~b~motorbike.
+	F5D7365D	Go to the ~y~meeting point.
+	BF68C975	Find a motorbike.
+	10A86BFF	Find the ~y~meeting point.
+	0138CD20	Placeholder for Mocap Cutscene.
+	29A19DE5	~r~You changed out of the hood's clothing.
+	5A887FB2	~r~The bike was abandoned.
+	36F33888	~r~The hood's bike was destroyed.

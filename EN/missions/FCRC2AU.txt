@@ -1,0 +1,220 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C2848A5A	~z~I can do this. Live this life. I cannot live another. Not now.
+	C24CF550	~z~I guess.
+	C1F387D1	~z~Thank you cousin. I am glad I came here too.
+	C48A5685	~z~You good, man?
+	C3884F8E	~z~What's up, NB?
+	C2A14DBC	~z~Not too much - I was remembering the Old Country, when we were children.
+	C1C8D92F	FCR3_CONV12_PL
+	BF85D268	~z~What are you hoping for?
+	BF1D3AF4	FCR3_CONV10_OG
+	BCE5B8AD	FCR3_CONV10_OI
+	C17463C9	~z~My gambling problem is under control.
+	C08B7F9C	FCR3_CONV12_PC
+	C0389176	FCR3_MAKE_IT_GM
+	CD31E7D8	~z~You, you know what? I'm glad you came here. It's good to be living in this madhouse with family.
+	CD298E30	FCR3_MOTHER_FF
+	CB3C64CB	~z~We are.
+	D25BF228	~z~Yes.
+	D12D222F	FCR3_CONV12_PH
+	D022DAA7	FCR3_CONV10_OE
+	CB319724	FCR3_CONV12_PE
+	C6F4213D	FCR3_MAKE_IT_GL
+	C684DFC6	FCR3_MAKE_IT_GA
+	C5F69142	~z~Yes it can.
+	CAF53FC7	~z~You ever think about going back home, cousin?
+	CA9350C0	FCR3_CONV10_OF
+	C7FE6E9E	~z~For all their drunken meanness, we made it through.
+	BCA8C7A4	~z~What's that? What's big?
+	AC2CF3A7	FCR3_GAMBLING_EK
+	AB9E2A99	~z~The same names are on the new buildings as that are on the old ones.
+	AB878118	FCR3_MAKE_IT_GO
+	AC862186	~z~It's a long time ago. A different world.
+	AC5A740F	FCR3_GAMBLING_EG
+	AC46843E	FCR3_CONV10_OK
+	AAE161C1	FCR3_CONV14_QH
+	A8CAABC0	100010100100010100100010010100010100010010100010
+	A700959F	~z~But Mila Tadic prefers Roman... it's a terrible love triangle!
+	A6547713	100010100010100010100010100010100010100010100100010
+	AA8921D7	FCR3_MAKE_IT_GF
+	AA5F2311	~z~I mean we're going to make it big.
+	A93CB039	FCR3_CONV14_QK
+	B8200612	FCR3_GAMBLING_EH
+	B6BAF160	~z~Thank you, cousin.
+	B5B5A135	FCR3_MAKE_IT_GI
+	BBA044B5	~z~Me too. I mean, it's nonstop craziness, but I'm happy.
+	BB46607C	FCR3_CONV14_QP
+	BB33BC9D	FCR3_CONV12_PM
+	B2614364	~z~We're normal. We have healthy emotional lives.
+	AFF0A977	FCR3_CONV12_PN
+	AE3D29EF	~z~Before you got here, I was on the bottom - people spat on me.
+	ADDD2438	~z~Not much, cousin, what's up with you?
+	B2308CD6	FCR3_CONV10_ON
+	B0EB19F0	FCR3_MAKE_IT_GG
+	B052C186	~z~Don't be stupid, I'm talking about myself. I've come through the tunnel and seen the light.
+	D3ABF9BC	~z~I'll let you come around my house when they're filming.
+	EDE868CA	FCR3_CONV14_QI
+	EDCEB906	~z~Not many know you as well as I do. You're a big softie at heart.
+	ECE4A166	~z~Screw you.
+	F170754E	FCR3_CONV12_PK
+	EFDD7EB6	FCR3_MOTHER_FP
+	EDF7CCA9	~z~Listen man. I'm worried about you. You have to sort your life out. Before it ends.
+	EC25B92F	~z~You are looking at a reformed man, Niko.
+	E85C2F61	FCR3_MOTHER_FA
+	E7881D42	~z~Fast cars, Jacuzzis, hot women, we're going to have everything we could ever dream of.
+	E738FFD6	FCR3_CONV12_PI
+	EB5E1F35	~z~I don't know. I lost contact. I think he went to Britain. Or to University. I don't know.
+	EB01D21D	FCR3_CONV14_QB
+	E9B825D8	~z~They can shoot you in the hot tub.
+	F9C2BBFE	~z~Some, yes, but not most. What happened to Marko?
+	F82DBE8D	~z~We're going to be on top.
+	F7B0E01B	~z~You sure?
+	FCB4C10E	FCR3_CONV10_OA
+	FC982118	FCR3_MAKE_IT_GQ
+	FB5399C1	FCR3_CONV14_QC
+	F740F94B	FCR3_CONV14_QG
+	F4D76EFF	~z~No. I will go on forever. This is my curse.
+	F47300FB	FCR3_GAMBLING_EB
+	F3E8BFBA	FCR3_CONV12_PJ
+	F68995DB	FCR3_MAKE_IT_GR
+	F5E63F2C	~z~To get by, to have a life that isn't totally shit, for things to be a little easier.
+	F569B929	~z~What do you mean?
+	E63D71C5	FCR3_CONV14_QE
+	DA068675	~z~Great, thank you. I can't wait.
+	D883F899	~z~Fuck you!
+	D7A2D922	~z~I promised myself I wouldn't go home until I had resolved certain problems.
+	DDBE40CD	~z~Sure.
+	DC332920	~z~You good, cousin?
+	DA6CBA2E	~z~You'll die.
+	D69BCE88	FCR3_CONV10_OP
+	D4C354EF	FCR3_MAKE_IT_GP
+	D41D44DF	FCR3_GAMBLING_EL
+	D3D49309	100010100100010100010100100010010010100010100100
+	D60C55F1	~z~What about you?
+	D5B50A0B	~z~We know this. At least they didn't fuck us up though.
+	D578F92E	FCR3_MAKE_IT_GE
+	E4080F69	FCR3_CONV12_PP
+	E3E8F1AA	~z~Your mother is there, but for me there is nothing.
+	E2B4BCA6	FCR3_MOTHER_FG
+	E57FF4DC	~z~I wish I could be with my mother, but there is nothing left for me there other than her.
+	E4DC82DA	FCR3_MAKE_IT_GH
+	E43B4B38	FCR3_MAKE_IT_GU
+	E2919883	~z~You've been watching too much I'm Rich on the TV, cousin.
+	DEF39ECF	~z~Really? I bet you ten dollars it isn't.
+	DE901A89	~z~You're not as cold as you make out, cousin.
+	DE0603A9	~z~You're disgusting.
+	E0F96B07	FCR3_CONV10_OQ
+	E0CEB326	FCR3_MOTHER_FD
+	DF6D57FA	FCR3_MOTHER_FM
+	4CE2AE74	FCR3_MAKE_IT_GV
+	42DA633C	FCR3_MOTHER_FB
+	42258882	FCR3_CONV12_PD
+	503546DB	FCR3_CONV14_QD
+	4E58644C	~z~I think she was the town bike - it was like a cavern.
+	4D1F0AFA	~z~fighting a war that ended, killing, running around like a lunatic, all this craziness.
+	40923938	FCR3_CONV10_OC
+	2DB23C54	FCR3_MOTHER_FC
+	2C23F4EE	FCR3_MOTHER_FN
+	2B5BAD25	100010100010100010100100100100010010010010100100010010100100100010
+	34A66D39	~z~Life is very strange.
+	3372D79E	~z~You got me into this craziness, here I mean.
+	2FF7E543	~z~Sure, but it can't go on, not forever.
+	5E91EC5A	FCR3_CONV12_PG
+	5A42131F	~z~I was sorry to hear of his death, Roman. We have not spoken about it.
+	5A3B5966	FCR3_CONV10_OB
+	64421BE2	~z~Take a look at the history of this city, Roman.
+	6356E0C7	FCR3_MOTHER_FT
+	60199A68	FCR3_CONV14_QJ
+	59FB94D9	~z~Ha ha, very funny. I'm serious. I only bet on sure things now.
+	514CB751	FCR3_GAMBLING_EI
+	507696F8	FCR3_MOTHER_FI
+	506825DF	FCR3_CONV12_PA
+	55E68A70	~z~More than a family resemblance made them brothers, Niko.
+	551AF2B1	~z~What about, err... Mila?
+	516F17C9	FCR3_MOTHER_FE
+	2AB21FFB	FCR3_MAKE_IT_GD
+	1357D3B4	100010010010100100100010100100010100100010100100100100010100100
+	118E333D	FCR3_GAMBLING_EE
+	112B80ED	FCR3_CONV14_QN
+	15E41C81	~z~It means what it says - you can't carry on like this -
+	148F2447	FCR3_MOTHER_FU
+	13E2476D	~z~It's not gambling if you're guaranteed a win, Niko.
+	0A50BBC1	FCR3_CONV10_OO
+	07435FCE	FCR3_MAKE_IT_GB
+	05F35A18	~z~What I've been saying ever since I started sending you emails.
+	029ACCD2	~z~She did. Many times. But trust me, cousin. She was no good.
+	085AE415	~z~No, I'm going to be on I'm Rich, cousin. If you're lucky,
+	07F9586B	~z~Sure. Most of them are dead.
+	07C2AAC8	FCR3_MOTHER_FO
+	2401E478	FCR3_GAMBLING_EF
+	21A333FF	~z~What does that mean?
+	1F8DF783	FCR3_MOTHER_FL
+	2A355857	~z~And you are the man I wanted to be - strong, unbending, with integrity.
+	26000528	FCR3_CONV10_OD
+	2531320E	FCR3_MOTHER_FJ
+	1F4F9E95	FCR3_CONV14_QM
+	1941979D	FCR3_CONV14_QL
+	192E3651	FCR3_CONV14_QA
+	173EF61A	~z~Gimme a break.
+	1ED2546F	FCR3_MOTHER_FS
+	1D8DDAD8	FCR3_GAMBLING_EA
+	1B5838A8	FCR3_CONV12_PB
+	646A164A	~z~Now they still spit on me, but at least I know I have you here.
+	93B80851	~z~That still sounds like you are gambling, Roman.
+	932A3AE9	FCR3_MOTHER_FQ
+	9219D725	FCR3_MOTHER_FK
+	96097684	100010100100010100100100010100100010
+	948FC144	FCR3_MOTHER_FR
+	944939D1	FCR3_GAMBLING_ED
+	90FB2748	~z~I don't buy that bullshit. Grow up, move on, be, be free! At least think about it?
+	8BBAE458	FCR3_CONV12_PO
+	89E3AACD	FCR3_GAMBLING_EJ
+	88EAA8C8	FCR3_GAMBLING_EC
+	8F0EFCC0	~z~His only kind words were for the men who'd lend him money to get drunk with.
+	8ED6C787	~z~Things are alright back home now.
+	8D5816D7	FCR3_MAKE_IT_GS
+	9FCE8D12	~z~Sure.
+	9FC4A0F5	FCR3_CONV14_QO
+	9E4084FB	~z~A different life at least. Remember all those kids?
+	A49FA7E1	~z~I think you must speak for yourself there. Not many would call me emotionally balanced.
+	A32B1253	FCR3_MAKE_IT_GC
+	A2192513	~z~Who? Where? Point him out, will you?
+	9D619965	~z~That is very kind of you, cousin, but you would be the only one who was sorry that he died.
+	9A1A381F	~z~Not because of the place. It's interesting, but also strange. Too noisy. I am glad because of you.
+	99A130D8	FCR3_CONV12_PF
+	96483613	FCR3_CONV14_QF
+	9CF563C4	~z~My mother would be here if she was still alive. She was such a strong woman.
+	9ADB8914	~z~Alright Mr. I-know-the-history-of-this-city, what is it that you want?
+	9A9CE1DB	FCR3_CONV10_OJ
+	88CE1587	~z~You are the man I wanted to be, Roman - happy, kind and a good person.
+	6FE43E63	~z~She'd have to be to deal with my pig of a father.
+	6E944DE4	~z~And you help me spend the money it has made us.
+	6C805CEC	~z~To have a real friend in the world, that was all I think I ever wanted, and in you, I have that person.
+	72D5B321	~z~It's been tough, but I've had a great time.
+	70A10B1C	~z~The Old Country stopped being home for me when Mama was taken from me in the war.
+	702427DB	~z~Niko Bellic - still likes Mila Tadic.
+	6BFA59C4	FCR3_MAKE_IT_GT
+	68F05E87	FCR3_MAKE_IT_GJ
+	6652F2DC	FCR3_CONV10_OL
+	64CC45E0	FCR3_MOTHER_FV
+	6B417632	~z~That is the whole meaning of the word. There's no risk in what I'm doing.
+	6AA167B5	FCR3_MAKE_IT_GN
+	696933B4	~z~I'll only back a horse if the competition is doped, I'll only bet on a game of football if it's fixed.
+	7E6426A2	~z~Here is my home now.
+	7E3149D8	~z~And now?
+	79A7D1F2	~z~Just like my father then.
+	887A6452	~z~The old white men who run the city today,
+	86816DE4	~z~In poker, I play super tight - Buffet Car Jancowitz style. I only play the top ten hands.
+	81AB51AA	~z~Are we?
+	798D12C9	~z~Sure, Roman. I will believe it when I see your winnings.
+	7608BF6F	~z~I can feel it. The cousins Bellic. On top of the world.
+	74F80582	FCR3_CONV10_OM
+	73F675DB	FCR3_MAKE_IT_GK
+	77872CE9	FCR3_CONV10_OH
+	776D3D2E	~z~We're going to make it big, cousin.
+	76C0C0DF	~z~their fathers ran it before them, and their fathers before them.

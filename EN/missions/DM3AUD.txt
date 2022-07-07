@@ -1,0 +1,372 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9F7518BB	010100100010
+	A0693451	492
+	9EFB0DC4	492
+	9C11971D	~z~not that stale shit they pump though the correctional facility air conditioning units.
+	9C412969	DM3_WE
+	A0CCD798	~z~Fuck, boys. I ain't doing too good over here.
+	A609AB11	DM3_UA
+	A63FCD67	~z~How does a decent criminal stand a chance of losing the cops when they send choppers after him?
+	A6099FC4	DM3_XF
+	A3513313	~z~Good, good. Make him pay, Niko. Make him pay for the shit he's been talking.
+	A4067C40	~z~Lose 'em before I lose my fucking mind, okay?
+	95774D8C	DM3_MC
+	9610DF2E	070700590590590590590590590590590
+	953F3962	~z~The cliffs... the sea air... I really am free. I could cry.
+	933D4BB0	~z~I woulda done anything to get out.
+	952DCF29	~z~Why don't we just kill the fucker there and then?
+	973BD34B	~z~I'm cool.
+	9A29F015	071701071701701701
+	9B9DEB47	~z~This is a fucking miracle. Shit, I'm free. I've imagined this day for years.
+	994564F7	DM3_LF
+	979FC5B5	DM3_A_DE
+	9836899A	~z~Get rid of the escort, Niko. Come on.
+	AE937325	~z~This ain't my idea of fun, boys. Would ya give me a hand?
+	B0FFCA9C	~z~Fucking Derrick Mc-fucking-Reary.
+	ADC3BA81	~z~That's what I want, sea air. Thank you, boys. Thank you.
+	AA8B505A	~z~I'm gonna come in from the rear and block 'em that way. Pick up the truck and gimme a call.
+	ABB7668E	~z~He's the reason I ended up in that place to start with, the spineless...
+	B25B14EF	DM3_TF
+	B46269AC	~z~Shit, the cops have got choppers in the sky. That's fucking cheating.
+	B4782B45	DM3_AC
+	B3BBC3B4	DM3_ZA
+	B320F7A0	DM3_A_EC
+	B3943721	DM3_TB
+	A7A39F50	DM3_XC
+	A82B5534	~z~Thanks. Maybe a clean break is in order. A fresh beginning.
+	A79581A4	DM3_TH
+	A6C48F6C	DM3_PA
+	A781DDE7	~z~Out you come, old boy.
+	A8B77B52	~z~We ain't letting this one get away.
+	AA122D51	~z~Come on, Niko. Take 'em down.
+	AA3FA304	~z~Who knows where I'm heading but it ain't Alderney. Maybe I'll go west. Follow the setting sun.
+	A96D63F2	050
+	A8F06AB7	DM3_BC
+	A9218C5F	~z~I knew I wasn't forgotten about.
+	91C7A86D	~z~Aiden is dead.
+	7FDA2FE1	DM3_LH
+	8043BAA4	~z~Nobody's going to find you where you're going, friend.
+	7EE9A2A1	~z~Great. They're leaving the old cop shop now, should be at the Booth Tunnel soon.
+	7C118E7C	~z~Hold tight, back up is on it's way.
+	7D862203	~z~So you thought you'd rat him out? This is the last sunset you're ever going to see. Enjoy it...
+	80F52F8A	~z~They're trying to break 'em out.
+	82E01003	DM3_A_EA
+	8300B477	~z~We got to lose this heat before we can send this fucker where he's going.
+	8231356F	DM3_LI
+	812056EA	DM3_XG
+	82269125	700
+	75C666D1	~z~A truck with a rocket launcher in it? What am I meant to do with them?
+	76DE21F0	~z~Lose the cops. I'll try to lose the fucking cops.
+	75C5352B	DM3_A_CA
+	7540840B	DM3_A_DF
+	75BF5EE2	DM3_WG
+	76EE7A28	DM3_NA
+	7ABE2F81	~z~The cliffs of Leftwood then. Is there a boat coming or something? Where am I going?
+	7B359878	DM3_LB
+	79C2DFF7	~z~Derrick, Packie is going to help me on this job. He's going to help me get Aiden O'Malley.
+	775AF7DA	DM3_A_BG
+	79BB9D2D	DM3_WL
+	8E3E7A81	DM3_KA
+	8F336D1E	DM3_B_MB
+	8D923A1A	DM3_SA
+	89248178	DM3_XL
+	8B76BF2B	DM3_WK
+	8FE546C1	~z~Niko, send him packing.
+	9076F719	DM3_RA
+	918DE6F5	590590750570570570570750570570570750570750570
+	904E768E	DM3_XD
+	9001A7BF	~z~Aiden is gone.
+	9004970F	702
+	863A2AF0	702
+	866962FE	~z~Disappear, prisoner. Your old life is over. It's time to start a new one.
+	84BC4395	~z~You're going to a faraway place, my friend.
+	834FB96D	PM3_B_LA
+	84755B0D	DM3_A_BE
+	8683B425	DM3_MB
+	881B673E	~z~What's this jerk think he's doin'?
+	891C0903	DM3_WH
+	880690F5	~z~Shit, they're sending fucking choppers after us.
+	86BBA3D0	~z~We will not lose a prisoner on my watch.
+	8799B469	~z~That wasn't about getting out, that was pay back.
+	E3A6C6FE	DM3_VA
+	E3E41B60	702
+	E2EA3636	DM3_XI
+	DF6CD535	~z~They're making a play for the prisoner.
+	DFEF8837	DM3_XH
+	E4F1D902	~z~You've made me a happy man, boys. Now it's time to tell me who asked you to do this.
+	EA3FEADB	~z~This is our prisoner, you will not take him.
+	EA99DCEE	~z~Thanks. Maybe a clean break is in order. A fresh beginning.
+	E9E21342	~z~Okay, there's a car.
+	E52C7D4F	DM3_B_NA
+	E8D93B70	DM3_GB
+	D8CFA3DB	500
+	DA9003BC	DM3_TA
+	D889525F	DM3_MD
+	D7B9780C	010100100010
+	D83BF07C	DM3_AA
+	DBB7C4C2	~z~Alright, man. We're coming to ya. Take out the escort but keep Derrick's pal alive.
+	DCADC7BD	~z~Fucking get rid of these guys, Niko.
+	DED34C10	~z~Niko, those guys is yours.
+	DCA64328	~z~Shit. The Aryan Brotherhood are going to be pissed, that's for damn sure. Sprung.
+	DBD9F1CF	~z~We're doing this on behalf of an old acquaintance of yours.
+	DC2F0E9A	~z~We got to ditch this truck. It don't exactly blend in.
+	F8376064	DM3_WB
+	F89178DD	~z~That's the end of a chapter. I can close the book on a whole lot of my past now Niko.
+	F71F6048	DM3_WD
+	F56E9015	~z~For the grace of God, all but for the grace of God I coulda died in there.
+	F5FDDC75	DM3_BC
+	FA81AF60	DM3_OA
+	FF2F468C	~z~You'll find out who it was when we get there. In the mean time, shut the hell up buddy!
+	FF402550	DM3_WJ
+	FD401943	~z~Trust the LCP-fucking-D to block the damn road.
+	FAE48257	~z~I'm in position, Packie.
+	FC38B7EF	~z~Great, we've got some transport.
+	ED1EA26B	~z~Alright friend, thank you.
+	ED3B4EF8	DM3_UE
+	EC92B8B7	DM3_CA
+	EAB063CA	~z~Bring them down, Niko.
+	EB91F5E7	~z~A damn fucking road block. This is gonna hurt.
+	EFC7851A	DM3_LA
+	F1EE5265	~z~Well, Derrick's going to be relieved. Thanks for doing that, Niko.
+	F324B965	DM3_TE
+	F0F04A80	~z~Please, I just want to be free.
+	F05814BA	~z~I nearly gave up hoping. I nearly lost faith.
+	F09578D0	DM3_B_RD
+	D785910C	DM3_UI
+	C2134353	DM3_AB
+	C251639C	~z~Fuck, the sea air. To inhale the sea air,
+	C09B495C	DM3_A_AD
+	C0320EC6	~z~I need you to clear the area for us, Niko.
+	C08D8AF7	~z~I tell you, you go into them showers clean and you come out dirty. You catch my drift, son?
+	C259DC8E	700
+	C3A26FE1	~z~Why? Why? Why, in God's name, why?
+	C3B71146	~z~I don't think I coulda spent another night in the joint.
+	C39DDA12	DM3_TJ
+	C29D89C9	010100010010100
+	C3243C97	DM3_B_PA
+	B7318C90	~z~The cops is gonna know it wasn't a prison break when they find Aiden. Shit. I'll call Derrick.
+	B97E021B	~z~Derrick? But he ratted me out.
+	B7231D9C	DM3_QA
+	B4F110D8	~z~The cliffs... the sea air... I really am free. I could cry.
+	B5C8F06F	~z~That's the end of a chapter. I can close the book on a whole lot of my past now Niko.
+	BA1FC1A8	~z~I think we might have a problem here.
+	BCFEC882	~z~Who fucking knows? Today is the first day of the rest of my life.
+	BFDF8B2D	DM3_A_EB
+	BB16F8BE	DM3_B_SA
+	BA8B2F32	~z~I knew that no matter how long I rotted in there, people on the outside world still remember me.
+	BAD1E28A	DM3_BB
+	D035956F	070
+	D0A3F220	DM3_TC
+	CF58288C	~z~Now this is a piece of luck. Things are looking up. Looking up alright.
+	CDA35562	~z~Shit, I don't even know who sent you guys. Who do I got to thank for springing me from the joint?
+	CE35AAD5	~z~Take them guys down, Niko.
+	D1681EB9	700
+	D4A7B10A	~z~A lot of people need a fresh start, I hope you make the most of yours.
+	D7343D87	~z~Derrick McReary? He's my brother.
+	D3A3D423	DM3_LJ
+	D2EA88F6	DM3_UJ
+	D30A3C70	~z~Get away from the vehicle.
+	C92A8386	700
+	CA111FD7	692
+	C8F071E1	DM3_NB
+	C45F9729	~z~Clear the area for us, Niko.
+	C652BFEA	DM3_TI
+	CAB0726D	~z~You drive while I watch our cargo, Niko.
+	CCC388DD	DM3_BD
+	CD1F7145	~z~Hey Mitch, can you find out what this guy's up to?
+	CC48DA06	DM3_AD
+	CB832568	~z~Shit, Niko. Will you handle these boys?
+	CBAB89E5	DM3_XK
+	744A170A	~z~Get rid of this attention, Niko. We don't want anyone after us while we're doing what we gotta do.
+	27B1E5DF	DM3_MA
+	27E191CF	~z~Okay, it looks like we've lost them. Take us over to the cliffs in Leftwood.
+	27AB20D1	~z~Or doing a kind turn for someone who's helped you out in the past. That's what this is about, isn't it?
+	273027EE	570750570750570750570570750570570750570
+	278CDCA3	DM3_A_BD
+	2B57E559	DM3_A_BC
+	2BD54F8B	DM3_UK
+	2AFE4B84	~z~Get in that vehicle, prisoner!
+	28F8E8DE	DM3_XN
+	291FC0CB	~z~We better split up so the cops don't make us for what went down in the tunnel.
+	26D4D780	~z~Well, hurry up and do it already.
+	22D1D485	~z~Niko, get rid of dear old Aiden...
+	2354A3AC	~z~Drive the van, Niko. I'll handle the prisoner.
+	22C5EA5B	~z~Alright, I've got the truck.
+	1FD207CD	~z~She stopped writing and coming on visiting days but I could tell she was still thinking of me. I knew it.
+	20979E32	~z~Alright, Niko. You're driving the van.
+	26140031	~z~I'd been praying to be rescued since the first day they incarcerated me in that God forsaken place.
+	2662E1DD	DM3_A_DB
+	24B7981B	DM3_A_BB
+	242D75F8	~z~Defend the prisoner! Defend the prisoner!
+	247488FE	~z~I'll see you soon Packie.
+	2C921FC9	DM3_HA
+	351BF919	~z~So you thought you'd talk about him? He's my brother, and guys like you are killin' him!
+	3541600A	~z~You're not free yet, asshole. Get in that car!
+	34DA9002	691691
+	3233EE42	~z~Fuck me. Aiden O'Malley sprung from the joint. Wait until this gets around the yard.
+	32FDAD03	DM3_A_BC
+	36C168D3	DM3_UF
+	373FA288	~z~Just to be outta these clothes, to be able to get up when I want to get up and walk where I want to walk.
+	36579690	~z~They ain't gonna break this perp out on our watch.
+	35EE75B3	~z~Let alone eaten another prison meal or taken another fucking shower.
+	3604D601	DM3_UL
+	31EE3A17	~z~We need to lose this van, Packie. The cops'll be looking for it.
+	2E5AA4DE	~z~Well, who is it? Not Julia?
+	2ECAEE0B	DM3_B_QA
+	2DE8AD34	~z~I thank ya, boys. I thank ya with all me heart.
+	2CDBD60A	700
+	2D32F062	~z~I ain't gonna be around much longer at this rate. Fucking help me!
+	3064D9DA	DM3_UH
+	3141C72C	751571571751571571751701
+	30120730	~z~You've made me a happy man, boys. Now it's time to tell me who asked you to do this.
+	2EE202FB	~z~Christ, someone knows. Someone cares about old Aiden O'Malley. I knew someone had to care.
+	300254A1	DM3_WF
+	1EDBE102	DM3_LD
+	090B4A6D	071701
+	0C206B95	DM3_A_BH
+	08B17FEB	~z~I do not like to kill unarmed men.
+	088ACE8C	492
+	089D4B55	~z~People remember you alright. You're at the front of certain people's minds.
+	1241C346	~z~They've blocked the road. Hold on.
+	12A96568	~z~Later on man, call me.
+	0D542CA4	DM3_A_DA
+	0CF4DE6D	DM3_AE
+	0D2718FB	DM3_UG
+	08582808	~z~Hey Buddy, get this thing outta the road, will you?
+	02E2719A	DM3_A_AF
+	03A53B54	~z~But you came. I do have friends. I do.
+	01224F9F	700070
+	0036E90D	~z~Derrick fucking set me up in the first place.
+	011A53B0	~z~Sure, it's about payback.
+	07474516	010100010
+	07B634A4	~z~It's about bloody time. I been in there doing a stretch I didn't deserve for too long.
+	06081A71	~z~Alright man, get these guys, will ya?
+	045957DE	DM3_XB
+	05693154	070700590590590590590590590590590590
+	1305F377	~z~I got a bad feeling about this.
+	1970845C	~z~You boys have got to know about giving it back to someone as good as they gave it to you.
+	198EBCF4	~z~Thank Christ, the Virgin and every damn saint who ever walked on God's green Earth for you guys.
+	18366744	DM3_IA
+	17557C86	DM3_XE
+	182A81B8	~z~It's a surprise. Wait until we get to the cliffs. You'll find out then.
+	1DB8AA4A	DM3_WC
+	1E0131D7	DM3_WI
+	1D14EB3D	DM3_TG
+	19CACAED	~z~Hey buddy, we're gonna need you to move this thing.
+	1C01268E	~z~Don't think about it, man, he was a rat. I don't believe a word he said about Derrick. He's fish food.
+	16712824	~z~Niko, I hear my brother Derrick is asking you to ice his old drinking buddy, Aiden O'Malley?
+	143ECDB5	~z~You boys, you boys... who sent you?
+	14F26799	700070070700700700
+	143C70AA	DM3_WA
+	1341CD78	~z~Out you come, old boy.
+	143110E5	~z~He's a rat, Derrick McReary. Always has been always will be.
+	15C47DC4	DM3_TD
+	16607E3C	~z~Who is it then, who do I got to thank?
+	154C8FCF	~z~Release the handbrake, Packie. We need to get rid of the van as well.
+	151DB089	DM3_A_BB
+	1541190E	~z~But it ain't like I'm going to put a weapon in his hand just so I can pop him, is it? You do what you got to do.
+	380E14EB	~z~When we have them blocked in, we take down the escort and make off with the prisoner.
+	6222DC31	DM3_XM
+	63545B1D	DM3_A_BH
+	60FE0B70	DM3_B_MA
+	600136D6	DM3_UC
+	600FDA1F	DM3_BB
+	6716FC98	~z~Shake these cops, Niko. We need them to think Aiden is free as a fucking bird.
+	68CAAF64	690
+	66C34638	PM3_B_KA
+	6383C24C	~z~I left a truck with a rocket launcher in it for ya in an alley, off of Applewhite in Alderney City.
+	6626E3B8	DM3_A_DD
+	5C711210	~z~Go, Niko, go! Get these fuckers!
+	5C90DDF0	~z~That's probably what Derrick would have told you to do in his smacked out state.
+	5B4431CD	~z~You're gonna get there first and block the road with your truck.
+	5A50B980	~z~Good luck to you.
+	5AB7135D	DM3_UB
+	5F95C970	DM3_A_BF
+	5FCD5B75	DM3_ME
+	5F8C27B6	~z~I don't want to die, I've been rotting in prison for years. I don't want to die.
+	5CFFC3D9	~z~Alright, alright. I'll try to lose these fucking cops.
+	5F41ACAF	DM3_BA
+	69AF4E9F	~z~Yeah, he has, what's the big deal?
+	71D3D0AB	DM3_XJ
+	71F61E09	~z~Damn right, somewhere the cops'll never find me.
+	6F308C01	~z~They're making a play for the prisoner. Defend the stockade.
+	6E8E41B9	050
+	6EEEF534	~z~Come on, buddy you're going to have to move this thing.
+	73D87D45	DM3_A_BE
+	73F16323	~z~O'Malley is in government custody. He's got more police protection than the mayor.
+	73A87B1B	DM3_A_DC
+	720A88E9	~z~Are you dosed?
+	72B4631D	070
+	6C0C7D4F	~z~The way I got treated in there by the warden, by the screws, by every fucking inmate in the joint.
+	6CAB7E33	~z~I can deal with anything.
+	6AE37CD2	~z~He's the reason I ended up in that place to start with, the spineless...
+	69CF786D	~z~Problem is, he's the first one they'd talk to if that happened. We got to make this look like a prison break.
+	6AB86D13	DM3_JA
+	6D930E73	DM3_LG
+	6E5637AE	DM3_XO
+	6D0C0E24	~z~The whiskey, the women, every fucking thing a free man takes for granted.
+	6CB5E384	702
+	6CB830B5	~z~Christ, we can't make him disappear now.
+	5A3E20EE	~z~Okay, Derrick. I'll call you again when it's done.
+	4A86D719	~z~Alright, Niko. Now that we lost 'em we gotta go out to the cliffs in Leftwood.
+	4AB48255	DM3_GA
+	4915B708	~z~Good, because I couldn't catch the prison van.
+	47137B88	100010100100010100100100
+	48228ABD	DM3_UD
+	4D4E833B	~z~Shit, I thought I was out. I thought I was liberated.
+	4E1E06FC	DM3_A_AG
+	4C91402E	~z~Derrick? But he ratted me out.
+	4B4231A8	DM3_B_RA
+	4B9F8020	070
+	3EF4EC75	~z~Gimme a call sometime.
+	406DA612	~z~Is that why you were in the cop shop? Trying to find another way out of the penal system?
+	3E4FA3AB	~z~Name Derrick McReary ring any bells? He's my brother.
+	385D8BB6	DM3_MF
+	3AE39AA4	~z~I hope you can deal with Aiden still being out there.
+	44799EF3	~z~Shit, Niko. They're all over me.
+	449D079A	751571571751571571711701
+	441E321D	~z~Don't let them get this perp outta here.
+	409C5773	~z~Okay, man. First thing we gotta do is dump this prison van. Cops'll be looking.
+	422FE091	DM3_TK
+	4E7D6A7E	DM3_A_AA
+	50B61CB1	~z~Who knows? Anyway, the convoy with O'Malley in it has to go through the Booth Tunnel.
+	577BD9AE	DM3_WM
+	5012E758	DM3_YA
+	55D5D5A4	700
+	52373A6E	~z~I'm getting screwed here, boys.
+	50F5294F	DM3_A_BA
+	540A5C1D	~z~Oh Jesus. You've come.
+	58F4571F	~z~Someone who feels you should get what you deserve.
+	59F58555	DM3_XA
+	58F473F4	~z~We've got rid of the unwanted attention. Now it's time for business. Get us to the cliffs in Leftwood.
+	4EF0B729	DM3_B_OA
+DM3_CUT1_1	DD72C852	~z~Alright, boy?
+DM3_CUT1_10	C947572D	~z~I don't know that I got off so lightly.
+DM3_CUT1_11	4933D704	~z~We all got our demons...
+DM3_CUT1_12	F768B36F	~z~Aiden O'Malley.
+DM3_CUT1_13	ED0A9EB3	~z~What about Aiden O'Malley?
+DM3_CUT1_14	1ABB7A14	~z~I heard he's being moved.
+DM3_CUT1_15	20B085F2	~z~Maybe this is our time...
+DM3_CUT1_16	4EE06251	~z~put all this crap to bed...
+DM3_CUT1_17	43BE4C0D	~z~get off the drugs...
+DM3_CUT1_18	F274297A	~z~live with the memories!
+DM3_CUT1_19	69621764	~z~Aiden's being moved by van from the bacon factory,
+DM3_CUT1_2	0F50AC11	~z~Yes...
+DM3_CUT1_20	519168D7	~z~where he's been talking shit about me,
+DM3_CUT1_21	72FE2BB4	~z~back to the Alderney State Correctional Facility.
+DM3_CUT1_22	6751145A	~z~Please, Niko, boy... just this last one... please?
+DM3_CUT1_23	9678F2A9	~z~Sure, Derrick.
+DM3_CUT1_24	8CC6DF45	~z~You and me, we're the same. The same.
+DM3_CUT1_25	0C445E3E	~z~The, the same... we're the same...
+DM3_CUT1_3	FA16819D	~z~good.
+DM3_CUT1_4	2D6DE84B	~z~How do you do it?
+DM3_CUT1_5	202B4DC6	~z~I went into a situation full of optimism, full of naiveté...
+DM3_CUT1_6	4CBEA6EC	~z~I got burnt.
+DM3_CUT1_7	3C010571	~z~Look at me... like smack on a fucking spoon.
+DM3_CUT1_8	76637A35	~z~Well...
+DM3_CUT1_9	68ACDEC8	~z~How do you manage?

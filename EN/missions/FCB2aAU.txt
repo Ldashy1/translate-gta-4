@@ -1,0 +1,131 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AFFD2791	~z~That's how we roll - NB - in the sky!
+	B0B42EE3	FCB2_ACT_GETCALL_HOSP_ACCEPT
+	B156382B	~z~Brucie - I'm cool - I don't need the chopper just now after all.
+	AE2C648D	010
+	A7BAD250	FCB2_ACT_PBR_CALL_DRINK_CANCEL
+	A9E19030	FCB2_ACT_CALL_HOSP_CANCEL_LOLIKE
+	ADA9342A	010
+	B274294F	FCB2_ACT_CALL_REQ_SPEC_END
+	C96344BD	100
+	CA3B2724	~z~Hey Brucie. Sorry but we can't get that drink right now.
+	CD149EFE	100
+	BDA7C2E6	~z~No worries, bro.
+	B3E5661A	~z~Shit, if that's the way you're playing me. Don't take me for granted though.
+	B8A883FB	~z~Brucie, sorry but I can't go drinking with you.
+	BA8489A2	FCB2_ACT_PBR_CALL_GAMES_CANCEL
+	A57680E6	100
+	899120F3	~z~I'd love to, but it's fucked just now, bro.
+	8B6CC6E8	FCB2_ACT_CALL_REQ_SPEC_NO
+	90AB6DC6	FCB2_ACT_PBR_CALL_SHOW_CANCEL
+	87547AD4	~z~Thanks man. See you soon.
+	7EE58CEE	~z~Can't actually do that boating with you no more Brucie. Another time.
+	850A3D40	FCB2_ACT_GETCALL_HOSP_ASK
+	857519BA	~z~I should have got a limo organized or something - my bad - no problem.
+	92C92B27	~z~Thanks, man, and I hope you can sense the lack of warmth in my voice, man.
+	98D879FC	~z~Sure, no problem, bro.
+	9FBC5AD7	~z~Brucie - it's Niko - I really need you and your helicopter.
+	A3DE53C1	FCB2_ACT_PBR_CALL_BOWL_CANCEL
+	97B17B81	~z~You're not a real winner, anyway.
+	934E4BDA	100
+	94F2B8B9	~z~Okay - I know how it is, making moves and taking over!
+	9627B19F	FCB2_ACT_GETCALL_HOSP_REJ_HILIKE
+	EE184BCD	~z~Wake up Brucie, I need you and your chopper.
+	EE9CAA4E	~z~Brucie man, something's come up. We're gonna have to game another time.
+	F128D733	~z~Jesus, NB. Brucie don't like his beauty sleep interrupted, bro. What do you need?
+	EC7CE9A6	100
+	E6341647	100
+	E7C895B5	010
+	EB187502	010
+	F46DC52B	FCB2_ACT_PBR_CALL_EAT_CANCEL
+	FB92C70B	FCB2_ACT_PBR_GETCALL_HOSP_NO
+	FE850E2F	~z~You're pathetic Niko - I'm the kind of person you should try to impress.
+	FF8B73F8	~z~Nicky, you woke me up and I'm gonna be puffy in the morning. This better be good, fuck.
+	FA897361	~z~Okay, NB. At least you didn't stand me up. Next time keep your word though, stupid.
+	F5932FDA	~z~Brucie, we can't eat together right now. Another time.
+	F89059D2	~z~Don't mean to disappoint, Brucie. But I can't do that chopper ride, I'm sorry.
+	F94CDE87	010
+	E4093326	FCB2_ACT_PBR_REQ_SPEC_SLEEP
+	D344EE92	~z~Sorry Brucie, I can't actually go bowling with you right now.
+	D359EE4A	~z~Sure, I'm on my way.
+	D3FD4D89	010
+	D1977DF7	~z~Sorry, man, I'm kind of busy right now.
+	CDA39029	~z~Shit, man. You're lucky this chick just went home, I wouldn't be up otherwise. What you need?
+	CDB09B82	FCB2_ACT_PBR_CALL_STRIP_CANCEL
+	D01F5C9E	~z~Alright, man. Whatever. Hopefully see you soon bro.
+	D547B278	FCB2_ACT_PBR_GETCALL_SPEC_END
+	DF3D8735	FCB2_ACT_CALL_HOSP_CANCEL_HILIKE
+	DFDDAF58	~z~My bad man, well, now that you're awake, I need you to come in the heli.
+	E07BD9DD	~z~Sorry Brucie, something came up. I can't hit that show with you. Another time.
+	DE96F98D	~z~Shit, NB. I was looking forward to that. Another time, man.
+	DB399DCE	FCB2_ACT_CALL_HOSP_CANCEL_MEDLIKE
+	DD6687E2	~z~Shit Brucie, I'm not in the mood for game no more. Raincheck.
+	DE82C131	100
+	7DE7A626	010
+	2D8D4031	010
+	2E760801	FCB2_ACT_PBR_CALL_HILIKE
+	2FEA48EC	~z~On my way, Brucie.
+	2D5176E1	100
+	295BEC08	FCB2_ACT_PBR_CALL_HELI_CANCEL
+	2BEC4CB9	~z~NB, come on man, I was asleep. What is it?
+	2D3E5A0A	FCB2_ACT_PBR_CALL_REQ_SPEC
+	315F8210	FCB2_ACT_PBR_CALL_CANCEL_SPEC
+	36F37867	100
+	3B0DBDCB	010
+	3C155238	~z~Sorry Brucie, can't pick you up no more, take the subway or something.
+	3561959B	FCB2_ACT_PBR_CALL_MEDLIKE
+	32A7B38D	FCB2_A_OA
+	331D019A	~z~Brucie, I need that helicopter ride now.
+	34E67F4C	100
+	289B0E2D	~z~Homie, it's Brucie - I'm getting out of the hospital bro - can you pick me up?
+	10C21124	~z~If you don't want to be disturbed, then turn off your phone. I need a lift in your chopper.
+	133D0C6D	100
+	1360E3B9	~z~NB - I'm getting out of the hospital, man - can you pick me up?
+	047DB128	010
+	02627461	~z~Wipe the gunk out of your face and get in your chopper, I need you to get me.
+	0278D967	~z~No skin off my back, NB. That's all cool baby. Another time.
+	043E0CB5	100
+	13DF0B9E	~z~Brucie man, those naked chicks are gonna have to wait. Another time.
+	20E8B72D	FCB2_ACT_PBR_CALL_HOSP_CANCEL
+	235AE9C3	FCB2_ACT_GETCALL_SPEC
+	23B9D84B	010
+	1EFF637D	FCB2_ACT_PBR_GETCALL_HOSP_YES
+	16356790	100
+	1A1530C7	010
+	1DA86F69	~z~Wow, thanks, Brucie, I appreciate that.
+	5B898B69	010
+	621C535C	~z~Sorry man, looks like I can't hit the river with you. Some other time.
+	65851314	~z~Brucie, sorry about this but I gotta cancel our bowling date.
+	547527F0	~z~I just wanted to say - you ever need a lift in the helicopter, gimme a call alright, yeah.
+	4E13A0F6	100
+	5035637F	010
+	545CFD48	FCB2_ACT_GETCALL_HOSP_REJ_LOLIKE
+	67BBEF79	~z~Yeah no worries, man - I know how it is making your way in this game. I'll make my own way home.
+	756F570A	~z~That's why we're tight, man - that's why we're in this together.
+	75BE061B	FCB2_ACT_CALL_REQ_SPEC_YES
+	776EFCAF	~z~Love to but the thing is in the shop just now - some problem with the left wing, I mean rotor blade.
+	745C32E5	010
+	688F6C7E	~z~Brucie, can you pick me up in that chopper?
+	6A8E4741	FCB2_ACT_PBR_CALL_BOAT_CANCEL
+	6B3CB9D9	FCB2_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	4D323528	~z~Hey - amigo, that's a diss man, I'm just getting out of the hospital.
+	4006268D	100
+	40EA1C70	FCB2_ACT_PBR_CALL_LOLIKE
+	417466C8	~z~Hey man, me and you are gonna have to get horny together another time. Right now won't do.
+	3EFCC2AC	~z~Sorry, Brucie. I gotta cancel our meal.
+	3C400FC2	100
+	3D9BCFAC	~z~Don't worry about it, NB. Another time.
+	3DED007F	~z~Sorry, Brucie, I can't make it to the hospital.
+	4194EC41	~z~Sure, Brucie - glad you're getting out - I'll be there in an hour or less.
+	4A89EFDE	~z~Sorry Brucie, you'll have to find your own way home.
+	4ACC6FA6	~z~Hey Brucie, I can't give you that ride no more, hope you've got some walking shoes on.
+	4CBA29EF	~z~Roger that - no problem.
+	49365616	FCB2_ACT_PBR_CALL_LIFT_CANCEL
+	42576D5F	~z~Brucie, sorry but I need to take a raincheck on that Heli ride. Hope that's cool.
+	4320A1A1	~z~Brucie, can you pick me up? In the helicopter man.
+	4446BCEE	010

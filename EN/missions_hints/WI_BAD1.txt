@@ -1,0 +1,21 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BAD1_GOD1	CCF7D6E0	Take Badman down to the alleyway just off ~y~Carrollton Street.~s~
+BAD1_GOD10	93A802D3	~r~One of the thugs got away.~s~
+BAD1_GOD11	5A4A1018	You left ~b~Badman~s~ behind.
+BAD1_GOD12	71093D96	Get a vehicle.
+BAD1_GOD13	58108BA9	Pick ~b~Badman~s~ up.
+BAD1_GOD14	6DD0B729	Lose your wanted level.
+BAD1_GOD15	7403438E	The ~r~Russian gang members~s~ are in the alleyway just off Carrollton Street doing a deal. Take Badman to them.
+BAD1_GOD2	DABE726D	Get rid of Badman's ~r~problem.~s~
+BAD1_GOD3	F03F1D7E	~r~Badman has been killed.
+BAD1_GOD4	FD81B803	~r~Badman was abandoned.~s~
+BAD1_GOD5	0183C007	Leave the car and waste the guys down the ~y~allyway.~s~
+BAD1_GOD6	134D639A	Take out the ~r~thugs.
+BAD1_GOD7	29248F48	Waste all the ~r~thugs.
+BAD1_GOD8	36FB2AF5	You are too far away from ~b~Badman.~s~ Get closer so you can interact with him.
+BAD1_GOD9	5AA17235	The Russian gang members have been wiped out.

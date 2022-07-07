@@ -1,0 +1,275 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	98CD7455	PIE_GD
+	97F3D51B	PIE_FO
+	97B0DB88	PIE_GR
+	A30FA31A	PIE_CN
+	A46AAB2F	PIE_FS
+	A450E4E7	~z~That's what Daddy told me, late at night. In my room.
+	A4226492	~z~Joke!? Joke?! Eddie never jokes. Eddie needs to be taken seriously.
+	96D94D66	~z~Do... do you see? That?
+	92F21A72	PIE_HB
+	8FEAB9F1	~z~Hey, you're a smart guy.
+	8F39E00E	PIE_GE
+	9357DF4D	PIE_BO
+	95FBCCEF	~z~That's cryptic. Things must be difficult for you.
+	94F7C63D	~z~They laughed at him once. But you can't laugh without a tongue.
+	9377E78A	~z~I would think that that was a pick up line.
+	B93689B1	~z~bubbling stump of flappy skin and cartilage.
+	B763CAA2	PIE_CM
+	B66E2845	~z~Even sharks sleep. But they swim when they sleep.
+	BAD79CD6	PIE_FN
+	BFA91B9F	~z~You can't point if you haven't got fingers, can you?
+	BEF4BE83	~z~Beast with two backs. Number of the beast. Man and beast.
+	BAFF1019	~z~Yeah, stop it, Eddie. Please.
+	B52A8A08	~z~I'm sorry, pal. Of course I'm joking. Do you think that I'm weird?
+	AB460436	PIE_BA
+	A97A89D9	010100100100100100010100010100100100010100100010100100
+	A78AEEC9	~z~"Please stop, please stop!"
+	AD7FF533	PIE_FA
+	B4BD19FF	PIE_GR_QQQ1
+	B3BE9DC3	PIE_GC
+	AE3E02B3	~z~Thank you, Niko.
+	73C23923	100100
+	73AE90A0	PIE_BD
+	7264847D	~z~Ahuh! I want to hear some nice rounded Algonquin voices.
+	FF2229DD	PIE_BF
+	77862FA3	PIE_GB
+	761D2CD5	~z~Tie you up and have some fun with you? Have you ever lost control?
+	74B94B7C	PIE_FD_QQQ1
+	724647F6	PIE_FE
+	6B1AF284	~z~You got a ship to catch? You going somewhere?
+	67696630	~z~What you got in your bag, friend?
+	6731E591	~z~What if it did? What if it happened when you were asleep?
+	6DCA87A0	~z~Don't push me away, Niko.
+	70E6A4BA	PIE_CG
+	6E5BBC4D	PIE_FF
+	6E05112D	PIE_GK
+	82281E6C	~z~Eddie's smart. Eddie's real smart.
+	820D23CE	~z~"Oh God, oh God."
+	80B54B9C	100
+	85D53E6D	100100010100100010100100100100100010100100010100100010100100100100100010100100100010100
+	8C23D3B9	~z~They're evil. They squirm a lot when they die.
+	8935A32F	100100100
+	86AFA9AD	~z~They're heading off.
+	808441A3	~z~What are you like, pal? Eddie is into most things. Would you let Eddie tie you up?
+	7C03A9CE	PIE_GL
+	797CA1AF	PIE_GS
+	795C0F06	~z~That's a funny joke.
+	7C2DA445	PIE_GU
+	803FF003	PIE_CK
+	8029AC5E	~z~Niko.
+	7F9C1C28	PIE_FJ
+	C0F6D5AA	PIE_FD
+	EC65F86E	PIE_FB
+	EB0FF03A	~z~They always told him that. Eddie, you're smart.
+	EA807E47	PIE_FL
+	ECA72964	~z~Whatever gets you off, friend.
+	EDC6DA97	~z~They start to get smelly. That's when Eddie goes out into the yard and starts to burn tires again.
+	ED52AA77	~z~We're all the same under those layers of hair and skin and fat.
+	ED172D03	PIE_FU
+	E72BE59B	~z~None of your business, nosey parker.
+	DD365487	~z~Why don't you play with the other kids?
+	DD1B74D8	PIE_GG
+	DC8D9341	PIE_CO_QQQ1
+	DE3E77E5	~z~He, he, he, he, he. You're funny. Everything sleeps.
+	E56F7EBC	PIE_GI
+	E4537BCF	PIE_BN
+	E37F7308	~z~They wouldn't mind the burning rubber if they knew what the other option was.
+	FC51EC18	PIE_HA_QQQ1
+	FB80F60B	~z~What makes you have to say goodbye to them?
+	FA7AB379	PIE_FY
+	FCA5DA60	PIE_FQ
+	FF0F4DF0	~z~Everyone's got the same rotten livers and black hearts underneath it all.
+	FE5ECCD3	~z~Mmm, yeah. I like boys.
+	FE17A0A3	PIE_GR_QQQ2
+	FA7128D7	PIE_GN
+	F31913D3	~z~My only issue is I don't accept the world's bullshit.
+	EF4B379C	PIE_CO
+	EF118A2C	~z~I thought you didn't let people get close to you? You have to let down your barriers.
+	F608223C	PIE_BZ
+	FA5CB510	PIE_CE
+	F893AC9B	~z~No.
+	F6B3D923	PIE_CC
+	CC347766	PIE_FR
+	CBF6B7A0	~z~You're making me a little uncomfortable, Eddie. I hope you're joking.
+	CAEC2D1C	~z~You might have it cut off and be left with a bleeding,
+	CC74AA2D	PIE_FAC
+	D0FDE2A4	PIE_FW
+	CEAC4AFA	~z~You're kind of a strange guy, Eddie. Have you ever considered psychotherapy?
+	CE883955	~z~Easy there, buddy.
+	C98A4C99	PIE_GY
+	C70E5DFB	~z~Sure. You should visit planet Earth some time.
+	C6D3EE98	PIE_FG
+	C4999BD7	PIE_FAB
+	C7F1F47D	PIE_HA
+	C94DD335	~z~I push, you push back?
+	C8B89073	~z~It's hard to say goodbye to people sometimes, isn't it? You don't know when to let them go.
+	C8B62B87	~z~Don't touch him like that, Eddie. Stop it, Eddie. Stop it!
+	D8BC6676	PIE_GH
+	D87E80CF	~z~Where are you from, pal of mine? What's your accent?
+	D84B1D32	PIE_CB
+	D975CA37	PIE_BI
+	DBD1CEE7	~z~You know, if you keep sticking your nose in other people's business you might just lose it.
+	DAAFC32B	PIE_DA
+	DA876104	~z~If I didn't know better, Niko,
+	D77FDEC0	PIE_BL
+	D2C958DF	PIE_BK
+	D1C2381C	PIE_FZ_QQQ1
+	D148D577	PIE_GF
+	D412C774	PIE_FH
+	D5E13FE6	PIE_BH
+	D508D6E3	PIE_GP
+	D41C48FF	PIE_FC
+	300C9001	PIE_BB_QQQ1
+	2EC1CC72	PIE_CD
+	2B27C3DE	PIE_CD_QQQ1
+	31D19F16	~z~I think that humans are the only evil things on this planet.
+	36EE6CE5	~z~I don't let people get close to me.
+	338D880C	~z~Do you hurt other people, Niko?
+	327EB754	PIE_FC_QQQ1
+	25D3EC99	~z~If they get in my way.
+	2503F68C	PIE_BB
+	249F832B	PIE_GJ
+	27827CA5	~z~You've got issues.
+	2AA7D8FC	PIE_CJ
+	295E0060	~z~Spill your guts.
+	2872CFEE	~z~The neighbors don't like it when Eddie burns his tires.
+	415D3E2D	~z~I agree. You're clever. Apart from squirrels.
+	40DEA2AE	~z~Aw, we're good friends now, uh-huh? Special friends.
+	3F623F60	~z~You are cold! You really don't like other people, do you? You don't like to play!
+	425733EA	PIE_GQ
+	44D5B734	PIE_FI
+	44BC0880	~z~Have you ever had to say goodbye to someone close to you?
+	427E406F	~z~Do you think that a shark's mouth smells of fish when it opens up to eat you?
+	066826EA	~z~I can tell what borough people are from just by hearing them scream.
+	39E137AC	~z~Hey friend, this bag is awful heavy. You mind taking us down to the docks?
+	39459E97	~z~You know, I already have a lot of friends.
+	3B87A4B3	~z~Ewww. I don't like doing that. It's smelly.
+	3E83CD20	100
+	0A7243ED	PIE_BC
+	3B9E9712	~z~Please. I'm just a no bullshit kind of guy.
+	120C64B5	~z~Have you ever let someone else take charge of you? It could be a wild ride!
+	116872A2	~z~I like girls too. Both are fun in different ways.
+	1154A776	PIE_CI_QQQ1
+	08D44D20	~z~Hey, have you ever wondered what it would be like to be eaten by a shark?
+	15FC543E	PIE_FN_QQQ1
+	1514E13D	PIE_BG
+	1432C83B	~z~Niko Bellic, and I do what I can to survive... to get by.
+	0BA54FF2	PIE_GX
+	0B874317	~z~No they wouldn't, pal of mine.
+	0B6D42E7	PIE_GA
+	0DA58BEC	PIE_CL
+	1115F36B	PIE_EA
+	10BC82C9	PIE_FT
+	108BE2D6	PIE_CF
+	1E1BE663	PIE_GW
+	1CD87D8C	PIE_FX
+	1CBAE57E	~z~Let Eddie inside. What's your name pal?
+	1FF06616	~z~Thank you, friend. I'll see you later, man-eater.
+	246962EC	~z~He he. Your accent's funny.
+	239416F9	~z~The same ways as well.
+	22F295FA	~z~I like Westminster. Lots of nice boys there. It's one of my hunting grounds.
+	1673B2D4	PIE_CI
+	166CD823	PIE_FJ_QQQ1
+	08A9905C	~z~They don't know what the other smell would be though.
+	167BC711	~z~You know that you can hear accents when people scream?
+	1AC56016	PIE_GT
+	1AAA55F9	~z~Can... can you take me to Westminster?
+	1975E027	PIE_GZ
+	045C3B55	PIE_GP_QQQ1
+	5388628B	PIE_CA
+	5323254E	~z~You always have to say goodbye to them, though. It's really sad.
+	529708A9	PIE_FV
+	6159C1BB	~z~That's sad. I get close to a lot of people. Quickly.
+	6240120A	PIE_EB
+	539FD8FA	PIE_GV
+	51174FB1	PIE_BJ
+	6395F337	~z~Eddie doesn't like it when people push him away. Eddie pushes back.
+	50F1D267	PIE_GO
+	5185CF17	~z~I push back too.
+	511E3E7B	PIE_AA
+	60207BB3	~z~Do you think that sharks are evil?
+	585E47EA	~z~I wouldn't let that happen.
+	5F6A7628	PIE_GM
+	5F4C6C54	~z~We can talk to one another... share things.
+	0184C3A6	~z~This ride is wild enough for me, so can you stop with that weird shit, pal? Now.
+	60126DC8	~z~I mean, a girl looks at you, but it turns out she doesn't love you at all.
+	5F867483	PIE_BP
+	73F61486	PIE_BM
+	5C0E546B	~z~I'm not going anywhere. My friends are though.
+	5B03F6A3	~z~Do you want to come out to Hercules with me?
+	5A1787C3	100010100100100100100010100100010100100100100010100100100100100100100100010100100100010100100010100100
+	5D293C96	~z~Wait here for me, friend. Special friend. I'm just dropping the kids off.
+	5C68610C	PIE_BE
+	5C5C9574	PIE_FP
+	5079347C	PIE_FAA
+	477B40C5	PIE_BQ
+	48CE5238	~z~I'm not like that, friend.
+	4D8FC8DB	~z~We're friends, aren't we?
+	050CB7BA	~z~It turns out she's a whore.
+	04189F04	~z~I don't sleep.
+	482FAA74	~z~Are you from East Europe? Romania? Bulgaria? Balkans?
+	038A31A2	PIE_FM
+	4D53BA7C	~z~So, so what's your name and what'd'ya do? Those are normal questions.
+	4C3992A1	010100100010100100100100010100100010100100100100010010100
+	5025413B	~z~I wouldn't want to get in your way, Niko. I wouldn't want you to get in mine either.
+	64406EA9	~z~Here we are. Eddie's off to hunt for a nice boy.
+	50644184	~z~Glad I got rid of that. Wouldn't want to get caught with it - people can be so narrow minded.
+	4AB02C8E	~z~You wouldn't like that, would you?
+	4FAEADAA	PIE_FZ
+	57F0DC4A	PIE_FK
+	4DE9C977	~z~I'm kidding. Isn't the world strange and nasty?
+	4F1EE20B	PIE_CH
+	4F13BDD4	~z~I've heard enough Alderney accents tonight.
+PIE_CUT1_1	B9225E63	~z~Hey there, pal. Hey!
+PIE_CUT1_10	E3E760B4	~z~Came to a rather unfortunate end though.
+PIE_CUT1_11	4A5F2DAA	~z~But I suppose we all do... Neee... in the end.
+PIE_CUT1_12	3A8D8E07	~z~Okay...
+PIE_CUT1_13	9DEE54C7	~z~Wait! Wait! Wait, mister. Do you ever wonder? Do you ever wonder if animals... if they masturbate?
+PIE_CUT1_14	901C3923	~z~Okay, listen, friend you're really creeping me out.
+PIE_CUT1_15	114BBB7C	~z~No... it's a silly question, I know... silly question. It's just I was wondering.
+PIE_CUT1_16	01961C11	~z~Because maybe that's what makes us different... from the animals, I mean. Masturbating.
+PIE_CUT1_17	64E4E2B5	~z~Because it turns out we don't have souls, and animals use tools, and all that kind of thing...
+PIE_CUT1_18	57164718	~z~So maybe it's the masturbating. Maybe that's God's real gift to us?
+PIE_CUT1_19	2C387159	~z~Okay. I'd really like to get back to planet earth, so maybe I'll see you later.
+PIE_CUT1_2	E73D3A94	~z~Hey.
+PIE_CUT1_20	79000C07	~z~No wait. Wait a minute mister! I'm sorry. I'm strange. I'm a weird guy... I know.
+PIE_CUT1_21	8879AAFA	~z~Hey, hey do you have a car? Can you get one?
+PIE_CUT1_22	D593452C	~z~Why?
+PIE_CUT1_23	10A6BB6A	~z~Because I have this rather heavy bag and I really need a lift. I can pay you.
+PIE_CUT1_24	5D9E5540	~z~Okay, okay.
+PIE_CUT1_25	6CC4F38D	~z~Thanks! I'm Eddie, by the way... Eddie Low.
+PIE_CUT1_26	3A1A8E39	~z~Yes. Fine. Come on.
+PIE_CUT1_3	0C90853A	~z~Hey... what are you doing out here so late?
+PIE_CUT1_4	3AD061B9	~z~What's it to you?
+PIE_CUT1_5	F00DCC35	~z~Nothin'... just trying to make conversation... just trying to keep the loneliness at bay... you know?
+PIE_CUT1_6	1E44A8A2	~z~Whatever you say.
+PIE_CUT1_7	F6DDD9C5	~z~Hey... you're not from around here, are you?
+PIE_CUT1_8	236B32DF	~z~No, I'm from Florida.
+PIE_CUT1_9	D9AC9F63	~z~You're funny... you're a real joker. I knew a joker once. Lovely guy...
+PIE_CUT2_1	46780CF3	~z~Hey there, pal! Hey!
+PIE_CUT2_10	F430B8C0	~z~I like it though, I like to get spanked.
+PIE_CUT2_11	0A88E570	~z~Fuck off... you're creeping me out.
+PIE_CUT2_12	D7657F2A	~z~No, I don't want to make you angry Niko. I don't want to be creepy, it's just my way.
+PIE_CUT2_13	E5991B91	~z~Well, your way is not cool.
+PIE_CUT2_14	B30EB67D	~z~Not cool? You say Eddie's not cool? I don't fit in with the in crowd?
+PIE_CUT2_15	C11D529A	~z~Well Mrs. Smith, Eddie's taken your star son, your prized little quarterback -
+PIE_CUT2_16	8B0C6675	~z~and fucked him in the ass and then tied him up, strangled him into knots!
+PIE_CUT2_17	98E30226	~z~And your daughter, your pretty little daughter, Mrs. Abrahams...
+PIE_CUT2_18	66279CAC	~z~Eddie's ripped out her intestines, just to see if he could feel anything. And you know what... he couldn't... he couldn't...
+PIE_CUT2_19	74533903	~z~You should get laid or something.
+PIE_CUT2_2	5835306D	~z~Hey.
+PIE_CUT2_20	4B07E791	~z~Oh, I just did... a little jogger down by the water.
+PIE_CUT2_21	73513823	~z~But you know what, handsome, I've got a hunger tonight that can't be sated. Come here!
+PIE_CUT2_3	DC8F3923	~z~Niko, the Balkan sociopath!
+PIE_CUT2_4	EE48DC96	~z~Eddie Low. The animal masturbator.
+PIE_CUT2_5	01210246	~z~You and your wicked sense of humor. You're quite naughty. Quite, quite naughty.
+PIE_CUT2_6	12EBA5DB	~z~Whatever.
+PIE_CUT2_7	97E3AFCD	~z~Quite naughty... do you like to get spanked? Like, like that?
+PIE_CUT2_8	A952D2AB	~z~Excuse me?
+PIE_CUT2_9	B87770F4	~z~No, nothing silly. I'm just being silly. Silly little billy! That's me!

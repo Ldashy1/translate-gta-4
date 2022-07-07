@@ -1,0 +1,216 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A174E69D	Boccino
+	A0FA904C	2000 - Embezzlement<br/>2004 - Burglary: Illegal Entry with Criminal Intent
+	A00292D7	Bytchkov
+	A596EA66	-Immigrated to the US, possibly illegally, from Russia. <br/>-Believed to be head of a car stealing ring based in Dukes. <br/>-Wanted for questioning by the Russian government in connection with the bank rolling of terrorist activity around the Caspian Sea.
+	A3B585E7	30
+	A3460D08	Chilton
+	9DB3F409	-Dominican street dealer and thief.<br/>-Operates throughout Alderney under the protection of the Pegorino Crime Syndicate. Relations between them are believed to be deteriorating.
+	9B97475A	N/A
+	99BD7D5B	Ancelotti
+	97E1C107	Linked to African American gangs in the Firefly Projects.
+	9D94FA7E	30
+	9D0CA694	Ernesto
+	9C181E24	Member of the North Holland Hustlers street gang.
+	B30E31D1	Dukes, Liberty City
+	B101F237	N/A
+	B02EF71C	Ivan
+	B402A0A6	-Ex-lover of Pavano Crime Syndicate head Mary Valvona.<br/>-Believed to be in charge of the Pavano Crime family's heroin distribution network.<br/>-Often seen with African American drug dealers in North Holland.<br/>-Ties to the Humboldt River Dock Workers Local Union - believed to use these connections to bring heroin into Liberty City.
+	B4020744	-Alderney-based Italian American hood. <br/>-Involved in small time criminal activities. <br/>-Believed to be trying to work his way up through the Pegorino crime family. <br/>-Works for Ray Boccino and often seen with Luca Silvestri and Johnny "Spaz" Barbosa.
+	B33D34D1	1995 - Hijacking<br/>1996 - Assault<br/>1997 - Manslaughter
+	AF533178	Corrado
+	AA52E4D1	N/A
+	AA411EB6	Alderney City, Alderney
+	A9A95C7B	-Capo with the Alderney based Pegorino Crime Syndicate. <br/>-Believed to be expanding operations into Algonquin. <br/>-Involved in criminal activities outside the Syndicate. <br/>-Believed to handle Jimmy Pegorino's relationship with smaller gangs such as Gerald McReary's crew in Dukes. <br/>-Often seen at Drusilla's restaurant in Little Italy.
+	AF0932F7	Adam
+	ACD6B569	-AKA Florian Cravic. <br/>-Involved in the gay nightclub scene. <br/>-Currently resides in Middle Park West. <br/>-Order from Mayor's office not to arrest or harass in any way.
+	AA6ABAC9	Linked to Russian Organized Crime Syndicates throughout Liberty City.
+	8340C5D6	40
+	833A3F16	-Ambitious crack cocaine dealer in North Holland. <br/>-Believed to be angering the dominant dealing operations with his business expansion.
+	82C45FD9	-Works as a presenter on the TV show "The Serrated Edge"<br/>-Long-term alcoholic with a history of violent behavior.<br/>-Assaulted a police officer with a fishing pole in 2003. <br/>-If you see him, beat him.
+	867D1E3E	N/A
+	8472DBBC	Corrola
+	842AFF08	36
+	81B1EFDF	Jermaine
+	7C5F0F7D	Joe
+	7B81018C	Pegorino Crime Syndicate
+	78A9409E	2000 - Petit Larceny<br/>2001 - Grand Larceny<br/>2002 - Possession Controlled Substance: Marijuana<br/>2004 - Assault<br/>2004 - Petit Larceny<br/>2005 - Driving While Intoxicated
+	80356657	Pegorino Crime Syndicate
+	7F6F475D	2008 - Grand Theft Auto
+	7CF9AD03	Alderney City, Alderney
+	91AE10E3	Westdyke, Alderney
+	917FF157	1989 - Human Trafficking
+	90CA2C1E	Linked to Russian Organized Crime.
+	974A8A51	-"Old Lady" of Billy Grey, head of the Alderney Chapter of the Lost Outlaw Motorcycle Gang. <br/>-Seen with Ray Boccino, a Capo in the Alderney-based Pegorino Crime Syndicate. <br/>-Believed to be a conduit between those two organizations.
+	954E04F4	-Chief Lieutenant in the Alderney based Pegorino Crime Syndicate. <br/>-Not believed to be a "made" member of the Mafia because he is of mixed Irish / Italian ancestry. <br/>-Careful about wiretaps and other forms of surveillance. <br/>-Maintains that he is a legitimate businessman, managing construction yards and the Pegorino-owned Honker's Gentleman's Club in Tudor.
+	91AFE1DC	31
+	8D8953B4	-Wanted for murder in Vice City. <br/>-Believed to be Jon Gravelli's right hand man and his logical successor as head of the Gambetti Crime Syndicate.
+	8A3725B2	Member of the Angels of Death OMG
+	89C1A3AF	N/A
+	8731DCBB	2003 - Possession Controlled Substance: Crack Cocaine<br/>2004 - Assault
+	8D23E2C6	1984 - Grand Theft Auto<br/>1988 - Promoting Gambling<br/>1990 - Manslaughter<br/>2005 - Racketeering
+	8BE47219	-Works at the Pay and Spray on Gibson Street in Broker. -Believed to be involved in several recent low priority hijackings in the South Broker area.<br/>-Under tight surveillance.
+	8BBAE6C1	2006 - Petit Larceny <br/>2006 - Prostitution<br/>2007 - Possession Controlled Substance: Heroin
+	B7FCBA2D	Puerto Rico
+	EB3194DE	25
+	EB1D15E5	31
+	EAB39858	1972 - Pandering<br/>1976 - Grand Theft Auto<br/>1983 - Grand Theft Auto<br/>1993 - Racketeering<br/>1993 - Manslaughter<br/>2001 - Highjacking<br/>2001 - Arson<br/>2003 - Fraud
+	EEB4488E	Rudy
+	EC619F3E	Del Rio
+	EB6E2294	San Fierro
+	EA8A980A	2004 - Possession Controlled Substance: Methamphetamine
+	E97F25CF	Bridges
+	E97E9B6E	2003 - Possession Controlled Substance: Cocaine<br/>2007 - Driving While Intoxicated
+	E93632F1	28
+	E9EF9C5C	1997 - Grand Theft Auto.<br/>1998 - Hijacking<br/>2004 - Possession Stolen Property
+	E9DA1DB7	Alderney City, Alderney
+	E9A1BE69	Bernie
+	FB5D8D78	Sammy
+	FB20D1FC	-Heir to rich controversial labor-owning family fortune.<br/>-Reported to be involved in a global human trafficking ring.<br/>-His family is believed to control sweatshops throughout South East Asia. <br/>-Regular face on the Algonquin celebrity circuit.
+	FAF748CB	Botino
+	FE6A46D7	Naples, Italy
+	FDFD3EEB	2003 - Prostitution<br/>2005 - Public Lewdness<br/>2007 - Prostitution
+	FB78D776	33
+	F94EB248	78
+	F5E4B244	Cleethorpes
+	F3197775	Linked to Puerto Rican drug dealers in South Bohan.
+	EFF292F3	Westdyke, Alderney
+	F8FB1227	Russia
+	F83B38F3	1951 - Possession Stolen Property<br/>1952 - Extortion<br/>1955 - Loansharking<br/>1960 - Manslaughter<br/>2003 - Racketeering
+	F781B906	San Fierro
+	CB622807	Pegorino Crime Syndicate
+	C690C5C2	-Personal bodyguard of James Pegorino, head of the Alderney-based Pegorino crime family. <br/>-Believed to be unhappy in his role and possible candidate for the Witness Protection Program. <br/>-Recently admitted to hospital after a beating, possibly at the hands of Pegorino. <br/>-Heart condition.
+	C30CE1D5	-High Society Algonquin girl <br/>-Attempted to steal a dress when her credit card bounced. <br/>-Detain if seen acting suspiciously near high class Algonquin stores. <br/>-Believed to be delusional and a cocaine addict.
+	CCB785E5	Gracie
+	CC5783D5	Lyle
+	CBF1FDD7	Pegorino Crime Syndicate
+	C2FFE057	-South Bohan native of Puerto Rican descent. <br/>-Family ties to drug dealers. <br/>-Arrested on several accessory charges. <br/>-Works in Hove Beach.
+	BDCE45D0	Santa Clara, Cuba
+	BDA28C88	Linked to Russian and West Indian Criminals in Broker.
+	BA99C805	Bulgarin
+	C2B2708F	Tyler
+	C05F4F15	1993 - Grand Theft Auto<br/>1995 - Assault <br/>1998 - Racketeering<br/>2005 - Tax Evasion
+	BF2DC14D	1998 - Possession Controlled Substance: Crack Cocaine<br/>2001 - Possession Controlled Substance: Intent to Sell<br/>2004 - Assault
+	E0F1AE59	Giovanni
+	E0114AAB	Linked to the Spanish Lords.
+	DE7618A7	-Hates the Triads after his father was killed in a fish factory explosion - suspected to have been caused by the Triads.<br/>-Believed to have a fetish for lady's undergarments. Sometimes seen loitering around the back of lingerie boutiques.
+	E6BFEDB1	South Bohan, Liberty City
+	E5C485CB	Dimayev
+	E3F3A23A	-Believed to have been in charge of blackmarket rackets selling contraband to US troops in Naples at the close of WWII - he was 15.<br/>-Immigrated to the US in 1950 and worked in the Alderney Fruit Market which he now owns.<br/>-Ran a loan sharking, fencing and extortion operation from the market.<br/>-Believed to have taken control of the crime family since the death of his uncle in 1978<br/>-Links to nightclub owner Tony Prince.<br/>-Father of Gracie Ancelotti.<br/>-Street name - Old Man Ancelotti
+	DDB08719	Liberty City
+	D4263F0A	Marnie
+	D12F8852	Pavano Crime Syndicate
+	CFCCDE15	54
+	DA188E84	-Daughter of the head of the Ancelotti Crime Syndicate. -Not believed to be directly involved in the family business but linked to many Capos and Underbosses. <br/>-Her friendship with "Gay" Tony Prince could be exploited.
+	DA0FF29B	22
+	D6CF663F	-Immigrated to the US from Russia in early 90s. <br/>-Resident of Hove Beach. <br/>-Believed to be involved in Russian Organized Crime. <br/>-Suspected of white collar crimes. <br/>-Connections with known gangster Vladimir Glebov.
+	2D9271E1	Roman
+	2C1FE869	N/A
+	2AA41F2A	Arnold
+	312E3CAE	-Star Power Pitcher for the Liberty Swingers.<br/>-History of dating very young girls.<br/>-Believed to have had a relationship with teen heiress Jill Von Crastenburg.<br/>-Caught in possession of child pornography but charges were dropped.<br/>-Central figure in a 2006 doping scandal at the Liberty Swingers.
+	2F701D2A	29
+	2EB41256	1994 - Fraud<br/>1997 - Possession Controlled Substance: Heroin
+	2A2A8D04	-Alderney-based Italian American hood. <br/>-Involved in small time criminal activities. <br/>-Believed to be trying to work his way up through the Pegorino crime family. <br/>-Works for Ray Boccino and often seen with Luca Silvestri and Joe "Tuna" DiLeo.
+	26A8005D	Little Italy, Liberty City
+	25686A0F	-South Bohan based fraudster and drug dealer.<br/>-Former member of the Spanish Lords.<br/>-Reinvented himself as a community leader and started a youth center.<br/>-Suspected in assaults against criminals around his neighborhood.
+	25012FF0	Linked to Dominican Street Gangs in Northwood and the Alderney based Pegorino Crime Syndicate.
+	296116FD	32
+	2916A50D	Benavidez
+	281DE17D	Linked to the Ancelotti Crime Syndicate and "Gay" Tony Prince.
+	38D9BB95	Andrews
+	385B2959	-Small time Eastern European business owner. <br/>-Heavily in debt. <br/>-Owns a livery cab service believed to be used by criminals for illegal purposes. <br/>-Rumored to be a gambling addict.
+	37C7D017	31
+	3B1C2EE7	-Relocated to Liberty City from the Midwest. <br/>-Believed to be working as a prostitute to support heroin addiction. <br/>-Refused to enter rehabilitation program on first arrest and was released onto street. <br/>-Operating in Southern Algonquin and Alderney.
+	3A2E4013	Algonquin, Liberty City
+	39FED9EB	Linked to Peruvian pimp in Acter and porn producers in Star Junction.
+	374DD9C0	Ashley
+	32130472	Alderney City, Alderney
+	31EBC463	43
+	3186AB8D	1998 - Driving While Intoxicated<br/>1999 - Public Intoxication and Disorderly Conduct<br/>2003 - Assault On A Police Officer<br/>2005 - Driving While Intoxicated
+	360B2F0A	2001 - Possession Controlled Substance: Cocaine
+	32BFAF65	Asaltacunas
+	3235B022	Middle Park East, Liberty City
+	1497F362	Unknown
+	145D5BC8	Unknown
+	1385614C	DiLeo
+	1689998C	Phil
+	16760D78	50
+	165FDFC5	Algonquin, Liberty City
+	11C169FD	Butler
+	07EA59B7	Bellic
+	05B351E1	Crane
+	0057EBD5	Lola
+	1033FC22	-Believed to have moved to Liberty City from San Fierro to pursue a stage career. <br/>-One of the first prostitutes to return to Star Junction after it was said to be a family friendly zone.<br/>-Often seen sucking on a red lollipop.
+	0F99DEDE	32
+	0A5EE9A5	Joe "Tuna"
+	213722FA	42
+	1F48D54E	Johnny "Spaz"
+	1E047BB3	46
+	249F9325	Austin
+	247C14AF	Acter, Alderney
+	21A47656	Russia
+	1DD179ED	27
+	194CF58E	1995 - Driving while Intoxicated<br/>2005 - Petit Larceny
+	18F3794A	Ray
+	187003C0	Bellic
+	1BD98033	1998 - Unauthorized Use Vehicle: Joyriding<br/>2002 - Possession Controlled Substance: Marijuana
+	1A4745D0	Ancelotti Crime Syndicate
+	1975F5DC	2003 - Loitering: Prostitution Solicitation<br/>2004 - Possession Controlled Substance: Ecstasy
+	3D3BF7B3	Pegorino Crime Syndicate
+	643334E2	Niko
+	606AF5C3	2006 - Grand Theft Auto
+	5E4896E2	-Believed to be the leader of the Liberty City Chapter of the Angels of Death OMG.<br/>-Not much is known about him other than that he has a serious problem with narcotics.
+	6783A958	-Recent immigrant to Liberty City from Eastern Europe. -Appears to be avoiding allegiance to one particular criminal organization.
+	669C0C8D	46
+	661562EA	Teddy
+	5D6C20C5	Known associate of Vladimir Glebov.
+	58DDE4C8	Dominican Republic
+	57D9C673	Ray
+	57D80496	Manny
+	5B4B171D	21
+	5AE72C7D	35
+	5A98FBAB	D'Avanzo
+	72AC4B45	Gambetti Crime Syndicate
+	71072163	29
+	70F49A8B	-People smuggler and high profile figure in global Organized Crime. <br/>-Believed to be operating in Europe on the Adriatic. <br/>-Deported after being caught receiving a shipment of Albanian sex workers at the Liberty City Docks in late 80s.<br/>-Reports indicate that he may try to return to the US.
+	76FB7E1F	N/A
+	760A3A6C	1981 - Grand Theft Auto<br/>1982 - Hijacking<br/>1984 - Manslaughter<br/>1993 - Racketeering
+	75334AED	25
+	70ACF29A	N/A
+	6E3C0F88	Midwest
+	6C42C501	Luther
+	6B17200F	Ancelotti
+	6F12A856	Midwest
+	6E98D3E4	27
+	6E772C3A	2005 - Promoting Gambling<br/>2006 - Public Intoxication and Disorderly Conduct
+	45E2E77F	-AKA Ty-Di<br/>-History of drug addiction and petty crime.<br/>-Violent tendencies; smoked PCP for 20 years.<br/>-Believed to have lost his virginity to his mother at the age of 9.<br/>-Engaged to Algonquin celebutante, Cloe Parker.
+	456B54DC	Broker, Liberty City
+	44FEF522	Alexandra "Alex"
+	4982738C	28
+	48487D09	Mallorie
+	4675D56B	2005 - Criminal Sexual Act: Minor<br/>2006 - Possession Controlled Substance: Steroids
+	44D83CBD	Northwood, Liberty City
+	42243267	1990 - Possession Stolen Property<br/>1991 - Grand Larceny<br/>1995 - Hijacking<br/>1999 - Burglary
+	402B4A3C	Bell
+	3EEA8DFE	Linked to the Lost OMG and the Alderney based Pegorino Crime Syndicate.
+	43FEDADD	Allen
+	43731DA6	Anthony
+	42D0CC1F	Dixon
+	526BBB97	Marlon
+	5241D971	1998 - Grand Theft Auto<br/>2001 - Promoting Gambling<br/>2004 - Armed Robbery
+	52045E49	Escuela
+	54AC71D8	1988 - Possession Controlled Substance: Methamphetamine<br/>1989 - Assault<br/>1992 - Assault<br/>1993 - Possession Controlled Substance: Heroin <br/>2005 - Idenitity theft.
+	54987C10	Barbosa
+	54596808	27
+	4FF46B9F	Unknown
+	4C29F8DF	21
+	4BD4E5FE	1999 - Possession Controlled Substance: Heroin<br/>2002 - Grand Theft Auto<br/>2004 - Assault
+	49BD4687	Unknown
+	4EEF0A5A	Lester
+	4E7A82E2	Known associate of Vladimir Glebov and linked to West Indian criminals in East Liberty City.
+	4E6666B2	Bardas

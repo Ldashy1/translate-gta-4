@@ -1,0 +1,247 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A57984B5	~z~Damn, Nicky. Is that what you sound like? I don't wanna sound like no bitch but Brucie don't get treated like that.
+	A54DC943	100
+	A4CC8061	100
+	A74CBB6E	~z~Not this soon, NB. Ask me again another time, bitch.
+	AF6F5397	~z~Afraid not, brother. Tell the bitches they're gonna miss out on us tonight.
+	ACD58B30	FCB_ACT_CALL_HELI_YES
+	AB14D122	~z~You wanna bowl? Sorry, I pulled a rear deltoid doing a free weight. Another time baby.
+	A3D5197A	FCB_ACT_CALL_HELI_NO_RECENT
+	9EC4B522	~z~I can't do it, NB. I've got some 'roid rage right now and the motion of water might push me over the edge, bro.
+	9D278AAB	FCB_ACT_CALL_LIKEYES
+	9CEEAE96	~z~Wish I could drink with you, NB. But I'm on a detox diet, baby. Raincheck until the retox.
+	A1D7F28B	~z~I'd love to eat with your ass, bro. Not your ass, with your ass. Grab me in the next hour, alright?
+	A2FF3C52	~z~It ain't the time for a chopper ride, NB. Alright? I'll speak to you soon.
+	A2985C93	100
+	A2002034	~z~Chopper ride? You are one bad ass bling motherfucker. Let's do it. I'll wait an hour.
+	B79914E6	~z~Some alcoholic beverages? As long as they're expensive, I'm in. I'll wait an hour, NB.
+	B730197E	~z~You wanna go bowling?
+	B6729BB8	~z~See you in a bit Brucie.
+	B867B548	~z~Shit, man, didn't mean to interrupt your beauty sleep. Another time.
+	BAFBF7E6	FCB_ACT_CALL_BOAT_YES
+	BACF6273	~z~I don't want my thumb muscles to get too over developed. Another time, bro.
+	B95F80F0	100
+	B4E97459	~z~Food, sorry NB but this juicing fucks with my appetite. Another time, okay?
+	B2696B6A	FCB_ACT_CALL_EAT_YES
+	B15F94A8	100
+	B06D370A	FCB_ACT_CALL_SHOW_NO_RECENT
+	B32E201E	~z~Fuck, Nicky. We still friends. I was thinking about getting physical on your ass. That'd be some hardcore shit. You back though.
+	B473D742	FCB_ACT_CALL_DRINK_NO_RECENT
+	B3BDE53D	~z~For sure, Nicky. Come get me in the next hour.
+	B3A1961E	~z~Eating? Yeah, oh yeah, that'd be sweet, NB. Pick me up in the next sixty, alright?
+	88D83D10	FCB_ACT_CALL_BOAT_NO_RECENT
+	88D0E900	~z~A strip club? Alright, NB. Let's roll. Pick me up in the next hour, bitch.
+	83BF3150	~z~Powerboats. That's some bling shit, NB. Let's roll. Pick me up in the next hour.
+	890889AA	~z~Even Brucie has to work on his god-like delts. We'll go boating another time, a'right?
+	8B0FA8F4	~z~Sure I'll do some gaming, NB. Just don't tell anybody. I'll wait for you at my crib for an hour, alright?
+	8A1F8114	~z~Shit Niko, you're a gaming addict, man. Give it some time before we hit that shit again, a'ight.
+	8920C65C	~z~Bowling? You fucking read my mind, NB. Pick me up within the hour.
+	832290CC	~z~I could eat man but I'm trying to get down to fighting weight. Maybe another time, alright?
+	801F37D7	FCB_ACT_PBR_CALL_SHOW
+	7F1E4581	~z~A strip club? I got a better body than any of the bitches in there. Not this time, NB.
+	7E712E3D	~z~NB. We just went out. I'd hate to see the state of your liver. Another time, bro.
+	803BE39F	FCB_ACT_CALL_BOAT_NO_GENERAL
+	8237C727	~z~Brucie, man.
+	81F401AA	~z~That's a plan, man. Come get me in the next hour.
+	80707EA3	~z~Shit, man. Sounds like a date. Come get me in the next hour, bro.
+	995CDADE	010
+	9837C401	100
+	97ADB9E2	~z~Sorry man. I've gone macrobiotic for the time being. Don't know how long that's going to last though. Another time alright, babe?
+	99867A51	~z~Sorry man, no strippers for me. I'm hitting the gym, bro.
+	9C95D667	~z~You wanna go powerboating?
+	9C71F897	FCB_ACT_CALL_STRIP_NO_RECENT
+	9C66150C	~z~Man, NB. That's a sweet idea. We'll pimp it up with the sky. First class shit. Pick me up in an hour, bro.
+	95AB20D0	FCB_ACT_PBR_CALL_GAMES
+	8D68C9FB	FCB_ACT_CALL_BOWL_NO_GENERAL
+	8CD28319	FCB_ACT_CALL_HELI_NO_GENERAL
+	8C4149C9	~z~You're a fucking animal. Count me out, bro. I can't handle it again. You're rolling solo, bro.
+	8E819D93	~z~NB, you animal. We just went bowling. Hit the gym or something. Blow off some steam, bro!
+	9560FEAB	FCB_ACT_CALL_BOWL_NO_RECENT
+	950ECFDA	~z~Drinking? Yeah baby, you speak my language, NB. See you at mine in the next hour.
+	8EB76026	~z~What's up, man?
+	E6D443FB	~z~Sorry, NB. We got to put a raincheck on that chopper action. Another time, bro.
+	E660417C	~z~Sorry man, I'm dehydrating so my veins stand out. Another time, okay.
+	E55E704E	FCB_ACT_PBR_CALL_BOWL
+	E727781F	~z~I can dig that. Wait until the bitches scope us. I'll wait for you for an hour, alright?
+	E903FD25	~z~Shit, I feel like going bowling.
+	E903EF42	~z~I think we should take a powerboat out.
+	E8BFD1B6	FCB_ACT_CALL_SLEEP_REPLY
+	E53226A3	~z~Choppers? You know my vibe. You know how I roll. Come grab me an a hour, B.
+	DD009708	~z~Alright, stay cool, man.
+	DC152E7D	~z~You know I'd love to roll in a chopper with you, but it just ain't possible now, bro. Another time, okay?
+	DB89369A	100
+	DD0D44A4	~z~Sorry man, about to do some hardcore cardio and I'd probably puke it up. Later, bro.
+	E484C0A5	~z~I got a date with my own perfect abs. I'll be in the gym for the next three hours. No powerboating for Brucie.
+	E44D148D	100
+	E44A2D97	~z~You want to go to a nice gentleman's club?
+	F8098B40	100
+	F8089EEF	~z~Sounds good, I'll come get you Brucie.
+	F5ECAF84	FCB_ACT_PBR_CALL_DRINK
+	F859E706	~z~I can't do that chopper shit right now. Hit me up later, alright B?
+	FFB38D16	~z~You're an animal man. We just went boat riding. Some other time, yeah? yeah? yeah? A'right.
+	FC8A4613	~z~Want to go see something?
+	FA41A361	~z~I'll come get you, Brucie.
+	F3339394	~z~I can't deal with that shit at the moment. Another time, NB.
+	EDCFE23F	~z~This is Brucie. I'm pushing it to the max, rolling deep, baby. Leave me a message.
+	EC336113	FCB_ACT_CALL_GAMES_YES
+	E97A01B4	~z~Again? We just hit up a strip club. Some other time, stupid.
+	EE4CD7F5	~z~How about we get some food?
+	F131E2F2	~z~I feel like we just did that. Brucie likes to mix shit up. Later.
+	EEBFBA86	~z~Alright man, see you soon hopefully.
+	EE873637	100
+	C78C8A75	~z~You hungry? Let's eat.
+	C5D87902	FCB_ACT_PBR_CALL_STRIP
+	C371E3EB	~z~Okay Brucie, some other time.
+	C7AEBE1A	~z~I can't deal with hitting up a gentlemen's club again. Another time, alright?
+	C8C03AD3	010
+	C8B696DE	010
+	C835578B	~z~I can only stay mad at a big pimp like you for so long. Scoop me up from my crib in the next sixty minutes, bitch.
+	C2B1343D	~z~Food? As long as it's low cal, I'm in, bro. Pick me up in the next hour, ok?
+	BBE63A83	~z~Hey Brucie.
+	BBBD35F2	FCB_ACT_CALL_DRINK_YES
+	BB8571FF	~z~Bowling, huh, you gotta find someone else to roll with, I've gotta do a cardio session.
+	BD71F27C	~z~The amount of bling I'm wearing right now. I'd sink right into the fucking water.
+	C11DA663	100
+	C0AFF618	~z~Sorry, NB. Can't have those toxins in my system. Another time, a'right.
+	BFADDC63	~z~Shit Brucie, we'll hang another time.
+	D8F72258	~z~Hey, Nicky, you think I'm a fucking bitch, not callin' me for so long? That ain't cool, not again man, not again.
+	D884422F	~z~I feel like seeing some of the city from the air. How about a chopper ride?
+	D8675FA9	~z~Alright, I could eat with you, NB. Scoop me up in the next sixty minutes.
+	D967DCA0	~z~Powerboats? That sounds good. The bitches will love you and me on the river. Come get me in an hour, babe.
+	DB236503	~z~Not again. I love fake titties but I need to touch them every now and then. Later.
+	DA289B61	100
+	D968AE2D	~z~You wanna grab some food?
+	D64E5B59	~z~Sorry man, not for me. I can't go into another club so soon.
+	CADBF1F7	~z~Helicopters? Shit, that's some bad, mad shit. Come pick me up in an hour, bro.
+	CADBB2F2	~z~How about we take a powerboat out?
+	CAAC74FF	010
+	D065CE36	010
+	D6413DA9	~z~Why don't me and you take a bird into the air?
+	D626D97B	~z~Nicky, you called me at the wrong time here. I'm about to start a workout. Don't be scared to call back. Love you, man.
+	D509C74E	~z~I really feel like powerboating, how about it?
+	7E53712D	~z~Let's go drinking.
+	2B94BEBB	010
+	2B60F1DC	FCB_ACT_CALL_GAMES_NO_GENERAL
+	29EA7AEA	FCB_ACT_CALL_SHOW_YES
+	2D3A0951	~z~I'll be around soon.
+	314FB223	~z~You wanna go to another show already? Not me, man. Sorry. Look, shit.
+	2F49AB85	~z~You wanna go to a show?
+	2F1B1F66	FCB_ACT_CALL_STRIP_NO_GENERAL
+	26CD01B6	~z~Dude, I could bowl. Don't expect to win though, I destroy that shit. Pick me up in the next hour.
+	237E2D29	~z~Want to do some gaming?
+	23608DF0	~z~How can I say no to that voice? You're a fucking player and you know it. Pick me up in the next hour, man.
+	2330540F	~z~Can't do it again so soon, NB. Hit me later, bro.
+	2485A06B	~z~Strippers? I'm in. Scoop me up from my crib in the next hour.
+	2651C7FE	~z~Want to get something to eat?
+	256C0BC8	~z~Can't do gaming right now NB. I'm about to juice and I'll be too hyper, bro.
+	255791F5	~z~Shit, I'm dating a couple of strippers at the moment. I don't want stuff to get complicated. You know what I mean?
+	3D86BD96	~z~Brucie, what's up?
+	3D12867F	FCB_ACT_CALL_VERYIRATE
+	3AF11D5C	FCB_ACT_CALL_STRIP_YES
+	3DB575C4	FCB_ACT_PBR_CALL_EAT
+	41A9557E	~z~If you wanna roll with the bling and the bitches you gotta call me more often, bitch.
+	40F3C2D7	~z~Sorry man, I need to work on my abs, my lats, delts, not my thumb muscles, stupid.
+	3F67ADAC	~z~We will do this Brucie, see you.
+	392097FF	~z~Champagne popping? You know I like to roll like that, man. Come grab me in the next sixty, bitch.
+	3286CA55	FCB_ACT_PBR_CALL_GREET
+	327BF2A2	~z~You're a powerboating fanatic, NB. I can't do it with you right now, okay.
+	31D12492	~z~Video games. Wish I could NB, but I've got a cardio regime to stick to, stupid.
+	34E0F770	~z~Man, I'll get seasick if I go out again so soon. Another time, B.
+	3886A529	~z~I love that bowling shit, I'll wait for you for an hour, NB.
+	36C2DDEE	~z~Shit, I don't know if it was the juice but I didn't think you was gonna call me, man. You back though.
+	3697448E	~z~A gentlemen's club? Yeah sure, NB, I'm excited, yeah. I'll wait at my place for an hour.
+	0A882732	FCB_ACT_CALL_SHOW_NO_GENERAL
+	092CF3BE	100
+	06829FE0	~z~Gaming, yeah, let's rock this joint, NB. Pick me up in the next sixty.
+	0B7E7D2A	~z~Let's hang out and do some gaming.
+	0D32A5BD	FCB_ACT_CALL_GAMES_NO_RECENT
+	0C5A4792	~z~Nice one, Brucie. See you then.
+	0C0AAF7A	~z~You wanna eat again? If I did I'd probably have to throw it up like an ancient Greek or something. Another time, bro.
+	066B5435	010
+	015D7A2D	010
+	007EA2FC	100
+	0008F496	~z~You wanna go for a drink?
+	032586D9	~z~We just bowled, NB. I can't work that specific muscle group again, stupid. Some other time, dude.
+	05DBD01F	~z~Sorry, Brucie. I didn't realize. I'll call you later.
+	04D10834	100
+	03E634F9	~z~Sorry, man. Can't go on a date with you right now. No matter how handsome you are. Yeah call me later, bro.
+	1B2A8DB5	~z~When you've got what I got, you shouldn't have to pay for pussy. But I'm in bro, come collect me in the next hour.
+	19FA9C09	FCB_ACT_CALL_BOWL_YES
+	163CC3DE	~z~Shit, not for me. We just ate. Are you depressed and getting into comfort food or something, pussy?
+	2149B6E2	100
+	232D3AE2	~z~Drink?
+	2309121D	FCB_ACT_CALL_DRINK_NO_GENERAL
+	21850FFC	~z~I feel like seeing a show. Wanna come?
+	152C1085	~z~Wanna forget the real world and do some gaming?
+	115BCFE4	~z~Sorry, homie. I just juiced, think I might get up on stage and start kicking ass. Another time.
+	11118107	100
+	10499D78	FCB_ACT_PBR_CALL_SLEEPING
+	12D732C8	100
+	13C4F568	100
+	136AE68D	FCB_ACT_PBR_CALL_REJECTED
+	133E5199	~z~You and me should bowl together.
+	6B1AA5B8	~z~How can you stand being cooped up in those places. Get out, go for a run, do something. That's what I'm doing.
+	6A5A65D9	~z~You want to take a spin in the heli?
+	69C8AE37	FCB_ACT_PBR_CALL_BOAT
+	6CEFA124	~z~Strippers? You know how much money I spend on those bitches. Come on, man. Another time, bro.
+	6F59761A	~z~Eating? I can't shove food in my face all day everyday and look like this, stupid. Another time.
+	6EF6016D	010
+	6D048B50	~z~How do you keep in shape with so much drinking? I'm staying clean for a bit, bro.
+	69C2428E	100
+	64C20C3C	~z~Brucie.
+	645EADBE	~z~How about we roll together and scope some bitches at the strip club?
+	63B76448	~z~Sorry, NB. I ain't going up again so soon. Hit me in a while, alright, stupid?
+	6502F3F9	FCB_ACT_PBR_CALL_HELI
+	6903A196	~z~Brucie keeps shit fresh, man. Can't go to another show already. Sorry, bro.
+	672EBED3	010
+	65A9DD8E	100
+	781C0C04	FCB_ACT_CALL_EAT_NO_RECENT
+	75DF65B4	100
+	75DC958B	~z~I can vibe some boating. Yeah, boating. Grab me in the next hour.
+	785482F4	100
+	7DFAAD3C	~z~We just went out. I've gotta hit the gym hard to get rid of those ah, you know, calories hello.
+	7BEEA2F0	~z~How about some bowling?
+	79398548	~z~Video games? I'm in, NB. Grab me in the next hour.
+	750356DC	~z~Sorry, NB. I can't sit in front of a screen again so soon, stupid. Another time.
+	719D3E24	100
+	702ADE18	~z~Alright man, I'll get ready. Come pick me up within the next hour.
+	6FC06EC7	FCB_ACT_ANSWER_PHONE
+	73A344AB	FCB_ACT_CALL_LIKENO
+	748D54A9	FCB_ACT_PBR_CALL_ACCEPTED
+	747D5D81	~z~How about we go for a drink?
+	73FA96D5	~z~Let's do this Brucie, wait for me.
+	533A0EF8	100
+	524BF6C3	~z~NB. You leaving me hanging for so long hurting, you know? Maybe we could chill another time?
+	51E008C1	~z~Want to hit a strip club?
+	533BC355	~z~Not again this soon, NB. I'm keeping my feet on the ground for a bit, alright?
+	558E5D47	010
+	55487A14	~z~I got a hot bitch coming around, Nicky. I can't hit up a show again.
+	53FC5C14	~z~You know I bowl like, three-hundred with one arm behind my back. Pick me up in the next hour.
+	4DD4A286	FCB_ACT_CALL_EAT_NO_GENERAL
+	42E36BF3	~z~How about we play some video games?
+	42C8AB4F	~z~Two hard bodies like ours out on the town. bitches beware. ETD next hour. A'ight?
+	41D35098	~z~How about we go see a show?
+	45976DDF	~z~My alarm is set for 8, man. I need some sleep until then or my complexion is gonna be all screwed up, you fuck.
+	4D1E498A	100
+	4A5CD742	~z~Yo.
+	48B8F673	~z~Wanna hit a strip club?
+	5EBDFE6B	~z~Gaming. Sorry NB, I've got a hot model chick lined up. Another time.
+	5E47D3F7	~z~Food? Shit man, I don't wanna turn into a chub. We just ate, bro.
+	5DA8CE27	~z~Games, games. Prepare to get your ass kicked because I'm in, bro. I'll wait for you for an hour.
+	5FA5B265	100
+	61F060BE	~z~I can't go up again, I'm gonna get air sickness or something. Another time, man.
+	61C1F260	~z~Sounds fun man, I'll pick you up.
+	5FC39F83	100
+	5CD5DA55	FCB_ACT_CALL_IRATE
+	5726C2B4	100
+	560648E6	~z~Damn, NB. You're an animal. I ain't hitting no chopper again. Later bro.
+	55C88868	100
+	581272AD	~z~Man.
+	5B281908	~z~What the fuck, NB? I'm trying to get some rest from my intense cardio session, man. Call me after 8am, alright?
+	599D0252	010
+	5817C154	~z~How about we go for a ride in a chopper?

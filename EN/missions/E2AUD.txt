@@ -1,0 +1,373 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AF6B5ED7	E2_TF
+	AFBCEC4B	~z~There be the smack tip, the rap game, X, chronic, meth...
+	ADCDEDE7	E2_CO
+	AA728804	~z~I think the Feds have Playboy.
+	AC294455	~z~Tell me about that biker, the one with the smack, Johnny.
+	B6D6F9AB	~z~Help young black men get out of the ghetto.
+	B72F062E	~z~A future in a max security pen ain't no future at all.
+	B66305DA	E2_CAC
+	B59B85A7	E2_YB
+	B5AA0AE0	E2_YE
+	AA292F18	~z~For real. That's how shit works up in here.
+	A7E1E98E	E2_BL
+	A7ED6DD4	E2_JB
+	A62A71BB	E2_TM
+	A379B2F6	~z~Them boys, the Lost, they in some heavy type of gang war is what I heard. Crazy whiteboy shit.
+	A38B0E0C	E2_BY
+	A9CD2F62	~z~Johnny, your biker friend, got himself killed before the meet. Sorry.
+	A9D4E88C	E2_BQ
+	A9AB2BEA	E2_CK
+	A7F45BE6	~z~Shit, that'll come. Got to get me successful first.
+	A907DB3A	100
+	B7438BFC	E2_VA
+	C3E0E287	~z~That why I look after her when she need me to.
+	C48F94FD	E2_TK
+	C3A17057	E2_CW
+	C36D9538	E2_SD
+	C37A92B0	E2_SY
+	C69480CE	~z~It's like X marks the spot. That's coz I was always on the same corner pushing weight.
+	C724C627	E2_SJ
+	C64204AB	E2_PB
+	C5589782	~z~What's different since this guy's been doing his bid?
+	C55D8301	E2_BH
+	C231DF29	~z~She my SoBo connection, hooks me up when I need her to.
+	B9317966	E2_SU
+	BA7A4C00	~z~Yeah, well how come we haven't met before?
+	B8B4A488	~z~The deal didn't go so good. Charlie was an undercover cop.
+	B7A15F20	010100
+	B8AB1E58	~z~Like in Vietnam?
+	C14E2380	E2_YD
+	C1C22076	E2_BM
+	C1110265	E2_SS
+	BD0F574C	~z~Maybe I could use a boy like you on team Playboy.
+	BED669AF	~z~I ain't workin with that cat but I heard about him.
+	80F797F2	E2_BP
+	81BBF5E8	010010100100
+	80A49270	100100
+	7F4E3E67	E2_OA
+	80321831	~z~He showed me some shit back in the day but shit...
+	88ED8210	E2_TH
+	8A132756	E2_BT
+	886F1CDC	~z~Yeah, I thought you would want to build schools or something.
+	8244190D	100100010100100
+	85BBFF53	~z~Up, up. Keep moving.
+	7F26A9D4	~z~I never been to Russia, but I think their money is called rubles.
+	76252421	E2_OB
+	7AEC14DC	E2_QB
+	7522DA37	E2_CY
+	7435753D	~z~But you are a drug pusher?
+	74797777	E2_DA
+	7E4C3B4E	~z~Maybe I do got work for y'all.
+	7F0CB1B5	010100100010100100100010100100010100100010100010100100100100010100100100010100
+	7C65ABC2	~z~It's a big town.
+	7AED8BE9	E2_SI
+	7B76E9AB	E2_TB
+	8BE49125	102
+	9EE2F5C5	~z~Where you at, money?
+	9F4E9292	~z~Yo, money. We going down through this sucker.
+	9D3B1182	~z~You obviously ain't been big time. I started small like you, player.
+	9CE39EDE	~z~They be more of them FIB cats up in this shit.
+	9D2FD768	100
+	A22BA76C	E2_PB
+	A2659F7D	E2_CA
+	A1F7A11D	~z~Yeah.
+	A0829E33	~z~For sure. Let me hook up with your number. You got a cell, right?
+	A1A302E9	E2_UA
+	9BA262CB	~z~I want to get my hands on some of that shit.
+	8E36645D	102
+	90938D2A	~z~He doing all type of crazy shit. Blowing stuff up.
+	8D17C5B6	~z~I don't care about the exchange rate or nothing.
+	8CD943E3	~z~The crib's on the 3rd floor.
+	8CF89D79	E2_SX
+	98778BB5	~z~Is that how things go?
+	9A7A593B	E2_TL
+	980B8BDF	~z~The deal didn't happen, Elizabeta.
+	968B6FA4	~z~Here we be, money. I'll hit you up when I need your ass.
+	96C2A17B	E2_EB
+	EE8C50B9	~z~I ain't gonna use no fool's name, hell no. X is a fuck you to them fools who thought they owned me.
+	F0305BC9	E2_CF
+	EDAD601D	E2_SW
+	ED419138	E2_SK
+	ED5254BB	E2_CN
+	F1DE4001	~z~Blast these dudes.
+	F1E45BD8	~z~Extreme bitches, extreme money, I always take things to the next level.
+	F19F7F18	E2_BN
+	F0A4EE47	E2_TK_QQQ1
+	F11B027D	100010100
+	ED106483	E2_SA_A
+	E7172A73	~z~Come on, money. End them.
+	E9272AB0	E2_FA
+	E6FDFAFD	~z~Buyer is some Asian dude called Charlie.
+	E4F82951	E2_CD
+	E56021CF	~z~Slinging rocks on the corner, sticking cats up, all type of shit.
+	EB5F33EB	~z~That's probably why you rolling with her too.
+	EC1FEB8E	E2_CP
+	EADDF007	E2_CAB
+	EA59E2A0	E2_HA_TemP
+	EA9500C3	~z~Russia's big right now. Rabbit fur hats, Cherenkov vodka, I love that shit.
+	F43302FA	E2_SE
+	FC200514	~z~Yeah?
+	FC9100B2	~z~I need you near me.
+	FADDFB9E	E2_SV
+	FA206562	100
+	FAB7D136	~z~Pato! No money and a good earner is dead.
+	FF1AF20B	~z~Head up, player.
+	FFFBF216	~z~U.C. I know. Fucking feds is everywhere. I feel like they want me bad.
+	FEF673F2	E2_BF
+	FD39C315	102
+	FD76B9A5	~z~Come over there and you'll see what it's like rolling with the big boys.
+	FA0E74B7	102
+	F7932724	~z~Niko, money, yo this ain't cool.
+	F7FECD2A	~z~True that, that right. I ain't no slut, jumping into any nigga give me the eye.
+	F7884375	100010100010100100010100100010100100100010100010100
+	F66AC3E4	~z~Money talks. Money say jump, cat say how high.
+	F6B2FA36	~z~When he gets out, if he ever does, it won't be the same world.
+	F917FF04	E2_SA
+	F9AFDF7D	~z~It's Christmas every day when you're rolling with this nigga.
+	F90D4CDF	~z~America is the business capital of the world 'cause that's how we roll.
+	F8E0C9DA	E2_SL
+	F8E26569	~z~Like Malcolm X?
+	CE2966A8	E2_BV
+	CEB97AA0	~z~You got work?
+	CD122641	E2_SB
+	CCEDB039	E2_BO
+	CCFFEDF4	~z~Get some pace on, player. We ghosting through here.
+	D2BD40AF	E2_VB
+	D3C1531C	~z~So, is you Russian or something? Is you like one of them oligarchs or some shit?
+	D1FC30C9	~z~Shit changed. There be more to it than the crack tip nowaday.
+	CFAA98BB	E2_BI
+	D1C22EB5	E2_SG
+	CCA848CB	012
+	C9D94594	E2_EC
+	CAB92D42	~z~You forget about them cats that do that sort of time.
+	C83675C1	E2_AAA
+	C79EF407	E2_CB
+	C7F01BD9	~z~I don't see it as dealing drugs. Drugs is just one arm of my business.
+	CBF083FF	~z~So, you got work?
+	CC5310B6	~z~Sure.
+	CBC2A5DD	102
+	CAC97AA9	~z~Pop these dudes. They got to the party late.
+	CB017EEB	E2_PC
+	D3EF39BC	E2_BS
+	DC3C6B97	~z~Shit. The boy will say anything to get out of doing hard time.
+	DC882B2F	~z~Elizabeta, things didn't go so good. The contact was...
+	DB0C42E9	~z~I don't see why a young kid from the hood can't make something out of himself...
+	DA812120	~z~Not yet. I got to set shit up. But I'll need a cat like you real soon. Gimme your number.
+	DABC103D	~z~Me and Liz are entrepreneurs. Shit, if the deal makes paper, I do it.
+	E11160F9	~z~We going down to Cassidy Street in Schottler.
+	E1A97640	~z~Think only one group can grow beards and ride bikes in this town.
+	DE6B9608	E2_SM
+	DD48ABCD	E2_TC
+	DD5DD397	E2_YC
+	D9EC9106	~z~Playboy's in bed with Liz because she got the hookups.
+	D657B212	E2_ZA
+	D7198542	~z~Them was the old days. Now it's all about diversification.
+	D6520BF9	E2_IA
+	D62CB852	~z~That just what I'm doing to get outta the ghetto.
+	D639A4F8	E2_JA
+	D8C7CF1B	100010100100100010100100100100010010100100100010100100100010010100100100100010100010100
+	D96C8F1E	~z~Drop these suckers, player.
+	D7F5EB21	E2_SO
+	D7372213	~z~Always on the same spot so X.
+	D7E72C25	E2_CL
+	7415C55A	~z~Gimme them digits, we see if we can make shit happen.
+	26B9398F	~z~I pay like a Shlongberg Sachs bonus, bitch.
+	26ECC1B2	~z~Up the stairs, money.
+	269364F5	~z~My man Dwayne Forge is inside on a crack beef.
+	25DF7B3F	E2_BE
+	262A38D7	E2_TG
+	27D6CA83	102
+	28AFC96E	~z~I bet they do.
+	2959C657	~z~Playboy X don't like coming that close to being taken down.
+	2895AE4F	~z~I have learnt that at a price.
+	28130FCA	E2_SR
+	283B6744	E2_CS
+	1F2F9EE7	E2_CE
+	1FFD2B41	E2_CU
+	1E4F4C94	E2_CQ
+	1DF94797	~z~Yo. They gonna expect us to go out the front with that biker dude.
+	1E0FCBCB	E2_SC
+	20A47B3D	E2_SP
+	243AD1C3	E2_SZ
+	246D36B7	102
+	243563B1	E2_YA
+	219C36DC	~z~Like what?
+	23DFA407	~z~Show these boys some heat.
+	3B9A70DB	E2_KA
+	3BB07FA1	E2_TO
+	3A6A6CE3	~z~It's like extra large as well. All type of bitches be calling me that, yeah.
+	35CB5BFB	E2_BA
+	37506244	~z~Playboy X? What's the X stand for?
+	3BF06BDF	E2_TE
+	409588BE	~z~Yo, G. Stay close.
+	4268BCCE	~z~This making me uncomfortable. Where're you?
+	3FAAAD7B	~z~Elizabeta, your friend, the playboy, he's dead. The contact was a cop.
+	3C7F5B0D	E2_AAB
+	3CDF9575	~z~The coast is cleared. Come on, Playboy.
+	3039936B	~z~Anyways, be careful of this cat.
+	3051189F	~z~I'm all alone up here.
+	2E8669E0	~z~shit, I'm looking into expanding my horizons.
+	2D016764	E2_GA
+	2E62390C	~z~This some serious FIB shit.
+	31A9871D	100100100010100100010100100100010100100100010100100100010100100100010100100010010100
+	34C34456	~z~I want to be spending rubles like you gangsters.
+	35127145	E2_TN
+	34ACDA34	E2_CX
+	32640509	E2_QC
+	33FA5854	E2_EA
+	1C6EE476	~z~The amount of... what you call dollars in Russia?
+	044EE4DE	~z~Cock it and BLAM.
+	057CBB33	010010100100
+	04410091	~z~Really?
+	03A2FF55	~z~X is like extreme.
+	04397C13	~z~Fucking federal government.
+	05BD26BF	E2_MA
+	09AF82EA	E2_CZ
+	0B4A24F4	SFX_OVERLAP_4160
+	0982952F	E2_PA
+	07D5F7CB	E2_AA
+	091F59FC	E2_ST
+	00F158ED	~z~There ain't a deal in this town I don't know about. I own this city, for real.
+	010C793E	E2_BG
+	00960D4C	E2_VC
+	00705351	~z~You want to start rolling with me, drive me back to my crib in Northwood on X.
+	008C2CB1	~z~Nah? You sound like you coming outta Russia with that accent. That all good, money.
+	014160CB	E2_CC
+	02BDC433	~z~For real. My crib's over on Galveston Avenue in North Holland.
+	0393E36C	~z~It's over for them fools, G.
+	0227FD5A	E2_CM
+	016E2442	E2_QD
+	02109BF0	~z~You take a bid on a heroin beef you ain't seeing light for a long time.
+	14CCC168	~z~Any of you friends on the inside?
+	14E1D4B6	100
+	14A01BA2	~z~We see what happens. I got some more deals to make.
+	13B5FE7A	~z~A heroin deal is your way of diversifying?
+	140B1433	~z~What type of shit you got going on? I'm always looking for work, if it pays that is.
+	15F5DEE0	~z~You scared of him?
+	18752C8B	E2_TP
+	1C0A2B8C	E2_CG
+	1760A738	~z~Should be like double X or triple X or something on that one though.
+	1606A41C	~z~Get involved in some extreme shit. Change the game.
+	16BE0AA0	~z~I like to make money, but there should be other considerations when you go into business with a person.
+	0CD4267C	~z~For sure, reach for the stars and all that shit!
+	0EDC568D	E2_SP_QQQ1
+	0C7274AB	~z~Why I surround myself with you people?
+	0C060BB0	~z~Shit, I don't know, all type of shit.
+	0C1D639F	E2_BU
+	0EFBA9F3	~z~Build me some skyscrapers. See my name in big gold letters.
+	106AE1A2	E2_SQ
+	114A2E41	~z~We gonna hit up the roof. You clear out the floor above first, money.
+	1034DCC6	E2_SN
+	0F5F9295	E2_LA
+	102B7761	~z~Elizabeta don't get me to do shit. I just like to keep an eye on things.
+	43A5BA43	~z~I ain't scared of nobody. All them bikers is racist as shit is all.
+	5D8AD2DF	~z~Yeah?
+	5DAD9622	~z~That why you're overseeing smack deals?
+	5B3D64A0	~z~Why I surround myself with you people?
+	5C343FF7	~z~Stick by me.
+	5DD8D7B0	E2_SH
+	668DE55F	E2_BR
+	6736EA23	~z~I got rid of these guys. Let's go.
+	612ECE58	~z~Yeah, but Playboy is going legitimate. I wanna be one of them developer cats.
+	64BED650	~z~Street cats like me just get labeled as pimps, and pushers and stickup artists.
+	5AEA50B8	E2_BK
+	56404A95	E2_QA
+	567A22AF	E2_CI
+	54131C02	~z~Yo, money. We going up.
+	55D8E3AE	~z~Niko, I need you, player.
+	56893E4B	E2_CR
+	57B6B700	~z~Yo, Money. Follow me.
+	58976422	E2_BB
+	57115EDE	E2_BD
+	578FF3C7	E2_BW
+	71C3239B	010100100100
+	7231DCE1	E2_TA
+	70169341	~z~Why you not fucking keep hold of him?
+	70610C49	~z~Hell yeah, the amount of rubles being dropped up in Liberty City is a joke.
+	7254D377	E2_TI
+	7375F2E6	~z~Only this commodity is illegal.
+	73FE5BD8	~z~We need to get out through the roof, player.
+	728CCF93	E2_CV
+	7349DD58	E2_PC
+	6F43B94E	~z~You think I'm short of paper? I just helping out on this deal because Liz is my business partner.
+	68F90017	~z~Pato! No money and a good earner is dead.
+	691E10F2	~z~Yeah?
+	673AA61E	E2_CJ
+	6823A750	~z~Does Elizabeta get you to do stuff like this often?
+	69428211	~z~I ain't doing a bid for this shit. Stick to me, player.
+	6D8448BA	E2_CAA
+	6E2D7424	~z~Shit man. I'd a fucking died instead of being caught by them feds.
+	69DA9A44	~z~I'm afraid that your friend Playboy, he had an accident, he ain't gonna be around no more.
+	6A7C87F0	~z~Not big enough for some people. What that other gang called? Death Angels or some shit.
+	531912EC	E2_CT
+	46FD828E	E2_CH
+	4D75E24F	E2_RA
+	4CD26648	E2_BX
+	45B31761	~z~I'm buying and selling that shit like any commodity on the trading floor.
+	44CB22D9	E2_SF
+	4DF1CEDB	~z~Don't want to even look at him the wrong way, crazy motherfucker.
+	456E126B	~z~Follow the money.
+	4C06D6C4	~z~That was crazy, money. You a good man to have around when the shit goes down.
+	4B2231FA	~z~These ones won't be causing no trouble. We move.
+	4BD7AF79	~z~You rotting up in that shit.
+	4C0949E6	E2_BC
+	477D69CA	~z~Yeah? You short of money at the moment?
+	4944D915	~z~Playboy was a fool, but he earned. This ain't good. Come back to see me.
+	4A3C1A94	E2_TJ
+	50BECE8D	~z~Just like the movies, money.
+	4FFC4054	E2_BJ
+	447DCEBF	E2_BZ
+	52031848	E2_TD
+	440BF434	~z~This is a cash deal. I got other shit going down as well.
+	4E520A86	010100100
+	4F2449E4	~z~I'm not from Russia, no.
+E2_CUT1_1	04FC91DC	~z~Aww yeah ha ha. Woo oo!
+E2_CUT1_10	CAA234E2	~z~Come here.
+E2_CUT1_11	B5FF0B9C	~z~Yeah!
+E2_CUT1_12	A757EE4E	~z~Niko, this is Johnny.
+E2_CUT1_13	2364E666	~z~Now, Johnny is sitting on a big pile of heroin.
+E2_CUT1_14	0E1CBBD6	~z~I don't go near the stuff... professionally... but I found him a buyer.
+E2_CUT1_15	FFDF1F5B	~z~We're nervous. Will you oversee the deal and check everything is cool?
+E2_CUT1_16	E87DF099	~z~Sure.
+E2_CUT1_17	64F7E973	~z~Thank you.
+E2_CUT1_18	56444C0C	~z~Well, I got to go pick up the stuff so, uh, I'll see you there.
+E2_CUT1_19	40822088	~z~A'ight.
+E2_CUT1_2	51E02BA2	~z~Yeah! Oh, looking good from here!
+E2_CUT1_20	CBD8319E	~z~So, who else do you need to meet, huh?
+E2_CUT1_21	47E3299A	~z~Do you know Playboy?
+E2_CUT1_22	559544FE	~z~No.
+E2_CUT1_23	6346E061	~z~Hey! Playboy! X! Ha ha! This is Niko.
+E2_CUT1_24	11233C33	~z~Hey Niko, this Playboy.
+E2_CUT1_25	90CCBB6C	~z~Whassup, money?
+E2_CUT1_26	9E7AD6C8	~z~Playboy is going along with you.
+E2_CUT1_27	AC427257	~z~I want as many people around this deal as possible.
+E2_CUT1_28	37E689A1	~z~Bet. Are you ready to bounce?
+E2_CUT1_29	B58A84E7	~z~Well come on then.
+E2_CUT1_3	6087C8F1	~z~-Hey, Niko!~n~-Hey!
+E2_CUT1_30	275A6769	~z~-I am the best, I am number one!~n~-Later.
+E2_CUT1_4	AD6662AD	~z~Uh, I'll catch up with you. How you doing?
+E2_CUT1_5	3F14060A	~z~Good. And you?
+E2_CUT1_6	88F799D0	~z~Surround yourself with cocaine and the assholes soon follow...
+E2_CUT1_7	9A913D03	~z~Hey, Johnny!
+E2_CUT1_8	5F09C5A5	~z~Yo!
+E2_CUT1_9	6CCC612A	~z~Come over here.
+E2_CUT2_1	97A10104	~z~Hey, you ready?
+E2_CUT2_10	76763FC9	~z~But you've got the heroin, correct? You're carrying it, correct? I mean it's a simple question.
+E2_CUT2_11	38B8C44F	~z~What's wrong with you? You're being fucking weird.
+E2_CUT2_12	944B7B73	~z~Not weird, man, I just wanna know if you're carrying the stuff right?
+E2_CUT2_13	66749FC6	~z~You ain't right, friend, come on... let's get out of here.
+E2_CUT2_14	AF5E319C	~z~LCPD. Freeze motherfucker. I said freeze.
+E2_CUT2_2	C6695E94	~z~Sure, let's do this. Nothing like selling some dope to let you know you're alive.
+E2_CUT2_3	D42BFA19	~z~Let's go.
+E2_CUT2_4	52E3F78F	~z~Yeah, let's do this.
+E2_CUT2_5	5D210C09	~z~Alright, c'mon.
+E2_CUT2_6	6B5FA886	~z~Hey... what's going on guys, what's going on?
+E2_CUT2_7	79D5C572	~z~Not much. Let's do this.
+E2_CUT2_8	A22E15C6	~z~You've got the heroin? Right? Right?
+E2_CUT2_9	7BDAC924	~z~Come on, let's do this, quickly.

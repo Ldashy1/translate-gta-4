@@ -1,0 +1,250 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A602E8D2	100
+	A32EE5E7	~z~I grew up walking around here. I'm so pleased to be back.
+	A1F1D87E	100
+	A666FE51	~z~I'm always happy to come here, Niko. But there are like other places to go walking.
+	A8C88F6A	100
+	A845ACB8	~z~Get over here.
+	A738D3ED	GCA_ACT_SHOW_REACT
+	9D9CA345	GCA_ACT_LEAVE_CLUB_GENERIC
+	986EEE81	GCA_ACT_PAL_END_REJECT_RESPONSE
+	96A81058	~z~That's interesting.
+	9689A2BE	~z~Enjoy yourself.
+	999DB26C	010
+	9C0FB52A	~z~I'm sorry, but I am not putting this chemical and hormone filled stuff into my body again. Will you take me somewhere else?
+	9A57E8C9	~z~I haven't told that stuff to anyone before. You're a good listener.
+	9A18365D	~z~That was a frat-tastic experience. It served its purpose though. I'm drunk.
+	BE6B45B2	GCA_ACT_LEAVE_SHOW_CABARET
+	BDFCF417	010
+	BCE46DF0	~z~Well, what can I say about our time together...
+	BF2C94BA	~z~Umm, I don't feel like I can get physical with you right now.
+	C195FFDB	~z~Umm, are you sure you want to go for a walk right now? Don't people get raped here? You better protect me.
+	C0C8C1FC	100
+	BF67F47A	~z~Goodnight, Alex.
+	B929555A	~z~I need some Ritalin.
+	ACDF5BE7	~z~Well, I'm not going to remember that place. That's for sure.
+	ACA79029	100
+	AC02DB15	~z~This illustrates how un-fun darts is, there wasn't even a winner.
+	AEBF9414	100
+	B618493F	100
+	B1D8162E	100
+	AED880A3	100
+	9627087B	~z~Come over here.
+	8545B061	~z~You've shown me a good time, Niko.
+	83E86AD1	~z~Really.
+	82FBEADE	~z~Take me home, won't you?
+	85D8667E	~z~Goodbye, Alex.
+	87DA8156	~z~And you've shown me that the criminals are not the only terrible people in Liberty City. Goodye.
+	86D0F1EA	100
+	86347D30	GCA_ACT_DATEFINISHED_BAD
+	82397AF2	~z~This place carries so many memories for me, Niko. I'm so happy that I can share it with you.
+	77005BB2	~z~Thank God that's over. I don't think I could have finished.
+	765DCFBC	~z~Mmmmm, yeah.
+	75D26F14	GCA_ACT_POOL_LEAVE_LOST
+	7993C7C4	GCA_ACT_DARTS_LEAVE_WON
+	7D51644D	~z~It was funny because it was true, I mean don't you think?
+	7B9C79C4	100
+	7A5C1A5A	~z~Let's go.
+	8D99FBC5	100
+	8D8E6229	100
+	8D77F71D	~z~Okay, Niko.
+	8DEEF287	GCA_ACT_PAL_END_GOOD_Y
+	960C04EC	~z~Don't you feel pathetic? Me beating you at the sport I hate.
+	95445C0C	~z~Here again, okay. There's a lot more to see in Algonquin, Niko.
+	913F8E34	~z~That was interesting. I've got something to put in my blog at least.
+	8C92BEC7	~z~We'll have fun.
+	89CD10A5	~z~I told you I hate fast-food. I will not let it pass my lips again.
+	88AEC577	~z~I hope I wasn't boring you, I mean not that I can bore anyone, but I was talking a lot.
+	88906029	~z~That game was almost as anti-climactic as sex with my last boyfriend.
+	89F3FB65	100
+	8C908ECC	~z~I'll go somewhere else then.
+	8AC7BC19	100
+	8A169D74	GCA_ACT_LEAVE_STRIP_EARLY
+	E97A1E3B	~z~Can I kiss you goodbye?
+	E88F2444	~z~European girls might be whores, but Americans aren't.
+	E7F4BC01	~z~I'd feel guilty if I didn't escort you all the way into your place.
+	E9A203AC	~z~Niko, show some respect to the performers and stay for the length of the show.
+	EB7BB9FE	~z~Uh huh, uh huh.
+	EB08C9F6	GCA_ACT_PAL_END_BONK
+	EA092ED6	~z~Later.
+	E77A9C7D	GCA_ACT_PAL_END_RESPONSE
+	E5324951	GCA_ACT_ARRIVE_WALK_NOT
+	E3B16C98	010
+	E37648DD	GCA_ACT_ARRIVE_WALK_MHAT_BEFORE
+	E5821A0B	~z~I'll write a blog about you.
+	E77A733C	100
+	E68EC2CB	~z~Have fun then.
+	E66514AE	100
+	F9D3C3A7	~z~The food tasted of nothing, did you notice that? Urgh.
+	F64037D9	100
+	F45833F7	~z~At least kiss me before I am sent off.
+	FB7DBB55	100
+	FFE07C9F	GCA_ACT_DIFF_FASTFOOD_NO
+	FFD40A0A	010
+	FDAAC9A8	GCA_ACT_LEAVE_FASTFOOD
+	F2CDD1B3	~z~Let me into your place, I don't bite.
+	EF85F399	100
+	EE1E6835	GCA_ACT_LEAVE_STANDARD
+	ED810203	~z~Come inside then.
+	F0D015C8	~z~And that's why I'm as fucked up as I am.
+	F2B22424	GCA_ACT_LEAVE_SHOW_LATE
+	F14EF532	GCA_ACT_ARRIVE_WALK_MHAT_NOT
+	F11ACC61	~z~Umm, Niko. You are taking me home, right?
+	E2EBEBAC	~z~I've enjoyed myself.
+	D1F09A1D	~z~Do you want to take me somewhere else?
+	D165E9F0	~z~Shit, to think that I used to love that place. Well, I still get drunk there though.
+	D1120705	~z~Will you take me back to my place?
+	D27C7B74	~z~Do you take all your girls here, Niko? Because I'm getting to know it pretty well.
+	D5E7FD25	010
+	D4014DD7	~z~It's been a blast.
+	D3FFD279	GCA_ACT_END_BAD
+	CFF1D038	100
+	C49D080C	GCA_ACT_PAL_END_NO
+	C3636BEF	~z~As I said, that was repulsive. I am never, I mean ne-ver going there again.
+	C277019D	~z~Niko, this area looks very dangerous. People get killed outside of Algonquin. I trust you though.
+	C9099195	~z~Well, let's check out this exciting place one more time. Fingers crossed we won't be killed.
+	CF253E0A	~z~Did we have to go? What? Were you getting jealous of me and the other girls or were you too turned on?
+	CEEB691E	~z~There is other stuff we can do, isn't there?
+	C951A904	~z~Sorry, Niko. You're sweet but we can't do that right now.
+	DE5BBC39	~z~We've already walked around this place once. I thought we'd seen everything there was to see. I guess not.
+	DDF2260E	GCA_ACT_DATEFINISHED_HOME
+	DD731DED	~z~Oh, mmm.
+	DF61DE7F	~z~I was just getting into that. Me and that stripper had a connection. She understood me.
+	E24B5F57	~z~Enough is enough.
+	E14080D5	GCA_ACT_PAL_END_NO_RESPONSE
+	DF6EE48E	~z~Okay then.
+	DC4151D5	100
+	D7D14F2B	~z~You know I love this place, Niko.
+	D67A33A0	010
+	D64A18AC	~z~You're not going to go in and be all alone, are you?
+	D8A68C1D	~z~I'm gonna call soon.
+	DC020AFF	~z~You've shown me a good time, Niko.
+	DBAFF062	~z~If you stay that long in a strip club, a girl is going to think that you're more interested in strippers than her.
+	DA5303B5	~z~Sure, goodbye.
+	2B45122E	~z~Yeah, let me take your number and we can go on another date sometime.
+	28009728	~z~Well the crowd in there was a bit B and T, wasn't it? At least I got buzzed enough to cope.
+	2732265B	100
+	308D9ADE	~z~Thank God it's over and we didn't even have to put all the balls in the holes.
+	3305AC39	~z~Big deal, I won a game of pool. Could not care less.
+	326537EF	~z~Just because I write about sex on my blog, doesn't mean I'm going to put out.
+	32243F17	~z~Later on then, Alex.
+	266D5DCE	GCA_ACT_LEAVE_CLUB_FAVOURITE
+	23670ED0	GCA_ACT_DARTS_LEAVE_ABANDON
+	230EB234	~z~I think we both want me to come inside.
+	23025297	GCA_ACT_DATEFINISHED_OK
+	237C9BD6	GCA_ACT_DARTS_LEAVE_DRAW
+	2458868F	~z~That place is so cool. I'm buzzed. It's amazing.
+	240253FB	~z~What's the deal with this? Where are we going?
+	238F5F41	GCA_ACT_BORED_GETTING
+	3EAF04A1	GCA_ACT_ARRIVE_WALK_MHAT_LAST
+	3E9DD60D	~z~This has got to be a new low point, Niko. Being beaten by a girl who hates darts.
+	3DF7B5B2	~z~Ending that game early was the best decision I've seen you make.
+	3F888B0B	~z~I'm bored and the date hasn't even started yet.
+	414EA2C2	100
+	40966745	100
+	401825D3	~z~You won't regret this.
+	3D89AC56	GCA_ACT_LEAVE_WALK
+	360DA042	~z~I knew you'd find that story interesting. I'm really good at telling what people will like.
+	355D5A5F	GCA_ACT_DATEFINISHED_AGAIN
+	33BE5DB7	~z~Do you want to do something else now?
+	36753CE1	~z~Bland, unmemorable, bad service. I'd give that place three out of ten.
+	3AF850BF	~z~Wait for me to call you, okay?
+	39A2F759	GCA_ACT_ARRIVE_WALK_BEFORE
+	3720C65E	100
+	21A63192	100
+	0D07E062	GCA_ACT_PAL_END_YES
+	0B9C70E9	~z~Great, you won at darts. It must be fun for you.
+	0A6708A6	GCA_ACT_POOL_LEAVE_ABANDON
+	0EF3920D	~z~This hasn't exactly been the date of my dreams, Niko. But what did I expect?
+	11A18F5A	~z~You want me to come in?
+	1011B1AF	GCA_ACT_PAL_END_KISS
+	0FD0A98B	GCA_ACT_PAL_END_KISS_AGREE
+	08A3C639	GCA_ACT_LEAVE_SHOW_COMEDY
+	03096AF3	~z~Can you take me home?
+	01CF6D47	~z~That was really biting social commentary, wasn't it?
+	00195358	~z~Sorry, Mr. European but I want to keep those mysterious bits of you, mysterious.
+	0483751E	~z~Let me in and I promise to be gentle.
+	06308172	~z~It used to be impossible to get a table there and you can see why.
+	04FE0037	~z~How about we find something else to do now?
+	04DED8CC	~z~Yeah, later.
+	1C0F27E9	010
+	1B5E22D7	~z~How about you invite me in?
+	1A34B59D	GCA_ACT_ARRIVE_WALK_LAST
+	1E0A7107	~z~Woo hoo, Niko beats Alex at pool - a game she incidentally hates. Stop the press.
+	216636F2	~z~This has been an interesting experience
+	1E9DF163	~z~I guess that's my life story, thanks for listening.
+	1E8B17E5	~z~Bye then.
+	1917273F	~z~That was an immaculate dining experience.
+	14EBA3B0	GCA_ACT_POOL_LEAVE_WON
+	1410F730	~z~See ya.
+	13FC1E75	~z~God, the stories I could tell you about this place, let's walk.
+	157A96B0	~z~Those girls have had some serious work done. I want the name of the honey colored one's doctor.
+	190CD91A	~z~I'd like that Niko.
+	18C79491	~z~Yeah, yeah, I get it.
+	18159513	~z~I'd love to be taken home now.
+	62DD1C33	~z~You really like this spot don't you? Did a friend of yours die here?
+	62D05F5F	~z~The fun's over.
+	603F6786	~z~Well don't just stand there, stupid.
+	64BF3730	~z~The best thing about darts is getting to quit half way through.
+	663ACE27	100
+	65D7FFD6	~z~So after I checked myself out of rehab I decided that I didn't have a problem. The end.
+	6517E5CB	100
+	6000AEB5	100
+	5D1C5FDE	100
+	5D0DE93D	~z~That really enlightened me as to what the European mind is like, you know?
+	5B7D42F4	~z~Niko, I've been diagnosed with ADHD, I don't like having to wait this long to get where we're going.
+	5DA4202B	~z~I could do with an escort back to my place.
+	5F0BC54F	GCA_ACT_POOL_LEAVE_DRAW
+	5F00CF04	GCA_ACT_PAL_END_REJECT
+	5EC2FE86	100
+	6F68A543	100
+	6DC09485	~z~There are only so many boobs a girl can look at, Niko. I think we should have left earlier.
+	6C9A72F3	~z~I'm done with this.
+	719F4D68	~z~If you're not taking me straight home I can just call Daddy's driver.
+	74AF4E45	~z~Would you bring me home now?
+	73E9C2A1	~z~See you, Alex.
+	71AC14F6	GCA_ACT_LEAVE_HIGHEND
+	6C7A7759	GCA_ACT_LEAVE_PUB_GENERIC
+	68A18877	GCA_ACT_LEAVE_SHOW_EARLY
+	67C21C12	GCA_ACT_END_GOOD
+	6758FF04	~z~I was finding that really interesting, Niko. Thanks for making me leave.
+	6AB7E169	~z~Can we please find something to do already?
+	6BB707A7	GCA_ACT_PAL_END_GOOD_N
+	6B82C922	100
+	6B04C4ED	100
+	5A5EAE3E	GCA_ACT_PAL_END_KISS_RESPONSE
+	49DEF8A5	~z~Be a sweetie and drop me back at my place.
+	49830A65	100
+	46C5A3EE	~z~Sorry, Niko. But tonight is just not the night.
+	49E22FD0	GCA_ACT_LEAVE_STRIP_OKAY
+	4E295C55	100
+	4C858321	100
+	4C50F370	~z~I'll call you, I promise.
+	46957945	~z~How about I come into your place?
+	43F7E61B	100
+	425F4AEC	~z~You know, even winning at pool isn't fun.
+	417A37E6	~z~Well I bet it feels really good to beat someone whose heart's not in the game.
+	4429FE8E	~z~Where to next my mysterious European companion?
+	468566C2	~z~Okay, you won, big deal, let's go.
+	45190676	100
+	449B54B0	~z~Can we at least have some fun out here?
+	55AEE93B	~z~I'm always going to love that place, the people are so beautiful. I belong there.
+	54F79303	GCA_ACT_DATEFINISHED_GOOD
+	51B30667	~z~Okay, yeah.
+	55FC8D0A	GCA_ACT_DARTS_LEAVE_LOST
+	58EDA261	100
+	581FF504	GCA_ACT_BORED_HOME
+	570C447B	~z~I just don't feel like inviting you in yet.
+	51787615	~z~No dice cowboy, I'm keeping myself company tonight.
+	4FE4B988	~z~Screw this.
+	4F4AED80	100
+	4E904C42	~z~I feel like I totally understand a new culture now.
+	50A687CB	~z~From now on I am only dating Americans.
+	513E2E76	~z~This date better not be all foreplay and no pay off. Can we get where we're going already?
+	51228728	~z~You can take me back to my place now.
+	50B051DA	100

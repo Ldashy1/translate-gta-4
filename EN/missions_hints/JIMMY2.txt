@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	4F30BB70	Drive to the ~y~diner.
+	E89FEE48	Lose your wanted level.
+	F1E100D2	Get out of the showroom before the cops arrive.
+	234AE3A5	You will need a vehicle.
+	04DBA6C7	Wipe ~r~them~s~ all out.
+	0A70325C	Chase the ~r~Pavanos.
+	1E6DD9EB	~r~The Pavanos got away.

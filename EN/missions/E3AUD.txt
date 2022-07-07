@@ -1,0 +1,71 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B2BD81A7	E3_BB
+	ABB24062	E3_ED
+	A7F735DF	230320320320
+	DD0E0AF6	~z~Shit! Speaking of fucking cops, I think I have company. I gotta go.
+	D9734862	~z~Tell me that.
+	CDFFB17B	~z~You're in America now. The best of everything gets made here.
+	A4882EE0	E3_CB
+	8265D9F3	011101011
+	6E8409D5	E3_BC
+	77E60CD5	E3_BA
+	6467362B	E3_CA
+	85D60250	010100
+	66F63C9F	E3_EA
+	0000039E	~z~I lost the heat, where are you?
+	1E49D20E	~z~If the best stuff got made in Mexico or Columbia or wherever, why do you all run across the border?
+	E9B8244A	~z~I tink I getting closer, ya know? But dere one more cat me haffi speak to.
+	FC905B4D	E3_EB
+	F7A7C029	~z~I've got the stuff. You know where the heat is coming from?
+	1CC04EFF	~z~This is scale fish. Imported straight from Bolivia, manito. Polvo puro. The best, man.
+	E9923669	E3_EC
+	2A70587E	~z~Chase Point, I'm with some bakra, say he know I. Get here now Niko. Dis be some strange shit.
+E3_BUSTED_1	E0E20182	~z~Jacob, what are you talking about? You know, I think you're smoking too much.
+E3_BUSTED_10	F01E45E9	~z~This is a joke, right?
+E3_BUSTED_11	13328C19	~z~Please, please, don't make this harder for me than it already is.
+E3_BUSTED_12	1DE7A183	~z~Look, they are about to take down Elizabeta.
+E3_BUSTED_13	37A85504	~z~I don't fucking believe this.
+E3_BUSTED_14	42626A78	~z~Listen... I'm sorry it had to be this way Niko. I'm really sorry.
+E3_BUSTED_15	86F9F3A2	~z~Hey, you know, you could have gone down too if you weren't so useful.
+E3_BUSTED_16	583D1629	~z~You fucking bitch.
+E3_BUSTED_17	2A7ABAA5	~z~Niko...
+E3_BUSTED_18	79C1D932	~z~Hold on. You mean fe say ya gwa'an let us off just like dat? Nuttin' a gwa'an?
+E3_BUSTED_19	BDC7613C	~z~Well, my employers need the help of a guy like Niko.
+E3_BUSTED_2	F6B02D1E	~z~Yo! Me t'ink me know where de heat a come from, ya know, king?
+E3_BUSTED_20	7CE35C4D	~z~The office is in Algonquin.
+E3_BUSTED_21	C9C0F607	~z~I'll call you.
+E3_BUSTED_22	986E1362	~z~You know, as and when we need you.
+E3_BUSTED_23	AFB8C1F3	~z~The coke please.
+E3_BUSTED_24	C5EEEE5F	~z~Tsk! Cho, king, me have fe tell Elizabeth, say she nah get dat cocaine, ya know?
+E3_BUSTED_3	046DC899	~z~Hey, Niko!
+E3_BUSTED_4	1A54F467	~z~Hey, Jacob.
+E3_BUSTED_5	29BB9334	~z~What you doing here? This is no place for you, Michelle.
+E3_BUSTED_6	3F75BEA8	~z~As it happens, it is.
+E3_BUSTED_7	4D395A2F	~z~You see, Niko, I have been working for the government.
+E3_BUSTED_8	5F6AFE92	~z~I'm afraid it's my job to watch you.
+E3_BUSTED_9	6D369A29	~z~And now I have to ask you for the coke.
+E3_CUT1_1	730A3D65	~z~Ah bang ya in ya bloodclot Ya have fe come satta, me nah pusshole.
+E3_CUT1_10	A35B0992	~z~Jacob tells me it wasn't him. But some people he introduced me to have ripped me off big time.
+E3_CUT1_11	FE683FAB	~z~-And put the heat on me. I know they did. Or someone did.~n~-Alright, alright, alright.
+E3_CUT1_12	BFF8C2CD	~z~Ah not my fault, ya know, rasta?
+E3_CUT1_13	1AEB78B1	~z~-Ah not my bloodclot fault.~n~-Well, not your fault...
+E3_CUT1_14	ECA49C24	~z~-ya nah come in'na me face!~n~-Alright!
+E3_CUT1_15	23438961	~z~You better hope Niko can make this right for you then.
+E3_CUT1_16	35992E0C	~z~Or what?
+E3_CUT1_17	3EC0405A	~z~Or we've got a big fucking problem, rasta.
+E3_CUT1_18	510EE4F7	~z~Niko, go do this fools job for him.
+E3_CUT1_19	6C7F1BD7	~z~-Yeah, I got it.~n~-Watch me and her...
+E3_CUT1_2	E76C262F	~z~Yeah? Fuck you, fucking reggae idiot bitch.
+E3_CUT1_20	66F1E0DD	~z~-See you later.~n~-watch me and...
+E3_CUT1_3	D59C8290	~z~Wha' ya wan' do? Ya wan' bloodclot?! Coz ya nah even bambaclot ready, ya know?!
+E3_CUT1_4	4BF96F44	~z~Stop speaking that gibberish.
+E3_CUT1_5	39E6CB1F	~z~Fat bumbaclot pussyhole gal, you know this?
+E3_CUT1_6	B75FC617	~z~-Shot ya in ya bumbaclot...~n~-Fuck you!
+E3_CUT1_7	A5C422E0	~z~-'ey yo! Don't touch this!~n~-Hey, hey, hey. What's wrong? What's wrong?
+E3_CUT1_8	9BDA0F0C	~z~Jacob here... you know Jacob?
+E3_CUT1_9	09706A37	~z~Yes.

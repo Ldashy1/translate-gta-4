@@ -1,0 +1,44 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AEF87EDC	With ~PAD_LB~ held, use the ~PAD_RSTICK_ALL~ free aim while firing.
+	A4103D03	~r~You were supposed to shoot him in the leg.~s~
+	BF5A1C2C	Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at a target.
+	B8009A7A	Target the ~r~guy~s~ in the middle.
+	A08BE9D9	Get back to ~b~Dimitri.
+	9A92DBAB	Hold ~INPUT_AIM~ to lock onto a target.
+	987FDA09	Dimitri is dead.
+	A029E965	Purchase a ~g~Micro SMG.
+	9D3764D8	Placeholder for MOCAP cutscene.
+	CA2E3ED5	Target ~r~Joseph~s~ to intimidate him.
+	E96A7865	Enter the ~y~shop.
+	E54F717F	Visit the Gun Store whenever you need guns and ammo.
+	FFF774D4	~r~The gun shop worker was injured.~s~
+	F5B09429	Take Dimitri to ~y~Faustin's house.
+	E00434EE	~r~Dimitri is dead.~s~
+	CDB7C5E8	Shoot the ~r~porn actor~s~ in the leg.
+	CAE6BCC2	Use ~PAD_RSTICK_LEFTRIGHT~ while locked on to aim at targets to the left and right of the current target.
+	D556865B	Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to focus your aim on his leg.
+	CE6591B1	~r~All of your ammo was wasted.~s~
+	2A22DC6C	~s~Lose your wanted level.
+	28237882	Go get ~b~Dimitri~s~ and bring him back to Faustin's house.
+	344DD291	Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to ~h~aim.
+	2DBB505B	~r~The porn shop guys were injured.~s~
+	266EF18D	Take Dimitri to the ~y~sex shop~s~ on Delaware Avenue.
+	146149AC	Use ~PAD_RSTICK_UP~ while locked onto a target to focus your aim on his leg.
+	0841107C	Use ~PAD_RSTICK_DOWN~ while locked onto a target to focus your aim on his leg.
+	22F366D0	With ~INPUT_AIM~ held down halfway, use ~PAD_RSTICK_ALL~ to ~h~free aim.
+	190F2703	~r~You left Dimitri in the shop.~s~
+	3B0423F3	Follow ~b~Dimitri~s~ out of the shop.
+	8C4B4340	With ~INPUT_ATTACK~ held, use ~INPUT_AIM~ and the ~PAD_RSTICK_ALL~ to free aim while firing.
+	76F414CA	Go with Dimitri to the ~y~gun store.
+	90DB4AC8	Head into the ~y~gun store.
+	8E7BFE06	Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim at targets.
+	7252BB15	~s~Lose your wanted level.
+	58785130	Don't leave ~b~Dimitri~s~ in the shop.
+	51975F72	Use ~PAD_RSTICK_ALL~ while aiming to focus your aim on his leg.
+	6743F74E	Injure the Joseph's associates, not Joseph.
+	672656FF	~s~You left ~b~Dimitri~s~ behind.

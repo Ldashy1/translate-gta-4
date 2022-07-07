@@ -1,0 +1,217 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B2618F1F	100
+	B1507431	FCP_ACT_ARRIVE_SHOW_COMEDY
+	B0B02799	100
+	B4EA7A6A	~z~Shit, Niko. I'll find me own damn way home then.
+	B3AA1698	~z~Tie game, Niko. Tie game. We're a good match, a good match.
+	B3505303	~z~The best man won, Niko. Don't think anyone's gonna dispute that are they?
+	AF9466F3	FCP_ACT_ARRIVEF_NOTLATE
+	A5A79FD4	~z~Niko, what the fuck man? Why's this taking so long.
+	A5A2C1D7	~z~I'm nearly bursting , Niko. This is gonna be fucking great.
+	A4F37250	~z~Okay Niko, you need me to explain what anything means, just ask.
+	AED4B22E	~z~I'm getting bored, man. If we don't get there soon I'm gonna have to start hitting the yayo.
+	A7C42FBD	~z~Take me back to the house.
+	A7060E90	~z~I don't remember agreeing to a game of pool. Was I drunk?
+	BFE572AF	~z~That wasn't too bad. If I'd had a few more rails beforehand it might a been even better.
+	BE4E2B7B	100
+	BD5EA667	FCP_ACT_ARRIVEF_LATE
+	C4B5044D	~z~You're fucking late, you dick head. Let's go.
+	C37C9BCF	FCP_ACT_DURING_SHOW_POS
+	C205F06E	~z~Niko, Niko, you come up against the best, you can't expect to win. Bad luck man.
+	BB797819	100
+	B8A1291F	FCP_ACT_LEAVE_PUB_GENERIC
+	B7E9B969	~z~I'm in, man. I'm fucking in. Let's go.
+	B5AE2B34	~z~He's a fuckin' genius.
+	BB2B8692	100
+	BA70B139	100
+	B9ADA758	~z~You assholes are starting to annoy me.
+	980C1EE4	FCP_ACT_POOL_LEAVE_LOST
+	97FAE287	~z~I think that following us out here proves my point. You are fucking stupid.
+	9707FDE1	100
+	9AF8DD26	~z~That place is fucking awesome. I can't nearly see.
+	9A1D95AE	100
+	99362CC4	~z~Shit Niko, it wouldn't have taken much longer to finish a game of darts.
+	95BD8EAB	100
+	900AD7E3	FCP_ACT_BORED_LEAVING
+	8F70DA42	~z~God, I'm gonna have to say a load of Hail Marys after the thoughts I was thinking in there.
+	8D85CD77	FCP_ACT_LEAVE_STRIP_GOOD
+	946AE3B9	FCP_ACT_DARTS_LEAVE_LOST
+	930FE30E	100
+	92119241	~z~This place, eh Niko? If here's you're place then let's do it. It's all the same to me when I'm wasted anyway.
+	A3600698	~z~That's funny.
+	A08CA775	100
+	A060AEDF	~z~Alright, man. There are better places to get a drink in this city but a drink's a drink, you know?
+	A4892C87	100
+	A3E0732B	~z~Fuck me, I didn't know they had this kind of thing in Liberty City.
+	A38F2866	FCP_ACT_ARRIVE_SHOW_LATE
+	9FCB9074	~z~When you don't wanna be somewhere you just cut lose, don't ya?
+	9D6D0F0C	~z~A bike, you better be able to drive it, Niko. Let's go.
+	9CCAED93	~z~Pair of transexuals seem to be following us!
+	9BED6C97	~z~Fine, Niko. You wanna quit that's okay. I'm gonna count it as a win for me.
+	9E9BF211	FCP_ACT_POOL_LEAVE_DRAW
+	9E7E85C8	FCP_ACT_DARTS_LEAVE_WON
+	9D9CB699	~z~I don't like losing, Niko. If you weren't such a gracious winner I might have got real angry.
+	C4B5A326	~z~I don't get it.
+	EFB8B1E5	FCP_ACT_ARRIVE_LATE
+	EB83211B	~z~Come on, Niko. If I wanted to do this I'd ask to do it.
+	EA9D53D5	~z~Jesus Christ. That what you guys watch on TV where you come from?
+	F3919AB2	100
+	F26D0AA5	100
+	F2548D61	~z~So, it was a tie. I guess we're evenly matched.
+	EA7D4F51	~z~Fuck, we coulda finished the game. I was starting to get a feel for it.
+	E5512EF1	FCP_ACT_POOL_LEAVE_ABANDON
+	E4A5317A	FCP_ACT_LEAVE_CLUB_FAVOURITE
+	DF4202AB	FCP_ACT_ARRIVEH_NOTLATE
+	E9B12495	FCP_ACT_ARRIVE_STRIP
+	E6FAD8D7	FCP_ACT_ARRIVE_SHOW_CABARET
+	E5E7D744	~z~I guess they don't got darts where you're from. It's an Irishman's game.
+	FA9F248F	FCP_ACT_DIFF_BOWL_YES
+	FA90E822	FCP_ACT_ARRIVE_POOL
+	FA8F99D9	~z~Alright, Niko. We good to go.
+	FBECAA6D	~z~Dumb pricks!
+	FBB3CC03	~z~You're a fucking prick, Niko. Get us there alright.
+	FAFD3EB9	FCP_ACT_DIFF_ACTIVITY_NO
+	FA38DBBB	~z~Alright man, we're here. Let's bowl.
+	F46C003B	~z~Man, I just don't like stopping once I've started. I could drink all fucking night.
+	F463743B	~z~Bad luck Niko, you might win if they let you shoot the board.
+	F3D7B1D7	FCP_ACT_ARRIVEC_NOTLATE
+	F9D6ADE0	~z~I never liked bowling anyway.
+	F70560F2	~z~That was alright Niko. The man can tell a joke.
+	F4C16ADB	100
+	CB9A2A12	100
+	CA13ADA9	~z~I didn't think we was bowling, fuck it. Let's go.
+	C8C0CB1C	FCP_ACT_LEAVE_SHOW_EARLY
+	CE5AEF63	FCP_ACT_DROPOFF
+	CC967961	~z~Hey, take me back to Ma's.
+	CC5F97FF	~z~I'm a fucking hustler, Niko. You ain't never gonna beat me at pool.
+	C7EBCFAF	~z~That's fucking priceless.
+	C6B2D6EF	~z~This is the place, boy. Let's get screwed up.
+	C5D57561	FCP_ACT_DURING_SHOW_NEG
+	C513B71F	~z~Alright Niko, enough's enough. Take me home.
+	C754C788	FCP_ACT_POOL_LEAVE_WON
+	C71D1ECF	~z~You're a selfish bastard, aren't you? I'll get my self home. Shit.
+	C6F06940	100
+	DA193372	~z~Come on, Niko. Rack 'em up.
+	DA0784EF	~z~Fuck Niko, I paid to see that shit.
+	D75E5CE7	FCP_ACT_LEAVE_SHOW_COMEDY
+	DE7C1D34	~z~Drop me at Ma's, will ya?
+	DE79A43D	~z~Let's go bowling, Niko.
+	DC36F8F1	~z~Balls in pockets again hey? Alrite why not.
+	D68446C3	~z~What's that about?
+	D340A1E0	~z~Them fucking darts was weighted funny. I shouldn't a lost.
+	D2D010DE	100
+	D01E74C5	100
+	D48C2BD1	FCP_ACT_BOWL_LEAVE_LOST
+	D46AB7D2	FCP_ACT_BOWL_LEAVE_ABANDON
+	D3667B51	~z~What's taking so long?
+	8BE84BCE	~z~We ain't interested in you like that ladies.
+	2A24EBB0	100
+	2A1AE281	FCP_ACT_ARRIVE_PUB_GENERIC
+	2827EA09	~z~Do you get this.
+	2DB889DA	~z~Shit, Niko. We weren't in there long. My priest'll thank you for preventing me from sinning at least.
+	2D2989FA	FCP_ACT_LEAVE_DRINK_INSULT
+	2BB277C0	100
+	27F5D867	FCP_ACT_BOWL_LEAVE_WON
+	26B0E571	100
+	25B82BFB	~z~It don't matter Niko. It's just a fucking game. You're better at shooting people if that's a consolation?
+	25130A4C	100
+	27EAA70B	~z~Whoa. Where are we? Are we coming in or going out?
+	27A94E18	~z~Didn't they teach you to tell the time, you're fucking late. Let's get a car.
+	26D078F5	~z~This like a slice of real European culture or something? Remind me to take you to a jig on our next date.
+	3B939F96	~z~Alright man. This fucker better be funny.
+	3A6D418F	100
+	39C7BE1C	100
+	3FD849D5	100
+	3CE90E5F	100
+	3C2FF341	~z~I ain't got the patience to be waiting, Niko. Let's go.
+	3914A096	~z~Niko, why do you wanna leave so early? You didn't touch one of the girls did ya? I wanna go back there.
+	36926D26	~z~Good to see you Niko, gimme a call.
+	35A126A4	~z~Shit, I'm storing those bitches in the bank for later. If you catch my drift.
+	320717EE	~z~Hey man, so we need some vehicular transport.
+	37A1FA3D	100
+	3720ECDB	~z~Fuck me, you don't actually like that shit, do ya?
+	369E9FDC	~z~You just go to show that no matter what man achieves, we still behave like fucking apes.
+	0FADA736	FCP_ACT_LEAVE_CLUB_GENERIC
+	0EA7F1D5	FCP_ACT_ARRIVEM_NOTLATE
+	0E8117E4	~z~Christ, if you'd been any later I probably woulda shot you. Let's move it.
+	115FAE4D	FCP_ACT_BORED_GETTING
+	10C9717E	FCP_ACT_ARRIVE_BOWL
+	0FD3E9BC	~z~Fuck Niko. I don't wanna do this.
+	0C703D9A	~z~Hey, man. Let's go.
+	0146E2C9	~z~Will you take me to the house?
+	0109D69B	~z~Shit, Niko. What's the fucking deal? Let's fucking get there already..
+	0095F3E5	~z~A fucking draw, in bowling. What are the odds?
+	091AC4D5	~z~If you spent more time talking to women, and less staring at the internet with your cock in your hand you might get somewhere.
+	06B9A4D6	~z~Fuck, that place ain't bad. It ain't bad at all.
+	01BD7A0B	~z~I've had naked chicks on me brain since we talked. I'm pumped, Niko.
+	208C7B29	100
+	1E1A3290	FCP_ACT_LEAVE_STRIP_OK
+	1A218B79	~z~I'm fucked, when you're in a place like that you got no choice but to down the drinks.
+	23FD551E	FCP_ACT_ARRIVE_CLUB_GENERIC
+	21E4DAD0	~z~Here it is Niko. See if we remember we were here tomorrow morning.
+	21C51682	100
+	192FE2DD	FCP_ACT_DARTS_LEAVE_ABANDON
+	15121CBC	FCP_ACT_DIFF_POOL_YES
+	11E657DA	100
+	11671A29	~z~Oh, darts, can't leave the bulleye alone eh? Alright, I'm in.
+	1870578A	~z~I was getting bored of bowling anyway. I was thinking about shooting the pins down at one point.
+	16DC6058	~z~If you're in a bar full of women and the only person you're interested in is me, you should start asking yourself some important questions.
+	1616C54A	100
+	40F2BEA3	100
+	70186D9B	FCP_ACT_ARRIVE_PUB_FAVOURITE
+	6FC98831	100
+	6DC57ABD	100
+	71D95E93	~z~Jesus Niko, waiting for your Slavic ass ain't fun at all. Come on.
+	718172BC	~z~You know I'm gonna destroy you at darts. It's going to happen, Niko.
+	711443E7	100
+	6CFA59F5	~z~Later on, man. Call me.
+	6B05D4D0	~z~Fuck, I got better things to do than wait for you. Now we got to look for a car as well.
+	67DCA3F0	~z~You wanted me to press my body up against you, didn't you? Let's go.
+	67AA740D	~z~There's me man, Niko. Come on.
+	6BEBE758	FCP_ACT_TAKEHOME
+	6B388903	~z~You're a fucking loser cunt and you know it.
+	6B06F626	~z~Top prize for being an asshole goes to Niko. You made us miss the damn show.
+	7DE928C7	~z~Niko, I'm bored as fuck. Take me home.
+	7D97D205	100
+	7D45A1C0	~z~Shit, I love that shit hole. They gotta put something in the drinks there. I'm screwed.
+	88CEAB04	100
+	87389E2A	~z~You ready to get your ass thrashed at darts, then?
+	826699A3	~z~Niko, you beat me at pool. That don't make you a better man.
+	7CD919D2	~z~Your pissing around has made us miss the fucking show. Nice one, Niko.
+	7A8DB3DD	100
+	79EC2520	FCP_ACT_DARTS_LEAVE_DRAW
+	7848E7EF	~z~Fucking darts? It ain't what I signed on for but I'm game.
+	7C852B9C	~z~Fuck you. I'd spill your drinks again if I had the fucking chance.
+	7BA36B89	~z~A fuckin chopper? Man, you a player!
+	7AD275C7	FCP_ACT_ARRIVE_DARTS
+	565CCE72	FCP_ACT_DIFF_DARTS_YES
+	561CD0F2	~z~There you are. Let's move out.
+	54AC00B0	100
+	588D2F9F	100
+	5850FAB9	~z~What you playing at Niko? I ain't doing this shit.
+	56A91602	FCP_ACT_BORED_TAKEHOME
+	511D9FCB	100
+	4666CAB3	100
+	45FA4626	~z~You got fucking lucky, Niko. Shit, I hate bowling.
+	44593B51	~z~I can give you three reasons, but the fact that you're the ugliest man I've ever seen should be enough of one.
+	4EE29208	~z~You fancy motherfucker. America has really got to you, hasn't it?
+	485890B2	~z~I had some fun, Niko. Speak to you soon.
+	47ECDEE4	100
+	62798E69	100
+	6227F6EE	~z~I don't care if she's your girlfriend. That don't stop her being uglier than sin.
+	61EB8CBD	100
+	67520361	~z~Couldn't hack the pressure, eh Niko? Had to duck out of the game of pool early. That's cool.
+	64BD607C	~z~Okay, Niko. This place ain't too shabby. It ain't too shabby at all.
+	64600884	100
+	5F4DF27B	~z~What's up man, so er, we're gonna need some wheels.
+	596DE071	100
+	5937326F	~z~That was a good craic, man. Catch you round.
+	58D3FBAB	~z~Hey man, this a joke? It ain't a funny one if it is. I'm not going in.
+	5D9ED1D0	FCP_ACT_BOWL_LEAVE_DRAW
+	5AA65107	FCP_ACT_LEAVE_SHOW_CABARET
+	599DC82E	~z~Alright Niko, you won. If you try to rub me face in it. Things ain't gonna be pretty.

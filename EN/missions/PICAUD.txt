@@ -1,0 +1,102 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8DCA5552	200
+	8E44CB6A	PIC_CB
+	8D767361	PIC_GC
+	8B7DE389	010100100100
+	8D7070B8	~z~Hell, you talking about Cherise?
+	9878E0B2	PIC_CA
+	9D599B4E	100010
+	949D4D87	~z~Yo, yo. bitch won't get no more calls from this fool.
+	947974A3	~z~So I got him killed? You worse than him any day!
+	948DDB7B	020200200200020
+	7881F8AD	~z~You right, I'll stay away from him.
+	7BDAE5E9	PIC_DB
+	74F71C0D	~z~I had some bad luck with my men.
+	704FDB8D	PIC_EE
+	727585CC	100
+	889B3583	~z~Stay the fuck away from Cherise and any other woman you'd think about beating.
+	88AF437D	~z~Maybe your problem is getting involved with all these drug dealers and two bit pushers?
+	83B0B980	~z~You right, I should find a man who ain't in the life.
+	7FAE4B0D	~z~He ain't gonna beat you no more.
+	8014D601	~z~You won't think this is so funny when you're the one crying like a bitch.
+	9E066376	PIC_FB
+	E4C8C319	PIC_ED
+	EADD71EE	~z~He ain't going to beat you no more. Get out, away from here.
+	E4076142	010010100
+	C56752A9	PIC_HC_QQQ1
+	CE0AB849	~z~I'm gonna try. That's the least I can do. See you and thanks.
+	F4FF7919	020200200
+	FFF524B2	PIC_FA
+	F45BAE25	PIC_HB
+	F175DA13	PIC_EA
+	F381ED48	010100100010
+	A7D82E7C	PIC_GA
+	A8ACB457	PIC_AA
+	A48D6D4A	100
+	A18FDF2C	~z~I gave you a chance when I first met you. Use it.
+	A266E91A	~z~Yo I staying away from everybody. Not even gonna look at a bitch. For real.
+	BFCCE614	090
+	C4ED3388	~z~Shit... Dwayne... maybe I should have capped Playboy instead.
+	B7304437	~z~Hey, you think beating women is cool?
+	AECED5BA	PIC_EB
+	AF5D9D1F	100010100100
+	6A535C50	~z~If I tell this guy to stay the fuck away from you, I don't want to hear about you going back to him.
+	31FF39D3	~z~I give her the carrot as well but she don't complain about that.
+	3354C434	PIC_KA
+	2F3BCE94	~z~That's the thug over there!
+	31FC2FAA	~z~What the fuck? You killed him? You sick ass psychopath!
+	40D1158D	~z~Damn, don't you beat on your bitches?
+	40DE27C7	PIC_FC
+	3D968F1C	~z~Oh man, I don't get what your problem be.
+	407DF118	~z~Wait here, I'll teach him his lesson.
+	2DBBE5E3	PIC_BE
+	0C25910A	PIC_EC
+	1505429E	PIC_BA
+	02ED8FFB	PIC_BB
+	068E3342	PIC_IA
+	272B58E7	~z~He over in the project up on Frankfort Avenue, please don't kill him.
+	2CF93350	PIC_GB
+	17BA1ECD	PIC_DA
+	25FD553A	PIC_BD
+	41996983	PIC_JA
+	528B3901	~z~A bitch gotta learn and there be only one way to teach her.
+	623F9030	~z~Shit, you're a maniac. Stay the fuck away from me!
+	4E51B092	~z~Shit, is you some charity worker or something?
+	51715502	~z~Get rid of this guy before thinking about another.
+	5BA20D1C	~z~How that bitch expected to learn if I ain't giving her the stick?
+	5DB9FFE8	PIC_HA
+	552831FA	~z~Cherise is gonna get her ass outta the ghetto.
+	5956469B	~z~Hell, I didn't even give Cherise everything I got.
+	49CD5B95	~z~Shit, you're a maniac. Stay the fuck away from me!
+	43884DC5	PIC_HC
+	423B3124	PIC_CD
+	441FB5CD	PIC_CC
+	46769497	~z~Won't mess with no more gangsters, no more thugs.
+PIC_CUT1_1	833A88C1	~z~Niko!
+PIC_CUT1_10	F11539D2	~z~Huh, I'm not always kind.
+PIC_CUT1_11	E2709C89	~z~Don't worry about it. What are you up to?
+PIC_CUT1_12	539AFEDC	~z~Well, after... after what happened, you know, I just wanted to change my life, turn things around.
+PIC_CUT1_13	3EFDD5A2	~z~You know, no more gang bangers and drug dealers. Turn over a new leaf, you know?
+PIC_CUT1_14	C01357CB	~z~Good for you.
+PIC_CUT1_15	A9772A93	~z~Yeah, and things was... they were going pretty well, but...
+PIC_CUT1_16	9A948CCE	~z~I like danger. The only thing is... danger don't like me!
+PIC_CUT1_17	05D86358	~z~Hey, hey... What's wrong?
+PIC_CUT1_18	22DF9D7E	~z~Nothing. It's my own stupid fault. I deserve to be hit.
+PIC_CUT1_19	8D7972AC	~z~Who's hitting you?
+PIC_CUT1_2	DB61B90E	~z~Niko!
+PIC_CUT1_20	4D396E8D	~z~My boyfriend.
+PIC_CUT1_21	38734501	~z~Please don't do anything!
+PIC_CUT1_22	2EAAB170	~z~I'm not going to kill him.
+PIC_CUT1_23	1CF18DFE	~z~I'm just going to teach him not to hit women.
+PIC_CUT1_3	ADBCDDC5	~z~Hey... uh, do I know you?
+PIC_CUT1_4	E2BA47BF	~z~Yeah, you know me... Cherise?
+PIC_CUT1_5	CBE21A0F	~z~I used to go out with Dwayne. You... you know, you...
+PIC_CUT1_6	DEEF402D	~z~I spared you?
+PIC_CUT1_7	F153E4F6	~z~Yeah.
+PIC_CUT1_8	038A0962	~z~Why did you stop me? What do you want?
+PIC_CUT1_9	15A7AD9D	~z~Well I just wanted to say thank you, you know, for your kindness.

@@ -1,0 +1,152 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9A291417	~z~Cousin, we should go out together. Open a bottle of vodka and drink it all like we did in Old Country.
+	9A1B97A0	100
+	9BA55E72	FCR_ACT_GETCALL_IRATE
+	9A59FB7C	~z~Roman, I cannot bowl with you. I am doing other things now.
+	9767EF39	FCR_ACT_PRO_CALL_STRIP_NO
+	8DF08CD8	~z~Sure, Roman. We eat together. I come get you in next hour.
+	8D7DBECB	~z~Sure, cousin. Call me when you have moment.
+	95DAFD68	010
+	92E253E4	~z~Sure, bowling sounds good. I will come to collect you in next hour.
+	B69F594C	~z~Let's go bowling.
+	AE764CDC	~z~Let's play darts.
+	BDF58A6B	FCR_ACT_PRO_GETCALL_DARTS_YES
+	B8F6D4CC	~z~Apologies cousin, I can no drink with you now. I need to be in control.
+	A0AD6F7A	~z~Okay man, we go bowling. I come to get you in the next hour.
+	9D01E3CD	100
+	9C1CDA75	FCR_ACT_GETCALL_REJECT
+	9EEA4E12	~z~I cannot do the gaming now, Roman. I must be doing other stuff.
+	9E22B85F	~z~Okay, man. I will see you soon then.
+	75872087	100
+	73C0EFB6	~z~Cousin, it is the moment for us to spend some quality time together. How about that old American pastime - bowling?
+	771F7B98	010
+	7683A2BE	100
+	6FEB37F2	~z~Sorry, Roman. I have no time for these women.
+	6DCDFC4E	FCR_ACT_GETCALL_EAT_FIRST
+	6D5C9EA5	010
+	6E117B70	~z~Cousin, how about we play some pool? Remember how we used to hustle those American soldiers back home when the war started?
+	6E03CA0C	~z~No darts for me, cousin. I have other missiles to launch.
+	872F1E20	~z~Sorry, man. I have problems that need fixing in the real world.
+	81DD7FD5	~z~We have a date, I am waiting for you.
+	8D50465C	~z~Niko, it's your cousin.
+	8B2C1450	FCR_ACT_GETCALL_DARTS
+	81825B08	~z~I am too busy for the strippers. Another time, cousin.
+	7A916A2F	~z~Alright man? We go see something. I should be with you in no more than one hour.
+	7A07C635	FCR_ACT_PRO_GETCALL_DRINK_YES
+	7E996E2A	~z~Okay man, get ready. I will be with you in next hour.
+	7C45E690	~z~Sorry, cousin. I cannot play darts with you right now.
+	BE8F1E37	FCR_ACT_GETCALL_GAMES_FIRST
+	ED0317CA	~z~Sure, we do gaming. I will come to get you in the next hour.
+	EBA18707	~z~Niko, you want to play some video games? They are much better than ones you are used to back home.
+	EEAC3C56	FCR_ACT_GETCALL_GAMES
+	ED942A36	100
+	E8E4148D	~z~Cousin, you really want to experience America, you must see a show here. How about it?
+	E32B3327	~z~Okay man, we go drinking together. I pick you up in next hour.
+	E09B00B4	100
+	E3932FD8	FCR_ACT_PRO_GETCALL_BOWL_YES
+	E36F4187	100
+	F7F397CE	FCR_ACT_CALL_STRIP
+	F766BA79	010
+	FB51B467	~z~Okay man, we do some gaming. I come get you in next hour.
+	FA96D844	010
+	F51A19A2	~z~You want to shoot some pool?
+	F05EDE40	~z~Is about time I show you some fine American silicon filled titties. You want come to strip club with me?
+	EF495EC9	FCR_ACT_GETCALL_BOWL
+	F2AC9A69	~z~Sorry, man. I'm not hungry. Maybe another time.
+	F0E8BF11	100
+	C95650BC	FCR_ACT_PRO_CALL_SHOW_YES
+	C8EAFDE3	~z~Want to go bowling?
+	CACA3DFD	010
+	C98D9983	FCR_ACT_PRO_GETCALL_DARTS_NO
+	C3B1D45F	~z~We should eat together.
+	C06B5C76	FCR_ACT_PRO_GETCALL_GAMES_NO
+	BFEF46C5	FCR_ACT_GETCALL_POOL
+	C3AA7744	~z~We should play each other at darts.
+	C26F28E3	FCR_ACT_GETCALL_POOL_FIRST
+	DC21FD82	FCR_ACT_PRO_GETCALL_POOL_YES
+	D972D544	~z~Sure, cousin. We play some pool. I come get you in next hour.
+	DD572E4E	010
+	DC9CB028	FCR_ACT_GETCALL_SHOW_FIRST
+	D87BBD03	100
+	CCCA56A6	FCR_ACT_PRO_GETCALL_BOWL_NO
+	CAEB9843	~z~You want we should go play video games together?
+	D4B19634	~z~We will drink. Wait for me for one hour.
+	CE69FFB2	~z~I am sorry cousin, but I must keep my senses sharp at the moment.
+	27376BA7	~z~Cousin, I have not hung out with you in a long time.
+	2370A465	~z~Sorry, cousin. I have no time to play pool right now.
+	2BE3220D	~z~Sorry, cousin. I have no time for shows.
+	2A3B53FD	FCR_ACT_GETCALL_EAT
+	22547416	~z~You wanna go shoot pool?
+	2106C9F2	~z~Alright, man. Let's play darts. I pick you up in next hour.
+	20FC6F2B	100
+	21FC0E3F	~z~Cousin, I am in no mood to be entertained. Another time will be better... perhaps.
+	215DF7CB	~z~I don't want a full stomach for the stuff I have to do. Another time...
+	321F7A1C	FCR_ACT_PRO_GETCALL_GAMES_YES
+	32156C0F	~z~Okay, cousin. We play darts then. Wait one hour for me.
+	379A9AEE	~z~Hey man, it's me.
+	3255023A	010
+	2FDE7589	010
+	2CED4F25	~z~Let us go drinking.
+	2BFBF14C	~z~Niko Bellic, my distant cousin. Why we no hang out more?
+	2EF281AE	~z~Cool, cousin. Another time then. Call me.
+	2DBA4CF9	~z~We are gentle men, we should go to a gentlemen's club together.
+	0B443CD0	010
+	0AC2E280	~z~You want to go eat together?
+	0DB838B7	FCR2_ACT_PRO_CALL_SHOW_NO
+	0B71BBBD	~z~Strip club sounds good, I pick you up in next hour.
+	085F7FBD	100
+	01385D14	010
+	00EE53DC	FCR_ACT_CALL_SHOW
+	07B2B1C3	~z~Is a good idea, cousin. We shall play pool. I pick you up in next hour.
+	0454FCFB	FCR_ACT_GETCALL_STRIP_FIRST
+	1B815BDE	FCR_ACT_GETCALL_DRINK_FIRST
+	16E5834E	FCR_ACT_PRO_GETCALL_DRINK_NO
+	1EC56CAE	010
+	1DB27FE3	010
+	16B5A1DA	100
+	103C4E92	100
+	0F983CFD	FCR_ACT_GETCALL_GREET
+	1481463B	~z~Niko, you pick up. It has been a time since we spoke.
+	11F90176	~z~I can no play the pool at this minute. Another time, cousin.
+	37A26B60	~z~Cousin, this is wonderful news. See you soon.
+	611A08D3	~z~Cousin, we are family. We should be like family and eat together. How about it?
+	5D4FDD11	FCR_ACT_GETCALL_DARTS_FIRST
+	63C34B90	FCR_ACT_PRO_CALL_STRIP_YES
+	631660F6	100
+	5D409848	010
+	5B5E2E3B	100
+	5AC41D98	FCR_ACT_GETCALL_ACCEPT
+	5C9798CD	010
+	5C29DC1C	~z~Alright, Niko. Maybe we do something when you have some free time.
+	68B44675	~z~Is good idea, Roman. I come to collect you in next hour.
+	68AFC0AF	100
+	6A38E833	FCR_ACT_GETCALL_DRINK
+	68E3C182	100
+	6823DF12	010
+	66A610F8	FCR_ACT_PRO_GETCALL_EAT_YES
+	648EE279	~z~Cousin, what is up with this? I feel like we are not cousins we see one another so little.
+	670ED58B	~z~Let's go see a show.
+	66CE7955	~z~Niko, it's Roman.
+	41AA271D	~z~Okay, man. We shall do something another time.
+	3EFC44C2	~z~Sorry man, I got shit to do. Can't bowl with you right now.
+	450D6B6C	~z~Niko, I am thinking we should be playing some darts together. We have not done this in Liberty City yet.
+	424132E7	100
+	3C7EA94A	FCR_ACT_PRO_GETCALL_POOL_NO
+	3B36EBB8	~z~We should go and get drunk together.
+	38F86375	~z~Let us go to a stripclub together.
+	3C6EACB6	FCR_ACT_PRO_GETCALL_EAT_NO
+	3BABB598	100
+	5558321E	~z~How about we go see a show?
+	53385229	~z~Cousin, it is your cousin.
+	58A36F51	100
+	588855E9	~z~Sure man, I could do with going to strip club. I come get you in next hour.
+	52162047	~z~Great, Niko. See you in a while.
+	4B24D521	FCR_ACT_GETCALL_BOWL_FIRST
+	4A5E0017	FCR_ACT_GETCALL_VERYIRATE
+	4E281EBA	~z~Let's play some video games, man.
+	4BAF1E1B	100

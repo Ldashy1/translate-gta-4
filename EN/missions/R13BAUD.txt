@@ -1,0 +1,74 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	99609D55	~z~Ummm, can you maybe go right.
+	9D51DFC5	R13_B_IA
+	924F49BE	~z~You better be taking us to the right place, Talbot.
+	92FECCBD	~z~Maybe if you, ummm, took a left here.
+	A2B84437	R13_B_DA
+	AE048124	~z~When I find Florian... when I find him...
+	9EE46D7E	~z~Oh. This isn't easy.
+	A0B06820	~z~Okay, okay, okay. Just go left.
+	8F5E5F3B	291
+	833EAD3D	~z~I think, umm... I'm pretty sure it's left.
+	83E33624	~z~You know, you try to block walks of shame out of your memory.
+	7C73BDA8	R13_B_BA
+	8144559B	R13_B_CA
+	8A1921C6	~z~When I am done with Florian, he will be begging to die.
+	8E9FCCED	~z~Bernie Crane. What have you gotten me into.
+	865BCFE7	R13_B_HA
+	898542C0	~z~Okay, think Talbot. Think.
+	EEC8044A	~z~Well, how about you maybe go left and see where it takes us?
+	EF892BDD	091
+	ED2E8C39	~z~Alright, I'd keep going straight here.
+	EE0DC6B2	~z~Let me think. Umm, okay, right.
+	FCC72B6A	~z~Okay, it's straight I think.
+	FD1DA0F5	~z~I am almost positive that it might be left.
+	F610913B	~z~I don't want you to mess around. Get me to this place.
+	FBC3621D	~z~Uhhh. Ummmm. Maybe right.
+	ECE3FEE2	~z~Talbot, if you screw me around you are a dead man.
+	BE45BB0E	200
+	D1A1D51C	~z~Ahhhh. Just go straight here.
+	AF4C4A15	291
+	B0EE0EEB	291
+	DF457063	~z~Ummm, can you keep going straight.
+	E049AB2A	~z~Okay then, I guess I'd turn right here.
+	D2790F89	~z~This is complicated. How about right?
+	DA8F5A39	~z~Where is it? Why aren't we there yet?
+	33C23E74	~z~Okay, ummm, if I'm right Bernie's place is somewhere Uptown.
+	3933285F	201021021
+	307AF132	~z~Why have you left Roman behind, are you going to kill me?
+	31C41333	~z~Now where was it again?
+	47983EDB	~z~Ummmm. Ahhhh.
+	488BB7D0	~z~Uhhh, oh. Left.
+	3AB36E1B	R13_B_GA
+	3DCAD7A4	291
+	2764B95B	~z~Okay... I think you should maybe turn right.
+	1416CD47	~z~You don't want to piss me off today, man.
+	1838E24D	~z~Okay then... ummm... straight.
+	072E3376	~z~Get me to this place, my friend.
+	0A7346C2	~z~Oh, I think, if I'm not wrong it's straight.
+	1F4E6CF0	~z~Let me retrace my steps then.
+	240277B0	~z~I was really high when I last went to Bernie's place.
+	199A1DC6	~z~Ummm, I'm pretty sure it's right here.
+	1F1AFAB7	R13_B_HC
+	643C4931	291
+	66475CCE	~z~Why isn't Roman with us? What's going on?
+	60BECDE1	R13_B_FA
+	642D7805	~z~Hmmm. Okay then.
+	6D4D452B	~z~Well... ummm... okay... turn right. Turn right.
+	7A51A459	~z~Alright. Bernie's place. Where was Bernie's place.
+	6AA1FBFC	~z~Ummm, okay. Maybe left.
+	6CF00BB2	~z~Ahhh. Try going straight here.
+	5ED16F81	~z~Ohhh, you might have to keep going here.
+	5540DA2C	~z~Hmmm. Let me think about this.
+	57B6C272	R13_B_EA
+	5432B8A5	~z~Where's Roman? What's happening?
+	54AC6701	R13_B_HB
+	5BD94543	~z~That is the most your friend can look forward to. Get out of here now. You've done your job.
+	5C375F27	~z~Ahhh. Hmmm. How about left?
+	58B0BEF2	~z~This is it. This is Bernie's place. Are you going to kill him?
+	595C57D1	~z~I have been waiting ten years to find Florian. Get me there.

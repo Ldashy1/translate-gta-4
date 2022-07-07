@@ -1,0 +1,289 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A866365D	100100100
+	A7BC79BE	~z~I'll tell Jon you did well.
+	A7B90E3D	~z~You've got to get us to the Civic Citadel.
+	AA0E6DC8	290290
+	AB1D5640	~z~I expected better from a man with your reputation.
+	AB1574C8	G1_YC
+	AA55112E	~z~That's when the people from abroad smell weakness.
+	A6B9D05F	G1_QB
+	A1145A2C	G1_A_BG
+	9EB0D9CF	~z~I'll talk to you later.
+	9D59F84D	~z~Over there.
+	A4130925	~z~I feel safe here when I know I've got your people looking out for me.
+	A650A555	SFX_PAUSE_4000
+	A6249207	100100010100100100010010
+	A43D6BE6	G1_A_BA
+	AB5A8EEF	~z~Control yourself.
+	B3B3F1BC	292
+	B3235C50	100
+	B103CF2D	G1_YI
+	B64063DF	~z~Follow me, Mr Jefferson.
+	B79C8AC7	G1_YQ
+	B73C4A3C	G1_XA
+	B6CD01AB	G1_UB
+	B0EE22DB	~z~Jon. It's great to be back in Liberty City.
+	ADA110A7	~z~Come on, cowboy. Get back in line.
+	AD1CBEB1	190
+	ACA0DB1D	~z~Jon. How are you?
+	AEF16F34	G1_RC
+	B037382C	~z~Thank Jon Gravelli, he's the one paying me to be here.
+	AFDBBE08	~z~How are we supposed to compete with these immigrant criminals when they want it so bad?
+	AF23F9B9	~z~They don't understand that things are different here.
+	81C41EFA	~z~In Europe the politicians are as crooked as the gangsters.
+	7B6DA1F1	SFX_PAUSE_4000
+	7A0E2982	~z~You think you know a better route?
+	824FFA4F	G1_A_CC
+	873D6DC3	G1_XF
+	872BCADC	~z~They come to this country and think that it's for the taking.
+	86B78D75	~z~You ain't gonna hear no speech at City Hall today.
+	7A0C31B2	~z~They're coming up the road.
+	7218E5E2	~z~I'm going to bring up everything we discussed.
+	703F18B9	~z~Easy boy.
+	6F4AADCA	~z~but don't think about screwing up or screwing with me again, or we'll have a real problem.
+	77034C67	G1_ZG
+	79AC7990	~z~Stay in convoy with us all the way to City Hall, alright?
+	79A29FBE	G1_MA
+	78C4113B	G1_IA
+	88202BAE	~z~Thanks for the advice.
+	9563487C	SFX_PAUSE_4000
+	944AC407	~z~Yeah, sure. You are as clean as the driven snow.
+	9170D847	~z~Where do you think you're going?
+	97F32982	~z~Up on the roof.
+	9BD9EF0D	G1_AE
+	9BB29815	G1_XD
+	999BCF95	G1_YA
+	8F6EC01C	G1_YJ
+	8A72EE27	~z~John's boys better get me out of this.
+	892663E4	010
+	88D033A5	G1_WA
+	8B7A3266	~z~American gangsters like Jon Gravelli understand the way life works, they get the limits of their power.
+	8E39160E	~z~Hostiles on the roof.
+	8D599C8F	~z~Those are the wonders of modern medicine.
+	8BD271F5	~z~You guys waiting for me?
+	EC49753C	SFX_PAUSE_4000
+	EB3B8DD4	~z~You've got to get us to the Civic Citadel.
+	E8ED12CC	~z~Don't worry about me. You should be putting all your energy into getting better.
+	ECBC71C6	SFX_PAUSE_4000
+	EFA1C7EE	G1_ZP
+	EF79C787	~z~More Russians wanting to kill you, how about that?
+	ED27346F	292
+	E8527AC3	~z~They're on the stairs.
+	E00450BE	G1_ZQ
+	DFEC7C5C	~z~That's what happens when you try taking control out of the hands of people like Jon Gravelli, I guess.
+	DDC01F83	100
+	E131AD7F	010
+	E38E6289	~z~That was a mistake they didn't want to make.
+	E1B8908D	G1_AD
+	E1797B2C	~z~Hold on a minute.
+	F02617C6	G1_CA
+	FC4932F6	G1_GA
+	FBCE7C0F	190
+	F9AA926E	G1_ZM
+	FC6AF201	~z~Get the client out of here. We'll hold these guys back.
+	FE72A546	G1_A_GA
+	FE6AD3EC	~z~Come on, Mr. Jefferson. Let's get out of here.
+	FC78728B	~z~Up there.
+	F92EFEFC	~z~Driver, why is this road closed? Is there a problem?
+	F3650FB2	SFX_PAUSE_4000
+	F3135FC1	~z~Eyes up.
+	F1754142	~z~Mr. Gravelli. I took that friend of yours to City Hall. He should be giving his speech any minute.
+	F3DE042C	~z~He doesn't want to start getting reckless with the lives of Liberty City voters.
+	F8571861	010
+	F6DBF21E	G1_FA
+	F690E404	G1_QC
+	C38F9901	G1_ZI
+	C24E0DAB	292
+	C159EA65	G1_JA
+	C3D23D09	~z~We were driving with those other cars for a reason.
+	C84B9272	~z~Oh course. I'm coming to see you as soon as I've delivered the speech.
+	C744340A	G1_ZK
+	C670649E	~z~I don't know what I would have done if you hadn't held your head back there. Thank you, son.
+	C05D251C	SFX_PAUSE_4000
+	BBB80CA1	G1_UA
+	BB575192	G1_XE
+	BA1DD28C	~z~You're working with me, aren't you Mr. Gravelli? See you later.
+	BCB636C8	G1_QD
+	BE6AAA36	SFX_PAUSE_4000
+	BD0EB257	~z~This is a city vehicle.
+	BCEE79E2	~z~What do you mean? Bobby Jefferson is dead?
+	CA6D953A	G1_KA
+	D96F4E4B	~z~If you're going to try to take out a politician, you better take him out for sure.
+	D6F53849	~z~You see something?
+	D4168C02	100
+	D9845F0D	G1_YG
+	DD78DAB5	G1_WD
+	DCCFE569	100100
+	D9ED53D5	G1_A_BF
+	D31CC2A2	~z~No Jon, if it's your problem, it's my problem as well.
+	CD22B3B3	G1_YS
+	CC4142BB	G1_YE
+	CBABA3C0	G1_LA
+	CE26D8D1	~z~This country is falling apart. There's no law anymore. Jesus.
+	D2F60E80	~z~It looks like these men really want you dead, Mr. Jefferson.
+	D2D56343	~z~More hostiles.
+	CFBC57B2	~z~Watch it.
+	2584EF9F	G1_A_BB
+	26611BF8	~z~telling me that you were too busy screwing around to get him to City Hall?
+	250DD43D	~z~Where're you going?
+	25373DDB	G1_A_CA
+	2805294D	~z~If I get my hands on these bastards...
+	294D7706	G1_A_DA
+	26FA542D	~z~Yeah, that's me.
+	27B070B9	G1_ZO
+	2412E1B3	G1_A_BH
+	219EE440	G1_WB
+	21F084AF	010100100100010
+	1F7197A1	G1_XC
+	20D6B64F	G1_QA
+	23A37EA3	~z~Let's go down this alleyway. Find a vehicle.
+	240DEA30	G1_YK
+	22AB37A3	G1_A_CB
+	22E7ACE5	G1_ZA
+	36B56869	100010100100010100
+	3932C2A0	100100010100100100
+	33663602	~z~Hey, fucking around's a full time job.
+	34807322	~z~I don't have time for this.
+	3B12AE2C	G1_AB
+	3BA5D434	G1_A_CE
+	3A015FE8	G1_MB
+	3A4E282B	G1_A_DB
+	324E0F57	~z~I don't know who you are, but you got me here.
+	2D22EAB1	G1_RB
+	2ECE3BF3	~z~You can always rely on those Russians to try something.
+	2B536966	G1_RD
+	2B71BD3D	G1_MA
+	3044C797	~z~Don't mention it.
+	318D8AF7	SFX_PAUSE_4000
+	2EE7C4E1	~z~half the LCPD will be learning Russian and patrolling Hove Beach.
+	3002A0F6	~z~Well, we both watch out for one another then. We wouldn't survive in this shitty world if we didn't.
+	0BB18EA4	~z~Don't go too far.
+	0E82845F	090
+	07E59604	~z~Sure.
+	0AF5B3E4	SFX_PAUSE_4000
+	118D7CFD	G1_ZC
+	11F84E0A	~z~Clock the fire escape.
+	0ECBC0F4	SFX_PAUSE_4000
+	0F3F55A6	G1_AA
+	07E1F857	~z~You are quite a popular man, Mr. Jefferson.
+	0210A091	~z~When I'm done at the podium, Mayor Ochoa is going to be dedicating half his annual budget to cleaning this problem up.
+	02C10FA4	~z~This isn't City Hall.
+	010D54F6	~z~If I get out of this, punks like Dimitri Rascalov are going to wish they never got off the boat here.
+	0207DED6	SFX_PAUSE_4000
+	0484E761	~z~You did good. Heard you had some trouble along the way.
+	07324AE7	~z~Isn't that the famous American dream?
+	02D5AC57	G1_A_DC
+	03312413	G1_YO
+	195BC28D	190190190190190190190190190190190190190190190190190190190
+	19C039B9	~z~Niko Bellic, right?
+	19278B92	~z~They don't respect anything.
+	193C5032	G1_A_BD
+	1CA2EB18	G1_HA
+	1EDF9988	G1_A_CF
+	1A550FFE	100100010
+	1AB68F0B	G1_XB
+	1914B774	202
+	13BF0E8C	~z~Alright Jon, I'll come see you after the speech.
+	13FFC258	G1_A_BC
+	12654E8E	G1_EA
+	1320791C	~z~They won't stop at anything, these people.
+	18F3EE6A	~z~The American dream's a fairy tale. It was never meant to be taken literally.
+	18FE1626	G1_ZE
+	1576A22E	~z~You need to stick to me.
+	181D7F6D	~z~I just got a call from Bobby Jefferson's people
+	5B6CC0FA	~z~Get back in the car.
+	59F2E412	~z~Another road block, this definitely wasn't mentioned on the traffic report.
+	57FB07A9	~z~I hadn't been in a fire fight since my army days.
+	5D1F7B2F	~z~Jon, you sound terrible.
+	5C4317C7	SFX_PAUSE_4000
+	5C0562C5	~z~Goes to show, some immigrants have the best interest of the country in their hearts.
+	6F115566	~z~Come on. Keep close.
+	4EC676CF	~z~I can't believe they're trying this.
+	4D682E67	G1_RE
+	4B58B320	~z~That's it.
+	55D84B84	G1_YM
+	51B4A546	~z~Don't say that, Jon. You'll be feeling like a teenager again in no time.
+	51217178	~z~You made a dying man smile,
+	69F4876C	G1_DA
+	681A7ACA	200020200020
+	67936B95	~z~Take a deep breath, Jon.
+	6E0BD0A7	G1_A_CD
+	6D9D147B	G1_A_FA
+	6C5C11D2	G1_GB
+	671F2780	~z~Courage under fire.
+	5F3BE162	100100
+	5EA4F647	G1_A_AA
+	5E16DAFE	G1_A_BE
+	657431F5	~z~Yeah, all the best.
+	642166F9	010100100100
+	62B0EAB3	100
+	4B34F92F	SFX_PAUSE_4000
+	463CCA14	~z~Check down the street.
+	439E0753	~z~I guess we keep making the same mistakes no matter how old we get. Goodbye.
+	4AA9457F	~z~I'm gonna go and move the barriers.
+	496AA1EC	G1_RA
+	491D2662	SFX_PAUSE_4000
+	485F2C31	~z~I'll explain that important cultural difference to one of these Russian gangsters if our paths cross.
+	3FF81814	G1_A_EA
+	41D8D2E7	~z~Kid, you are something else. I haven't had someone bust my balls like that in years.
+	47740648	~z~Stay close if you want to survive.
+	3FB6667E	~z~The speech is fine, Jon. Before Mayor Ochoa knows it,
+	435CBC1C	~z~We're not on a sightseeing tour. Get back to the convoy.
+	42CA3005	190190190190190190190190190190190190190190190190190
+G1_CUT1_1	A5FED139	~z~I'm here to see Mr. Gravelli. I was sent by a mutual friend.
+G1_CUT1_10	F68C62B6	~z~Our mutual friend told me everything.
+G1_CUT1_11	8FE31561	~z~thank you. It made me laugh...
+G1_CUT1_12	99EB2971	~z~My pleasure.
+G1_CUT1_13	B3F5DD86	~z~People are so damn vain.
+G1_CUT1_14	BD46F028	~z~Some people.
+G1_CUT1_15	7783E4A3	~z~All people. Even you, even me, an old man facing the end...
+G1_CUT1_16	491207C0	~z~and I still care, care how I look,
+G1_CUT1_17	7A4A6A34	~z~care that when I shit myself, the pretty nurse has to clean it up...
+G1_CUT1_18	4C998ED3	~z~it's ridiculous.
+G1_CUT1_19	1DF0317D	~z~Yeah, well uh... you know...
+G1_CUT1_2	9C0FBD5B	~z~C'mon.
+G1_CUT1_20	1201943C	~z~And I care about my legacy.
+G1_CUT1_21	DD1B2A70	~z~I've worked hard for this, this line of work.
+G1_CUT1_22	EFDDCFF5	~z~Now, some Russian assholes think they can march in
+G1_CUT1_23	B6C0DDB8	~z~and take control of rackets my family has run for fifty years.
+G1_CUT1_24	CB4806CA	~z~You mean fifty years of you bleeding the city dry might finally come to an end?
+G1_CUT1_25	925614E3	~z~I know, it's a terrible tragedy.
+G1_CUT1_26	A49C396F	~z~But if it wasn't me, it would just be someone else.
+G1_CUT1_27	8F918F5E	~z~So it might as well be me.
+G1_CUT1_28	A042B0C0	~z~Yes.
+G1_CUT1_29	6AECC615	~z~Let me tell you - that faggot friend of yours, Bernie Crane?
+G1_CUT1_3	89C518C6	~z~Uh, someone here to see you.
+G1_CUT1_30	6EDBCC93	~z~His boyfriend...
+G1_CUT1_31	391B610F	~z~he's being blackmailed.
+G1_CUT1_32	4B560588	~z~By them damn Russians.
+G1_CUT1_33	B7EFDEBA	~z~They want him to put certain contracts up for tender,
+G1_CUT1_34	B923E122	~z~windows, bus lines, cleaning. Ones we control.
+G1_CUT1_35	947517C5	~z~These Russian fucking bastards are trying to finish us.
+G1_CUT1_36	A5B03A3B	~z~What do you want me to do about it?
+G1_CUT1_37	E244B363	~z~I want you to work with me.
+G1_CUT1_38	F44F5778	~z~In exchange for what?
+G1_CUT1_39	AB6A45B3	~z~The police have a file on you an inch thick... in exchange for that...
+G1_CUT1_4	618D4857	~z~Here.
+G1_CUT1_40	D75DA9E1	~z~in exchange for that guy you've been asking about
+G1_CUT1_41	24774413	~z~being brought here from wherever it is he's hiding,
+G1_CUT1_42	32C4E0AE	~z~Switzerland or some shit.
+G1_CUT1_43	12129F4A	~z~Okay. Good. What do you want me to do?
+G1_CUT1_44	20593BD7	~z~A good friend of mine is coming into town to give a speech
+G1_CUT1_45	6E34D78D	~z~on the new threat to Liberty City -
+G1_CUT1_46	7B6E7200	~z~Russian organized crime.
+G1_CUT1_47	88A28C84	~z~I got a feeling some people ain't gonna want that speech to happen.
+G1_CUT1_48	96652809	~z~Maybe the guy you love, this Dimitri Rascalov, has an interest in keeping this story out the press.
+G1_CUT1_49	E506C54B	~z~Make sure our boy gets to City Hall.
+G1_CUT1_5	115AA7F3	~z~So you're the one who's getting involved with that nonsense for my...
+G1_CUT1_50	7250DEBD	~z~He's coming in from upstate.
+G1_CUT1_51	7FD279C0	~z~He'll be at Grand Easton Terminal on Bismarck.
+G1_CUT1_52	4D131442	~z~Thank you.
+G1_CUT1_6	5694B266	~z~dear friend James Pegorino.
+G1_CUT1_7	74C3EEC4	~z~-I don't know what the...~n~-Spare me, please,
+G1_CUT1_8	C0378572	~z~I'm an old man.
+G1_CUT1_9	EDCA6097	~z~I ain't got much time left.

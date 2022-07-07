@@ -1,0 +1,206 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8BED04CE	~z~The hotshot lady's man, cruising around the Mediterranean, breaking hearts and making millions?
+	8AC9A5B3	R5_OB
+	8BF004D8	~z~That's exactly the kind of bullshit I can imagine Roman making up. You've got to give him credit for his imagination.
+	914634A2	R5_B
+	8CAEDB4B	R5_MA
+	8513D5F6	~z~I wouldn't want no cop driving me to pick up a load of hot parts.
+	84DA7C9D	R5_BK
+	8580D4A4	R5_DA
+	873CFB6A	~z~Ahh, he told me about you. You're Niko, right?
+	87191200	R5_G
+	9997A023	~z~Yeah, I traded in the yacht for this cab.
+	A6C02454	~z~Roman, I got your friend, Jermaine, where he wanted to go.
+	A3C73DDE	R5_BI
+	A961CC26	R5_FA
+	AB9FB363	~z~You should let your cousin stick to the jokes. Making funny don't suit you.
+	A9D38D3C	101101
+	9CAFA58F	R5_BF
+	9A5EA1B5	~z~Yeah, you gotta. I had a feeling you sounded too good to be true.
+	9CF569AF	R5_VA
+	A119FA4F	~z~Help man, you gotta shake these cops.
+	9EE39C38	R5_MF
+	6B14BEAE	R5_BE
+	655F3E58	~z~Keep looking after Roman, a'ight.
+	6C32CBFF	~z~Okay, we're here. Thanks, man.
+	71BDA26C	~z~They're gone. Thank you.
+	6F445602	R5_NG
+	61414828	R5_PA
+	5BF9AAA1	R5_NC
+	63B5B154	R5_BD
+	6537EACC	R5_QB
+	63D332CF	~z~We're trapped! Smash through that fence, man.
+	72B7BF29	R5_MB
+	7D963348	~z~Shit man, you gotta lose these cops.
+	7D8FB940	010
+	828A0A42	R5_F
+	841AE562	R5_BB
+	83F546DB	~z~That's a weight off my mind.
+	73193E67	100
+	FFD3F1BC	~z~Good luck with that...
+	76D3ACA4	~z~Great, we've lost them.
+	796B5FC7	~z~I'm Roman's cousin. If you can trust him, you can trust me.
+	78FED090	R5_RA
+	AC49480A	R5_BC
+	E8715151	R5_GA
+	E73BC203	R5_NB
+	E9654281	R5_KA
+	EBBF234B	~z~So, you're not a cop?
+	EA82447D	100010100010010010100
+	E09118F4	R5_QA
+	DFBB1DC5	R5_CA
+	E091D42C	R5_E
+	E4DF157F	~z~Actually, I don't think I would have to tell you if I was a cop.
+	E40CFFB7	R5_K
+	EDEE3715	R5_RB
+	F60E1D36	100
+	F5A750B9	~z~You really got to get some practice driving on the right side of the road. Roman shouldn't have let you out of his cab.
+	F723E5F6	R5_BH
+	F8740038	~z~My conscience is troubled enough already.
+	F80061FC	R5_NA
+	F1E455DD	~z~It has not really started yet. I'm getting settled in, you know?
+	F177070B	~z~What're you doing? Get back in the car.
+	F2A55A1A	R5_NE
+	F5629726	R5_I
+	F48C03A9	100010010110010100010100100010100100
+	B47079D2	R5_TA
+	B3E4157F	100010010100010010100
+	B8E648A0	~z~Good Niko, thanks, thanks... can't talk, see you soon.
+	C197E23C	R5_MG
+	C0CB6E8E	~z~My hands haven't been clean for a long time. Being here in Liberty City is just making them dirtier.
+	B015CD23	~z~The question is, are you willing to get your hands dirty?
+	AE1B4611	R5_EA
+	B133BE3F	R5_BA
+	B1E6B811	R5_UA
+	B155F001	R5_TB
+	C2EB9A40	R5_D
+	D115DAAE	~z~That door isn't meant to be open. Wait here while I take a look.
+	CD118C38	~z~There's this asshole called Vlad who he owes money to as well...
+	D81CF286	100
+	DC427BF1	010100
+	D98B397E	R5_PB
+	C9A7B79C	100
+	C729A527	R5_JA
+	CAF2FC4D	R5_BL
+	CC53A398	~z~Roman, man, I got some bad news. Your client, Jermaine, he got hurt.
+	CBEB726F	R5_MC
+	5A7EF044	100010
+	25545204	R5_L
+	2364B313	~z~Roman is lucky to have you here, Niko.
+	26ABD342	~z~I own a Pay 'n' Spray shop over there on Gibson Street. Take us there.
+	25A6DA9D	~z~Ok, ok. I've got to pick up some hot parts from my lockup, you down?
+	225F36D6	~z~Roman has had some issues with loan sharks that needed to be resolved.
+	1E48E0AE	~z~This thing don't drive itself, get in.
+	1D458CE9	101
+	222D5E74	~z~Cool, I think we managed to shake them. We just need to lay low for another minute.
+	21358E3B	~z~I'm Niko, Roman's cousin.
+	2A085A8C	R5_H
+	3070FAFB	~z~Alright, I don't think they know where we are. Don't attract any unnecessary attention.
+	304FCCE9	~z~Oh yeah, what's wrong with Roman's life?
+	30E3CEB9	~z~Shit. I thought Roman was gonna pick me up. I need someone I can trust for this run.
+	30CA5E96	100
+	2F9AEE89	R5_A
+	2B54CCD8	R5_ND
+	2B4E43AE	R5_BJ
+	2F43CFF6	100
+	2E6EF56E	R5_LA
+	1C229104	R5_ME
+	0AFBDA86	~z~The cops are onto me. Get us out of here!
+	0AF5A53B	~z~I ain't got no problem with that. Just don't tell me if you stole this shit from a hospital or a school for sick kids.
+	0D97064C	R5_BG
+	0B098E82	R5_NF
+	0845D13D	~z~Thank you, man. Tell Roman to stay out of trouble, you hear?
+	032A2A71	~z~Niko, yo, Roman said you were reliable.
+	72CE51E5	~z~Did you come to Liberty City to drive cabs then?
+	06E5F336	~z~Hey, Roman ain't much better when he's behind the wheel. Sorry about that screw up.
+	065CAF53	100
+	0E744A69	R5_J
+	17AA84EF	010100
+	162E7829	~z~That's just some bullshit that cops circulate to trick people into doing deals with them.
+	1949215D	100
+	18540CD6	~z~You shouldn't have said that, Jermaine. I've grounds to arrest you now.
+	15D317F0	~z~I got rid of one group of loan sharks but this asshole, Vlad, he has his hooks into him as well.
+	130CF1DA	~z~Where's Roman? Are you a cop? You've got to tell me if you're a cop. That's the law.
+	0F52E360	100010100100010010100100010100010010
+	13607794	~z~Hey Roman, sorry about this, but your cab got trashed.
+	132F1876	~z~Roman, I guess, and some other things. I'm looking for something.
+	4090D88C	R5_MD
+	43DCA1D2	~z~I don't think they see us. Now, if we can stay outta their sights for a little longer we be all good.
+	4C5E8506	~z~No, I didn't. Just like every other chump who gets off a boat here, I thought things might be more exciting.
+	4C15E8FE	~z~Niko, how come you trash my cab but you never trash those tanks you drive back home?
+	56CD65B7	~z~I'm spinning out, man. Get these cops off our tails.
+	3F866B56	~z~He appears to owe money to half of Hove Beach.
+	456BC282	010100100
+	4543971C	R5_OA
+	4554FCC1	~z~Good luck finding them. How's the hunt been going so far?
+	58614235	R5_C
+	577EB9F0	~z~Shit, Niko. He was one of my only regulars. This ain't good at all, man. Later on.
+	4DF57CB2	R5_RC
+	4486C12A	~z~Lose the cops, man. Lose the fucking cops. Shit.
+	335AB285	~z~Shit, you just shoulda told me that. Jesus. You nearly gave me a heart attack.
+	33969F4A	~z~I ain't going down, man. Get rid of this heat.
+	50066BDC	~z~Yeah...
+	460AE843	~z~Ha ha. That's a joke, right? A funny fucking joke.
+	4ADA87CC	~z~So, what brings you to Liberty City, Niko?
+	53AB6356	R5_SA
+	47049155	~z~Masterson Street it is, Jermaine.
+	5A0A205D	~z~This is just the beginning. It seems I need to sort out my cousin's life before I can work on my own.
+	55084E24	~z~Hey man, I thought you were driving me?
+	3EB2B5A3	~z~Thanks for coming. Can you take me over to Masterson Street?
+	3A562F1F	100
+	3DB84740	~z~No, I tried to join the LCPD.
+	3E4F4D71	~z~This is real bad, man.
+R5_CSCENE_1	BBB9094D	~z~Come on, hottie, forget about the fat serf.
+R5_CSCENE_10	B1451357	~z~Come on... I'll get you one.
+R5_CSCENE_11	EB9607FC	~z~What? You keep staring at me, I'll burst one of your eyeballs.
+R5_CSCENE_12	DCCEEA6A	~z~Gorgeous, this guy's a fucking creep!
+R5_CSCENE_13	16EADEA5	~z~Give him a break. He's new in the country.
+R5_CSCENE_14	F83AA145	~z~I can see that. Did you walk here from nineteen eighty five?
+R5_CSCENE_15	327D95CA	~z~Yeah.
+R5_CSCENE_16	23B6783C	~z~Excellent! Now stop fucking staring at me.
+R5_CSCENE_17	5DE46C97	~z~I mean, I know I'm good looking and everything, but come on.
+R5_CSCENE_18	4F3ACF44	~z~Aah, hey, Mallorie. Hey man!
+R5_CSCENE_19	79472350	~z~Hey.
+R5_CSCENE_2	E44FDA7E	~z~Vlad! Shut up!
+R5_CSCENE_20	E58CE96E	~z~Huh. About time.
+R5_CSCENE_21	0760ACFD	~z~Vlad... Vladdy boy... what's going on?
+R5_CSCENE_22	14A6C789	~z~Roman! Roman boy... you tell me what's going on.
+R5_CSCENE_23	23D365E2	~z~Nice aftershave! What is that? "Sex Pest"?
+R5_CSCENE_24	31960167	~z~No, it's "Where Is My Fucking Money"?
+R5_CSCENE_25	CFFB3E2B	~z~I had it, I had some of it...
+R5_CSCENE_26	DE34DA9E	~z~then those Albanians you said you would deal with came and smashed my computer.
+R5_CSCENE_27	EC7BF72C	~z~So it's my fault?
+R5_CSCENE_28	FA8E9359	~z~I didn't say that...
+R5_CSCENE_29	74750720	~z~Good.
+R5_CSCENE_3	D63B3E55	~z~But he's a serf, and you're a countess. Talking about serfs...
+R5_CSCENE_30	DAE3D338	~z~Anyway, Niko dealt with them... broke Dardan's arm, then beat up a couple more.
+R5_CSCENE_31	F091FE94	~z~Then we teach them a real lesson.
+R5_CSCENE_32	BEDF1B2F	~z~Is that so? I'll tell you what...
+R5_CSCENE_33	12E742AE	~z~while you don't pay, maybe you and Niko can do me few favors.
+R5_CSCENE_34	467CA9D8	~z~Sure.
+R5_CSCENE_35	37530B85	~z~Good.
+R5_CSCENE_36	6923EF26	~z~Why not?
+R5_CSCENE_37	DA0FD0F8	~z~Later, Vlad.
+R5_CSCENE_38	0BA7B42F	~z~What?
+R5_CSCENE_39	FE8999F3	~z~The phone's ringing.
+R5_CSCENE_4	006792A9	~z~Oh, hey Niko.
+R5_CSCENE_40	C5A2275D	~z~Hey? Yeah... okay... no, I can't do it; my cousin will do it.
+R5_CSCENE_41	49562ECB	~z~Yes he can drive. No, he's not a cop.
+R5_CSCENE_42	1B96D34D	~z~His name is Niko. He'll be right over.
+R5_CSCENE_43	2AB17182	~z~Niko, sorry to ask, cousin... can you go pick up Jermaine, one of my regulars?
+R5_CSCENE_44	FF2B1A76	~z~He's over on Rotterdam Hill on Mohawk Avenue.
+R5_CSCENE_45	9DD757D0	~z~Whatever.
+R5_CSCENE_46	AF957B4C	~z~What was this all about?
+R5_CSCENE_47	80749D0B	~z~Niko came in looking for you and Vlad told him to get him a fucking coffee and Niko didn't want to.
+R5_CSCENE_48	52334089	~z~Coffee? What was he thinking?
+R5_CSCENE_49	D6DF49DF	~z~I know.
+R5_CSCENE_5	F2E7F7AE	~z~Where's Roman?
+R5_CSCENE_6	1EFB4FD0	~z~Huh. Good question.
+R5_CSCENE_7	0D14AC03	~z~Hey, yokel. Your dumb cousin isn't here. Go get me a coffee.
+R5_CSCENE_8	3763009F	~z~What?
+R5_CSCENE_9	29AF6538	~z~Get me a fucking coffee!

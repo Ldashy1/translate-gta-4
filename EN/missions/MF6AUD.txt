@@ -1,0 +1,134 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B1535569	MF3_ED
+	AEF95770	MF3_A_VB
+	B521E166	MF3_JA
+	B2C79982	MF3_BB
+	A7503DEB	MF3_EA
+	A6FF4FDD	100100010100100100100
+	AEE4F169	MF3_DC
+	A9B4D07C	~z~Yo Money, don't be trifling with me. You made a decision?
+	BC13B339	MF3_CB
+	BB638EA1	~z~You remember my man, Dwayne?
+	BF2CD95A	MF3_AB
+	BD52D222	100010100010100100
+	B5E9ABAA	MF3_GA
+	B5C3FA0F	MF3_C_PD
+	BB5873C3	~z~You going to fix this Dwayne problem of ours, yeah?
+	B88022B3	SFX_MACHINE_BEEP
+	946C50DA	~z~Niko, tell me it weren't you that shot up the strip club in Bohan.
+	93FABFD4	~z~I owe that fool - ain't payback a bitch? Peace out, money.
+	9B654275	~z~I owe that fool - ain't payback a bitch? Peace out, money.
+	947792E5	MF3_A_VD
+	8D5F25BE	100100100100
+	883DDBD9	~z~You going to fix this Dwayne problem of ours, yeah?
+	9323B1F2	~z~he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.
+	91CC5F80	~z~Yo, this is streets. Streets need to sleep, streets need to eat so they don't answer the phone the whole time.
+	A4AA341A	MF3_A_VC
+	A2CD01CC	MF3_CA
+	A4EBA640	MF3_AA
+	A4E89DD3	~z~I'll show you what you can make of yourself when you start hustling.
+	A01A7E5C	MF3_HB
+	9E772F67	~z~This is the X, giving everyone out there some advice. You don't know what you got 'til it's gone. Leave a message.
+	A2B6011B	100010100
+	A26D3581	MF3_EB
+	ECCC9B91	100010100
+	E332C383	~z~That right - you cold, Niko. Peace and love.
+	F4AB829F	MF3_CD
+	F15232F9	~z~Man, fuck Yusuf Amir. I got bigger problems. Come see me now.
+	DEB7D891	MF3_AB
+	D84DB46F	~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.
+	E27AD0A3	~z~Sure, just got out of the pen, old friends aren't paying him no mind.
+	E133D880	MF3_C_PA
+	FE085015	~z~Yo money, whatup? This is Playboy.
+	FCB89185	MF3_C_PC
+	FFD9178F	~z~I need you to go over to the Governor Greg Johnson projects over in Northwood,
+	FFCA3EC6	MF3_HC
+	F7024205	~z~I met you with Liz in SoBo. We had some troubles with a UC called Charlie.
+	F5DDE8D9	~z~Hey, it ain't our problem, Playboy - it's yours. That said, I know what I'm going to do.
+	FA8145D2	100010100
+	F8B7FD1D	~z~Yeah, that's what he think. He got friends all over the shop but he living in the past.
+	CB566778	100010100100100
+	C7FB1BA4	~z~Yo money, I appreciate what you doing for me. There be so many fake cats out there.
+	CC55D70E	MF3_GD
+	CC02870F	SFX_MACHINE_BEEP
+	C1157A88	MF3_A_VC
+	BF35746D	100010100010
+	C6879BA9	MF3_AA
+	C68710E2	~z~Not really my thing, but I'll come if you're paying.
+	D66869DF	MF3_HA
+	D4E191FF	100100100010
+	D7A0296A	SFX_MACHINE_BEEP
+	D72A6F37	MF3_GB
+	CEFFD595	MF3_CC
+	CC5F6FC2	100100010100100100100
+	D466E187	MF3_CF
+	D2B17964	~z~Now you talking. I got something for you, player. Come to my crib, you been there before.
+	2ED1084C	100100100
+	2D62261F	~z~Hey, it ain't our problem, Playboy - it's yours. That said, I know what I'm going to do.
+	305377DE	MF3_C_PB
+	2F24F84A	MF3_AC
+	2844A00E	~z~You popped him, man. He raised me, showed me everything a G need to see. Just tell me it didn't hurt him none.
+	26A66525	~z~Yo money, I appreciate what you doing for me. There be so many fake cats out there.
+	2BFA1AB7	MF3_IA
+	2B74F37D	MF3_DB
+	492BB5CB	100100010100
+	48219419	~z~Yo, streets need you, Niko. They'll pay.
+	4A0F2D2B	MF3_C_PC
+	4A0DDC34	~z~Not really my thing, but I'll come if you're paying.
+	385D38D3	~z~Yo, streets need you, Niko. They'll pay.
+	33622098	MF3_CE
+	43EE43F5	~z~Drop a message after the beat. Peace.
+	3F19CDB8	~z~Playboy? I thought you didn't want to talk to me no more. Too cold hearted?
+	0ED6C6A1	SFX_MACHINE_BEEP
+	0DAF970B	MF3_A_VD
+	0FDE2AE2	MF3_DB
+	0F5AA69C	~z~There ain't no bringing back those you love, that the truth, money. No matter how powerful you are.
+	094EE69E	~z~Sure, you own this city, right?
+	09299FF9	MF3_GE
+	0AB7C5D1	MF3_BA
+	0A578AE8	MF3_A_VA
+	1D96AB95	MF3_FC
+	1C45C438	~z~You remember my man, Dwayne?
+	22AF3B72	MF3_A_VA
+	206BFEA3	100100010100
+	119B3B13	~z~he holding up there and needs help with some shit. You assist his broke ass, I'll send some paper your way.
+	1032F46A	~z~Playboy?
+	183F0003	~z~I can't tell you what happens when it ends, friend. I can tell you that we'll all find out at some point though.
+	13E3EC03	SFX_MACHINE_BEEP
+	73908F23	~z~Don't help him out when it fucks up my business interests. Damn, son. That ain't cool.
+	71CFB3F2	~z~Make it a memorial to Union workers who've died in accidents.
+	75B228A8	MF3_GC
+	74D3DB87	MF3_EC
+	689465EB	MF3_DC
+	66AE3BCC	MF3_FB
+	6D0C71F8	~z~Yeah, that's what he think. He got friends all over the shop but he living in the past.
+	68FBD9DD	~z~But, word is born, none of them bitches can bring back my man Dwayne.
+	84DF1569	~z~I need you to go over to the Governor Greg Johnson projects over in Northwood,
+	82FD21B0	MF3_DA
+	869A1D96	MF3_C_PD
+	8619DC86	~z~That cat ain't got no vision, wants to shut down the site and shit.
+	7B5D7EA0	~z~I own this city, player. I can look at anyone in this town and they gonna kill for me.
+	7645CBAE	~z~Yo, if you trying to find Playboy you should ask your bitch - ha ha! She probably know where I'm at. Leave a message.
+	82F5389A	SFX_MACHINE_BEEP
+	82B52D6C	~z~You asked me to help out Dwayne, that's what I was doing.
+	553BC45C	MF3_C_PB
+	523EEFD8	~z~Yo Money, don't be trifling with me. You made a decision?
+	5831B966	100100100
+	563AB45B	~z~You should have known that when you asked me to kill him. I'm hanging up now, Playboy. Goodbye.
+	4CE9EA27	~z~How did the big real estate deal go?
+	4CD86935	~z~Did it hurt? Tell me it didn't hurt him.
+	4FD18CF7	MF3_FA
+	4DBE0ACF	MF3_FD
+	63AF17B1	~z~Niko, shit is getting fucked up. I need to see you at my crib.
+	62621022	~z~That right - you cold, Niko. Peace and love.
+	64BDD5C8	MF3_DA
+	64B064AD	MF3_C_PA
+	5B4DABB7	MF3_A_VB
+	5A334C46	~z~Sure, just got out of the pen, old friends aren't paying him no mind.
+	601B239C	MF3_AC
+	5BD87FC9	~z~Yo, streets. I need you to come over here and help me with some aggressive public relations.

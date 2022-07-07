@@ -1,0 +1,10 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	61FC6C28	~r~Вы ранили Пафоса.
+	CAFCF53E	Вы теряете ~b~Пафоса~s~ из вида.
+	2F0E064C	Убейте ~r~людей,~s~ которые досаждают Пафосу.
+	50B5C99B	~r~Пафос погиб.

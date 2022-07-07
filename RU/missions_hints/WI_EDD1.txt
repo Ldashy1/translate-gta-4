@@ -1,0 +1,15 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A7B207E4	Отвезите Эдди в ~y~порт.
+	97396688	Отвезите Эдди в ~y~Вестминстер.
+	F1DC9C38	Найдите транспортное средство.
+	E022F9BA	~r~Вы бросили Эдди.
+	8BD75204	Подождите ~b~Эдди.
+	3B3CAEF7	Отвезите Эдди в ~y~Вестминстер.
+	1AB868CC	Подберите ~b~Эдди.
+	7AAEAC93	Отвезите Эдди в ~y~порт.
+	648E7C77	~r~Эдди погиб.

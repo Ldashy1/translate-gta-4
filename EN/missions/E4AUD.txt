@@ -1,0 +1,89 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	DA240F41	E4_DA
+	55111348	E4_EC
+	D71EC439	~z~You just missed out on a payday.
+	71F0CC1A	~z~The heat is closing in, Niko. This particular party is ending.
+	D3A48292	~z~Hey, aren't you that guy from the TV?
+	544703DD	~z~I wouldn't want the cops seeing you guys.
+	3BB41509	E4_CB
+	39FD94BC	E4_CC
+	E1F1B7A4	E4_BC
+	53C82429	010100100
+	51E58C04	~z~The doctor has that stuff.
+	9EFC69E1	090
+	9A629013	~z~I can't believe I've got a genuine celebrity in the back of my car.
+	A9CA6069	~z~We should do something soon though.
+	AE26F246	~z~I got enough on my plate to be worrying about this as well.
+	AD86BD76	E4_EE
+	C095E967	~z~Good, one less thing to bother me.
+	877D1BCF	~z~I've kind of got my hands full looking after them.
+	7C9C8F32	~z~I couldn't get those things to the doctor.
+	87C44948	~z~Shit, what are you doing? This ain't good. Come back to see me, yah?
+	C4B32835	E4_CA
+	897D6E49	~z~Shit, were you guys trying to make a break for it?
+	E4485568	~z~Wha'gwan me brother, it's me, Jacob.
+	198D5CAA	010100100
+	26CCBECC	E4_FA
+	28EDA983	E4_DB
+	07561B83	~z~Shit, Jacob, I'm sorry. I'm already hanging out with two friends.
+	1DFA1744	~z~Well, at least you'll live on through your documentary.
+	6989B1E1	E4_ED
+	036BEDB3	E4_EA
+	2C74B439	~z~Oops, we nearly lost you two.
+	35CDA54C	~z~Elizabeta, something happened. The mess didn't get cleaned up. I have had to leave it pretty close to your apartment.
+	1613B8FE	~z~Wanna get some food?
+	379CD461	E4_BB
+	16149ABF	100100010010010
+	0C05FC0C	E4_BA
+	2DE0C1BC	E4_EB
+	0C7C687A	010100
+E4_CUT1_1	8C14E4E6	~z~Hey. Man, this is getting out of control.
+E4_CUT1_10	5EF4764D	~z~Not me.
+E4_CUT1_11	2562832A	~z~Whatever.
+E4_CUT1_12	3B97AF94	~z~Open up, man.
+E4_CUT1_13	81D5BC0F	~z~Who is it?
+E4_CUT1_14	978FE783	~z~It's the streets, man.
+E4_CUT1_15	DE62F528	~z~Okay. Hold on.
+E4_CUT1_16	6C2D90BF	~z~Alright, man. This is what Manny's all about, man.
+E4_CUT1_17	DB296EB9	~z~Manny... Manny, Manny, Manny.
+E4_CUT1_18	68E10A2A	~z~Now, word up, bitch, you betta stop slinging that shit on my streets, yo.
+E4_CUT1_19	B7AFA7C6	~z~We don't want it anymore.
+E4_CUT1_2	79AE4019	~z~The police are all over me. I can feel them.
+E4_CUT1_20	669D002A	~z~Hey, yo, Jay, you catching this?
+E4_CUT1_21	5029D340	~z~-Rolling, rolling.~n~-What is this Manny? For fuck's sake.
+E4_CUT1_22	7EFAB0E5	~z~The streets have spoken. Now leave my people alone!
+E4_CUT1_23	157CDDE3	~z~Yo, Niko, what you doing here?
+E4_CUT1_24	432EB946	~z~I am not in the mood for this right now.
+E4_CUT1_25	E9EA06BE	~z~Well he said he was going to bust a dealer...
+E4_CUT1_26	17A0E22B	~z~Can you help me clean this mess up?
+E4_CUT1_27	CDBF4E75	~z~There's a doctor in Broker who can help. Come on, let's put 'em in my car.
+E4_CUT1_3	79A13FFF	~z~So?
+E4_CUT1_4	697D1FB7	~z~So? So? So... so I'm going to go to prison, for a long time!
+E4_CUT1_5	1DBF083C	~z~So, my life is over!
+E4_CUT1_6	43FF54BC	~z~All this work... for nothing, man.
+E4_CUT1_7	14757571	~z~Being tough in a man's world...
+E4_CUT1_8	EE1728B5	~z~I guess I wasn't so tough, huh?
+E4_CUT1_9	BFD44C30	~z~Jorge turned state's... everyone's a rat!
+E4_DELIVER_1	F61D2338	~z~I've got some bodies in here.
+E4_DELIVER_10	BC273A3A	~z~No.
+E4_DELIVER_11	CD03DBFF	~z~Shit...
+E4_DELIVER_12	BE063E04	~z~looks like the bullet went right through this one's eye.
+E4_DELIVER_13	8FDEE1A6	~z~And the price of eyes is through the roof at the moment.
+E4_DELIVER_14	81904509	~z~Fine. Can I leave you with these or what?
+E4_DELIVER_15	7129A43C	~z~Sure. I'll have these organs out on the street in no time.
+E4_DELIVER_16	63D68996	~z~They're gonna help a lot a folks.
+E4_DELIVER_17	58B37350	~z~He'd been trying to help the streets his whole life...
+E4_DELIVER_18	476AD0BF	~z~maybe he'll actually be doing it now.
+E4_DELIVER_2	F2A31C44	~z~I've heard you'll take care of them?
+E4_DELIVER_3	1992EA23	~z~Natural causes?
+E4_DELIVER_4	07DDC6B9	~z~Of course, seems like a bullet in the head is as natural as it gets in this town.
+E4_DELIVER_5	5D66F1C6	~z~They weren't sick, were they?
+E4_DELIVER_6	39BEAA76	~z~No.
+E4_DELIVER_7	00E9B8CD	~z~Had a few problems with sick bodies.
+E4_DELIVER_8	EF3A956F	~z~No one wants a liver if it's riddled with tumors, huh?
+E4_DELIVER_9	9291DC1F	~z~Know what I mean?

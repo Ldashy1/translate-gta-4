@@ -1,0 +1,201 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AF432EA7	010
+	AE260147	~z~Alright Niko. We'll go bowling. How about you pick me up in the next hour?
+	AAC4B9CF	~z~Only thing I'd want to do with a pool table right now is snort rails off it. Another time
+	B7A3F89E	010
+	B34E98A4	~z~Pool, again? Not with this Irish gangster, Niko. Find someone else to play with and call me later.
+	B0804702	100
+	A6CCCA61	~z~Want to play darts?
+	A38A1A0D	100
+	A2A4DD29	FCP_ACT_CALL_IRATE
+	AAA0B564	~z~Want to go to a show?
+	A8273498	~z~Can't do it Niko. Got people to rob, bully, beat up, etc. etc. Call me some other time.
+	A72F67E7	~z~Want to hit up a strip club?
+	C33657D6	~z~Booze? That's music to me ears. Get me from mine in the next hour.
+	C030B268	~z~Fucking pool again? You're a creature of habit, Niko. I ain't playing with you right now, maybe another time.
+	BFD5A225	~z~Niko, I haven't heard from you in so long. You wanna hang out you gotta call me more often.
+	C51AD85A	FCP_ACT_PPK_CALL_DARTS
+	C4E0589D	FCP_ACT_PPK_CALL_DRINK
+	C4A78DC9	FCP_ACT_CALL_DARTS_NO_GENERAL
+	BB0EFFC7	010
+	BAF6B9D4	~z~Don't you got any other friends, Niko? I couldn't hit the booze with you again so soon. Another time.
+	B7A55F8A	~z~Not right now Niko. I got some people to kill, surely you should too. Maybe we'll hit a show another time.
+	BF2E294D	~z~What's say we go get shit canned?
+	BE449C0F	100
+	BD66DAF0	~z~We should go to see a show or something.
+	83E63FF7	~z~Patrick, how's it going?
+	82FDA25E	~z~I ain't feeling the bowling thing at the moment. Maybe after I've done a few more rails.
+	81114612	~z~Can't go drinking with you again, Niko. People might start talking. In a bit maybe.
+	8C3BE001	~z~I couldn't stay angry at you Niko. Besides I'd be scared of what you might do to me. Come get me in the next hour.
+	8505BF2C	~z~You want to go bowling?
+	843AE725	FCP_ACT_CALL_BOWL_YES
+	7A520E2D	~z~You feel like going to get some lap dances?
+	79DE7D18	~z~Didn't think I'd ever say it, but I don't feel like drinking right now. I just threw up blood in me ma's john.
+	791FC392	~z~Fuck me, it's you. I was about to start looking for you at the bottom of the Humboldt. Now I just wish you were there. Hmmm.
+	810C4B5D	FCP_ACT_CALL_POOL_NO_GENERAL
+	7FDFF9D7	FCP_ACT_CALL_BOWL_NO_RECENT
+	7B117C74	100
+	9C69F267	~z~Great, I'll be there soon.
+	98D71587	FCP_ACT_PPK_CALL_GREET
+	940D6045	~z~Hey Packie.
+	A205499B	FCP_ACT_PPK_CALL_ACCEPTED
+	A156CA57	~z~You trying to join some league or something? Find another teammate, Niko. I ain't interested right now.
+	9C961D72	~z~Not now Niko. We'll play pool another time maybe.
+	8F7D5F2A	~z~Jesus Niko, don't you fuckin' sleep?! I'm in fuckin' bed and my hangover's telling me I ain't gonna be up 'til 4.
+	8F75D0F3	~z~Shit, man. I'm not playing pool with you again right away. Call me some other time.
+	8C9FDD27	~z~Shit, Niko. I think I'm still fucked up from the last time. Find another drinking partner.
+	93942ED2	~z~Fucking bowling again. Don't you get sick of that shit. Maybe some other time.
+	907641FA	100
+	8FDD733A	010
+	C6D20A6B	~z~Let's play darts, man.
+	EFEAC0C4	FCP_ACT_CALL_VERYIRATE
+	EE1A7D42	FCP_ACT_ANSWER_PHONE_QQQ1
+	EA4EC4DC	~z~Can't do it now, Niko. McReary family commitments. We could do it another day.
+	F2348FE4	~z~Shit, Niko, you musta been real sex starved on that boat over. I ain't going with you this time. Call me later.
+	F0FA486C	FCP_ACT_CALL_SHOW_NO_GENERAL
+	F0D09B99	~z~Darts? Only if we can throw them at all the tourists walking around Star Junction. Maybe some other time.
+	E73D0080	~z~I don't feel like picking up a pool cue again this soon. Maybe another time.
+	E70FC43D	FCP_ACT_CALL_DARTS_NO_RECENT
+	E5CA052A	~z~I'm on my way.
+	E91B88A2	010
+	E8B9E269	FCP_ACT_PPK_CALL_REJECTED
+	E8AB0983	~z~What's up Packie?
+	FB699733	FCP_ACT_CALL_STRIP_NO_RECENT
+	FB3DFBB9	~z~Alright, Packie. Maybe some other time. Bye.
+	FB24C7B6	~z~Drinking, Niko? I'm in. Come get me in the next hour.
+	FE16B625	~z~Don't feel like playing darts. I feel like a gram of chop and some whiskey. Another time, Niko.
+	FCF8321D	~z~Packie, hey.
+	FB6FA25A	~z~More naked chicks? Sorry, Niko. Think I'd have an overload. Maybe another time.
+	F4A5BAB4	~z~Drinking, it's an old Irish pastime, Niko, how could I say no? Pick me up in the next hour.
+	F4564310	~z~Are you up for some pool?
+	F23E9028	~z~If I was gonna go to another show this soon it'd be with a chick. Sorry Niko. Call me later.
+	F913EEEE	~z~How about some darts?
+	F5D816A4	~z~How about we go drown our sorrows?
+	F4F94462	~z~A game of pool?
+	CE148836	100
+	CCE81F0E	~z~Okay man, another time. If you have to rob anyone, don't get caught or shot. Later.
+	CAAB1147	010
+	D2293DE2	~z~Wanna go see some naked women?
+	D108F37B	~z~I got some brain cells that need killing and I reckon drink is just the thing to do it. Pick me up in the next hour.
+	CF17236C	~z~If we're still alive in a few days, I'll call you then. Later on.
+	C7E244E8	~z~How about you and me go and roll a few bowling balls?
+	C7DD4AAC	~z~Jesus Niko, I thought you were in the pen I hadn't heard from you in so long. Okay...
+	C6DCFDF9	~z~Can't go to something with you right now, Niko. Another time maybe.
+	CA645EBC	100100
+	C9CB1AC7	100
+	C96E278E	~z~Pick me up in the next hour. You think you can last that long without killing someone. I'll pay for the pool if you do.
+	E06CE5D4	~z~Bowling with a psycho Balkan? Sounds like fun. Come get me in the next hour.
+	DBE45158	~z~How about we go check out a gentlemen's club?
+	DA56EF9F	~z~What the fuck, Niko. I ain't seen you in ages. If you weren't such a scary motherfucker I might not have answered. So...
+	E46C23DC	FCP_ACT_CALL_DARTS_YES
+	E0A81BC0	~z~How 'bout we go shoot some pool?
+	E0884532	100
+	D71E9E7C	~z~Not right now, Niko. I'm too out my brain with chop. Maybe another time.
+	D71D9866	100
+	D67270CB	~z~Can't go out again, Niko. I got to stick someone up tomorrow and I don't wanna be drunk for it. Some other time.
+	DA1B56B0	~z~Fuck Niko, call me once in a fucking while. I ain't hanging with you right now.
+	D919A7BF	FCP_ACT_PPK_CALL_STRIP
+	D916AEF4	~z~Wanna throw some darts?
+	75364A94	~z~How about we go see a show?
+	27690867	~z~See you in a bit, Packie.
+	272E6AD9	~z~I'd rather do something less inane than bowling, Niko. Maybe, when you next call, I'll be drunk or high enough to think it's a good idea.
+	26750516	~z~Packie.
+	2B531C81	FCP_ACT_PPK_CALL_SHOW
+	29AD0C9C	FCP_ACT_CALL_SLEEP_REPLY
+	2834D699	FCP_ACT_CALL_DRINK_YES
+	1FCD0666	FCP_ACT_CALL_DRINK_NO_GENERAL
+	1E4541C7	~z~Sure Packie. I'll give you a call later. See you.
+	1CA8C2AA	~z~Can't do it, Niko. Ma's got me grounded. You can rob a bank but don't piss your old dear off. Some other time.
+	24BADF25	010
+	22EB176A	~z~Alright man, I'm up for seeing some chicks. Come get me in the next hour.
+	20E2496C	~z~You're the only stone cold killer I know with a bowling fetish. Find someone else to join you this time, because I'm bowled out.
+	371D75E2	~z~Shit, Niko. You just love that bowling. I'm afraid I ain't as interested as you. You're gonna have to go it alone this time.
+	36167B49	~z~Don't think I could spend me time throwing darts so soon after we last went. Another time.
+	32413251	100
+	399AACCA	~z~Alright, we're on Packie.
+	38AF298A	~z~Patrick.
+	38025D3D	FCP_ACT_CALL_STRIP_YES
+	2E9F0D6D	~z~Darts? Could be fun if I imagine me old man's head as the bullseye. Pick me up in the next hour.
+	2D292BE6	~z~Let's go. I think it's this chop but I ain't been hard in days. Pick me up in the next hour.
+	2CC9A200	100
+	3211364D	FCP_ACT_PPK_CALL_POOL
+	320B78C7	~z~I'll shoot some pool with you, Niko. Pick me up in the next hour.
+	2FA53F93	100
+	07FDBBA6	~z~I ain't going to another show with you this soon. Me ma's gonna start asking questions. Call me another time.
+	070A3908	~z~You wanna go get a drink?
+	060CE67D	~z~Fancy a game of pool?
+	0B692B8B	010
+	0AC31EDF	~z~No drinking for me right now, Niko. I think I'm having kidney failure. We'll celebrate me getting better with a drink. How about that?
+	094ACC8D	~z~Can't play darts right now, Niko. Me and me ma are having some quality time together and I need to get fucked up first.
+	03DF9C70	~z~Pool it is. Come get me in the next hour.
+	02A6EE65	100
+	00FD663F	~z~Sorry, Niko. I'm in a bad way. I'd probably break the cue over some preppy fuck's head. Another time.
+	05F85D81	~z~A stripper is just what the doctor ordered. I'll wait for you at the house for an hour.
+	05C9D97B	~z~Shit, man. I forgot about your healthy lifestyle. I'll try you later.
+	05A89463	~z~Alright, alright. If I do enough chop a show might just be bearable. Come get me in the next hour.
+	17039B73	100
+	16F8D2EB	~z~I guess the police won't be looking for two cold killers like ourselves at a bowling alley. Pick me up in the next hour.
+	15B3D712	~z~Shit Niko. Are you losing your edge, we just went to a show. Call me some other time.
+	1B6FE70F	~z~Darts? As long as I can drink something while we do it, I'm in. Come get me in the next hour.
+	19335DB9	~z~I ain't going to another show with you even if you are a lonely immigrant killer in a city he doesn't know. Later on.
+	18EBCE54	~z~I'm thinking I might shoot someone if I went to a bowling alley right now. Another time.
+	10615A58	~z~Packie, I'll be there soon.
+	0F9D70CB	~z~I love those places. Come get me from the house in the next hour. Don't think I could take waiting longer than that.
+	0EBC26D1	~z~Sorry, Niko. Think I might have to get hard later. Just chop for me today. Another time.
+	159CABF9	100
+	148FF707	~z~Sorry, I didn't realize you went to bed so early. Must be having a quiet night. Later.
+	116A4DC8	~z~Want to go get drunk?
+	39CBD52E	~z~Can't do it right now. Just dropped a load of X and I'd probably have my hands all over the girls. Some other time, man.
+	5C6CEDFB	~z~You want go to the bowling alley?
+	599FE539	100
+	591AF256	~z~Niko, you woke me. I took so much chop last night I turned into a troll. Try me at four.
+	627C2520	~z~You want to go see something?
+	60B7FD4A	100
+	605BFAAE	~z~Darts? Fun as it sounds I might just beat one off to America's Next Top Hooker instead. Another time.
+	55143D9F	100
+	536E6071	~z~You got it, Packie.
+	527256A3	FCP_ACT_CALL_LIKEYES
+	58F372ED	FCP_ACT_PPK_CALL_BOWL
+	569B3B37	~z~Ladies, I'm sorry it was a one night stand.
+	560EE449	~z~Hey man.
+	6DCD0166	100
+	6B37C150	FCP_ACT_CALL_LIKENO
+	6AD226F7	~z~The prodigal fucking son returns, does he? Maybe your old friends have forgotten about you? Shit...
+	753006C3	~z~Bowling ain't my fix at the moment. I'm feeling the whiskey and easy college girl vibe. Call me later.
+	70166F4C	~z~Fucking darts a-fucking-gain. Sorry, Niko, not my scene. Another time maybe.
+	700FC1DE	010
+	66DAF445	FCP_ACT_CALL_BOWL_NO_GENERAL
+	661BB53D	FCP_ACT_CALL_SHOW_NO_RECENT
+	63004F11	~z~I'll wait at the house for an hour. Let's go see a fucking show.
+	67C799ED	FCP_ACT_PPK_CALL_SLEEPING
+	67A6FAB3	~z~Fuck, Niko. You wanna go back? I don't think I could take it. Maybe in a while.
+	66F6176B	FCP_ACT_CALL_DRINK_NO_RECENT
+	437E961D	~z~No darts for me, Niko. I've had my fix for now. Another time, maybe.
+	4374E880	~z~I'd love to, Niko but Ma's throwing a fit. I'd rather look at naked sluts but, another time.
+	4273C886	FCP_ACT_CALL_STRIP_NO_GENERAL
+	444CD0FC	100
+	444C40C4	~z~Packie, man, how are you?
+	439250EE	FCP_ACT_CALL_POOL_YES
+	3E8C862A	~z~A show? I got nothing better to do. Pick me up from the house in the next hour.
+	3E815E9D	~z~Can't look at strippers at the moment. Call me another time. Banks to rob, cars to steal, you know how it is.
+	3E159E67	FCP_ACT_ANSWER_PHONE
+	416F90D2	010
+	416A4A5F	~z~How could I stay mad at a loveable killer like you? Come get me in the next hour.
+	3F58AEE0	~z~Darts? Alright I'm in. Pick me up in the next hour.
+	50DF30DE	~z~I wouldn't play darts again so soon for all the snow in the Andes. Another time.
+	4E316363	100
+	4E2AFDF0	~z~Not right now, Niko. I don't trust me self around naked girls right now. Another time maybe.
+	5229604D	100
+	517861BA	FCP_ACT_CALL_POOL_NO_RECENT
+	513AAB86	~z~I couldn't imagine an Eastern European hitman at a Burlesque musical but why not? Pick me up in the next hour.
+	499F4860	~z~Why don't we go bowling?
+	48DC9FBA	~z~This is Patrick McReary, I probably don't remember giving you my number or who you are.
+	44A8D343	100
+	4CE2C52B	~z~You're never gonna get laid if you keep going to these clubs, Niko. Maybe I'll join you another time.
+	4C901AE3	FCP_ACT_CALL_SHOW_YES
+	4A044D9D	~z~Sure Packie, we have an arrangement.

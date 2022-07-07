@@ -1,0 +1,24 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6F28C499	~z~Thanks for your help but you aren't needed no more.
+	7B24FCFD	~z~Hey, for friends of Dwayne's you look alright. Nice to know he's not hanging with crack heads no more.
+	64D8D065	~z~Alright, stick to me and we should be okay. Come on.
+	6D44C0FD	~z~I think I'm going to lone wolf it from here on in. I'll write you a postcard or something.
+	7EF66460	~z~Alright, we had some fun, yeah? Now go get back to your wife and kids.
+	B5F590F0	DFBK_BA
+	B8E491AE	DFBK_AA
+	9DEDC28E	~z~If Dwayne says you're cool then you must be. Let's go.
+	B40CEECC	~z~You Dwayne's friends? Let's go have some fun.
+	157585E5	090
+	1A961B6D	~z~I've enjoyed your company, but I need to be alone now.
+	098C99CE	~z~I appreciate your help, guys. Remind me to thank Dwayne, okay?
+	0F7FA5B4	~z~Alright, It's party time! Let's hit it.
+	1DBF4233	~z~You guys are here to help. That's cool. Why don't we have some fun?
+	42988BE5	~z~Okay guys, you follow my lead and everything should be cool.
+	44C0FE35	090
+	28E1B810	~z~Alright, you've been a help, but I don't need you no more.
+	3518D072	~z~The party's over. Why don't you head home.

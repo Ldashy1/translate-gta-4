@@ -1,0 +1,48 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A758C070	Outlook
+	9FB9EB8E	~r~The car has been lost.~s~
+	B9CCF9AD	~s~Go pick up the ~b~Banshee~s~ from ~a~.
+	C2CBCBE3	The car door is locked.
+	BD623266	Schottler
+	8D20CCA8	Press ~PAD_X~ to focus on the bike.
+	8BBCA34B	The bike has been unlocked.
+	8FE22942	~s~Get in the ~b~car.
+	9D573040	~s~Park the car in ~y~Brucie's lockup.
+	9B74021E	You can take the vehicle to a Pay 'n' Spray to get it fixed.
+	CDD9E6E9	The more damaged a vehicle is, the less money you will receive on delivery
+	E6A4B1BF	~s~Go pick up the ~b~Patriot~s~ from ~a~.
+	E4E307FA	Goathead
+	EFEAD628	~s~Go pick up the ~b~Cavalcade~s~ from ~a~.
+	F9A63B54	~s~Go pick up the ~b~Sabre GT~s~ from ~a~.
+	F8AB359C	~s~Go pick up the ~b~Intruder~s~ from ~a~.
+	CFAE4A63	Beechwood City
+	CFA338C7	~r~The bike is too damaged to deliver to Brucie.~s~
+	DC21C69D	~s~Park the bike in ~y~Brucie's lockup.
+	E03F72F8	Press ~PAD_X~ to focus on the car.
+	DDEDC7AC	The car door has been unlocked.
+	32468DF1	~s~Go pick up the ~b~NRG900~s~ from ~a~.
+	2DFB243A	Meadows Park
+	3CCC9529	~s~Here comes the Owner.
+	452DCCAE	BOABO
+	41920555	~s~Leave the car and exit Brucie's lockup.
+	060DBDBB	~s~Go pick up the ~b~PMP600~s~ from ~a~.
+	028BBE2F	~s~Go pick up the ~b~Feltzer~s~ from ~a~.
+	18636668	Firefly Projects
+	2C548C0F	Chase Point
+	196575A2	~r~The car is too damaged to deliver to Brucie.~s~
+	482B0ECF	~s~Take the car to ~y~Brucie's lockup.
+	64EA8FCE	~s~Lose your wanted level.
+	5EEBC1FE	~s~Go pick up the ~b~PCJ600~s~ from ~a~.
+	6FADC511	~s~Go pick up the ~b~Sanchez~s~ from ~a~.
+	89078BA1	Cerveza Heights
+	6FED2627	The bike is locked.
+	5102207D	~s~Take the bike to ~y~Brucie's lockup.
+	4FA2A176	~s~Get off the bike and exit Brucie's lockup.
+	51AE3C70	Meadow Hills
+	5D374050	~r~The bike has been lost.~s~
+	5AEF3F59	~s~Get on the ~b~bike.

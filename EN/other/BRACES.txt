@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BB3D184A	Get back in the car.
+	BB72C767	Go
+	B4AA9527	1
+	92D88D34	Lose your wanted level, or the race may be abandoned.
+	967F991D	2nd
+	F6E4FEE5	Line up your vehicle.
+	FAF187C6	Get a suitable vehicle.
+	CE5E117A	5th
+	C4C9FDC6	Go to the ~y~start line.
+	CA99824B	1st
+	3577DCA8	4th
+	46299390	3rd
+	2F4AAAFC	~r~Race abandoned.
+	02D1592B	~r~The cops scared off the other racers.
+	1D330B7C	6th
+	6F68E144	You win.
+	8E08CB2A	Get a vehicle and get to the ~y~start line.
+	6638785C	3
+	55DA57A0	2
+	58973FFA	~r~You lose.

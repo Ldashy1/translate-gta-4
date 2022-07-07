@@ -1,0 +1,22 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8966D73A	~s~Meet ~b~Johnny~s~ at the side entrance to the Libertonian.
+	9CC4FDF6	~s~Come back between 9pm and 3am.
+	6A98199D	~s~Go to the ~y~Libertonian~s~ between 9pm and 3am.
+	84394C8B	~s~Lose Isaac's crew.
+	DC2FC5E8	~r~Mission Failed.
+	F0EA2643	~s~Go back to ~y~Ray.
+	A8EA702C	~s~Placeholder Cutscene.
+	C6A59AD4	~r~Johnny is dead.
+	35D72FC8	~s~Flee the museum before the cops arrive in full force.
+	3817B49D	~s~Lose your wanted level.
+	1F34CBF5	~r~You attacked Johnny.
+	2D81688E	~r~Johnny has been injured.
+	556D6F48	~s~Meet Johnny at the side entrance to the ~y~Libertonian.
+	64B745C1	~s~Mission Passed.
+	3F134294	~s~Escape the ~y~Libertonian.
+	546C3663	~r~Isaac is dead.

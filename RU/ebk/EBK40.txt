@@ -1,0 +1,37 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BDDE4DE8	ЗАГЛУШКА
+	C86D42C8	ЗАГЛУШКА
+	CB9CE965	ЗАГЛУШКА
+	BCFF2BEC	ЗАГЛУШКА
+	835B855E	привет 7
+	A714C803	пока 7
+	B6F2E7BF	пока 6
+	D3B80A34	ЗАГЛУШКА
+	F5B334C2	ЗАГЛУШКА
+	FDC4FA2F	привет 1
+	FDF475C1	пока 2
+	EFCA596D	пока 3
+	E15EBC96	пока 4
+	E60BAEDB	ЗАГЛУШКА
+	EF565D52	привет 2
+	7B116FF9	пока 1
+	11AFA208	привет 5
+	1C389B50	ЗАГЛУШКА
+	217E8614	ЗАГЛУШКА
+	075A088C	пока 0
+	018B65F6	ЗАГЛУШКА
+	02DD045F	привет 0
+	045E0765	привет 6
+	27E4CE72	привет 4
+	4894A125	ЗАГЛУШКА
+	4F82E860	ЗАГЛУШКА
+	5A7944EE	ЗАГЛУШКА
+	36236AEF	привет 3
+	2E2E3F3B	ЗАГЛУШКА
+	2FC2229B	ЗАГЛУШКА
+	340E61F4	пока 5

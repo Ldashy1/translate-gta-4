@@ -1,0 +1,384 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A5D5F688	~z~They ain't gonna try that again.
+	A64C2BD6	DM2_AA
+	A5904C87	~z~Get closer to him, Niko.
+	A29FEB71	DM2_A_KA
+	A3781F3D	DM2_BA
+	A663124C	DM2_DE
+	ABC83582	~z~Thank you Mr. McReary. Not such smooth journey.
+	ACA70581	~z~I haven't felt safe since Aiden O'Malley went inside.
+	AB0B9F69	~z~From what I hear, Aiden still rants about me to anyone who'll listen.
+	A7F5788E	DM2_DO
+	A8E98ADE	DM2_HA
+	A1C3DD80	~z~They're coming at us head on, Niko.
+	9BD56723	~z~You were meant to use that on choppers. Not the guy we're protecting.
+	9D1A3D85	DM2_CA
+	9A67321C	~z~Is that because he's coming into the country to rob the good people of America of their hard earned money?
+	97BF6D59	DM2_EG
+	988500E2	DM2_LA
+	9EA6338E	DM2_TA
+	A108A37F	~z~That's what everyone in this country wants, right?
+	A1A9B8BB	~z~Incoming. More fucking Coastguard.
+	A0F03D37	DM2_IE
+	9F9A0886	~z~Anyway, I figured you'd know a thing or two about smuggling stuff into the country.
+	A0D77C4D	DM2_ID
+	ACD07B37	100
+	B9FEE04A	~z~You Park's boy?
+	BA07BD65	~z~This is a country founded by immigrants.
+	B7E2247C	~z~I ain't burnt out yet.
+	B6ABCC08	DM2_JA
+	B6AEF424	~z~What is this? Get me back to solid ground.
+	BBBF7750	DM2_WA
+	BDA77115	100100010100
+	BDDCFC6F	~z~Check right, Niko.
+	BC76A724	DM2_EN
+	BBD75934	DM2_AC
+	BC56F17A	DM2_JH
+	B5CE6A33	~z~He's going to wish he never left home.
+	B00FFC78	~z~Good shooting, kid. Take charge of her again, will ya?
+	B075A165	100010
+	AFD3D50F	~z~They got the whole navy out tonight!
+	AD4103E1	DM2_EJ
+	AF9F0A1E	~z~I wouldn't fuck with you, Niko.
+	B075BB75	DM2_A_OOA
+	B47C9875	~z~Don't shoot Kim. The fucking notes might catch fire.
+	B5AECCCB	~z~Shit, there goes pay day. At least he died rich, eh?
+	B3250E7D	~z~This is a Korean guy I did business with back in Ireland.
+	B2779BD7	100
+	B27E90F4	DM2_EL
+	8165F02D	~z~Another immigrant, arriving in this city, trying to make something of himself.
+	817C81B9	~z~Kim, we got you and them notes looked after.
+	815CAFD1	DM2_EM
+	80887FCD	~z~Don't worry Kim, we're looking after you.
+	809CB4E5	~z~My contact's at these coordinates.
+	830C822A	~z~Shit, they off to the left.
+	8A2F3BEF	~z~Nothing like thieves thieving off a thieves.
+	8A51F2A6	~z~Don't put all the pay off up your arm, Derrick.
+	88626A6E	DM2_FD
+	86F069D1	~z~The bastards are firing from the shore.
+	876EB76D	~z~I don't know. I told my dealer I was good for the money I owed him.
+	8023A887	~z~They're cutting you in on this deal?
+	78389802	~z~I guess someone tipped these guys off.
+	78E607B3	DM2_IJ
+	77759EB7	DM2_RA
+	760F9308	100
+	76FDC9EC	~z~Christ alive, they're attacking from the shoreline.
+	79CF6FB0	~z~Eyes left.
+	7EC319DF	~z~Good thing your aim is steadier than mine. You can drive the boat again now.
+	7F73EB04	~z~I don't give a shit if this thing sinks, we got to protect him.
+	7D8AFC80	DM2_UA
+	7A306DCA	~z~Shit, it's an air raid.
+	7C25564D	~z~Only place for it, me boy. Only place for it. See you soon.
+	8A5D499A	~z~Doesn't look like the arrival of these notes was such a secret. Can you think of why that is?
+	93D151F2	DM2_DL
+	93F426A4	~z~Hold tight, Kim.
+	93761C54	~z~Jesus. Here are the reinforcements.
+	92CF7389	DM2_DF
+	932D5137	~z~You're a good man to have on side, Niko.
+	9442C543	100100100
+	962BB31E	~z~Shit, man. I'm jonesing a bit. Bring me back to land.
+	96EB72BA	~z~I thought you was taking me to the coast? See ya, man.
+	95C9AA53	~z~This is nothing, Kim. You and them notes are gonna be fine.
+	94882FF0	DM2_KA
+	955326B7	~z~Port. Port. Look left.
+	922105B0	~z~Get me back to land. I'll give you a call.
+	8DA56381	DM2_DC
+	8DA61A08	~z~Fuck, imagine who'd turn up if it was real notes he was bringing into the country.
+	8CD896FF	~z~When you put it like that, he reminds me of a McReary. Good luck to him.
+	8B694CB3	100
+	8CD7DD3A	DM2_EF
+	8DC018B0	DM2_QA
+	917FDBDE	DM2_A_HC
+	91E94C12	~z~Nice scam if you don't hit the same place too often. His boys are pulling the same gig over here.
+	90E52331	~z~Don't leave him alone out there, Niko.
+	8F4F536E	~z~We got to make sure these notes make it, just to piss off Frankie if nothing else.
+	8FF39D37	DM2_A_LA
+	BE1E71A4	~z~Here come some Fed boats.
+	EE5EC909	~z~Yeah, welcome to America. We're meeting your friends in Bohan. I'll text ya the route you got to take.
+	EEAA85D7	~z~Or fate?
+	EBA313FF	DM2_EH
+	E969A85A	100
+	E9705176	~z~They're punishing him out there.
+	EEBBA6C8	~z~What's that mean?
+	F11FB7C9	~z~I never get tired of this shit!
+	F3C36E4C	~z~Come on, Niko. I didn't sign up for no pleasure cruise.
+	F0D437B4	DM2_FC
+	EF6092D7	100
+	EF7824A5	100
+	E8A6D2B3	~z~Kim needs help, Niko.
+	E4CC884A	DM2_GD
+	E50B4ACB	~z~Eyes to the starboard bow.
+	E42F0FF9	100
+	E304CCCF	~z~Come on, man. I thought you was taking me back to land?
+	E30F03AF	DM2_GC
+	E5252B66	DM2_JI
+	E7700862	~z~Eyes aft, Niko.
+	E7E79240	DM2_EC_QQQ1
+	E69A7CCB	DM2_DM
+	E562E4C5	~z~Dead ahead, me boy.
+	E58672A4	~z~Fuck, imagine who'd turn up if it was real notes he was bringing into the country.
+	F3F12409	100100100010100100100
+	FD0AB556	DM2_GA
+	FD43EAA1	100
+	FC7E424D	~z~You're illegal, right? You think us McRearys was legal when we came here?
+	FAC34851	~z~Sort your shit out. Get back in the boat so we can look for Kim.
+	FC3DFCC1	100
+	FE158582	~z~A brother like that. Jesus.
+	FF6EFDAF	DM2_IF
+	FFD6448E	~z~I ain't going for a swim with ya, Niko. Later on.
+	FF2B7CEC	~z~Kim ain't looking too good.
+	FE1EF411	DM2_JE
+	FF2926D4	~z~Maybe a few people at the pub I borrowed money from, as well. You'll say anything for a fix.
+	FA399069	~z~Him and them notes ain't gonna do shit for us no more. Let's go back to land.
+	F65FED74	~z~Look right, me bow.
+	F7663512	100010100010100010100100100010100100100100010100
+	F607956B	DM2_A_IA
+	F46E3057	DM2_A_AA
+	F4A678BF	DM2_EP
+	F7C342BE	100
+	F9F61C2A	~z~Counterfeits. They look so good you wouldn't spot 'em in a month of Sundays.
+	FA07C74D	~z~We've got a what?
+	F86A4E44	DM2_JB
+	F7DF9BFD	~z~We came together for a cause we believed in.
+	F83B71DC	~z~Jesus, Niko. Don't let him hang like this.
+	C81600B1	DM2_A_BF
+	C83D59D0	~z~People who'll beg, steal and borrow to get ahead.
+	C73B767C	~z~Shit, Niko. Our boat's about to fall apart.
+	C6B016BC	~z~And Frankie's the biggest damn rat I know.
+	C6B72920	DM2_YC
+	CABEF11E	DM2_JF
+	CC577914	DM2_AB
+	CCDE8162	100
+	CB93432D	~z~At least I thought I believed in it. I was young.
+	CAD33481	DM2_HB
+	CB2DB15A	DM2_ER
+	C6130274	~z~I'm gonna go drown my sorrows. I'll speak to you soon.
+	C1318498	DM2_NA
+	C1A8CA0E	100
+	C0F6DFDF	~z~Yeah, got a bit hairy out there. Good thing you have your sea legs.
+	BF31777C	DM2_VA
+	C05418F2	DM2_IH
+	C20EAEFD	~z~You done this before, Niko?
+	C56032F3	~z~What's happening out there? I didn't think you had many friends left.
+	C5E1B44A	~z~You sound like my mother.
+	C4B5E226	DM2_A_DA
+	C48BC8F5	DM2_GE
+	C494A43B	DM2_DI
+	CCE4C4A9	~z~You know how to handle yourself, Niko.
+	DD9510B4	~z~This is what gets me out of bed in the morning!
+	DDBA3B1E	100
+	DBAEB5F3	~z~He's earning that money alright.
+	DA60E0F4	~z~Who's Aiden?
+	DB025E89	202
+	DE7367C6	~z~They shouldn't a messed with you.
+	E2DDA965	100
+	E3037921	100
+	E1278BA0	~z~I know how it feels to be betrayed.
+	DF119754	DM2_A_CA
+	E0DC4102	~z~He's taking a beating.
+	DA3A6BD2	DM2_IA
+	CFD974B5	100100
+	D0CA285A	~z~I'm starting to get sea sick, Niko. Take me back to the coast.
+	CEE06E47	~z~Damn, looks like Kim's fish food.
+	CD7F012B	100
+	CE7081AC	100
+	D40745C9	~z~Sink those bastards.
+	D8C1A878	DM2_A_MA
+	D949EA5D	DM2_A_HD
+	D7B8D709	~z~I guess these guys want a slice of Kim's pie.
+	D43AB1D1	~z~Sure, I been telling a few people about this, but, hell, I smell a rat.
+	D6BBACC1	~z~Not such a warm welcome, is it?
+	25BA0026	~z~You got in me way.
+	26794BB6	100
+	24B0589A	~z~Niko, me boy. Packie tells me you got some sea legs on ya.
+	23FD5A58	DM2_DK
+	2444247A	~z~More on the coast. They really want to take us down.
+	2740030A	~z~Good thing the DTs ain't come in yet.
+	2B6E2030	~z~Needless to say, he'll be inside for a time. Him and Bucky think I talked.
+	2DA27021	DM2_IG
+	2ACE28D9	~z~A rocket launcher. It's in the back. Get rid of the chopper with it. I'll drive the boat.
+	286657FC	DM2_MA
+	2A6F21A6	DM2_DG
+	23812F0A	~z~I don't reckon this vessel will hold up much longer.
+	1F0951ED	~z~Get in the boat, me boy. You're the skipper of this little vessel.
+	200D4B97	~z~Christ, the notes may be fake but these bullets ain't. Get closer to Kim.
+	1DEE8F1A	~z~Shit, they're sending the fucking airborne cavalry after us as well.
+	1DAC84AD	~z~Yeah. So Aiden got caught with something when he was somewhere he wasn't meant to be.
+	1DE5AFBB	DM2_A_BE
+	20AB5F79	100
+	22BF4ED5	~z~If the shoe fits, Niko. If the bloody shoe fits.
+	235772EC	~z~Escorting a Korean contact of mine into the country with a boat load of fake hundred dollar bills.
+	2295C3C0	~z~I don't reckon he's gonna hold up much longer.
+	20BFADCA	~z~Yes, I Kim. You Derrick?
+	21C46142	~z~Come on, get 'em.
+	2DCCC991	100
+	3862B9E6	DM2_HC
+	38F31C5F	DM2_EK
+	3791175F	~z~Wanted a local to escort their boat into the harbor.
+	36665A33	~z~This deal should mean I can take care of me self.
+	36DC8721	DM2_YA
+	397EA787	~z~I may be jonesing but I can still shoot straight.
+	3AE84B59	~z~Thank you.
+	3B2477B1	~z~Think of them notes, Niko. Protect Kim's boat.
+	3ADA41B3	DM2_FA
+	3984A7BB	~z~McRearys don't fuck about.
+	3A47CDE2	DM2_JD
+	360D9A94	DM2_DP
+	2EFB88BD	~z~You doing me proud, Niko.
+	2F4CADED	DM2_A_NA
+	2EFB83A4	010100100010100100100010100100100100100010100100100100
+	2E020411	DM2_DJ
+	2EC709CB	~z~Yeah, you were out of it.
+	303AF450	~z~You're manning this yacht for us, Niko.
+	3565341E	~z~They make these things in North Korea and have to ship 'em out here.
+	359A9383	DM2_JJ
+	350A9413	~z~Me brothers were right to trust ya, Niko.
+	30850C78	~z~You got a fucking death wish?
+	3090EA78	~z~So, is Francis the only explanation for this shit?
+	0AD85705	DM2_ED
+	0B2AA141	DM2_GF
+	0A5BBF92	~z~Nice one, me boy.
+	08113C60	~z~Me, Bucky and Aiden, we all cared about the same stuff.
+	094F4219	~z~Watch it, we're meant to be protecting Kim, not sinking him.
+	0B9A67A5	DM2_A_NB
+	0D9D3F3B	DM2_A_BA
+	0EC45DC9	DM2_EI
+	0D799C58	~z~He's paying for protection, Niko. Protect him, why don't ya.
+	0CD422FF	~z~It's like fucking Cain and Abel the two of us. No wonder I turned into the wreck you see before ya.
+	0CDA35AA	~z~Shit, we let the poor kid down.
+	0807CC70	DM2_GB
+	01E1217C	~z~Drop that chopper, Niko. Come on.
+	0236CCA2	DM2_EC
+	01AD3A7A	DM2_A_HA
+	00FEB833	010100100010100010100
+	013C032C	~z~Check right, me man.
+	025B9892	~z~Take charge of her, won't ya Niko.
+	0668D622	~z~You got that look about you.
+	079B057F	~z~There's only one thing that's gonna make me forget about this fuck up. See ya.
+	051C5ABA	~z~That ain't good news. Take me back to land.
+	029634B5	~z~A whole lot of money and a good Korean kid ain't around no more because of you.
+	038967B2	DM2_XA
+	0ED4453F	~z~Shit, can't they let us go about our activities in peace.
+	18A43A3E	100100
+	19785B72	~z~I wouldn't know.
+	17E2029A	~z~Don't tell me you dropped something overboard.
+	15ACF4AE	~z~It's the life blood of the place, people forget that.
+	16EC206F	100010100100010100
+	1AEF5CA6	100010100
+	1D107F02	~z~I guess I'm driving myself back. Bye.
+	1DA212B3	DM2_FB
+	1CD8B846	~z~Fuck, that boat ain't looking too fresh.
+	1B8B387B	~z~Come on, me boy. Get closer to Kim.
+	1CB4A65F	DM2_A_FA
+	15AA720D	DM2_DD
+	1161CEFD	DM2_DN
+	11824F42	~z~As long as the ones he's paying us with are real, it doesn't matter.
+	115C8AC1	~z~Jesus, I think this ship's about to go down with us in it.
+	0F321CF9	~z~Shit, I think he ain't gonna last much longer.
+	1053D030	~z~Get over it, Derrick. He was a smuggler and the cash was fake. I'll see you around.
+	127A80E7	~z~This is a full on land and sea assault.
+	1399DBEA	~z~The old dog still got some tricks.
+	13D670FD	~z~Couldn't see no other way how he got caught.
+	135D2823	~z~Shit, Niko. The Korean and his notes need our help.
+	12C5A63F	~z~On the right, boy.
+	12E16F13	~z~I don't give a shit as long as it keeps me in brown, you know.
+	3B2B21C4	~z~What the fuck are you doing?
+	5ECEFA55	100
+	5FD3CE68	100100010
+	5ECAF716	~z~They're behind us.
+	5E2CE71F	~z~That showed them.
+	5EC8E8FF	~z~You trying to fucking sink us?
+	5FF57393	~z~We're rendezvousing out at sea. This is the place.
+	626B77F1	100
+	62DE31D9	~z~What the fuck is this?
+	61E2D51E	120210120120
+	60434FBF	~z~Meet me at the jetty off a Rand Avenue. I need some help with something.
+	60979F32	~z~That's all you can hope for in this God forsaken world. See you round, Niko.
+	5D92A3AC	DM2_A_JA
+	59B315B8	DM2_JA_QQQ1
+	5A2BF927	DM2_EE
+	591A23E3	DM2_A_BC
+	58A06095	DM2_EO
+	58FF9A0A	~z~Looks like we're about to end up in the drink, Niko.
+	5AC403D6	100
+	5CFDD3F5	~z~They're off of the fore deck.
+	5D1B6EC0	~z~Bastards.
+	5C68E152	~z~Could be a coincidence anyway.
+	5BBB80C6	DM2_EB
+	5C596D64	~z~Sorry, fella.
+	63EE4146	~z~They're buzzing like hornets up there, Christ.
+	6FEFCE39	~z~It's in the hands of the Lord now.
+	70BA9B10	DM2_IC
+	6FDEF1D9	DM2_II
+	6ECD3B9D	~z~I hope the rest of your time here is more peaceful.
+	6FD6AA38	DM2_DH_QQQ1
+	711334FB	~z~What the fuck are you doing?
+	753F60CA	~z~Shit, I hope me dealer will front me another dime bag. I'll call ya, Niko.
+	75781380	~z~How'd they know we were here?
+	750F39FB	DM2_PA
+	7368552B	DM2_A_BD
+	74EB83D0	~z~Eyes to the front, man.
+	6E18A580	DM2_DB
+	6785CB1D	~z~Check the portside.
+	6829788F	~z~Over there, we used to buy 'em off him off of him then exchange 'em for genuine currency.
+	661AE5AD	DM2_IK
+	64A6B4E2	DM2_A_FB
+	65EA3936	~z~When this is done I won't have to leech off my brothers no more.
+	6948C7F6	~z~Fuck! You'd think the Coastguard had drowning kids to save.
+	6DC5C7A8	~z~I'd rather swim home tonight than come back tomorrow to dive for those notes.
+	6DD3C3AE	~z~I think we're springing some leaks.
+	6A37881B	~z~Our meet is at this location.
+	6978DC4B	~z~I didn't think he even knew I was back. Can't the man just let his brother be?
+	6A10EE1B	~z~Right in front of us, Niko.
+	42A31163	DM2_EQ
+	430A0226	~z~They're on the left.
+	425C578E	~z~Get back in the boat.
+	41BF8401	DM2_OA
+	4202133D	~z~Shit, Derrick. You sound almost like a human being. I might just see you there.
+	430C3255	~z~I owe ya an apology, Niko. I was dosed when you told me you'd killed Bucky and his boys.
+	491D13A2	~z~You can't leave those notes out there without protection, Niko.
+	498B8C79	~z~Jesus, helicopters ain't my idea of fun.
+	44A5B188	~z~Super Notes?
+	4394AEB5	DM2_A_BB
+	4423D19B	~z~I've heard it's some government funded operation.
+	41BCDF6B	~z~Shit. They're on the coastline. Can't even dock here.
+	3CA3F339	010100100100
+	3CF92ECF	~z~Fucked if I know. Maybe me phone's tapped.
+	3C4E6603	~z~Providing it goes to plan.
+	3BD6F1C4	DM2_JG
+	3C3564B5	~z~Best way to avoid checks. We'll cover your rear.
+	3E4A8B04	DM2_SA
+	41443C09	~z~Check aft... behind... the rear.
+	418BF838	DM2_A_EA
+	40F27F2C	~z~Seems like a good kid, reminds me of you actually.
+	3F95D268	~z~Good thing we got a rocket launcher with us.
+	3FAF342B	~z~Maybe Frankie has been tapping Ma's fucking phone and he called this in to mess with me.
+	4AD9CA3D	~z~Fuck you all.
+	5667E0FD	100
+	5668550D	~z~He's bringing Super Notes into the country tonight.
+	559B7E0C	~z~You got better things to be doing than take a swim, Niko.
+	545AA631	~z~Fuck, he's come all this way and it looks like he's gonna end up in the drink.
+	54A774FA	DM2_DH
+	569AA5A5	DM2_A_EA_QQQ1
+	584929F4	~z~I wasn't prepared for this type of attack.
+	5863F66D	~z~Here we are. Got him here in one piece. That was the deal. Thanks, Niko.
+	582B9DB9	~z~Brings a tear to my eye.
+	56FD6676	DM2_IB
+	578264A2	~z~It ain't personal.
+	539E3ECD	DM2_ZA
+	4D56A592	010100100100
+	4E33D4E6	DM2_A_HB
+	4C9DEEC4	~z~Thanks.
+	4BCC511D	~z~Look out, they're coming from behind.
+	4BF5516B	~z~Shit, look to the rear.
+	4F244B3F	210120120100010100
+	527A9E5F	~z~The fucks have gone airborne.
+	52C140EA	DM2_YB
+	52674E74	DM2_JC
+	500BE96B	~z~This was a while ago then?
+	512D0E77	~z~Think I gotta clue? Use our boat to shield Kim from these fuckers.

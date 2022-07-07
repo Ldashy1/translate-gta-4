@@ -1,0 +1,47 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ADB85CD6	100
+	A448E4C2	100
+	BB214D19	~z~Bye!
+	C84B2B07	~z~I ain't serving you no more.
+	BB2310B7	~z~Ay, get outta here man!
+	9F5D7C84	~z~There.
+	9E55400A	100
+	9FF6FDCB	~z~Here.
+	A27282C2	~z~Here it is.
+	A1B02233	FFD_THANKS
+	E8A4AF35	~z~Gracias.
+	E3CB7960	~z~Hi, welcome to Burger Shot, how can I help you?
+	EF32DA9C	~z~Hi, what can I get you?
+	FB82D974	~z~Ay, man, now I gotta clean that shit up!
+	F0E17C33	~z~No way, I ain't givin' you no more food.
+	D4426661	~z~Here you go.
+	CC07B816	~z~Hi, welcome to Cluckin' Bell, what can I get for you?
+	D6B1DF2D	~z~Thanks for choosing Burger Shot, where the burgers are bleedin' tasty.
+	DE765CF3	~z~Hello, welcome to Cluckin' Bell, how can I help you?
+	DA5F92AB	~z~Thanks!
+	9007C785	100
+	105EF4A8	FFD_BURGER_BYE
+	0A2A908B	~z~Yes, what can I get you?
+	108ED1BE	~z~Bye, thanks for eating at Burger Shot.
+	36A8CFBF	~z~Ay, hombre! That is disgusting!
+	3311D56F	100
+	01107E53	~z~Hello, are you ready to order?
+	00E57E01	~z~Hi, how can I help you?
+	03F88674	100
+	0625BCEC	~z~Goodbye, have a nice day.
+	052699EE	100
+	7228DACA	FFD_CLUCK_HI
+	664A92A6	FFD_FOOD_PLAYER_SICK
+	73FE5BCA	FFD_BURGER_HI
+	83F70DA6	FFD_FOOD_BOUGHT_ENOUGH
+	74DEEAC4	FFD_CLUCK_BYE
+	3A6BD3E2	FFD_FOOD_SERVE_MEAL
+	37FC3E14	100
+	490E3E6E	FFD_FOOD_WHAT_WANT
+	62AD3694	100
+	5CF190BB	~z~Goodbye.

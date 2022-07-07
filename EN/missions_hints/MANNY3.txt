@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BDF19756	~s~Go to the ~y~Algonquin Bridge.
+	BF207FA9	~s~The target didn't get off here. Follow the ~r~train~s~ to the next station.
+	923F1341	~s~The ~r~train~s~ has stopped.
+	85898426	~r~The target got away.~s~
+	8B36A1EF	Hold ~INPUT_VEH_CIN_CAM~ to focus on the train.
+	DFF2E086	~s~Take out the ~r~targets.
+	F002629B	~s~Get closer to the ~r~target,~s~ or you will lose them.
+	C8A38260	~s~The ~r~target~s~ got off the train.
+	C13CDD0D	~s~Get closer to the ~r~train,~s~ or you will lose it.
+	C4E79550	The chase camera will focus on the target you are pursuing allowing you track their movements.
+	247F2390	~s~Get closer to the ~r~targets~s~ car or you'll lose him.
+	536011B7	~s~Keep close to the ~r~train~s~ and follow it as it goes over the bridges.
+	1EE11AE3	~s~Drive to the ~y~Algonquin Bridge.
+	116700FA	~s~Get in a vehicle.
+	1337E5F3	~s~The ~r~target~s~ got into that car. Follow him.
+	7A69CF64	~s~You are too close to the ~r~targets~s~ car, back off.
+	7EFE490D	~r~You lost the train.~s~
+	715FFB40	~s~Go to the ~y~Algonquin Bridge.
+	56402DEA	~s~The ~r~train~s~ has stopped.
+	6479B3EA	~s~The target is on that train. Follow the ~r~train~s~ and take him out when he gets off.

@@ -1,0 +1,266 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AAEBFA9D	GCA2_ALEX_FILMMAKER_DC
+	AB26A343	~z~So, Niko. Do you want to tell me about yourself? I cannot believe we're going on a date and we don't even know each other.
+	A901F686	100100100100010010100100100100100010100100100010
+	A92439FD	GCA2_ALEX_FILMMAKER_DQ
+	AFC8FE9A	GCA2_ALEX_FEMINIST_GF
+	AFDA21A5	GCA2_ALEX_FILMMAKER_DF
+	AC827666	~z~I was trying to figure out why it was that I related to you so easily. That must be it.
+	ACA4DF94	GCA2_ALEX_NOVEL_EN
+	A24F69C8	~z~Yes.
+	A45A33CC	~z~I mean, I pick you up and I don't give a shit what my Mother will say, or what friends think.
+	9FCA7F5A	GCA2_ALEX_COLLEGE_CM
+	9FF3D74D	~z~The other day, I met this guy and I slept with him, and I wrote about it on my blog.
+	A82820F5	GCA2_ALEX_FILMMAKER_DK
+	A8E2CE30	GCA2_ALEX_COLLEGE_CD
+	A46733E2	~z~Doesn't your father pick up your credit card tabs?
+	A670F0B3	GCA2_ALEX_FILMMAKER_DD
+	B99CD846	~z~Next thing I know I've seen three pairs of shoes that I have to have and it's time to call Daddy and get the limit on my credit card extended.
+	BB550260	GCA2_ALEX_NOVEL_ES
+	B6499640	~z~Gee, thanks.
+	B8C30F2F	GCA2_ALEX_NOVEL_EA
+	BBCC4415	GCA2_ALEX_FAMOUS_BG
+	BE13836C	GCA2_ALEX_NOVEL_EE
+	BB77F731	~z~But, mostly I'm my own muse. I mean, I'm going to be an important person. I think I'll change the world.
+	BB811158	GCA2_ALEX_BLOG_HC
+	B1C02DFF	GCA2_ALEX_COLLEGE_CH
+	B2088DD2	~z~Have you been reading my blog? It was really funny this week.
+	AFE422EB	~z~Well, that's not the point. I mean, yep, narrative is dead. It's done. It's all about living.
+	B07FCD6D	GCA2_ALEX_BLOG_FO
+	B5688236	~z~Did you write a book?
+	B5C8D960	GCA2_ALEX_FEMINIST_GK
+	B2F63D4D	GCA2_ALEX_FAMOUS_BM
+	B496F2E7	~z~I'm always fun. I'm a fun person.
+	9DABA064	~z~I mean, some people from here have a tough time getting work too.
+	83CD06E8	GCA2_ALEX_MOVIE_FC
+	849CD04C	GCA2_ALEX_INTERESTING_AJ
+	838B3D6D	GCA2_ALEX_NOVEL_EG
+	83BA07CB	GCA2_ALEX_INTERESTING_AC
+	88869AC7	~z~Sure.
+	88AA5E47	~z~It's not like I haven't been on a date like this before. I mean I've picked up guys on craplist and on dating sites but
+	87B0DCB6	GCA2_ALEX_FAMOUS_BQ
+	880B1858	GCA2_ALEX_NOVEL_EF
+	7A1243FA	~z~I had to expose my deepest thoughts to the public and that's when I created the Liberated Woman blog.
+	7A14C184	~z~Oh, that's actually a quote that I've already used on my blog. What piece of my life do I want to show you first?
+	742B7FBD	~z~Cool.
+	781EFBD8	GCA2_ALEX_BLOG_FK
+	80356E80	GCA2_ALEX_FILMMAKER_DR
+	8174CC41	~z~I know what they want and what they're feeling. How is some professor going to be able to give me a grade on what I already know?
+	7D26FA9C	GCA2_ALEX_MOVIE_FB
+	7F680E5F	GCA2_ALEX_BLOG_HJ
+	9635977F	~z~I mean, I'll do that myself and I won't rely on men to get me what I need.
+	96E3889C	GCA2_ALEX_FILMMAKER_DM
+	905A6A0C	~z~I mean, you know, I really understand people already.
+	96149741	~z~Oh he doesn't count. He's not a man. He's Daddy. I'll have any man I want to. Young, old, American, European. Like you,
+	9A453E44	~z~I'm going to be famous. But not just for no reason, seriously.
+	9C5F7BE2	~z~Not much.
+	971D489D	~z~I'm sorry. Man, we're going to have the best time.
+	997F6835	GCA2_ALEX_NOVEL_EH
+	8B9DE711	~z~It's as much a part of me as an arm or a leg.
+	8BF49C07	GCA2_ALEX_NOVEL_EB
+	8973237D	GCA2_ALEX_NOVEL_EP
+	89E1FA37	GCA2_ALEX_INTERESTING_AB
+	8F6EEC38	~z~Letting them see pieces of your life but not the whole picture.
+	8F9C4462	~z~Yes - I always knew I'd be a film maker. I have a very strong visual sense.
+	8CF4DD0D	~z~Oh, what would you know about this stuff?
+	8F6703DB	~z~It must be so hard for you finding work and stuff in Liberty. I am told immigrants have a really hard time here.
+	EAB41EBE	~z~College parties are just for losers who don't get let into Maisonette 9.
+	EBB5D62D	GCA2_ALEX_COLLEGE_CB
+	E9AC77B3	GCA2_ALEX_BLOG_HO
+	EA3E97AB	~z~who wants a movie?
+	F24CB18E	~z~Some people make it difficult, yes? What do you want me to know about you?
+	F29C3728	GCA2_ALEX_FAMOUS_BL
+	EFD72E46	GCA2_ALEX_FAMOUS_BE
+	F0132FC6	GCA2_ALEX_FAMOUS_BF
+	E45A9C72	~z~I mean, I will go out and order the most expensive thing on the menu. And I'll buy
+	E4AB1812	~z~Thanks... yep - I'm an intellectual. I mean, I haven't gotten going yet, but I am.
+	E2CAB0E6	GCA2_ALEX_FEMINIST_GM
+	E41E1531	~z~I don't know. I'm not from here. I'm trying to get through life in a strange country but it isn't easy.
+	E69134A8	~z~Oh, I write a thread called Liberated Woman on blogsnobs.org.
+	E984394C	GCA2_ALEX_FILMMAKER_DT
+	E61D1473	GCA2_ALEX_INTERESTING_AK
+	E673F210	~z~Fuck easy. I'm an artist.
+	FB3D726F	GCA2_ALEX_MOVIE_FF
+	FC7DF93C	~z~You live! You don't think! And that's beautiful.
+	F8EDBB31	~z~Yeah, and I couldn't stand to be away from Liberty either.
+	F954E036	GCA2_ALEX_MOVIE_FP
+	FF9463EC	~z~I went to college, I was going to be a psych. major but I found it too easy.
+	FF9B969F	~z~Well, I've been blogging, and I've been doing a lot of web 2.0 shit. And I've... I've... well all kinds of crazy things.
+	FE9AE84C	~z~I won't let consequences hold me back from the moment.
+	FEE1C3B0	GCA2_ALEX_INTERESTING_AM
+	F5F22D0C	GCA2_ALEX_COLLEGE_CL
+	F6193FEF	~z~Okay well that's sick. You don't get what I'm saying. I mean -
+	F3EE4D50	~z~I haven't had any trouble. It's not just because I've never had a paying job, because I'm an intellectual.
+	F46CD05F	~z~I'm from Middle Park West, I've never thought about leaving Liberty City.
+	F8043336	~z~Did the funding fall through?
+	F88F9186	GCA2_ALEX_FEMINIST_GE
+	F6BFF15B	100100100010010100100010100100100010100100010
+	F776989D	~z~He told me what was so amazing about my writing was that it was funny and tender and heartbreakingly original,
+	DEECBE1A	~z~Yeah, I mean something like that.
+	CC0B95A1	GCA2_ALEX_COLLEGE_CC
+	CC14A1E2	~z~Good.
+	C9C293C6	~z~Like Stalin.
+	CBDC7CC5	~z~Not really what I meant. So, you got a fancy college degree that gets you noticed?
+	CF79625F	GCA2_ALEX_COLLEGE_CJ
+	CF956363	GCA2_ALEX_FILMMAKER_DH
+	CCD884C8	~z~Anyway, the more stuff I do the more I have to write about in my blog... and I'll put it in my novel too.
+	CD8EE6BC	GCA2_ALEX_COLLEGE_CG
+	C04D2615	GCA2_ALEX_BLOG_HP
+	C127ABFC	~z~Yes, he's amazing. But don't worry. Not all of the guys I date have to be intellectuals.
+	BF6C2899	~z~Yes, err it was hysterical.
+	C0190CF8	GCA2_ALEX_BLOG_HL
+	C70717C3	~z~That's certainly true.
+	C82F095F	100010100100100010100010100010100100010100010100010100
+	C440CB5A	GCA2_ALEX_FILMMAKER_DG
+	C6BAAAD6	~z~richer and deeper than everyone else's. I mean, they relate to me because I'm better than them.
+	D5D3F94A	GCA2_ALEX_COLLEGE_CE
+	D768F6E5	GCA2_ALEX_FEMINIST_GD
+	D379C454	~z~You think people are going to read this?
+	D47224A9	GCA2_ALEX_FAMOUS_BH
+	DD6E4495	~z~Everyone tells me how creative I am. Especially men. Women are often jealous. You know how girls can be?
+	DE10C6CA	GCA2_ALEX_MOVIE_FN
+	D9F283C5	~z~So, this blog you write. Is that all you want to do?
+	DC13C43D	GCA2_ALEX_NOVEL_EL
+	D0DD0BAA	GCA2_ALEX_FILMMAKER_DS
+	D1BE0B02	~z~The thing about me is, I'm interesting. People feel like they can talk to me and open up.
+	CFB4AB0F	GCA2_ALEX_BLOG_HM
+	D08B8A28	GCA2_ALEX_FEMINIST_GO
+	D300BC5C	GCA2_ALEX_INTERESTING_AI
+	D30BE830	GCA2_ALEX_COLLEGE_CI
+	D1CDAB82	010100010100010100010100100010100010100100
+	D2E2C86D	GCA2_ALEX_FEMINIST_GG
+	2712102F	GCA2_ALEX_COLLEGE_CK
+	293D69E2	~z~No.
+	266CCD99	~z~I know. You're power. You're masculinity. You're freedom. In some ways, you're my muse.
+	269593E1	GCA2_ALEX_FAMOUS_BO
+	2B6B40E0	GCA2_ALEX_FEMINIST_GB
+	2CE82DA0	~z~I mean we don't need a man to help us get by in life. I do what I want, when I want and that's that.
+	2A417117	GCA2_ALEX_BLOG_HE
+	2B19F39B	~z~People really relate to me. They can take a bit of my life and see it as their own.
+	1EA23E88	GCA2_ALEX_MOVIE_FE
+	20494DBF	GCA2_ALEX_NOVEL_EM
+	1ADE9856	GCA2_ALEX_INTERESTING_AE
+	1B6FFA0D	~z~These days with all of the internet and videos and stuff and my blog and sites like electrictit.com and stuff -
+	24A2F2F5	~z~I like variety. Anyway, did I tell you? I'm making a movie.
+	25FBCE9F	GCA2_ALEX_FAMOUS_BJ
+	210911E5	~z~I've never thought that writing my blog was "doing" something. It's just an extension of my personality. I'm creative.
+	23F2087B	GCA2_ALEX_FILMMAKER_DE
+	37120C04	GCA2_ALEX_BLOG_HF
+	38385BD6	GCA2_ALEX_FEMINIST_GA
+	34DE7374	~z~Not like one of those idiot girls - I mean I know them they are all jealous of me because I'm an individual.
+	367B40C6	~z~Niko, if you had to classify yourself, what would you be?
+	3C121D4F	~z~It's going to be amazing. It's going to be the great American novel, only a movie.
+	3C2AA7BB	010100100010100100100100100010100100100100010100100100010
+	386A9604	~z~No. Well done. What's it about?
+	38F18F4A	~z~Or a mouth, telling everyone who cares to listen about your life.
+	2E747E47	GCA2_ALEX_FEMINIST_GH
+	2F55A1D8	~z~How is the movie coming along?
+	2DB242E9	~z~They get this connection. It's like they feel this glow off me and my life and they want to be near me. I mean, do you feel that?
+	2E3223FE	GCA2_ALEX_FAMOUS_BP
+	34610029	~z~Ha fucking ha... I've been really busy.
+	34765454	GCA2_ALEX_BLOG_FH
+	3135E32B	~z~Thanks.
+	32CAB568	~z~Yeah?
+	1AB6893D	~z~Yeah... okay but I'd say that I'm a feminist. I think that every woman in this day and age should be.
+	09313C12	~z~I know. But it was also true and that's what this guy told me that I was dating last night.
+	0A4915DA	GCA2_ALEX_FAMOUS_BK
+	060A1FF5	GCA2_ALEX_NOVEL_EK
+	07BCDC6E	~z~the situation is weird. This is the twenty-first century. It's so now what we're doing.
+	0D16EA01	~z~God, I've never thought of it that way.
+	0DC15EB0	~z~It fell through - but, to be honest, cinema is dead. I mean, it's so old fashioned.
+	0B2A2348	GCA2_ALEX_MOVIE_FL
+	0C9BF7AB	GCA2_ALEX_FILMMAKER_DL
+	01ABE8CB	~z~Yeah, work is sometimes hard to come by.
+	03A9F22F	GCA2_ALEX_FILMMAKER_DP
+	00B65529	~z~It's a good thing you don't want to go out and kill people all the time. There might be some serious consequences to that.
+	00E89F39	~z~And that's because my life has so much in it and it's so much
+	051C9CFE	GCA2_ALEX_NOVEL_EJ
+	05CFA61C	~z~Isn't that what you do quite often?
+	04CF2230	GCA2_ALEX_INTERESTING_AG
+	0506AF3D	~z~But this other guy I was dating told me he'd invest and that I should and that I had a lot of talent and I think he's right.
+	185E7331	GCA2_ALEX_INTERESTING_AN
+	1867335A	GCA2_ALEX_MOVIE_FD
+	153E2B3C	~z~I never think.
+	160078F5	~z~City life is weird, you know? Well, tell me about yourself.
+	199D9544	010100100100010100100010100100010100010100010100
+	19EACB3D	~z~What have you been up to?
+	18DDEFB3	GCA2_ALEX_COLLEGE_CO
+	18EA1959	~z~I really understand people so, they're drawn to me. I mean, that's what people who talk to me and read my blog feel.
+	0E8BF0D4	~z~I don't stop to think about what the consequences are.
+	0FB3688C	GCA2_ALEX_COLLEGE_CA
+	0DEC3940	~z~I think bits of it, they are so beautiful and sad and... they make me cry.
+	0E0B2DDF	GCA2_ALEX_NOVEL_EQ
+	1474906A	~z~Sure... yeah.
+	149D691B	GCA2_ALEX_INTERESTING_AP
+	108A64A9	GCA2_ALEX_INTERESTING_AO
+	143E3DBA	GCA2_ALEX_INTERESTING_AH
+	5F60F2D9	GCA2_ALEX_NOVEL_EI
+	5FA52BAD	GCA2_ALEX_FEMINIST_GN
+	5E8DA76A	GCA2_ALEX_MOVIE_FI
+	5EA94802	GCA2_ALEX_NOVEL_ER
+	65AF708D	~z~I'm sure he is.
+	65ED9550	GCA2_ALEX_FEMINIST_GC
+	61D4DB10	~z~Listen, my life is not empty, jackass. It's amazing. I have crazy adventures.
+	653F51EE	GCA2_ALEX_NOVEL_EO
+	58564C1E	GCA2_ALEX_FEMINIST_GI
+	59637C1B	~z~I don't think I'd get let into a college party or Maisonette 9.
+	547678BF	~z~One day the blog just happened.
+	562F916D	~z~You cannot leave your apartment in this city without spending money so I guess you need to work.
+	5ACEC2A1	GCA2_ALEX_BLOG_HG
+	5DE40923	~z~Everything... No, nothing. That's what dating is isn't it? Giving bits of information. Teasing people.
+	5A4D8705	GCA2_ALEX_FAMOUS_BN
+	5A4E8343	~z~Because I have these thoughts, yep, and I know they're important.
+	6E003BE2	GCA2_ALEX_FILMMAKER_DN
+	6FEDAE81	~z~Really amazing thoughts, about people and the world and stuff.
+	6C39A1CB	~z~So, you left college?
+	6DF7A87B	GCA2_ALEX_COLLEGE_CF
+	72CFC9C3	GCA2_ALEX_INTERESTING_AD
+	736D3504	GCA2_ALEX_FILMMAKER_DI
+	6FFC7A5C	~z~No. I'm liberated. I'm free. You can't control me, typical misogynist. Women can be artists too.
+	71965433	GCA2_ALEX_FEMINIST_GJ
+	6665D05E	GCA2_ALEX_FAMOUS_BI
+	66B03C03	GCA2_ALEX_FEMINIST_GL
+	66491C68	~z~I was going through the stuff on www.blogsnobs.org and I realized that I had to get Alex Chilton out there.
+	665B2E1E	GCA2_ALEX_INTERESTING_AF
+	69A91676	~z~I mean, you're living it, Niko - you're an experience. you're not an intellectual. You don't care.
+	6A9FA44D	GCA2_ALEX_FILMMAKER_DJ
+	682E6DC3	~z~It's about me. It started out as a blog, but it's evolved... into so much more than that. I mean sometimes,
+	68823612	~z~Tell me about it, I walk down the street.
+	543A1F4F	GCA2_ALEX_BLOG_FJ
+	4578ADCD	GCA2_ALEX_BLOG_HK
+	46EEA544	~z~Nor did I... that was a joke. I wasn't planning to.
+	44719377	GCA2_ALEX_BLOG_HN
+	44B7D942	~z~I've always kept diaries and, you know, thought really deep thoughts. I don't go in for all the bullshit... the trivial stuff.
+	47FD63BA	~z~everything myself at Anna Rex spring/summer collection.
+	49B79CCA	GCA2_ALEX_BLOG_FM
+	47240117	100010100100100010100100100100010100100100100
+	47472BF5	~z~That is so right. People need to hear about me. I really touch people.
+	3EAD64BF	GCA2_ALEX_INTERESTING_AA
+	3F8D08D1	~z~Great.
+	3C6A1338	~z~No doubt. Why are you so angry?
+	3D12A3D4	~z~Clever guy.
+	426B2066	GCA2_ALEX_BLOG_HD
+	43FE6F81	~z~It's good that you're happy in your home. My home was not so comfortable.
+	41B608EB	GCA2_ALEX_NOVEL_EC
+	41BA6564	100010100010100010100100010100010100100
+	5063AF37	GCA2_ALEX_BLOG_HI
+	50C9AB4A	~z~But I'm not an airhead. I mean I could be - I'm fun enough - but I'm also really intelligent.
+	4EB8471F	~z~all at the same time.
+	4F502C8B	GCA2_ALEX_BLOG_FQ
+	52873332	GCA2_ALEX_BLOG_HH
+	537D6BCE	GCA2_ALEX_INTERESTING_AL
+	50D027FF	GCA2_ALEX_NOVEL_ED
+	522541B1	~z~I'm writing a novel which is going to be so much deeper than the stuff on the blog.
+	4BD56B7A	~z~I don't believe in classifying people. I think it's what we do that makes us who we are, moment to moment.
+	4BD9E656	~z~How do you know?
+	49FAD2E0	GCA2_ALEX_COLLEGE_CN
+	4A93BA56	~z~I don't know - I haven't written it yet.
+	4E5BB71B	~z~I don't know, because I can't get my shit together. Oh fuck it, it is together. I'm uh, it is together, sorry...
+	4EB4F9B4	GCA2_ALEX_FILMMAKER_DO
+	4CBABEA0	~z~Sounds easy.
+	4D18023F	GCA2_ALEX_BLOG_FG

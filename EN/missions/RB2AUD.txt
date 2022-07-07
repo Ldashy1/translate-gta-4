@@ -1,0 +1,375 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A60E109D	RB2_CI
+	A6114D46	RB2_A_BB
+	A5FB9C8A	~z~Are you busting my balls, Nicky? What the fuck?
+	A5790BD4	RB2_A_KA
+	A57E1CFC	~z~Your buddies are turning state's because they're too pussy to do their time.
+	AAE2E52F	~z~Fuck me, Nicky. I had some hopes for that cugine. Come see me.
+	AAF9D038	~z~This truck is not really going to outrun anybody, is it?
+	AABBC524	~z~then the pop of his skull goin'. I nearly lost my lunch.
+	A6D12253	RB2_A_BH
+	A9D6442D	RB2_CG
+	A3C05408	~z~They ain't on us no more. Good driving. Now all's you got to do is bring the ice home safe.
+	9E5D65D2	~z~I ain't surprised we got a bit of attention.
+	9E87ACBC	~z~He has a temper?
+	9CFB27B4	~z~Who'd these diamonds belong to before us?
+	9C9321B0	RB2_ABA
+	9C97DCF7	RB2_PE
+	A25F6A8F	RB2_SA
+	A3A1DFE6	RB2_A_CA
+	A1AFE753	RB2_A_CD
+	9F5D1CDC	~z~Yeah, me and Tuna was saying that before yous got here.
+	A16D3979	~z~Luca and his crew have got the stuff, Ray. It's all in the back of the truck.
+	B7171AAC	RB2_CD
+	B89760DB	~z~Nice.
+	B6D67507	RB2_A_JA
+	B3B8B971	~z~They'd rather have plastic surgery and a life sentence in suburban hell than take their punishment like real men.
+	B4F2E084	~z~I don't know, Ray. You don't trust them, then weigh the ice. Catch you round.
+	BCEFCA23	~z~Shit, try to kill people who ain't good earners. Let's you and me have a sit down.
+	BD7B24BB	~z~Come on, watch it.
+	BBFB19AA	~z~Alright, Nicky. What's done is done. Come see me.
+	BA02A211	~z~We ain't got time for this.
+	BA3F6291	RB2_TB
+	B2BD0DBD	RB2_PI
+	AEBA7EBC	010100100
+	AEFB464D	RB2_A_NA
+	AEA8BD14	RB2_A_IA
+	AB32AAF9	010100
+	AC459D7D	~z~Open up the back, will ya?
+	B030B0F4	~z~You think I'd take the trash out every day, like some fuckin' mook?
+	B227A032	010100
+	AFE1BCDB	RB2_XA
+	AF9208E9	~z~Fucking hell.
+	AFB64510	RB2_A_MA
+	99DF0D56	RB2_TA
+	879E3CCF	RB2_CA
+	8885E809	RB2_A_BK
+	87900965	~z~I'm not having Ray cut my balls off because you don't think this truck's fast enough.
+	82E3E13D	202
+	868636D2	~z~We ain't doing too good back here.
+	8AB0831F	~z~This guy who owns some big clubs in the city. You heard of a place called Maisonette 9?
+	8B54673C	~z~You seem real at home in this truck.
+	8914F669	010100
+	88BDDC68	RB2_TB
+	88E48176	~z~Course not. You know how pissed Ray would get if he found out some diamonds were missin'.
+	82680C56	RB2_A_EA
+	7BF4E797	~z~The manager of one of his waste depots was holding out on profits a couple a years back.
+	7CC7E3B5	RB2_A_HA
+	7A72A3F4	RB2_OA
+	79E9C467	~z~So, Luca, you are a professional trash collector when you ain't working for Ray?
+	7A632179	010100
+	81DF717D	~z~When I arrived in Liberty City, I didn't imagine that I'd become a trash collector.
+	8202DB6A	RB2_GJ
+	8165808B	100
+	7F256C82	~z~I dunno what this crew's gonna do without Luca. I looked to him, you know. For, like, leadership and shit.
+	80A4108B	RB2_A_AF
+	96462A59	RB2_YB
+	964F8F1B	RB2_B_AA
+	95B6B431	212
+	9430CB7F	~z~Shit, man. Looks like we got company.
+	9471A350	RB2_UA
+	98F0BB03	RB2_A_BF
+	993F3936	~z~Her friends are the Lost biker gang.
+	97BA0CF7	RB2_A_IC
+	9672F5A6	RB2_A_BD
+	97241912	RB2_ABC
+	93502118	210
+	8CE9AFBA	RB2_A_GA
+	8D200877	~z~I think you should worry about Ray and those diamonds before anything else. I'll see you around, Tuna.
+	8CB7131A	~z~That mook ain't gonna be following us no more. Let's get the ice back. You've done good, Nicky.
+	8B889DC9	~z~I think I worked with a member of that gang up on Bohan. He was called Johnny or eh, something.
+	8C18C149	~z~You want me take the ice to Ray then?
+	8FC4F629	010100
+	91C638EA	~z~Well that job got screwed up, didn't it?
+	8DAF1FB7	RB2_A_DA
+	8D8BB12E	RB2_A_AE
+	8DA7DE83	RB2_WB
+	BDE4BACC	~z~Wha'd'ya want, you scumbags?
+	F15D8B12	~z~This is important work I got for ya. Come back and see me.
+	F1750594	RB2_A_CE
+	F0C3B39B	010100100
+	EDF7154D	100
+	EEB7818A	~z~You should start looking for a new crew, Ray. The old one's in a better place.
+	F20F17C4	~z~Fuck me, Nicky. I had some hopes for that cugine. Come see me.
+	F253ABDF	RB2_GA
+	F1E058B0	RB2_UB
+	F1D32B46	RB2_CK
+	F1DF4055	RB2_GI
+	ED812BA0	~z~Yeah, you still get your hands dirty though. Who'd these diamonds belong to before us?
+	E60A0292	RB2_A_FA
+	E86419D7	~z~Get us outta here, Nicky.
+	E5A0F94D	~z~Don't fuck around, Nicky.
+	E352D329	100
+	E56C28FD	~z~Nah. It seems the club owner's got more connections than a subway line.
+	EA8B8480	RB2_AAA
+	ED2E6FB4	010100
+	E979AFFB	010100100
+	E8C13BA2	202
+	E91D7732	RB2_SB
+	FB9413C6	~z~He ain't gonna be happy, Nicky. That's for damn sure.
+	FBCFC0AE	~z~Shit, Nicky. Lose these fucks.
+	FA9F0F0F	RB2_AAB
+	F86B9811	RB2_PH
+	F99DBC4A	~z~This ain't fun.
+	FE9A4D41	010100100100100010100100100010100010100100100100100010
+	FFC1BE2C	RB2_A_KC
+	FE3E91DD	~z~See you around.
+	FC801167	202
+	FE280523	120
+	F85318AC	~z~Hold on, boys.
+	F4A11258	~z~They sure did, Luca. Here's hopin' we can find 'em all.
+	F5480EE8	122
+	F3BB459B	~z~He's in with the Ancelottis, the Dominicans up in Northwood, everybody.
+	F31346D4	010100010
+	F36714D9	~z~What are ya doing?
+	F76CA6A2	010100100010010
+	F81D4201	RB2_GK
+	F758B512	~z~Crap, someone's got wise to us. Let's get the hell outta here. Drive to Fishmarket South.
+	F69AAC37	~z~You're wasting your time.
+	F731418E	~z~Get rid of the cops, Nicky. We don't want the feds seeing us collect this ice.
+	E1C0223A	RB2_A_IB
+	C9FABBA9	RB2_JA
+	CB2CC01E	~z~You're killing me.
+	C9296EE3	RB2_VA
+	C80FF0A4	RB2_LB
+	C814929C	RB2_A_AJ
+	CD398A23	~z~Ray fed him to a dump truck.
+	CE4D254C	RB2_A_AA
+	CCB851A7	010100010100100010
+	CC30BA15	~z~Ray, the job did not go to plan. We lost Luca and Tuna. I'm sorry.
+	CC3BD77A	~z~These diamonds is ours now.
+	C7A01EA9	~z~Ray, I hate to tell you this but your friend Tuna is sleeping with the fishes.
+	C09F51D1	~z~I guess that anyone involved in this thing of ours
+	C1D6D89A	212
+	BF0085C2	RB2_A_BE
+	BE4E76E1	~z~I didn't say it was impossible. It's just going to be difficult.
+	BEA99DBD	RB2_CJ
+	C5AD629A	RB2_GF
+	C5E83693	192
+	C4A3F9EF	~z~Got it.
+	C1EDD5DB	~z~Yeah, but you got to admit the money we're getting ain't shit. We bust our balls and for what?
+	C36DE1B2	~z~Hey, Ray. I'm sorry but I had to put Luca and Tuna down. I didn't trust them.
+	D6D44A66	RB2_CB
+	D7F8C54E	~z~It sure fucking did. I got a feeling that Ray'll care more about not getting the diamonds though.
+	D6357D9A	RB2_A_AFX
+	D5051E72	~z~I don't think we going to complete our round, Ray. The truck's trashed.
+	D5D2C844	~z~Too bad about the truck. I guess Ray's gonna be pissed.
+	DA487393	~z~You ain't getting this ice.
+	DD2029F0	~z~There was this point where the sounds of his screams stopped and all you could hear was his bones crushin',
+	DA3F12A3	~z~Did these bikers get so fucked on meth that they threw the ice away?
+	D9F8C940	~z~Next one's on H street. Move out, Nicky.
+	D9FF56DD	RB2_PD
+	D41B3BFC	RB2_A_AC
+	D203308D	~z~Nice driving, Nicky. Looks like you lost 'em. Let's bring this ice home.
+	D218C34C	~z~Tuna, this is it. Grab the bag.
+	CF22FBA6	RB2_LC
+	CE509769	190
+	CE8BE209	~z~Can you open up the back, Nicky?
+	D2524D1D	100
+	D3EF77B2	RB2_A_AI
+	D24EF9BD	RB2_GL
+	D2237646	~z~Money ain't the only thing I'm looking for in Liberty City, Luca. I'll take what Ray gives me.
+	D237F502	~z~is in the waste management business but it ain't usually this hands on, you know?
+	78F009D0	100
+	31517F40	~z~And if there's a man who knows how to get angry, it's Ray. Later.
+	323328BB	RB2_PA
+	314A8A9A	~z~Take 'em out, Spaz. Come on.
+	3081CEC3	~z~Didn't think I'd be muscle for the mob neither.
+	30AEE892	~z~Something smelled fishy about Tuna, Ray. He's not around no more.
+	3389803D	100
+	34BC8B11	RB2_CE
+	33395605	~z~That's why we're going to be extra careful, right? We wouldn't want that to happen, would we?
+	328F3ACD	RB2_A_BG
+	32E3BD9A	RB2_A_BI
+	2FCB045B	RB2_PF
+	253BCDFD	RB2_A_BA
+	26153DFD	RB2_CH
+	2374AA04	010100100010
+	22DA3A0F	RB2_FA
+	230C0519	~z~We're just trying to pick up the damn trash.
+	2C6703C5	~z~That's life, my friend. Nothing works out the way you want it to.
+	2FA88866	~z~I dunno. These diamonds is serious. Anyone who heard of 'em would want them.
+	2995B14F	~z~The diamonds could go missing real easy.
+	26CFBB5F	~z~Really? I wanted to be an astronaut when I was growing up, not a gangster.
+	27852235	~z~We can't collect this ice with the cops on us. Lose the heat.
+	395BB4EE	RB2_GC
+	43822CD3	RB2_B_DB
+	442F33B2	RB2_CC
+	41F15186	RB2_B_BA
+	4077AF2D	~z~Ray, man. That Johnny kid got put out with the trash. I'm sorry.
+	41022B19	~z~How'd they find us? I thought that we went to all this trouble so no one would know?
+	465C2E6D	RB2_A_CB
+	469B5638	~z~Holy shit.
+	46085B60	~z~Fuck me, Nicky. I had some hopes for that cugine. Come see me.
+	44EFB1E4	~z~Hang in there. Protect the ice.
+	457F6B4A	010100010100100010010100010100100010010100010
+	3FA1C19E	RB2_A_LA
+	3CC8BB8D	RB2_A_KB
+	3DBBA66E	~z~That's why you gotta take the opportunities you can when they're right in front of you.
+	3C2CD43C	RB2_GB
+	39F28461	RB2_A_AK
+	3ACD1A6B	~z~This is the other one, Tuna. Grab it.
+	3EDE5D03	RB2_LA
+	3F275414	RB2_GG
+	3EB46B79	100
+	3E0ECF68	010100
+	3E8E83D6	~z~You could say that. Ray got that tweaker chick of his, the biker broad, you met her?
+	226C4C0D	~z~I make the call on who gets whacked, tough guy. We gotta have a meeting.
+	0E5163DA	RB2_BA
+	0E976F10	~z~Alright, Nicky. What's done is done. Come see me.
+	0D560F0F	~z~You think that's funny? Shit. You're an imbecile. We gotta talk about this.
+	0C91F3F9	~z~Ah hell, Nicky. They was good earners. You gotta control yourself, you're a fucking maniac.
+	0CE0690D	~z~Me and Luca didn't get on so well, Ray. This thing ain't happening.
+	10BDE182	RB2_A_AG
+	10F7CFFE	~z~This truck can't drive itself. Get back in.
+	100F7E0D	RB2_GH
+	0F026713	~z~We don't want none of those bags to break, Nicky.
+	0F90C95D	~z~Me and Spaz ain't having fun.
+	0A66D7FD	RB2_GD
+	04760A63	RB2_YA
+	060C9FCC	010100
+	02AD6EF3	~z~Shit, Nicky. The fucking truck.
+	00EE53BE	~z~Johnny and Tuna are sleeping with the fishes, Ray. I'm sorry.
+	028EA424	RB2_SC
+	0A35BD24	100
+	0A5C7E55	RB2_ABB
+	07D2B7FC	~z~Shit, can't you learn to play nice, Nicky?
+	06DFB6D5	~z~I sure hope we ain't lost any on the route. Things got shaken up pretty good back there.
+	0741953D	~z~Yeah, she's pretty strung out.
+	11630368	RB2_XB
+	1A362CF0	100
+	1AF48D0E	RB2_WB
+	199A5824	RB2_B_DA
+	1826D963	~z~Nah, me and Tuna will look after them. Sort them out from the trash.
+	198553A4	RB2_PB
+	2058F457	~z~Ray, Luca got killed. I'm sorry.
+	21F26DAC	~z~Hey, hey, hey.
+	1EA16B51	~z~There's no time for this shit, get back into the truck, Nicky.
+	1BD815D4	~z~We was saying that there's a lot of opportunities for this to go wrong. The bag could split.
+	1C7EDD18	~z~The whole crew? Va fanabla! Come back to Drusilla's.
+	17DEFEA8	RB2_A_AH
+	14F5FA2E	~z~Luca and Johnny are on ice, Ray. Shit happens.
+	15B52EAC	RB2_GE
+	141C5200	~z~You ain't making this easy on us.
+	117FE3F9	RB2_B_CA
+	1226CF45	~z~Fuck, I thought this was going to be easy. Why does everything have to get complicated?
+	163054B7	~z~Me and your crew didn't get on so good, Ray.
+	17D77356	RB2_TB
+	15ED42FF	RB2_A_AD
+	15D27ED0	~z~I ain't gonna get caught by the cops with this stolen ice. Lose 'em before we pick it up.
+	15DE0375	RB2_WA
+	6007B9F3	~z~Luca and Johnny are on ice, Ray. Shit happens.
+	6058A99E	RB2_WB
+	78DC1B7E	~z~This ain't fucking easy.
+	5F810783	~z~Got it, let's go.
+	611448E1	~z~Ray got her to get her friends to steal the ice off of some club owner guy.
+	64633BAE	RB2_ZB
+	648B2739	~z~The bikers is taking the heat for this shit.
+	61D23DEA	~z~You just gonna have to do your best. Ain't ya? We're not losing this ice.
+	6434B817	~z~Are you fuckin' kidding me?
+	5BDB2CFD	010100
+	5C2CDA0E	RB2_PC
+	58B91F35	~z~No, I haven't.
+	59B1F3F4	200010100100010100100210100
+	5C9DAE3E	RB2_MA
+	5DF20DD5	~z~No wonder everyone's turning state's when the wages is like this.
+	5E52AA64	~z~Every immigrant's dream ain't it? Being a wiseguy I mean, not trash collecting.
+	5CD0BA91	200020
+	5DC4A5AD	010100
+	64C6F2F6	RB2_A_CC
+	6F50F452	~z~This is it. You got us here, Nicky.
+	707DBF4D	RB2_LD
+	6CC4B20A	RB2_GM
+	6F2407E4	~z~Good drivin', Nicky. I thought I was gonna be checking out for sure.
+	713CC09C	~z~This ain't the easiest way to pick this shit up, even if we don't want to attract any attention.
+	7641B0BF	RB2_YA
+	77C0F1CE	RB2_A_BC
+	71B1EBD7	RB2_EA
+	7307AB02	~z~Yo, Nicky! Open up the back.
+	68AE5F68	RB2_KA
+	69607DB7	~z~That's about it.
+	66BCF57E	~z~Defend that ice like it's your cunt.
+	6892AB08	~z~Dammit. That's just fucking perfect.
+	69EB909D	RB2_HA
+	6B0943D5	~z~Well, don't try your luck at the door any time soon and if you do, don't tip the bouncer with a diamond.
+	6C594844	RB2_CF
+	6A0BFA28	RB2_PG
+	6A446980	RB2_A_AB
+	57F0DAD8	~z~I can't see that we got much opportunity here. Either we lose these shitheads or we're screwed.
+	50347C1F	RB2_VB
+	539583C0	RB2_IA
+	4FA71116	RB2_ZA
+	4AB30C06	~z~You keep an eye on them? They didn't pull nothing?
+	52CFAC58	~z~So, someone's been throwing out a load of diamonds?
+	53D39566	~z~We've taken this ice off a the guy that owns the place.
+	531FCF54	~z~See you around, Nicky.
+	4EB0AA37	010100
+	530726F6	010010100100100100010
+	4DACB296	RB2_DA
+	4F28F043	~z~That a fact? Being a space monkey would probably pay better than this work.
+	4EAD4B98	~z~I sorta get that, but I ain't happy. Let's have a meet.
+	5F67B483	~z~First pickup's in Chinatown. Let's hit it.
+	5534A7BA	RB2_NA
+	4FE419AC	~z~Alright, Nicky. What's done is done. Come see me.
+	5534088B	~z~Ray came up with this plan to keep a bit of distance between us and the robbery.
+	5455F7CD	010100
+	56AF5563	~z~Don't let these mooks take our diamonds.
+	5556B302	100
+RB2_CUT1_1	77A7090E	~z~Hey, Niko.
+RB2_CUT1_10	4FF88EF5	~z~more or less...
+RB2_CUT1_11	7A21E347	~z~Hey, sweetheart.
+RB2_CUT1_12	6C6347CA	~z~Hey.
+RB2_CUT1_13	A4A5B84E	~z~My God, you look like shit. What's wrong?
+RB2_CUT1_14	96E01CC3	~z~Nothing... I haven't been to bed yet.
+RB2_CUT1_15	A56CB9E0	~z~I've been smoking crystal.
+RB2_CUT1_16	972B1D5D	~z~You've been what?
+RB2_CUT1_17	C0CA709B	~z~What are you a fucking idiot?
+RB2_CUT1_18	B27FD406	~z~White trash motherfucker. What is wrong with you?
+RB2_CUT1_19	EC5CC7BB	~z~Gimme a break, okay? I feel like death.
+RB2_CUT1_2	ED67F48E	~z~Ray.
+RB2_CUT1_20	71E7D3DF	~z~Hey, hey, hey.
+RB2_CUT1_21	A70E3E2B	~z~What?
+RB2_CUT1_22	95429A94	~z~It's because I care... you know that.
+RB2_CUT1_23	5FBBAFAB	~z~Yeah I know that.
+RB2_CUT1_24	4DAA0B88	~z~Now, speaking of the ice...
+RB2_CUT1_25	81F5741E	~z~Yeah, they got it. They... they left it where you said.
+RB2_CUT1_26	705ED0F1	~z~That's why I came over here.
+RB2_CUT1_27	146018F1	~z~-Can I get a Goddamn coffee here?~n~-Yeah, you look like you could really use some Goddamn caffeine.
+RB2_CUT1_28	02A8F583	~z~I'm fucking coming down, asshole. I feel like death.
+RB2_CUT1_29	3AEBE608	~z~Fine, whatever.
+RB2_CUT1_3	9338C031	~z~Take a seat.
+RB2_CUT1_30	ABE038BA	~z~Ah... Niko, I need you to go collect some garbage for me.
+RB2_CUT1_31	47E670C8	~z~Garbage?
+RB2_CUT1_32	39A4D445	~z~Yeah... you wanted a career in waste disposal, now you got one.
+RB2_CUT1_33	725F45B9	~z~Can I get a Goddamned coffee over here?
+RB2_CUT1_34	64892A0D	~z~What kind of garbage?
+RB2_CUT1_35	2CAA3A54	~z~-Garbage with a lot of ice in it.~n~-Today?
+RB2_CUT1_36	1EE49EC9	~z~Go over to F between Columbus and Denver, there'll be a truck waiting there.
+RB2_CUT1_37	4925F34B	~z~Three guys, good guys, friends of mine.
+RB2_CUT1_38	3B9BD837	~z~Main guy's name is Luca. Go.
+RB2_CUT1_39	E3A4A842	~z~Okay.
+RB2_CUT1_4	8AC3AF47	~z~Thank you.
+RB2_CUT1_40	18549E76	~z~Hey, sugar. Come here.
+RB2_CUT1_41	028A72E2	~z~All this'll be over soon.
+RB2_CUT1_42	F481D6D1	~z~You gotta stop me smoking this stuff, Ray.
+RB2_CUT1_43	2CF4C7DA	~z~I'm fuckin' killin' myself.
+RB2_CUT1_5	5071BA9C	~z~So, you took care of that thing.
+RB2_CUT1_6	A69866F0	~z~Yes.
+RB2_CUT1_7	6C61727B	~z~-I appreciate that... nah.~n~-Hey, no...
+RB2_CUT1_8	600E59D5	~z~I look after my friends... I got a lot of friends. Important friends.
+RB2_CUT1_9	0DCBB551	~z~Jimmy Pegorino is a personal friend of mine,
+RB2_MEET_1	E535A7A0	~z~Luca?
+RB2_MEET_10	B3AA93E9	~z~Let's roll!
+RB2_MEET_2	D2F5031F	~z~Yeah, you Niko?
+RB2_MEET_3	C67AEA2B	~z~This is Tunafish and Johnny Spaz. Tuna, Johnny, Niko.
+RB2_MEET_4	B53DC7B1	~z~Hey.
+RB2_MEET_5	7A19D16A	~z~So, we're all friends now.
+RB2_MEET_6	98BA0EAA	~z~Alright, Tuna, John Boy, you got the threads. Get on the back and get the trash.
+RB2_MEET_7	5C5C95F0	~z~Come on! Let's go!
+RB2_MEET_8	8A5A71EB	~z~Niko, here's your gear.
+RB2_MEET_9	33064344	~z~You're driving. That cool?

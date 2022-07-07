@@ -1,0 +1,267 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A0822A2B	~z~Well, we're sitting here and calling the cops and watching them show up and look around.
+	A1FCC54A	~z~Most of the shit on TV in the Old Country was from America, don't you remember, Roman?
+	9B9CB88A	~z~It is much better than the shit we got back in the Old Country.
+	A04A624B	MF3_Y_RA
+	A4EF3BB3	~z~I'm playing roulette, cousin and I'm not doing too good.
+	A985DB6B	MF3_B_DB
+	A210F843	MF3_B_CB
+	A49F3261	~z~Ha ha. I'm sitting here with Brucie.
+	9638DC2A	~z~That 'roid monkey?
+	96CFC3B9	MF3_B_LE
+	8E30A5AD	MF3_B_JA
+	92FB5A43	100010100100100010100100
+	998B1142	MF3_B_MF
+	9A4DC9D5	MF3_B_LF
+	98B6B6BD	MF3_B_BJ_QQQ1
+	9962BE75	MF3_B_DA
+	B2DDF86B	MF3_B_NH
+	B4324B17	MF3_QJ
+	B04361D7	~z~Then watch the TV here and get nostalgic, I don't know. Later on.
+	B1315437	~z~I need some of your magic. The ball is in play. Should I bet black?
+	B759D7D6	~z~Maybe that is the problem.
+	B981272A	010100100010010100010100010010100100010
+	B5D03066	MF3_B_BH
+	B64ABBE7	MF3_B_AA
+	ABB58A68	MF3_B_DM
+	AD1A9A00	~z~If you're near a shop can you pick up some adult diapers for me? See you later, Niko.
+	A9D7D5AC	MF3_B_MH
+	AB781817	MF3_B_GC
+	AFE56361	MF3_B_KB
+	AFE8E56D	MF3_B_DG
+	AE9FE69D	MF3_B_EA
+	AF7BB58C	~z~Roman, we have spoken about your gambling.
+	8E290579	~z~The fucking stupid bastards.
+	76D02311	~z~Ask me what I'm doing later. Come on, ask me.
+	7729E08C	MF3_B_MA
+	76AFC3F5	~z~It wasn't so long ago that your debts got you kidnapped by the Russian mob.
+	76BABA94	MF3_B_AC
+	7947F3E1	~z~Yeah, I think I've got enough on my plate at the moment, Roman.
+	79D94A50	~z~You bought it, or I did?
+	77BA934B	MF3_B_CE
+	77C41845	100010100100010100
+	71DD9374	~z~Niko, it's Roman.
+	721CCDDD	MF3_Y_RA
+	71757F6D	MF3_B_LC
+	7179013E	100010
+	75C47905	MF3_QI
+	76566785	~z~Maybe it was an accident.
+	759DF3A9	MF3_B_MF
+	75B62DE3	MF3_B_BI
+	8A3BB8F5	MF3_B_FB
+	8A4A2AFE	010100010100100010
+	87929076	~z~Well, if you need some down time go hang out at the apartment and watch some American TV.
+	89202356	MF3_B_EG
+	8D57A0CF	MF3_B_DD
+	8DFDD67D	MF3_B_CG
+	8AAFD2FC	100100010100100100100
+	8AF9EC89	~z~That was a cold streak. Now I'm hot, cousin.
+	7EDF8ABD	MF3_B_EB
+	80FAB1AE	~z~He is a good friend of mine, he'll be a good friend of yours too if you let him.
+	7B987C5A	MF3_B_MA
+	7D3FE8A4	MF3_QE
+	8347D414	~z~So what, I took on a little debt?
+	83D4FB71	MF3_B_HA
+	82258ABB	MF3_B_BE
+	8292597B	~z~Now that I know where Dimitri is, I might just go there and take him out instead.
+	EA9F16ED	~z~I'm great.
+	EC923612	MF3_QL
+	E8180274	MF3_B_AC
+	E9AD0864	100100010100010100100
+	F008A1D0	~z~If you're near a shop can you pick up some adult diapers for me? See you later, Niko.
+	F02A1434	MF3_B_DL
+	EDAA9499	~z~I am on Tulsa Street, near Perestroika. Come Niko, quick.
+	EE183085	~z~You've got a problem, Niko. I'm about to get married.
+	E0750304	~z~There's a lot of money on the line. Do I double down on eleven?
+	E1F25F19	~z~Well, cousin, we're rich.
+	DF8F6F0E	~z~Anyway, he's got some work and we are in need of money.
+	DFE19418	~z~I'm about to commit to one woman for the rest of my life.
+	E6DEE5E6	MF3_B_FD
+	E7480403	~z~I'm not going to give you a lecture about Mallorie, Roman.
+	E20AD034	MF3_B_JC
+	E3293A91	~z~Roman, what are you doing? Why are you whispering? I will be there soon.
+	F9E06E9B	~z~Ha, ha. Yeah right. I've put the money into another cab depot.
+	FA714169	MF3_QB
+	F95C0DF4	~z~But he didn't get you killed. You got the money and you survived.
+	F9A75C70	~z~Fuck, I think they see us. Have to go, Niko.
+	FD564F01	~z~Roman, I have a problem.
+	FEDD96CA	MF3_B_FI
+	FBF03124	~z~Roman, I'm here. What are you doing? Why do you whisper?
+	FC6D61FC	~z~You shouldn't cry wolf, Roman. Who knows when you will really need help.
+	F153EFDE	MF3_B_JB
+	F1549298	~z~Meet him at Brucie's Executive Autos on Mohanet in East Hook.
+	F092884D	MF3_B_AA
+	F0FD2868	~z~NB. NB, you're a great cousin. Thank you for convincing Mallorie that I wasn't cheating.
+	F33C2827	~z~Roman, are you alright?
+	F8E077CF	MF3_B_JD
+	F1A0A30B	~z~and then stitched up in a doctor's office that was dirtier than the basement we were nearly tortured in.
+	F1A0B196	MF3_B_AB
+	DF7A024F	100010100100100100010010010100
+	C91BFB5A	~z~Well, you should hang out with your cousin more often.
+	C9F298CC	MF3_B_JF
+	C2B34B44	MF3_B_BK
+	C564A03C	MF3_B_NE
+	CBBC4835	MF3_B_DK
+	CC2C338D	~z~You did that deal? You worked with Dimitri? That's great, Niko.
+	CA1EC9B1	~z~She's a barista at the local Bean Machine.
+	CA45CDD0	~z~Niko, Niko. Are you there cousin?
+	BD7C962E	~z~Yeah, maybe it would have been if he hadn't screwed me over and nearly got me killed.
+	BD8C308C	~z~I already feel sorry for her, and them.
+	BB40A671	~z~If Mallorie calls you, we are bowling together. See you later.
+	BCF0BB91	~z~You sound calm, actually.
+	C174B396	MF3_B_CA
+	C26490B5	MF3_B_MC
+	BE0C493A	100100010100010100
+	C089F2E8	~z~Yes, put your money on black, Roman.
+	D62079C8	~z~Wait until you see the new place, NB. You will change your song.
+	D7DF716E	~z~and then stitched up in a doctor's office that was dirtier than the basement we were nearly tortured in.
+	D375E859	~z~Roman, what are you doing? Why are you whispering? I will be there soon.
+	D54F9772	MF3_QF
+	DB02EDB1	100010100100010010100100010100100
+	DC2F3339	~z~Bellic Enterprises is up and running again.
+	D8764537	MF3_B_ND
+	DA636A3A	~z~I am ruining a beautiful woman for every other man on earth.
+	CDD11009	MF3_B_MC
+	CE80B086	MF3_B_FA
+	CD2628B9	MF3_B_EF
+	CD7E5C66	~z~Niko please come and meet me in the alleyway off of Hopper Street in EIC. Quickly cousin.
+	D16F171D	~z~Niko please come and meet me in the alleyway off of Hopper Street in EIC. Quickly cousin.
+	D179B4FE	MF3_B_NF
+	CEBB5F26	~z~That Dimitri guy gave me some painkillers, I'm kind of out of it.
+	CEC30F5E	~z~Shit, fucking zero. The house edge. You have worse luck than me, Niko. Later.
+	7038DE21	100010100
+	203F9712	~z~Niko, I'm offended. I've got us an apartment in Algonquin. What did I say when you got here?
+	218684BB	~z~Niko, hello.
+	1E9B45E5	MF3_B_ME
+	1EDBCC36	100010100
+	246B5D37	~z~Niko, you should have seen the woman who just hit on me - a neurotic goddess!
+	24925D89	~z~What about Mallorie, Roman. I thought you said you loved her?
+	22C6FB00	~z~Just be careful, some of those Bean Machine bitches give out blowjobs with the cappuccinos.
+	24367002	~z~I'll remember this when one of your girlfriends calls me, okay? Later on, cousin.
+	1712B9C7	~z~Promise me you won't do anything hasty, cousin.
+	1B245184	~z~We will celebrate at the wedding reception. Cheer up, Niko.
+	16CAECA3	MF3_B_GA
+	16FCD58F	~z~Maybe that will stop you fucking her around. If you love her like you say you do you should show her respect.
+	1E2E10B4	~z~What, you knew about this? He's on a boat in East Hook?
+	1E5EBBAA	MF3_Y_RB
+	1D492D67	MF3_B_HB
+	1DC44722	100010100
+	325FF924	~z~I do, but a man has his urges.
+	32680876	MF3_B_IC
+	2FF7B778	~z~I am on Tulsa Street, near Perestroika. Come Niko, quick.
+	2FFB3AA8	MF3_B_MB
+	33528BDC	MF3_B_CD
+	35188474	MF3_B_LA
+	3294F98A	~z~I'll call her in a few days.
+	3320736F	MF3_B_MB
+	29EBDBFD	MF3_B_JE
+	2A03F479	MF3_B_MG
+	2774D5DF	MF3_B_DE
+	27780EB9	~z~That Dimitri guy gave me some painkillers, I'm kind of out of it.
+	2F63FED6	MF3_B_IB
+	2FD4E44A	MF3_B_KA
+	2A30967A	~z~Shit, I got a ten. That's twenty one in total.
+	2D8255DE	~z~Next stop - floating on the BAWSAQ. I'll give you shares, NB. Later on.
+	157E6274	MF3_B_CI
+	067C0D30	100010100100100010100100
+	0683971D	MF3_QH
+	0610CDD0	~z~I was just shot in the stomach
+	0614211C	MF3_B_FJ
+	0791C0C3	MF3_B_DJ
+	0882CAA1	MF3_B_CH
+	07057FC0	MF3_B_HC
+	0727A2B4	~z~Does Mallorie have her urges too?
+	0346CCFB	~z~Yes, I did, but I'm not happy about it, Roman. You should treat her with more respect than that.
+	03FA47BE	~z~I'm great.
+	0104EF90	MF3_B_BG
+	0190AAB7	~z~What the fuck are you saying to Mallorie, NB? She fucking attacked me with some scissors.
+	058B90B8	MF3_B_KD
+	05BCCD93	~z~Shit, I got a two. This isn't good, NB. I might be going to the pawn shop later. See you.
+	050A8734	MF3_B_MG
+	05460F89	100100010100010100100100
+	12B0D15F	MF3_B_NA
+	12B4E783	~z~Alright NB, quick question. I'm playing blackjack.
+	119B2ED2	MF3_B_EC
+	129A5204	MF3_B_AB
+	13D3DD1A	~z~After she spends tonight with me her sexual expectations will be so high that no other man will be able to fulfill them.
+	15216A0C	~z~You sound calm, actually.
+	12E327F0	MF3_B_DH
+	134AA16F	~z~This is great news, Niko. I got the insurance money for the cab depot burning down.
+	0A382BA4	MF3_B_FE
+	0A76195A	MF3_B_DF
+	092368DE	~z~Hotter than the models we'll be bedding. I can't lose.
+	09EB29B2	MF3_B_FC
+	0EA6EAEC	MF3_QA
+	111908BF	MF3_B_KG
+	0B4CC969	MF3_B_CC
+	0BA19F24	MF3_B_KF
+	609DDAAA	MF3_B_FG
+	622B1AEC	~z~Penthouse, model on each arm.
+	5E3D433E	MF3_B_KC
+	60482D31	MF3_B_BF
+	640BF7D1	~z~I was talking to Brucie...
+	6427C328	~z~The stupid bastards thought it was an electrical fire, not arson.
+	62E7FB19	~z~The restrooms in those places are cleaner than the baristas.
+	6371E54F	MF3_Y_RB
+	5B5DF4A8	MF3_B_GB
+	5BB9A097	~z~Niko, how you doing? This is so much fun.
+	592EA11A	100100010100100100
+	5A3BA64D	~z~Dammit, the ball landed on double zero. We were screwed either way. See you.
+	5CF0FBFE	~z~I could have won so much more. Speak to you later, NB.
+	5CFC4E60	~z~Maybe, I don't know.
+	5C1CF802	~z~Roman, are you alright?
+	5CD9FBCC	~z~Don't lose any more money. Stick with your original bet.
+	6CFF4A77	MF3_QG
+	6D636667	~z~I have to think about it. Speak to you later.
+	6C1CAED7	~z~Cousin, I have bought us a present.
+	6C3958F8	MF3_B_MD
+	6EC79D67	~z~I was just shot in the stomach
+	6F10617D	MF3_B_DI
+	6DA464FF	MF3_B_FH
+	6E9D7795	MF3_B_FF
+	6896869E	~z~What are you doing later?
+	69C17C03	MF3_B_NB
+	64AF6E40	MF3_B_IF
+	686E2772	~z~And you have paid for this place?
+	6BB9EBDB	~z~I think I'm enough of a man to satisfy her but she can do what she likes.
+	6C141E98	~z~Alright, alright, thanks for the lecture, cousin.
+	6A5E8239	100010100
+	6B15577C	~z~Niko, how're you finding things? Have you got enough to do here in Liberty City?
+	58C105D9	~z~Yeah, I heard you had forgiven him and were working together. You're doing this deal, right?
+	3DE55353	~z~Roman, I'm here. What are you doing? Why do you whisper?
+	3F1B528E	~z~I have been asked to work for Dimitri Rascalov again, there could be a lot of money in it.
+	3D0F15C1	MF3_B_LD
+	3D189CEB	MF3_B_ID
+	429F9CC0	MF3_B_NC
+	4517139B	MF3_B_DC
+	402A94BD	~z~I've got to go, Niko. See you soon.
+	4061DC5D	MF3_B_MD
+	3659C2D1	MF3_B_ME
+	3819324B	~z~Go for it.
+	35603F18	~z~I heard you two had resolved your differences, he's on some boat in East Hook, right?
+	357B798C	MF3_QD
+	3B9682CE	~z~Have you forgotten that he burnt down your apartment and business, that he arranged your kidnapping?
+	3C50961B	100010
+	39B0F90F	100010100010100100100010100
+	3ABA8ED8	MF3_B_LB
+	51FDAF9C	~z~Now I have a better apartment, and I'll have an even better one if you work with him again.
+	5275C645	MF3_B_IA
+	4DF58DC1	~z~No, put your money on red, Roman.
+	4ED6BF6E	MF3_B_NG
+	5482443F	~z~Alright, Roman. Today is your and Mallorie's day. I will be happy for you both.
+	57BA9899	~z~You know Roman, I haven't been having that much fun since I got here. Has been a lot like hard work.
+	52857962	~z~This is serious, Roman.
+	5415E10A	MF3_B_CF
+	4956A644	~z~Don't crush my high, man. Of course I'll be careful. Cover for me, alright.
+	4A433A60	MF3_B_IE
+	4655699C	MF3_B_MH
+	48409FD8	MF3_B_EE
+	4D32F1EE	~z~Niko, Niko. Are you there cousin?
+	4D39EA45	MF3_QC
+	4ADFD588	~z~Niko, hello.
+	4C45A1A3	MF3_B_KE

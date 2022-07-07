@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	4F30BB70	Поезжайте в ~y~закусочную.
+	E89FEE48	Сделайте так, чтобы полиция перестала вас искать.
+	F1E100D2	Покиньте зал, пока не приехала полиция.
+	234AE3A5	Вам понадобится машина.
+	04DBA6C7	Уничтожьте их ~r~всех.~s~
+	0A70325C	Догоните бандитов ~r~Павано.
+	1E6DD9EB	~r~Бандиты Павано скрылись.

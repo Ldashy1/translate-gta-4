@@ -1,0 +1,129 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8B6740A8	~z~She always told me she'd burn me good. I guess I shoulda listened.
+	8CFE5CD6	~z~Damn, son. I shoulda guessed it. Only paper I got now are the handouts from Playboy. Fucking great. Later.
+	96E1A705	DF1_DA
+	8994CCC0	090
+	89966A9A	~z~I collected on that debt for you.
+	8B0448C1	~z~Dwayne wouldn't ever hurt no one he loved, even if they screwed him like I did.
+	9CFF8649	DF1_LB
+	9FA17405	DF1_HE
+	A07DEE76	~z~Hey Dwayne, I've got your money.
+	9853B32E	~z~Shit. Having no paper ain't good but it ain't nothing I ain't seen before. See you round, man.
+	9B6497C7	~z~Hey, are you the two snakes who played Dwayne Forge when he was in the joint?
+	9C02A2DB	~z~She was going to say anything to get out of that. No getting out of it now.
+	88A42764	DF1_ED
+	6F5D3628	~z~They paid up? I guess my name still means something out there. People still know me.
+	72004835	DF1_EA
+	725D1773	~z~I did what I did to survive. Please. I don't wanna die. Come on!
+	674AC3F8	010010391
+	6E4D7C31	DF1_LB
+	6E915FAA	~z~Dwayne, I'm sorry. They got away from me. You're still out of pocket.
+	86063F19	010100
+	862A4537	DF1_HA
+	88594351	DF1_HC
+	73CBAA71	~z~Dwayne, it's Niko. Your ex lost me. She had a motorbike.
+	78AEAB68	DF1_HB
+	FFCC9A79	DF1_KA
+	E428F9DB	DF1_HD
+	E44D9FFF	~z~You slept Cherise? She were a bitch, weren't she?
+	E61279E2	~z~Why don't you meet me at Cluckin' Bell so I can give it to you?
+	DEF86E60	~z~Dwayne, I couldn't get the money. Jayvon gave me the slip.
+	DF0C128D	DF1_JA
+	E35BFA75	DF1_HF
+	F4F0FD8C	DF1_EF
+	F5E365B7	010100010100100100
+	FBD1A560	~z~Great. Thanks, son. See you soon.
+	EDFFB363	~z~I had to explain things to them. They didn't listen so good.
+	EFD92F4B	DF1_LA
+	F33F48F9	DF1_MA
+	DE249741	010100010100100100
+	AAA232BB	DF1_NA
+	AD511D58	DF1_IC
+	AE778FAB	~z~I thought Playboy was gonna look out for me but he didn't answer my calls. Punk didn't wanna know me.
+	A2445CB4	DF1_EB
+	A5995D24	010100
+	AA380DBF	DF1_GA
+	C9CC4654	~z~You do right by Dwayne he gonna stick to you for life.
+	D18E55C4	~z~Don't kill me. I know I fucked Dwayne over real bad but he wouldn't want me dead.
+	D936E529	~z~He too much of a gentleman for that. He ain't like that Playboy X punk, he's only chasing paper.
+	BBBD2A36	~z~I didn't mean it. Girl get lonely when her man's inside for a long time.
+	BCF6748B	010010100
+	C09C6004	DF1_MB
+	420AD02A	010100
+	45C00464	090
+	14AB4091	DF1_OA
+	3A5D9E9A	~z~That fool Cherise? She just couldn't help herself.
+	4208AB24	~z~Hey Dwayne, I've got your money. Come meet me in Middle Park and I'll give it to you.
+	474B8BF5	DF1_NB
+	4AB8766C	~z~He wants his money.
+	137AE8AE	DF1_IB
+	4A44F09F	DF1_EH
+	48A33B25	~z~They are, I got rid of Jayvon for you but I let your ex go.
+	491CDB29	DF1_DE
+	30F0E2C3	DF1_FA
+	1DD9675D	010100
+	2CA3FFF0	~z~This ain't yours. Belongs to Dwayne.
+	2B551BAE	DF1_IE
+	254FE1D5	DF1_EE
+	31BA23EC	DF1_IA
+	36ABC4BA	~z~Thanks for getting this paper, Niko. It helps.
+	14E1D06C	~z~This belongs to a friend of mine.
+	34B4B1DA	~z~Dwayne don't need to worry about having that girl's blood on his hands on top of everything else.
+	1CE97DAF	DF1_ID
+	33AE0E6F	~z~Great. Thanks, son. See you soon.
+	5800D9E0	~z~They paid up? I guess my name still means something out there. People are still scared of me.
+	6716E776	DF1_EC
+	554D5D54	~z~Please. I'm only human. Come on.
+	0EC3F0D0	DF1_JB
+	642DF23A	~z~I collected on that debt for you.
+	7D7CA4D3	~z~I'm happy she ain't dead, though - she's just an idiot. Peace, man.
+	0AA6AA17	DF1_EG
+	5A72DA1F	300300300300300300300300
+	51D8FB14	~z~This fool falls real hard for them. That's why he gets burnt.
+	5351A464	010
+	4AE6DBE1	DF1_IF
+	5140EC91	DF1_DB
+	4D68974F	DF1_MB
+	587F11F9	~z~What? Dwayne must a finished his bid. Shit, he going to be mad angry.
+	1136D2DC	~z~Damn, son. I shoulda guessed it. Only paper I got now are the handouts from Playboy. Fucking great. Later.
+DF1_CUT1_1	EFE038D7	~z~Oh, it's you. You alone?
+DF1_CUT1_10	1B4DAE7C	~z~He pays for you to come over instead.
+DF1_CUT1_11	09890AF3	~z~My girlfriend, the love of my fucking life...
+DF1_CUT1_12	7799E717	~z~man, I was pulling moves in the joint so this bitch could pay the rent.
+DF1_CUT1_13	65B84354	~z~Now, she won't answer the phone.
+DF1_CUT1_14	54D6A191	~z~Man, I gave her everything when I was inside.
+DF1_CUT1_15	C2477C71	~z~Cars, houses, apartments, bank accounts. Everything.
+DF1_CUT1_16	B16CDABC	~z~I heard she hanging with Jayvon now.
+DF1_CUT1_17	9EC5B56E	~z~Who?
+DF1_CUT1_18	8DE013A3	~z~Some punk who fucking talked.
+DF1_CUT1_19	FB40EE67	~z~He swears he wasn't involved in me going down, but I knew.
+DF1_CUT1_2	7183BC18	~z~Yeah. How you doing?
+DF1_CUT1_20	37E8592D	~z~I knew his ass was lying.
+DF1_CUT1_21	2A3DBDD8	~z~Now motherfucker's fucking my girl?
+DF1_CUT1_22	A5E9B516	~z~For real? Shit is fucked up, man.
+DF1_CUT1_23	030B6F74	~z~Sometimes I just wanna end this shit.
+DF1_CUT1_24	EC5E421A	~z~Just... bam.
+DF1_CUT1_25	DEA8A6AF	~z~But I ain't there yet.
+DF1_CUT1_26	5EFA2738	~z~Not quite.
+DF1_CUT1_27	57B918B6	~z~Listen, why don't you go talk to her?
+DF1_CUT1_28	CA577DF1	~z~Ain't shit to say.
+DF1_CUT1_29	B41D517D	~z~Then I'll go speak to both of them.
+DF1_CUT1_3	5FCA18A5	~z~Fucking great. What you think?
+DF1_CUT1_30	A1472AB1	~z~I'll ask for your money back... and if they don't agree, I'll make them.
+DF1_CUT1_31	8E8C053B	~z~Where do they hang out?
+DF1_CUT1_32	FC00603E	~z~At some arcade in Chinatown.
+DF1_CUT1_33	EAC03DBE	~z~Uh, look, man, don't bother.
+DF1_CUT1_34	66113446	~z~No. I'll bother. I'm getting paid.
+DF1_CUT1_35	545090C5	~z~And besides... you remind me of me.
+DF1_CUT1_36	C596F350	~z~Uh huh.
+DF1_CUT1_4	CE2DF573	~z~Yeah... it's hard living with the past. Eh?
+DF1_CUT1_5	BC6B51EE	~z~Yeah. Especially when the present has turned into an asshole.
+DF1_CUT1_6	2B322F76	~z~Fucking bitch... nobody wants to roll with me no more.
+DF1_CUT1_7	15E404DA	~z~It's like I'm tainted.
+DF1_CUT1_8	8686661D	~z~What do you mean?
+DF1_CUT1_9	756FC3F0	~z~Playboy don't wanna hang no more.

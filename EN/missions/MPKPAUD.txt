@@ -1,0 +1,285 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BAB2A3F0	~z~Sink these ~b~cars ~s~in water before they stink too bad.
+	BBFE5704	MPKP_A_CB
+	B7CC7C0D	MPKP_A_OA
+	BA9124B9	MPKP_IA
+	C03F3197	MPKP_A_QB
+	C08FB237	100100100
+	BE243075	~z~Only we cannot afford to leave them alone. You must take ~b~cars ~s~anyway and deliver them.
+	BFE0C0AE	MPKP_LB
+	B7A73D96	~z~See if they are still there when you have destroyed his ~r~campaign posters ~s~and killed his ~r~campaign manager.
+	B2C79115	MPKP_OA
+	B3E8C209	~z~Crazy bikers are up all night on meth. They getting too fucking lazy to run their own stills even.
+	B07F2A36	MPKP_MA
+	B0F75775	100
+	B65B9B46	~z~Destroy ~r~them.
+	B6E4A76C	MPKP_NA
+	B3FF20F3	MPKP_A_WA
+	B6399A49	MPKP_A_MB
+	C7BAFBC5	100
+	C7ED0DD4	MPKP_A_AA
+	C7857261	MPKP_A_GA
+	C7961261	MPKP_A_DA
+	C8BBA131	MPKP_VB
+	C8BEE160	~z~I cannot get the bloodstains off the upholstery of these ~b~cars.
+	C804E666	~z~Get rid of the ~r~gang ~s~for their treatment of him.
+	C88A6151	~z~My ~b~stupid nephew ~s~and his ~b~friends ~s~have screwed up a robbery they did not have permission for.
+	C6C3E763	~z~Bring them some ~b~crystal ~s~to keep them quiet.
+	C1E8E54F	~z~Close this ~r~man's ~s~mouth.
+	C251C8A2	~z~Close the books on this ~r~number cruncher.
+	C13919E7	100100
+	C15650F4	~z~This politician will not be bought. Stupid man has principles.
+	C4B8AADB	MPKP_A_NB
+	C4FD2B8E	100
+	C2B80F24	100100
+	C3605211	MPKP_A_ZA
+	AFBDF370	~z~Some peasant ~r~dealer and his crew ~s~think they can rip me off. Me, Kenny Petrovic!
+	8F2AE2C7	MPKP_LA
+	8F2F8DD9	~z~I have arranged to meet this American gangster, Ancelotti.
+	8C4D8CFA	MPKP_A_VA
+	8D1E5984	~z~Stupid ~r~hoods ~s~think they can strong arm our operations.
+	92DF6608	100100
+	936B090F	~z~I just have problem with her screwing two bit gangsters. Take her ~r~boyfriend ~s~off the market.
+	913B5289	100100
+	91D1209F	MPKP_RA
+	8C30D4E4	~z~I have the itch. Bring me many ~b~prostitute ~s~so I can choose nice girl to scratch it.
+	830C6BFF	~z~We will show that peasant shit for not allowing me to buy half of his business.
+	8433EB13	MPKP_YA
+	81DB17AB	~z~Kill them all.
+	822B4512	MPKP_EB
+	89CB5492	~z~Damn cops have found some of our ~r~stolen cars. ~s~They are waiting to have them collected by evidence teams.
+	8AA098F4	MPKP_HB
+	85596DFB	MPKP_BB
+	883E99EC	~z~Fuck. I don't care if it was stolen in the first place.
+	A51C2EE8	100100
+	A8B1FFF3	~z~My new girlfriend is kosher. She cannot stand all these ~r~hot dog stands ~s~in the area.
+	A24E26D5	~z~I do not have problem with my daughter screwing someone. She is human.
+	A41C9AF2	~z~If you see any of their ~r~vans ~s~operating, destroy them.
+	AE1A3EAC	MPKP_BA
+	AE662E19	~z~So nice to know that this country is just as corrupt as homeland.
+	A8F0AA8A	~z~Make an example of ~r~them ~s~to ensure discipline in the union.
+	ABC4B1B1	MPKP_YB
+	A1AB0BCE	MPKP_B_BA
+	94EAABB7	100100
+	95ABFDB7	~z~Destroy ~r~it all ~s~before they can.
+	93A8541B	MPKP_A_MA
+	93C22033	MPKP_A_LA
+	9B12111B	100100
+	9D272B77	MPKP_A_IB
+	98845AA9	MPKP_A_BA
+	99127BE7	~z~I've been tipped off about some shipments of flatscreen TVs.
+	C91F4817	MPKP_A_SA
+	F18C2716	~z~I thought accountants were too boring to steal, I was wrong.
+	F26331DD	MPKP_B_FA
+	F01CB104	MPKP_DA
+	F15E1E6B	MPKP_A_YB
+	F3F21B74	MPKP_KA
+	F41E4243	100100
+	F2E1829D	~z~He is moving them out of the city. Either bring ~b~them ~s~to me or destroy them.
+	F3D08BCC	~z~It is time to tax the local economy for our ~b~protection money. ~s~Go do it.
+	EF541972	MPKP_NB
+	EB083D24	100100
+	EBE37061	MPKP_B_EA
+	EA4F171F	100100
+	EA5F2B64	MPKP_B_CB
+	EDEC5E9B	~z~~b~New people ~s~have just arrived from the homeland.
+	EE1C47B6	~z~Punish ~r~him ~s~for his stupidity.
+	EC656E34	~z~My ~b~daughter ~s~and her ~b~pretty friends ~s~want to go somewhere. Take them.
+	EDC66697	MPKP_A_TA
+	FB44C9E4	100100
+	FB605A12	~z~We are lucky. They are moving ~r~Sergey ~s~from the courthouse to the jail.
+	F981BB20	MPKP_GB
+	FAABFEA9	~z~Find the ~r~shits ~s~who took my ~b~car, ~s~kill them and bring it back to me.
+	FE675A80	MPKP_SB
+	FE7FC466	MPKP_B_BB
+	FD2D592D	~z~A couple of ~r~dirty cops ~s~just killed Viktor.
+	FD964B12	~z~I'm not going to use ~b~them ~s~but you are more than welcome.
+	F9498D84	100100
+	F5B6B32C	~z~My wife knows no discretion. She dirties herself with our ~r~plumber.
+	F617AB98	~z~I do not think it's fair to rub poor peoples' noses in it. Steal the ~b~cars ~s~and bring them to me.
+	F4312765	~z~A careless politician does not know what is good for him, he will not give us the contracts we want.
+	F4E293BF	MPKP_IB
+	F81028C5	MPKP_A_KB
+	F938EE11	MPKP_RB
+	F6A5BCFC	MPKP_A_EA
+	F778A9ED	~z~The ~b~Police Commissioner ~s~is not behaving in way we need him to.
+	E9F56F9B	MPKP_AA
+	D5477D47	~z~I have told the business owners in this area that they should not work.
+	D59FD4DA	~z~Make this difficult for ~r~them.
+	D4B0023A	MPKP_ZB
+	D51437D6	MPKP_A_EB
+	D8685D98	100100
+	D971C527	~z~Now is our turn to be fucking with them. Go!
+	D6A742B8	~z~If ~b~they ~s~go blind from sex disease, you will pay.
+	D7DD423B	MPKP_CB
+	D3D3AA6A	~z~You pick them up, you show them what happens in America.
+	CBAEE123	~z~This time we will not waste energy on stealing broken vibrators. Get the ~b~trucks ~s~back here.
+	CD779150	MPKP_A_DB
+	CA7F7FF0	MPKP_GA
+	CB0EA940	MPKP_XA
+	CED75023	~z~A ~b~prototype gun ~s~has arrived from the Motherland. Made of strong Russian steel.
+	D03581E8	~z~It is bad enough to lose at cards, you do not want ~r~lucky bastard ~s~who wins to start bragging about it.
+	CDA4835A	100100
+	CE791F52	MPKP_A_FA
+	E560ED4B	MPKP_A_NA
+	E5AA8651	~z~Pick ~b~him ~s~up and bring him to me so he can be given discipline.
+	DF45E826	~z~The LCPD are launching simultaneous raids on our operations.
+	E36F5F36	100100
+	E708D4A4	100100
+	E7D0795E	~z~There is too much money in this crack cocaine to ignore it. Take out all the ~r~dealers ~s~so we can gain control.
+	E6D3DD9E	MPKP_XB
+	E6DCB7D9	MPKP_A_HB
+	DF14934B	100
+	DB4FE685	100
+	DBCC7FC0	MPKP_CA
+	DA69EF2B	MPKP_A_YA
+	DAD305E6	~z~Bring ~b~them ~s~to me for a talk.
+	DE607F5A	100
+	DE8B22D4	~z~A group of Albanian ~r~hoods ~s~think they are big enough to muscle us out of an area. Cull some of them.
+	DC94FCA8	MPKP_A_RA
+	DCEF25E5	~z~My nephew's crew is going to steal some flat screens, but they need some ~b~vans ~s~to do it with.
+	80DF8BC6	MPKP_VA
+	22B40628	MPKP_B_AB
+	24C76668	~z~We will teach this shit for his reluctance to cut us in on the ~b~cars ~s~he has stolen.
+	20887C6A	~z~Kill his ~r~dealers ~s~and bring their ~b~cars ~s~to me.
+	213D79DB	~z~I have filled a ~b~vehicle ~s~with explosives, put it in position for me.
+	277ED5C9	~z~He is meeting with his ~r~federal government handlers. ~s~None can survive.
+	284A523C	100100
+	24E160A4	100100
+	260EE4B1	~z~An ~r~associate ~s~has turned against the Organizatsiya.
+	20851C99	MPKP_A_WB
+	193F9705	MPKP_A_CA
+	19412784	~z~Grind ~r~them ~s~to dust for their impertinence.
+	1859FD85	MPKP_A_IA
+	188B6003	MPKP_OB
+	1D1E4B52	100100
+	1DD6F759	MPKP_A_SB
+	19459609	100100
+	1AC9D4F6	~z~I don't want to get tied to all the murders.
+	36107217	MPKP_A_FB
+	36D52964	100
+	356549B8	~z~Show him that his badge does not make him invincible.
+	35669670	MPKP_KB
+	38A8CDBA	MPKP_SA
+	3A9C1678	100100
+	37020E51	MPKP_PA
+	38220FA6	~z~If anyone wants dirty ~b~weapons, ~s~they can come and get them.
+	34740679	~z~I do not mind cops getting fat off my payoffs, but ~b~Officer MacHale ~s~is too greedy.
+	295C2407	~z~It is time to deliver our ~b~bribes ~s~to the dirty fat cops in the area.
+	2A230D4D	MPKP_B_DA
+	286A22E5	~z~Cops are seizing our ~r~illegal booze, ~s~they will soon discover that it is mostly paint thinner.
+	28B88466	100100
+	317FA845	MPKP_B_FB
+	31A937AC	~z~I knew something was wrong. Show ~r~him ~s~what death really feels like, okay? Argh.
+	2D323CAD	MPKP_A_GB
+	2EC1ACE3	~z~Some freaky ~r~hitmen ~s~are in from out of town. They're trying to whack our crew. Get them first.
+	17B086D8	MPKP_A_UA
+	09763E20	100100
+	0AFB4079	MPKP_A_BB
+	07CD7B18	~z~~r~Boris ~s~the rat has returned to Liberty City. He thinks that all has been forgotten between us.
+	09271059	~z~I want you strapped to the maximum. I have left ~b~cache of weapons ~s~for just this purpose. Come and get.
+	0B74DEA8	~z~Flush him away for me.
+	0C6856E8	MPKP_B_GA
+	0B00B2E2	MPKP_A_MC
+	0B0C99B9	100100
+	07CA4EFD	~z~Autoeroticar is driving sexy ~b~sport cars ~s~around the area as promotion.
+	02F0E443	MPKP_B_CA
+	0461405F	MPKP_A_KA
+	00FEBBE6	100
+	0166C1D0	~z~Maybe if you destroy his ~r~car, ~s~he will see sense.
+	05FCE4AF	100100
+	07038309	~z~We have gained the attention of a federal government surveillance crew.
+	049D981A	MPKP_TA
+	0577BD67	~z~Take ~b~it ~s~to the buyer.
+	13C4401C	~z~He must be silenced before he testifies.
+	14F37BCD	MPKP_WA
+	123DDFD5	~z~Arrogant American is trying to sell shit on our ground.
+	12A38572	100100
+	162F2009	100100
+	1671657D	MPKP_A_XB
+	152D19E9	~z~Some local businesses are refusing to pay protection money.
+	15A414B9	100100
+	121C426F	MPKP_JA
+	0F647778	~z~~r~Scabs ~s~are continuing to work despite the strike.
+	104954C2	~z~A guy I pay in LCPD tells me the Feds are watching the ~b~cars ~s~we have stashed our smack in.
+	0D1EFD8F	~z~This is our opportunity to punish him for getting caught. Kill ~r~him.
+	0DC60283	100100
+	11AE58ED	100100
+	11FB8D94	100100
+	109595E2	~z~I hear about big drug deal. You go there, take the ~b~cash and the shit ~s~and you bring to me.
+	117D7CDC	MPKP_ZA
+	3B2D4400	MPKP_A_PA
+	6AF34AA0	~z~Russians, we know how to keep mouths shut. Americans just yabber, yabber, yabber.
+	6B852AD9	~z~I want ~b~sexy car ~s~for myself and stupid Vanya steals whole transporter load of them.
+	69218CBD	MPKP_B_DB
+	6A9DD435	~z~Only, we can't leave the heads on because we don't want them identified.
+	72AB9EA2	~z~That crazy ~b~stuntwoman ~s~bitch still hangs around me. Someone take her off my hands, okay?
+	73475EF3	100100
+	6B94E8A9	MPKP_A_JA
+	6CC8E2E5	MPKP_A_JB
+	66C29532	~z~Some foolish members of an ~r~American jury ~s~are not reaching the verdict I desire. Eliminate them.
+	6049318A	MPKP_A_VB
+	6296AB71	~z~The first person to bring me ~b~one ~s~will be rewarded.
+	5F7B78C8	MPKP_A_XA
+	6018FF8C	100100
+	64344F33	~z~Young ~r~Vasil ~s~has turned into a rat.
+	652F2E00	100100
+	62ADE2EC	~z~~b~He ~s~thinks he is meeting me, pick him up and drive him into the river.
+	63465287	100100
+	7BD13886	~z~Destroy ~r~them ~s~before that happens.
+	7BE001D8	100100
+	799B7A3E	100100
+	7B11578B	~z~I need hard cash to bankroll an operation.
+	7D7BBA3F	~z~Maybe you show them we are not weak.
+	7E02D05E	~z~Urgh. I feel like death. The shitting ~r~manager ~s~at that fast food joint has poisoned me.
+	7C6BC554	MPKP_A_PB
+	7D60F9BB	~z~Vanya is burying the bodies of a stickup crew we had to get rid of.
+	766FE371	100100
+	73F51533	MPKP_FA
+	746E9922	~z~Stupid ~r~punk ~s~is trying to blackmail me. Get rid of him so I don't have to pay.
+	73584CF4	~z~I went to Autoeroticar dealership and he tell me that there is a waiting list for ~b~SuperGTs.
+	739A3D92	~z~It does not matter to me what my nephew said or did to these ~r~bikers. ~s~He is family.
+	74CDFBF9	~z~Some ~r~ugly bikers ~s~have been fucking with our crew.
+	7668D84B	MPKP_A_HA
+	7476F252	100100
+	7496CF14	~z~Destroy the ~r~goods ~s~he is moving before they reach their destination.
+	5CDCB6EA	MPKP_A_RB
+	4865D0AD	100100
+	49169DCF	MPKP_TB
+	451BCFDC	MPKP_WB
+	45E90FD4	100100
+	4947FDD9	100100
+	49AA5F90	100100
+	491ED1C5	MPKP_B_AA
+	492814EC	MPKP_HA
+	44E1B858	~z~Vanya is so lazy. He kills everyone I ask, then he just leaves body in car.
+	3F4E5D82	100100
+	4039AD3C	MPKP_PB
+	3DED4FAA	~z~Come take ~b~one ~s~if you want.
+	3E24EF0E	MPKP_UB
+	426D9158	MPKP_A_TB
+	430B22EC	MPKP_JB
+	41D776AB	100100
+	42343BDC	~z~My girlfriend blew her yoga instructor. Now we must blow him up.
+	591277C0	100100
+	59E332C0	~z~Come get the ~b~heads ~s~and drop them in river, okay?
+	54600A29	~z~~b~Armored vans ~s~are filling up ATMs around the area. Bring them and their contents to me.
+	572D4480	100
+	5BCBA39C	~z~Damn family, eh? Bring ~b~vans ~s~to him.
+	5C625567	MPKP_AB
+	5A14BDD8	100100
+	5B2CD674	MPKP_A_QA
+	528196C3	MPKP_UA
+	4BE7D13F	MPKP_QA
+	4EE7F666	MPKP_A_UB
+	4B56797D	100100
+	4BB7D944	MPKP_EA
+	51411201	~z~Round up the ~b~men ~s~so I can show him our strength.
+	5265AC93	MPKP_A_AB
+	501B0FC0	~z~Show them what they need protection from. Destroy their ~r~vans ~s~and take out their ~r~employees.
+	50F454B1	100100

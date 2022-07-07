@@ -1,0 +1,184 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A034BE6B	GCC2_LIPO_KG
+	9E32718A	~z~Yes - but there is nothing feminine about looking after yourself.
+	A07D2A2C	GCC2_DAD_ND
+	A2847A26	~z~No, I didn't.
+	A088D92A	~z~No.
+	9B89C058	GCC2_CELEBS_JD
+	95DEA89B	GCC2_LIPO_KD
+	95D19CBC	~z~I'm sorry. I'm just not that kind of person.
+	99012DC0	GCC2_LIPO_KE
+	9A6AEC8D	~z~About my life - about the way I'm carrying on, about hanging out with guys like you.
+	99AD9F0C	GCC2_LIPO_KQ
+	B0A35CE1	GCC2_CELEBS_JO
+	AABCEBD9	GCC2_MAYOR_MJ
+	B0DC528F	GCC2_CELEBS_JI
+	B1F077FF	100010100010100010100010100010100010100010100010010010100
+	B0F6DEA8	GCC2_CELEBS_JN
+	A97CC373	GCC2_DAD_NF
+	A4013374	GCC2_DAD_NB
+	A30BDE34	~z~I was joking.
+	A461817B	GCC2_CELEBS_JF
+	A53952D3	GCC2_CELEBS_JC
+	A46AC6AC	GCC2_CELEBS_JM
+	7E5573D1	~z~No, I think you haven't made it, because you don't know what you want to do.
+	7C774D81	~z~It sounds it. Insanity.
+	80636EA3	GCC2_MAYOR_ME
+	829CF7E2	~z~It was - and you know what, I could tell he wanted to sleep with me.
+	81E7B8F5	~z~Yes. Jill van Crastenburg was just in before me. Oh, and Tony McTony.
+	7C5C10D1	~z~I know. A terrible shame. I have failed in this country.
+	7548C9AC	GCC2_DAD_NN
+	74C2510D	GCC2_MAYOR_MC
+	756B517F	GCC2_MAYOR_MD
+	7A0CE0AC	GCC2_DAD_NG
+	773AA393	~z~Yeah, they're great. Why?
+	8ECAB5AE	~z~That's a shame.
+	8D4129FD	GCC2_SPECIAL_IJ
+	90C656AA	~z~I had them done. By my girl, Lucille, she does lots of celebrities, you know?
+	94DC20DA	~z~You don't need that. It will just make you too thin and miserable.
+	9487BBE5	GCC2_LIPO_KH
+	8B72A76C	GCC2_SPECIAL_IK
+	85BD2B13	GCC2_LIPO_KK
+	8516FB47	~z~That stuff is for people with different priorities than me.
+	863B6109	~z~Oh, I have been crazy. Loco. Nonstop.
+	8908092A	GCC2_LIPO_KA
+	86BF4FF8	GCC2_DAD_NI
+	B222777C	GCC2_MAYOR_ML
+	E1873019	~z~I've been plotting. Plotting how I'm going to take over this town.
+	DC9550A9	GCC2_MAYOR_MI
+	E1BDB1AD	GCC2_WHITE_LL
+	E522399E	GCC2_WHITE_LK
+	E48F2112	GCC2_WHITE_LC
+	DB0F48FC	GCC2_SPECIAL_II
+	D5B9A298	~z~Why not?
+	D5B6C4E1	GCC2_CELEBS_JB
+	D63C16C9	GCC2_DAD_NA
+	D8C10613	~z~Not like all the other men I date, just want to talk about themselves and how successful they are.
+	D6B682E9	~z~No.
+	F630D970	~z~Not bored. Just unfulfilled. I mean, it's great helping people, but you don't get thanked.
+	F58E5D57	100010100010100100010100010
+	F98A9D3E	~z~We do?
+	FFA3E758	GCC2_DAD_NC
+	FD4BE4E7	GCC2_LIPO_KR
+	F3F4DF0E	~z~I don't believe in it. You're a pretty girl. Gorgeous.
+	E79B41DD	~z~And I would have done it, if it wasn't for you.
+	E6825F75	GCC2_LIPO_KI
+	EC65AA8F	GCC2_WHITE_LF
+	F1541A5E	~z~How are you?
+	ED9EC62E	~z~No problem.
+	BE492550	GCC2_SPECIAL_IE
+	BA8F2A43	~z~Where I come from people say funny things about a man wearing nail polish.
+	BEFA6E53	GCC2_WHITE_LJ
+	C2816788	GCC2_DAD_NK
+	C0939D3B	GCC2_LIPO_KN
+	B99B47D4	~z~I've been pretty quiet, Carmen. Nothing that exciting. What about you?
+	B2E5FA23	GCC2_MAYOR_MK
+	B2787D09	~z~Oh. Ha ha. Very funny. Do you know any celebrities?
+	B3255D6C	~z~You look great, Carmen. It's your personality I worry about.
+	B5980344	GCC2_CELEBS_JA
+	B41F3DB7	~z~I know. I hate them. Listen do you think my teeth need straightening? Or whitening?
+	CA8FB293	GCC2_LIPO_KM
+	C9AD0069	~z~I don't know yet. I only just began plotting. Maybe modeling or some shit.
+	D2140F19	~z~I'm sorry to hear that, that bit I did hear.
+	D41DDD60	~z~Surely Tony McTony is a man?
+	D2CC16B0	~z~I like hanging out with you, Niko, but I got one problem. I mean with taking this further.
+	C79B065B	~z~No.
+	C382FE27	~z~Thank you, Niko. You're sweet.
+	C3782C26	GCC2_SPECIAL_IF
+	C423BFF2	~z~and he says you a slut and I say women have changed, it's call being a woman,
+	C46268F6	GCC2_DAD_NM
+	C4389DE8	GCC2_MAYOR_MN
+	1B95613F	~z~Nonsense. What are you talking about?
+	1AC86D46	~z~Why?
+	1C48A9A8	~z~Isn't that what a date is?
+	1F0F138D	GCC2_WHITE_LA
+	1E54A0A7	GCC2_MAYOR_MF
+	1A86AC35	~z~That don't matter. A pretty girl like me should be famous. And rich. Like in the magazines.
+	152E9767	~z~I love your values.
+	1482CAC0	GCC2_CELEBS_JQ
+	15E3C35A	GCC2_LIPO_KJ
+	198025AA	~z~Carmen, I've said it before - you're special.
+	18D19579	010100010100010100010100100100100010100010
+	28398828	~z~I'm sorry. My dad was a bully, too. What about?
+	27E86070	100010100100100010100010100010100010100
+	287C32E6	GCC2_MAYOR_MG
+	296B2735	GCC2_WHITE_LH
+	28B44890	~z~I don't really understand what you are talking about.
+	27A04197	GCC2_LIPO_KS
+	22EA4547	GCC2_LIPO_KP
+	227DA826	100010100010100010010100100010100100010100
+	244514E1	GCC2_WHITE_LI
+	26BDBA85	~z~Maybe. Are you bored of being a nurse?
+	24FE6853	GCC2_LIPO_KL
+	07235F1E	GCC2_WHITE_LE
+	062EC728	GCC2_CELEBS_JH
+	07588DE1	GCC2_LIPO_KF
+	08707DEF	~z~Yeah? How?
+	08436602	~z~It's expensive, but I think I need it.
+	0442403A	~z~Because I had an argument with my dad.
+	015A5830	~z~That can be dull - people just talking about themselves.
+	0028EB42	~z~Yes, well thank you. I knew you'd understand.
+	02E9864A	GCC2_LIPO_KO
+	03AB6A39	GCC2_MAYOR_MM
+	034500F7	GCC2_CELEBS_JP
+	0FEE92A7	GCC2_MAYOR_MA
+	0E04C632	~z~I look fat. I got fat thighs, a fat ass, a belly.
+	13171FBE	GCC2_LIPO_KC
+	1401C19C	GCC2_SPECIAL_IC
+	13D51A54	~z~I know, baby.
+	0DD82D6D	GCC2_SPECIAL_IH
+	0A365E0A	GCC2_CELEBS_JL
+	0A178546	~z~Ain't you got no friends? We never go anywhere, we never meet important people.
+	0A5D3EE3	~z~Don't bullshit me. We both know the truth.
+	0DD5C5C0	~z~I'm fat. It's why I haven't made it yet.
+	0CABC0C8	GCC2_SPECIAL_ID
+	2A1728C2	~z~Man, when we get together, it's crazy. It really is.
+	58145A54	~z~You always look good.
+	57A71837	GCC2_MAYOR_MB
+	5875857E	~z~I was partying the other night in Bungalow 9 and I had my nails done, and I went shopping with the girls.
+	597720A1	GCC2_DAD_NH
+	58829A86	GCC2_MAYOR_MH
+	562E447A	~z~What's that?
+	4E1870C4	~z~Thank you.
+	4DFB08FF	~z~Thanks, baby. You're special. Not as special as Carmen, but still special.
+	50681379	~z~Sounds great!
+	52979649	~z~What's that, Carmen?
+	52649331	GCC2_CELEBS_JK
+	6DABCADF	GCC2_CELEBS_JJ
+	6B7B10DF	GCC2_CELEBS_JG
+	6E74920F	~z~I am a simple country boy, Carmen.
+	73879C2D	~z~You like my nails?
+	72C8D6AB	~z~I met the mayor the other day - he came to the hospital, to open a new ward.
+	66EE226F	~z~What you been up, baby?
+	5F9CAC42	~z~You seem very special.
+	5B103807	100010100010100010100010010100010100010100010100010
+	6081321C	~z~It felt good, meeting someone like that.
+	649E7368	~z~What about me?
+	63937EDB	~z~I'm okay. No, I'm not. I'm kind of mad.
+	3744DDE5	GCC2_DAD_NE
+	36F3650E	~z~Will you pay for me to have lipo?
+	3BC47238	GCC2_LIPO_KB
+	3F29B608	~z~Yes. He says you only want one thing and I say I don't care, I like having fun,
+	3DB2C455	GCC2_DAD_NJ
+	35B30384	~z~Wow! Is Tony McTony a goth? I didn't know.
+	31C8D0A6	GCC2_WHITE_LM
+	2BC87DFD	GCC2_SPECIAL_IG
+	325E0EE8	~z~Oh, thank you.
+	34E3D4BB	~z~you ain't the boss of me and he says if he was he'd sack me and then I start crying.
+	336B9E81	GCC2_CELEBS_JE
+	4C27F9B3	GCC2_DAD_NL
+	477DA719	~z~They say he is a goth and he should cheer up.
+	4C986CA7	GCC2_WHITE_LG
+	4DEC538D	~z~Really?
+	4D5E7193	GCC2_WHITE_LB
+	46A0F835	~z~and he says get out of my house and I say screw you,
+	4081F21A	~z~All we ever do is hang out and talk and get in trouble and be you and me.
+	3F44A8B5	~z~You look good, honey, you know that?
+	437473F2	~z~You don't get famous. It feels like a waste of my talents.
+	46576589	GCC2_WHITE_LD
+	45735F7A	~z~You're a good listener. I like that about you.

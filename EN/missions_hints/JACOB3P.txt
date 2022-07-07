@@ -1,0 +1,50 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B982AEAE	A rival gang knows about the stash point.
+	B09322A3	Get the package to ~y~Beechwood City,~s~ by 0~1~:~1~. The buyer won't wait around.
+	BB9C39B1	Get the package to ~y~Beechwood City,~s~ by 00:~1~. The buyer won't wait around.
+	C16BC550	Get the package to the ~y~East Island City tunnel,~s~ by ~1~:0~1~. The buyer is getting jumpy.
+	BE4F3FA3	Get the package to the tower block in ~y~Steinway,~s~ by ~1~:0~1~. The buyer won't wait around.
+	AD6C9DDE	Take the package to ~y~Willis,~s~ the buyer will meet you there.
+	9B68784E	Wipe ~r~them~s~ all out.
+	99DD76C0	Drop the package in ~y~Meadow Hills.
+	A258862E	Get the package to ~y~Beechwood City,~s~ by ~1~:0~1~. The buyer won't wait around.
+	AC259AC4	Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:~1~. The buyer is getting jumpy.
+	A4C58534	~r~The package was not delivered in time, the buyer left.
+	E6B98FDB	Get the package to the ~y~East Island City tunnel,~s~ by 00:~1~. The buyer is getting jumpy.
+	D69768C3	The ~g~package~s~ is in the car.
+	ED551662	Lose your wanted level.
+	FC17BED3	Take the package to the ~y~Cerveza Heights car stack.
+	EFFEA265	Get the package to the ~y~East Island City tunnel,~s~ by 00:0~1~. The buyer is getting jumpy.
+	D4EEEB4E	~r~The buyer is dead.
+	C7294FC3	The cops are onto the deal.
+	C485CFB0	Take the package to the bridge in ~y~Outlook Park.
+	C9DBCF4C	Exit the vehicle to do the ~y~deal.
+	D1CB6A3B	Take the package to ~y~Schottler~s~ by ~1~:~1~.
+	CEDCE0BE	Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:~1~. The buyer won't wait around.
+	45714DE9	Get the package to the tower block in ~y~Steinway,~s~ by ~1~:~1~. The buyer won't wait around.
+	312CA3D8	Take the package to ~y~Schottler~s~ by 0~1~:~1~.
+	466ECE5C	Take the package to ~y~Schottler~s~ by 0~1~:0~1~.
+	531FE946	Get the package to the tower block in ~y~Steinway,~s~ by 0~1~:0~1~. The buyer won't wait around.
+	51C95F49	You have the package.
+	2AE51C71	~r~The rival gang stole the package.
+	0903CDBF	Hurry up.
+	07B4526C	~r~The buyer was injured, the deal is off.
+	0B615D66	Take the package to ~y~Meadows Park.
+	19A0F9E5	Get the package to the ~y~East Island City tunnel,~s~ by ~1~:~1~. The buyer is getting jumpy.
+	16446840	Exit the vehicle to ~y~stash~s~ the package for the buyer.
+	88E7D4D5	Get the package to the tower block in ~y~Steinway,~s~ by 00:0~1~. The buyer won't wait around.
+	8274C757	Get the package to the tower block in ~y~Steinway,~s~ by 00:~1~. The buyer won't wait around.
+	8D565D26	Get the package to ~y~Beechwood City,~s~ by 00:0~1~. The buyer won't wait around.
+	974070FA	Take the package to ~y~Schottler~s~ by 00:~1~.
+	8E22DDC3	Get the package to ~y~Beechwood City,~s~ by 0~1~:0~1~. The buyer won't wait around.
+	7AEFB75D	Take the package to ~y~Schottler~s~ by ~1~:0~1~.
+	67B2926B	Take the package to the ~y~Festival Towers Meadows Park,~s~ the buyer will meet you there.
+	601FFBF6	~r~The package was in that car.
+	68FB9471	Take the package to ~y~Schottler~s~ by 00:0~1~.
+	7809B6B9	Get the package to ~y~Beechwood City,~s~ by ~1~:~1~. The buyer won't wait around.
+	69511420	Get the package to the ~y~East Island City tunnel,~s~ by 0~1~:0~1~. The buyer is getting jumpy.

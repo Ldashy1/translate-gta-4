@@ -1,0 +1,160 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	897D0784	090
+	89D7DF30	F6_LB
+	89F7FAEF	~z~Faustin is dead.
+	892DBEAE	~z~It was never going to last, Faustin. You took things too far.
+	7CFDA081	~z~I showed mercy to you and your cousin when Dimitri wanted you dead.
+	840F0CD8	~z~~c~What am I to do?
+	85D137F9	~z~It's over, Faustin.
+	8C186859	~z~Every second he lives, our lives are in danger. Your cousin's as well, Niko.
+	9B4626A7	F6_DC
+	9D780B1C	~z~Not yet, Dimitri.
+	A00FE38C	F6_GF
+	9AF5023E	~z~Betrayed, betrayed by Dimitri and by you.
+	8CEE1CB8	100010100100
+	933FCD05	~z~The time for mercy is over. I must rule with a fist of iron.
+	94C7A785	F6_JC
+	682A8E75	F6_BD
+	68920FCD	~z~People, help me.
+	69F1C428	F6_KC
+	676A35D4	~z~A hard thing, but a good thing. Hopefully this will mean peace with Petrovic.
+	5E04051C	F6_DA
+	62F402C4	F6_BE
+	657B2352	~z~You killed Petrovic's son. I need not remind you of that.
+	6E000857	~z~You're mine, Faustin.
+	7ABB9BFD	~z~I made you what you are, Niko.
+	7B44C6B2	~z~Hurry and do it. Call me when it is done.
+	7BC54FE6	~z~You must eliminate Mikhail to make things right. Do it soon.
+	784C891A	102102102102102102
+	73579302	~z~You pissed off too many people, Mr. Faustin.
+	74E8D41A	F6_KA
+	7644AB32	~z~Guards!
+	EAB1FBE8	~z~I got where I am for a reason. I won't have some Balkan shit take this away from me.
+	EE73CA22	~z~This American greed takes everyone. It is like a disease.
+	EE88CA50	~z~I am a man of convictions, I have only done what I believed.
+	E72952DB	F6_JA
+	D7E86D17	F6_DF
+	DC575F33	~z~The strong survive and the weak die. You will see.
+	E26F1131	~z~I gave them everything and they took everything from me.
+	F4EECC6C	~z~Getting a little warm?
+	FD4F69B0	F6_DB
+	FDE8C824	~z~You have me cornered. There is nowhere for me to go.
+	FED87CC5	F6_JD
+	FA2CB09B	F6_DE
+	F63BB2C3	010
+	F9263E9F	~z~I let the snakes into the nest and they destroyed everything.
+	F9D0A1FB	F6_BB
+	B43197E2	F6_BA
+	B7C19608	~z~You fight like a worm, like spineless worm, Bellic.
+	BE70DF75	~z~Have this.
+	B2DC7F19	F6_GC
+	AB447265	F6_GA
+	B1723310	~z~He is dead? You have killed Mikhail?
+	B1C0E83B	~z~Does he know that I had anything to do with this? How could you be so stupid?
+	C0A79DBA	100
+	CC6AA23C	F6_IB
+	CD24E69D	~z~Too kind, that's what I was, too kind.
+	D7BA3CB6	~z~You betrayed yourself, Mr. Faustin.
+	C7E87FFC	F6_KD
+	C12BE4EB	~z~Burn in hell, pussy.
+	C1C23F3F	F6_BE_QQQ1
+	C61932B7	~z~You are nothing, Bellic, you are weak. Give up.
+	1240231D	010100100
+	440C46C2	~z~Men, I need you.
+	41877408	F6_HA
+	0BB1143A	F6_JB
+	3EC7BCCC	F6_BC
+	1F8D21A8	~z~If you can't take the heat, Bellic...
+	15CC1A0C	010100100100
+	4761F5AD	100010100100
+	13F8F444	~z~Now they've sent you to take the only thing I have left.
+	2ABB81CB	~z~It's closing time! Get your coat!
+	321AF12B	F6_IA
+	33F81B6D	F6_EA
+	262C0B02	~z~Do not abandon your leader. Stop this man.
+	2F6F2820	F6_LD
+	3038EB2F	F6_ID
+	272BBF78	F6_DD
+	284016A7	F6_LA
+	0C76D387	F6_BF
+	0EDBEE7E	102102102102102102
+	2F4C8E28	102102102102102102102
+	54DD90BB	~z~You did a good thing.
+	192C0AB5	~z~Can I call Petrovic and tell him that Mikhail is no longer a problem? Is he dead, Niko?
+	544080DD	~z~He is not. Not yet, at least.
+	51BA3B76	F6_GD
+	00636E01	~z~Only I am still sane.
+	578508CC	F6_MA
+	0B23879D	F6_KB
+	18B0556C	100
+	56EADA29	~z~This is your last party, man.
+	576F3399	~z~~c~Shit.
+	0B02833F	~z~Dimitri turned on me, not other way around. America made him greedy.
+	50EFEEC1	F6_LC
+	4EFE59A8	F6_
+	1B952464	~z~Dimitri will turn on you as well, you shall discover this.
+	4D5E1F77	~z~Dimitri, Mikhail got away from me. He is still alive.
+	02FC6887	~z~Is this what you ordered?
+	00F86F2F	~z~None of you will survive in this country without me.
+	1A36D8B0	F6_GE
+	1B3ECCF4	F6_GB
+	51B7E219	~z~Come on, guards.
+F6_CUT1_1	11C9F273	~z~Dimitri
+F6_CUT1_10	E40DBDAC	~z~kill your best friend, or die... what do you do?
+F6_CUT1_11	2D415016	~z~And there is no way out?
+F6_CUT1_12	E66E426D	~z~Not now.
+F6_CUT1_13	D1C6191D	~z~Not after you killed Petrovic's son.
+F6_CUT1_14	8ADA0B46	~z~You don't have any family. You could run.
+F6_CUT1_15	9D25AFDD	~z~Wherever you go, people will find you, if they want to badly enough.
+F6_CUT1_16	AD44D01B	~z~And for this they want blood.
+F6_CUT1_17	BF8974A4	~z~But you and Mikhail, you have so much history.
+F6_CUT1_18	B86AE66F	~z~Sure.
+F6_CUT1_19	A294BAC3	~z~Well I killed the boy, so they want me too.
+F6_CUT1_2	23FB96D6	~z~Hey.
+F6_CUT1_20	6DC3D482	~z~No.
+F6_CUT1_21	7C22713F	~z~I told them you were a hired gun.
+F6_CUT1_22	514D1B95	~z~And they said as long as you were the one to kill him,
+F6_CUT1_23	5F9EB838	~z~you'd be spared.
+F6_CUT1_24	A731475C	~z~So that's the way it is?
+F6_CUT1_25	B55BE3B1	~z~Yes, that's the way it is.
+F6_CUT1_26	8AA48E43	~z~He'll be leaving his house in a little while and heading for the club.
+F6_CUT1_27	98DA2AAE	~z~Do what you have to do.
+F6_CUT1_28	55AC2487	~z~You know, if there is one thing I have learned,
+F6_CUT1_29	44FD832A	~z~it's that we must obey the rules of the game.
+F6_CUT1_3	34DCB898	~z~Sit down.
+F6_CUT1_30	1E9C350C	~z~We can pick the game, Niko Bellic,
+F6_CUT1_31	D4EA21A5	~z~but we cannot change the rules.
+F6_CUT1_32	4251FC77	~z~See you later.
+F6_CUT1_4	48175F0D	~z~What's the problem?
+F6_CUT1_5	497361C5	~z~What do you think?
+F6_CUT1_6	5AF704C0	~z~Mikhail.
+F6_CUT1_7	6B9EA60F	~z~Mr. Faustin.
+F6_CUT1_8	7F64CD9B	~z~Uh huh.
+F6_CUT1_9	90136EF8	~z~You're given a choice,
+F6_MEETSF_1	01991F72	~z~Niko.
+F6_MEETSF_10	CFC2C40A	~z~my brother.
+F6_MEETSF_11	ED77FF74	~z~You see this?
+F6_MEETSF_12	B74C931E	~z~This tattoo says we are brothers for life,
+F6_MEETSF_13	14784DEC	~z~and now he betrays me...
+F6_MEETSF_14	22CBEA93	~z~You didn't give him a choice.
+F6_MEETSF_15	F10D8717	~z~You should have been calm.
+F6_MEETSF_16	FF48238C	~z~No one, not Dimitri, not anyone tells me to calm.
+F6_MEETSF_17	4F4F4399	~z~You think Dimitri would have survived prison without me?
+F6_MEETSF_18	69957825	~z~He'd just be some prison queen, had I not been there.
+F6_MEETSF_19	37D314A1	~z~Meat for some gym monkey!
+F6_MEETSF_2	B6AB098F	~z~Niko Bellic.
+F6_MEETSF_20	E1747421	~z~I am not dead yet.
+F6_MEETSF_21	F44D99D7	~z~Some are still loyal to me.
+F6_MEETSF_22	06073D4A	~z~Guards!
+F6_MEETSF_3	E4F1661B	~z~You and Dimitri are taking over, no?
+F6_MEETSF_4	F6430862	~z~This is not about taking over.
+F6_MEETSF_5	247D64D6	~z~You brought this on yourself.
+F6_MEETSF_6	122CC035	~z~You pushed things too far.
+F6_MEETSF_7	C1B91F47	~z~You would be dead if it wasn't for me.
+F6_MEETSF_8	3EB0993C	~z~That is what Dimitri wanted when you killed Vlad.
+F6_MEETSF_9	6C6EF4B8	~z~Dimitri,

@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B0811D17	~s~Get Dwayne's ~r~Ex~s~!
+	D89D3A78	~s~Go to the ~y~video arcade~s~!
+	DB299E24	~s~Take out the ~r~gang~s~!
+	AF3A06BE	~s~Go downstairs to the ~y~Office~s~!
+	2A55C02A	~s~ Find Jayvon and Bernice in the ~y~arcade~s~!
+	3D3FE745	~s~Get out of the Arcade!
+	A15F6257	~s~Kill the ~r~Gang~s~!

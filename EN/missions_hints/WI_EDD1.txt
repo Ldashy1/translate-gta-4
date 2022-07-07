@@ -1,0 +1,15 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A7B207E4	Take Eddie to the ~y~docks.
+	97396688	Get Eddie to ~y~Westminster.
+	F1DC9C38	Get a vehicle.
+	E022F9BA	~r~Eddie was abandoned.
+	8BD75204	Wait for ~b~Eddie.
+	3B3CAEF7	Take Eddie to ~y~Westminster.
+	1AB868CC	Pick up ~b~Eddie.
+	7AAEAC93	Get Eddie to the ~y~docks.
+	648E7C77	~r~Eddie is dead.

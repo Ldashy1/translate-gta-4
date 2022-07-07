@@ -1,0 +1,19 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B6CA0D91	Wait for Mel.
+	B0ABB586	Get Mel to the ~y~meeting.
+	A224E447	Get a vehicle.
+	EC61AF11	~r~Mel was abandoned.
+	DEE0930B	Get Mel back to ~y~his place.
+	DAA70B9C	~r~Mel's old friends are still out there.
+	9B1F6D66	Pick up ~b~Mel.
+	5262DD12	~r~The meeting was broken up.
+	23B79834	Take Mel back ~y~home.
+	15EEFCA3	~r~Mel is dead.
+	89E8E499	~r~You lost Mel.
+	7E4C1C96	Take Mel to the ~y~meeting.
+	52A97617	Take out Mel's ~r~old friends.

@@ -1,0 +1,32 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C6C3CC96	~s~Use ~INPUT_SNIPER_ZOOM_IN~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out.
+	C95409B3	~s~Press ~PAD_LB~ or ~PAD_B~ to fire.
+	DCDA9585	~s~Use ~PAD_LSTICK_ALL~ to aim.
+	90E59C37	~s~Shoot through the windshield to hit the driver.
+	BF2278B0	~s~Use ~PAD_RSTICK_ALL~ to aim.
+	C0B17BBE	~s~Use ~INPUT_SNIPER_ZOOM_OUT~ to zoom out.
+	DF6C0257	~s~Watch over the meeting.
+	F2DC65C9	~s~Go to the roof and pick up the ~g~sniper rifle.
+	F3FEEBBC	~s~Hold ~PAD_RB~ to look through scope of the rifle when it is equipped.
+	F59EB0CB	~s~Use ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
+	E81C4A93	~s~When crouching, the accuracy of the rifle increases.
+	F092BCF5	~s~Use ~INPUT_SNIPER_ZOOM_IN_ALTERNATE~ to zoom in. ~s~Use ~INPUT_SNIPER_ZOOM_OUT_ALTERNATE~ to zoom out.
+	F19DA6BA	~b~Packie~s~ is in trouble find him and help him.
+	53F92809	~s~Make your way to the ~y~vantage point.
+	553D5D64	~r~ Packie was injured. You failed to protect him.~s~
+	56CAA7F2	~s~Press ~INPUT_ATTACK~ to fire.
+	2E82DD1D	~s~Take down the ~r~last man ~s~before he makes a getaway in the van.
+	402B006D	~s~Protect Packie.
+	444B02F3	~s~Hold ~INPUT_AIM~ to look through the scope of the rifle, when it is equipped.
+	5790620A	~r~ One of the attackers got away.~s~
+	7A746F45	~s~Use ~PAD_LSTICK_UP~ to zoom in. ~s~Use ~PAD_LSTICK_DOWN~ to zoom out.
+	82ED38C3	~r~ The meeting has been cancelled. Don't break up the meeting when you don't have to.~s~
+	8B2E9673	Packie and his associate have arrived. Watch over the meeting with the sniper rifle.
+	6641CC9A	~s~Take out all of the ~r~attackers.
+	764817F1	~s~Lose your wanted level.~s~
+	79EEF3F4	~s~Go to the ~y~building~s~ in South Bohan.

@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	88AE6857	Collect the box from the shop ~b~assistant.
+	6BA74155	~r~There's blood all over the clothes. They're ruined.
+	C71DE541	Take the box back to ~y~Pier 45.
+	F64024B5	~s~Press ~INPUT_PICKUP~ to buy the item.
+	E4018038	You don't have enough cash.
+	1A7A0BF0	~r~Sara is dead.
+	04DCC206	~r~The assistant has been spooked.
+	3156C715	Go back to the ~b~assistant.
+	6548A18C	Pick up the ~g~box.
+	3F986398	~r~You didn't get the box for Sara.

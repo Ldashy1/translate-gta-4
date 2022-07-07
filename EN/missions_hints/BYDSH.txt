@@ -1,0 +1,31 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	88C82F8A	Tail the ~r~Bucky~s~ to his crew.
+	AB6CF4D3	~r~Bucky~s~ has pulled up, pull over and wait for his move.
+	B1607CCE	Follow ~r~Bucky~s~ to his crew.
+	6CEB7591	Search the police records by name.
+	7F259859	~r~Bucky~s~ has headed into the restaurant, follow him.
+	861B2089	~R~Bucky died before he got to his crew.~s~
+	D8F44BF5	Tail ~r~Bucky~s~ to his crew.
+	E6B66779	Fire a couple of shots to spook ~r~Bucky~s~ or wait for ~r~Bucky~s~ to move.
+	FB7390FB	Get closer to Bucky, don't lose him.
+	BC151477	Lose your wanted level.
+	D15F3F0B	You need a cop car to scare Bucky.
+	D16E3CE9	You have spooked Bucky, he has bailed on the meeting.
+	6449668D	You have found Bucky's crew, take down the ~r~whole gang.~s~
+	24976582	~R~You failed to find Bucky's crew.~s~
+	38108DA4	Use the police computer to find Bucky's hangout.
+	3AB69128	Find a cop car to access the police database.
+	00AD9EDF	Find a cop car.
+	1FC4599C	You have lost Bucky.
+	2365E20F	Better back off, don't spook Bucky.
+	571949ED	Search for BUCKY SLIGO.
+	5BAB54D9	Don't lose ~r~Bucky,~s~ stick with him.
+	61B75EB1	Follow ~r~Bucky~s~ to his crew.
+	427DA27E	Find a car before Bucky leaves.
+	5067BC8A	Drive to ~y~Burger Shot~s~ where Bucky hangs out.
+	5310C41C	Shoot the ~g~locks~s~ to open the doors.

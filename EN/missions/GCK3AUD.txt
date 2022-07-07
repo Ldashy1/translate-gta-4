@@ -1,0 +1,196 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ABB8540A	~z~That bar was fun.
+	AA899FE6	~z~Next time - let's finish it.
+	AC42A358	~z~Next time, let's finish the game.
+	ADECDF0C	100
+	AD149A1E	GCK_ACT_PKA_END_REJECT_RESPONSE
+	AA4EE7D1	100
+	A7533771	100
+	A5372B83	100
+	A756D97F	~z~I can feel my arteries hardening.
+	AA1E194A	~z~Next time, let's finish the game.
+	A8314794	~z~This is fun.
+	ADFD8059	~z~Will you take me home?
+	B4B0B7BF	GCK_ACT_LEAVE_WALK
+	B45083C0	~z~He was funny.
+	B4B8F881	~z~This was great fun, but let's call it a night.
+	B7A09BD0	~z~That place was okay.
+	B78387E7	GCK_ACT_DARTS_LEAVE_WON
+	B42E8017	~z~Well, you're good at robbing people and I'm good at bowling.
+	B1F5AE06	GCK_ACT_LEAVE_FASTFOOD
+	AED21112	~z~Well done - you beat a girl.
+	B325B95D	100
+	B3E7159F	~z~Never mind, Niko, you'll probably win next time.
+	B36438EE	GCK_ACT_PKA_END_NO
+	A4AC6B59	~z~You could always quit the professional killing and become a professional bowler.
+	89F4642F	GCK_ACT_LEAVE_HiGHEND
+	87EFDF63	~z~Goodnight, Kate.
+	8A205C1E	~z~I think I've had about enough.
+	92BBFB3A	GCK_ACT_DATEFINISHED_AGAIN
+	8A262F6C	~z~I love that guy... really cracked me up.
+	878F0BB8	~z~I enjoyed that bar; it was okay.
+	82380223	GCK_ACT_BOWL_LEAVE_ABANDON
+	82007BFA	~z~You're insatiable, Niko. Forget about it.
+	83B3E09A	~z~I really enjoyed that.
+	861183AC	~z~Sorry, Niko. That's not my style.
+	85EC5275	~z~Not exactly what I was expecting but okay.
+	9746550D	~z~You could only draw with me? Pathetic!
+	9EFCEBCB	~z~I'm sorry, Niko.
+	9E0BF6EB	~z~Let me say goodnight to you at least.
+	9F8A55F1	100
+	A478C775	~z~I enjoyed talking with you.
+	A104FDCB	100
+	9D440124	~z~That was kind of fun.
+	98D08E09	GCK_ACT_POOL_LEAVE_ABANDON
+	9777D34A	~z~I better go home. Will you take me?
+	98D91CFA	~z~Food was good, people suck.
+	9BA67DE9	~z~I had a decent time.
+	9B169006	100
+	B886C09C	~z~I enjoyed myself. But I've got some stuff to deal with.
+	E51C7DA6	~z~Well done.
+	E3F59F59	GCK_ACT_POOL_LEAVE_WON
+	E554C0DF	100
+	E82F107F	~z~This is against my better judgment.
+	E79DFC2C	GCK_ACT_LEAVE_SHOW_CABARET
+	E39DEBA8	~z~Surely you remember where I live?
+	DD976D5D	100
+	DD16CAFD	~z~You were lucky.
+	DDA549B0	~z~I had a great time - reminds me of my family, only no one died.
+	E3891694	~z~Goodnight, Kate.
+	DE93C8BD	100
+	EA40E30E	100
+	F44FE02B	~z~I really don't think that's going to happen, Niko.
+	F34FBCD1	~z~That show was so bad it was good.
+	F45C453E	GCK_ACT_PKA_END_KISS_RESPONSE
+	FB70B702	~z~I really shouldn't do this.
+	F631CD24	~z~See you later, Kate.
+	F27E4E63	100
+	EB315BE5	GCK_ACT_PKA_END_NO_RESPONSE
+	EB05D471	010
+	EBE65474	GCK_ACT_DARTS_LEAVE_LOST
+	EFAFEE6E	~z~That was fun, but let's call it a night.
+	EDD6AA46	100
+	DCF3E676	~z~That place was pretty fun, apart from the stuck up people.
+	C5691B9E	~z~Well played Niko.
+	C4A84972	~z~Right... okay then.
+	C6A5EA5E	100
+	C9F2054A	GCK_ACT_LEAVE_CLUB_GENERIC
+	C8B3151C	~z~I'm not asking you in. We're friends, nothing more.
+	C4221753	~z~I enjoyed myself but I'm worried about something I've got to do.
+	B93354AF	100
+	B8977C00	~z~That was great, but I already feel terrible.
+	BC2AD187	~z~I love walking around the city. Thank you.
+	C2DCB01A	GCK_ACT_DATEFINISHED_HOME
+	BCE1BED1	~z~Let's finish the game next time.
+	C9F9B440	100
+	D4C837F6	~z~That was great - like a family party without the bloodshed.
+	D26FB3EE	~z~That was fun, but I've got things to do.
+	D53B7D76	GCK_ACT_LEAVE_PUB_GENERIC
+	D81B90F8	~z~Well, goodnight then Kate.
+	D666ECEF	~z~Kate McReary what are you doing?
+	D1A069DC	~z~That was so so, don't you think... anyway, it's getting late.
+	CC6DE542	100
+	CBD9CC4B	GCK_ACT_BORED_GETTING
+	CD2F75D9	100
+	CEB8ED00	~z~Look after yourself.
+	CDE97504	~z~I enjoyed myself, thank you.
+	2A4E4BCC	~z~Why are we wandering aimlessly?
+	29A822D1	~z~I've got to go.
+	2A72CC39	~z~No shame in losing to a girl, I guess.
+	2BB8591E	100
+	2A8EAE51	~z~I always love walking around the city.
+	287D02FD	100
+	22B7E9DF	~z~Are we going the slow and scenic route?
+	225F66FB	100
+	242CEA60	~z~I don't know what Packie will say when I tell him you weren't enough of a gentleman to let me win at bowling.
+	285CCF3F	~z~You're a great girl, Kate.
+	2742895A	~z~I understand Kate but I really care about you.
+	2C55ACE2	GCK_ACT_DATEFINISHED_BAD
+	30BF9A00	100
+	30544292	GCK_ACT_BOWL_LEAVE_WON
+	314E3EEE	GCK_ACT_BOWL_LEAVE_LOST
+	339E93C6	~z~I think that was kind of fun.
+	3152FD19	GCK_ACT_BOWL_LEAVE_DRAW
+	3032DEE7	~z~So, thanks for a fun time.
+	2D97C4DC	100
+	2D6822AF	~z~I've had about enough of this.
+	2DDDDF70	~z~Goodnight, Niko.
+	2F227BAF	~z~A draw is the best for everyone.
+	2E76DDE5	~z~Are you alright, Niko? I hope you didn't stop bowling for a reason.
+	225AC8B9	100
+	0BE71650	~z~Hey, that was fun.
+	0A43D6D1	~z~Let's do something else before we head our separate ways?
+	0C57851A	~z~We should have stayed to the end.
+	0F92D79F	010
+	0DBF92AF	~z~Niko - I have only a limited time on earth and you're wasting too much of it.
+	09F1475D	~z~That was fun.
+	038BB5D1	010
+	0177BDC5	~z~You don't have to invite me in, but you could kiss me goodbye.
+	063D5BFC	~z~That was fun, good night.
+	067B1D16	100
+	06714F60	~z~I'm up for staying out a bit longer.
+	10311859	~z~Niko Bellic, who do you think I am?
+	1CFF81DE	~z~Can we call it a day?
+	1B66864E	~z~Thanks for a fun time. Goodnight.
+	1D052675	~z~We should have watched a bit more.
+	202AC936	100
+	1FD3203A	~z~That's funny, I didn't know there were ties in bowling.
+	1AD3ACFB	~z~Unlucky Niko.
+	1337E8B9	~z~You think we can find something else to do?
+	11A505A6	GCK_ACT_LEAVE_SHOW_EARLY
+	14391B7C	~z~Goodnight, Niko Bellic.
+	1A25B2CD	~z~I had a good time.
+	18D50ADE	~z~That was great Niko - thanks.
+	34522F25	GCK_ACT_PKA_END_KISS_AGREE
+	690F74AF	GCK_ACT_PKA_END_KISS
+	652D814B	GCK_ACT_POOL_LEAVE_LOST
+	696F5163	~z~I guess this is goodnight then?
+	6B8DCA34	~z~See you soon.
+	6B7ADC0F	GCK_ACT_DARTS_LEAVE_DRAW
+	64D53CC3	~z~Bye, call me.
+	5BF8D308	GCK_ACT_LEAVE_STANDARD
+	5B9AEAB3	~z~I'm so full I think I might burst.
+	5C3BBC2B	~z~You're a great guy, for a maniac - but I'm going to bed. Goodnight.
+	6236F9B1	GCK_ACT_DATEFINISHED_OK
+	5D4C5254	~z~Now, Niko. I beat you at bowling. Please don't get into a rage and go killing people.
+	6C7CBE20	GCK_ACT_PKA_END_REJECT
+	7B111A7D	~z~Can you give me a lift home?
+	7950E5BA	~z~Yes, thanks for a fun time - goodbye.
+	7BE71FDF	100
+	813B0629	~z~Thank you for respecting me, goodnight.
+	7D15F15A	~z~Can we hurry this up? Take me somewhere.
+	773697DF	GCK_ACT_DATEFINISHED_GOOD
+	7373FA05	100
+	70A1B0C7	~z~So, err, goodnight.
+	746829AE	100
+	76CCB7AE	100
+	74EF4311	~z~That was a lot of fun.
+	5B28B4D6	~z~So, err, good night?
+	3F82C6E4	~z~I've had more than enough of this.
+	3C89CC63	GCK_ACT_PKA_END_YES
+	40EC61F0	GCK_ACT_LEAVE_SHOW_COMEDY
+	45996163	~z~Cabaret is not a dying art - it's a dead art.
+	4579377B	~z~I sort of had fun there.
+	3C04C212	GCK_ACT_BORED_HOME
+	368E6BA2	~z~Can I come in?
+	347ED740	GCK_ACT_DARTS_LEAVE_ABANDON
+	3885B354	~z~Let's do something else now.
+	3B947ADD	~z~Don't be a creep - we're friends.
+	38D9C134	~z~See you soon, Kate.
+	49BAB7D1	~z~Can you take me back home?
+	598486E6	GCK_ACT_LEAVE_PUB_FAVOURITE
+	585EF12A	GCK_ACT_POOL_LEAVE_DRAW
+	5A4619B7	100
+	5AAB161D	~z~Goodbye, Kate.
+	5A90A066	~z~I love the food in those places but the people are terrible.
+	57A03037	~z~I guess you've got something better to be doing.
+	4BF2F26F	010
+	4A0197B7	~z~That was fun - but this is goodnight.
+	4C316F2B	100
+	55D5E680	~z~Can I kiss you, would that be alright?
+	4C99F9FB	~z~Cool. Goodnight, Kate.

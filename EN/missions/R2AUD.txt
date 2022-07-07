@@ -1,0 +1,304 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9FDF99BA	100100010100
+	A0AE90B7	R2_CG
+	9F567985	~z~Sure. I will remind you of that in a few weeks.
+	9F6818ED	~z~Who the fuck are you?
+	A37F67A7	~z~You cannot run from us forever, Mr. Roman.
+	A45AF4A4	R2_HB
+	A1A92124	R2_WA
+	A2A80AAB	R2_CK
+	9E78168D	~z~Maybe a few more after this game you just lose.
+	90D1E686	~z~Stupid question, stupid question.
+	91BBA229	~z~Don't worry I'm getting so many bullets it's like I'm an AK. ~c~We're cool.
+	8D544B0A	R2_VA
+	8FB2E711	100
+	9AF363BC	R2_LE
+	9B218618	~z~I have the feeling only thing you will come out of there with is more debt.
+	9254FE47	~z~Everything that I read in the books. I do what Car Jabowitz tell me in 'May Contain Nuts.'
+	92FB5CA2	~z~I can only wish.
+	B23D13EC	R2_HC
+	B36CF2A6	R2_MN
+	B0F92738	R2_CA
+	B1C40256	~z~Shit, I have to call these loan sharks and try to make things cool.
+	B6D04176	R2_CD
+	B76BC874	~z~My Albanian loan shark.
+	B5640EDC	~z~Cousin - two guys are going in the store. I think they are the loan sharks you speak of.
+	B5A70811	R2_UA
+	B09C4211	R2_BN
+	A9E42374	~z~Hey, they have stopped following us. Clearly they are too scared of what I could do to them.
+	ACEAD3F0	R2_FC
+	A7821336	R2_CF
+	A830CF13	~z~It's all quiet out here Roman, you winning? ~c~Please say yes.
+	AE7C39AA	R2_WB
+	AEB6AD42	~z~I'm going to take them for everything they have.
+	ADB1B500	~z~Sorry, I forget, there are many of these men you owe money to.
+	AE27050B	~z~Niko, you're new. You don't understand the way things work.
+	78AE4132	~z~No, no, this is my game that they play.
+	78E1DED8	R2_DD
+	780249B2	~z~Quick, you take us back to the cab depot. That is Dardan.
+	7819D25D	R2_BO
+	7AAAE7AD	R2_XB
+	7C3DA135	~z~Then I really will clean up.
+	7A2A597A	~z~You think anyone will let me take out insurance policy? We see.
+	7A9214FB	~z~Doing some home improvements, Roman? You going to build this mansion you tell me about?
+	77989E53	R2_LD
+	71C78C49	~z~~c~I will believe when I see, Roman.
+	72B8B76A	~z~~c~They're wimps anyway.
+	6F103201	R2_BC
+	711031C9	~z~They're gone, perfect. That is the last we have seen of those loan sharks... I hope.
+	752D75AF	R2_MG
+	756CB369	R2_CM
+	736C8A4E	~z~Alright cousin, I'll lose them.~c~ Not so tough now.
+	737186D0	100
+	8918B536	100010100010010100100100010100100010010010100
+	8A3BE44D	~z~~c~Has always been that way with you, Roman.
+	8669DEEF	R2_YA
+	87B16D58	R2_BJ
+	8D07E2C2	R2_CB
+	8D1D9F48	R2_ML
+	8A3C9F75	R2_DB
+	8C1B530F	~z~I think that speaking this language should be the least of my problems.
+	85F796C9	R2_LK
+	81D60F42	R2_RC
+	82352F4C	R2_LG
+	7CBC3024	~z~See you later, cousin.
+	80855AA8	~z~I raise on flop, I ride river, it don't make no sense.
+	83961164	R2_MH
+	8484A839	200
+	82CACA78	~z~If you have their nuts in your hand, I believe they will know about it anyway.
+	83082985	~z~Get us back to the depot, quick!
+	B844FD5E	R2_MM
+	E5284FBD	R2_LN
+	E54F9A77	~z~No.
+	DC837B99	R2_ZA
+	DEB8AB68	R2_ME
+	E9ED18BF	~z~And I'm going to win lot of money for us.
+	EA1C2593	R2_BA
+	E6106C6D	R2_LI
+	E656A6C1	~z~I have not seen you before.
+	DB1CDEF6	~z~We're at the bottom of the ladder man. These thugs push us around. But they are not to be feared.
+	D7B4B2BD	R2_TA
+	D7D37488	~z~What does this mean... contain nuts?
+	D48E3404	R2_MO
+	D79657E5	~z~You tell me to behave, Mr. Janitor? If you understand it all, where is the money?
+	D8AE1A97	R2_EB
+	DA345518	~z~We will get our money, Bellic.
+	D8138A3B	~z~You are a friend of the fat Roman?
+	D861A4B6	R2_BG
+	F9F06D31	100
+	FB28DEBA	~z~Shit, cousin. We can't lead these cops right to this backroom game. Lose them.
+	F79117E2	~z~We should stand up to them.~c~ Where is your pride?
+	F7BE3F54	~z~I have read all the books. You know Car Jabowitz?
+	FE30EC9B	~z~If they had not taken it, other players would have. It's all the same, Roman.
+	FF0E2887	010100010100
+	FC081E78	R2_LC
+	FD78477D	~z~Shit, I almost forgot. I'm giving you my old phone, my new number's in there.
+	F767400E	R2_BM
+	EDDD4BF4	~z~Eh, fuck you Niko.
+	EFB96705	R2_DC
+	EA97F5DB	~z~You are in much trouble, Bellic.
+	EB5DBBDA	R2_BD
+	F3E922AD	~z~Shit, you ain't going to make sense to no people if you keep speaking in that language.
+	F50E45D4	R2_BL
+	F0EDF356	100
+	F2291952	R2_GC
+	C2EECF6B	200
+	C3F78C86	R2_MI
+	C2538D52	R2_JA
+	C2DECD54	R2_CL
+	C52C1064	R2_MK
+	C553B360	~z~I lost it this time, but when I go back the last thing they will expect is for me to take everything.
+	C431E748	R2_BI
+	C4873547	R2_LF
+	C14B88B4	R2_RB
+	BC547D6A	R2_RA
+	BCF93AC5	R2_CM_QQQ1
+	B8BDE0D2	R2_CI
+	BB94B201	R2_MA
+	BEC48710	R2_DA
+	C0602801	R2_LB
+	BE0F9CCF	~z~Roman Bellic, we will find you soon.
+	BEAAEDA1	R2_BF
+	CD1BECDD	R2_CE
+	CE53736A	R2_NA
+	CA125906	~z~Anyway, I read this book, 'May Contain Nuts.'
+	CCCDA14C	R2_LL
+	D22F7433	~z~He on TV whole time. The Buffet Car? Come on.
+	D3854981	~z~You and your debts, Roman. ~c~Always the same. Never change.
+	CECB40E2	~z~Of course they saw you. I mean... you're a distinctive man Roman.
+	D056818D	100100
+	C97E2621	R2_LR
+	C73D1419	090
+	C7B4F9A1	~z~Niko, wait for me here while I go inside to clean up.
+	C6363080	~z~Shit, I'm down.
+	C684F764	R2_SA
+	C8DB3A73	~z~It is the Russian mobsters, Vlad's bosses, that run everything. Be careful of them.
+	C95A9A31	R2_MJ
+	C81FB0EF	~z~Come back here, you shit.
+	C8C1F8DE	~z~That is his cab, the fat Roman must be in here.
+	6DDA3562	~z~Dardan is your loan shark, yes?
+	2B14055B	R2_GB
+	2B9C23C8	~z~Call me if some people show up in some shitty beige Willard. Those are the guys I owe money to.
+	28E0F538	~z~Just like the old days, eh?
+	2929957A	100100010100010100100010100100010100010100100010100100010
+	2CA1ED51	~z~Here are the loan sharks, of course.
+	2CF9E0DE	010010100100
+	2C259669	~z~What have you done, cousin? This is not good. Others will come and take more money from us.
+	2C418E75	R2_QB
+	264C8133	R2_QB_QQQ1
+	2682B22C	~z~I see what I can do about getting money for cab.
+	218D79C8	~z~We're here. You like your phone?
+	2649826A	R2_GD
+	280D166B	R2_CK_QQQ1
+	28C51FB6	R2_CH
+	268311EA	~z~make them think you have the nuts in your hand.
+	2792A73B	R2_IA
+	2D03F9DC	~z~Because you can't pay your debts and they make you mop the floor?~c~ Incredible.
+	34A0C354	~z~Another piece of shit, straight off the boat.
+	34B8C5F4	R2_BK
+	07D569BE	~z~All you people look same to me.
+	334B28AF	R2_CN
+	3A451800	~z~Do you think they saw me?
+	3A454650	~z~Here's hoping they don't show up, eh?
+	374670E8	010100100010010100100010100100010100100010100100100
+	3A38D467	100100010100
+	02ED5670	~z~Niko, you're driving us to a hardware store on Dillon Street.
+	2FCC2F6B	~z~No, the business shut down a long time ago. We go there because some guys are playing cards.
+	2DE27FD7	~z~Alright, alright I'm coming.
+	2DFF2DC4	~z~Only problem is I'm playing with some money I'm meant to give to these Albanian scumbags.
+	30A503BF	~z~Shit, I almost forgot. I'm giving you my old phone, my new number's in there.
+	30E5AF11	~z~Remember, do not hurt the loan sharks. The debt will just increase.
+	2FD2664A	R2_MC
+	300B476B	~z~Come on, the piece of shit is gambling our money in here.
+	12857E9E	~z~I do not understand it. I do everything I learn on TV.
+	1336DD1B	~z~Maybe one day you get a premium quality one, like mine. Then you will have really made it.
+	11D04C60	~z~They just have to wait.
+	121DCCD8	R2_HD
+	1553BC5C	100
+	15CB1854	R2_MF
+	1412A404	100
+	14E5200A	100
+	08E77A37	~z~Lose these cops, Niko. I don't want to lead them right to an illegal game.
+	094B9F73	R2_RD
+	08193007	~z~I always win, get it?
+	081B81ED	R2_BE
+	0E53DAC6	~z~Cousin, you don't need to worry about those guys.
+	0F2236E9	~z~Get rid of these cops, Niko. We can't lead them back to the depot.
+	0CDE1F7A	R2_MD
+	0D100CDE	R2_BH
+	15F49C5E	R2_CJ
+	1DD3D44C	~z~Niko, you have to lose these cops, we cannot lead them to my place of business.
+	1EE87BEF	~z~I really must win now. Leave me here.
+	1BFF60BE	~z~Oh yeah?
+	1D83FFEC	~z~You just need know that I read book and I am very good at game.
+	051CAD84	~z~That is why the ladies love me. Fuck those shylocks, they'll get their money.
+	20ED0E6A	~z~Do not hurt them, I know what you're like Niko Bellic.
+	0797D9D2	100
+	209112E8	~z~~c~The Janitor. Sure.~s~ I seriously hope your cards are better than your nicknames.
+	18998179	R2_BB
+	19409AB7	R2_EA
+	172051B7	~z~In the old days we were dodging bombs, not loan sharks.
+	18815515	~z~You better get out of there.
+	1ACDD570	~z~Funny. No! I'm the Janitor because I always clean up.
+	1AEF49EC	~z~Roman, it looks like your money lending friends are here.
+	19ABBC3B	010100
+	1AB918C6	R2_DD
+	3A8222E3	R2_GA
+	66CDA05E	100100100010
+	53CE013A	~z~~c~It don't make no sense to me neither.
+	5349FCEA	R2_PA
+	66A97B9E	R2_HA
+	6603EBE3	~z~Nightclubs... women... titties...
+	5549CD08	~z~Do not hurt them, I know what you're like, Niko Bellic.
+	553C3E8B	R2_LS
+	4EC416A0	R2_XD
+	4E3EED3D	010100100100010100010100100010100100010100100100
+	4E3EBFF3	~z~Just drive. Leave the funny comments to me.
+	4F37EAFF	~z~You and your debts, Roman. ~c~Always the same. Never change.
+	5340C65D	~z~You can play, right? ~c~You are good at this game?
+	509D654E	200
+	4FD5C321	~z~Shit, Niko, it's them, they must have been told I was here.
+	563B4C4E	~z~You're taking me to a backroom game where I'll win all the dollars we need to really see this town.
+	6494061C	~z~What you doing? Now we going to be in real trouble.
+	64FE9BF6	~z~When I've played this game I'll have enough money to pay them back ten times.
+	5B07A64B	~z~Now they take all my money from me.
+	63B4BACD	R2_XA
+	62906AE9	100100102010
+	62724ED3	R2_LJ
+	5B2533C2	R2_KA
+	56C6B4EB	100
+	56B6F251	~z~It's about making other players think you have best cards,
+	65EB6E4B	~z~Call me if some Albanians show up in some shitty beige Willard. Those are the guys I owe money to.
+	57A86A2A	~z~The money, the people, all of this noise around us
+	5A7F9C5B	~z~I think that Bellic is in this store. We will get our money.
+	585E390B	R2_LM
+	57CC815E	~z~After me, and it doesn't matter anyway.
+	3DECC5AA	R2_AA
+	418652DF	~z~Why are we going to this hardware store? You need to buy something?
+	6843705E	~z~No, funny guy - we going to get money. In America you need money to do anything.
+	45E5703E	R2_WC
+	303EB0D9	R2_CC
+	443B9C84	~z~And this must be the loan sharks.
+	001B3E55	~z~I think I just persuaded them to drop your debt.
+	6D0ACA51	~z~Cousin, shit. Why you no warn me that these guys are coming in the store?
+	3F409400	R2_LP
+	416E22B8	~z~I am the best. I kick all the asses that play me. They call me the Janitor.
+	40DDAA62	R2_LA
+	6858D413	R2_OA
+	497AE4BB	~z~We got loan sharks after us?~c~ Roman? What's going on?
+	48FB984E	R2_LO
+	3CBD1B1D	R2_LH
+	017ECF02	R2_CF_QQQ1
+	3AC8306A	~z~- there is a lot of stuff I must get used to here in Liberty City.
+	4C4DAEFA	R2_LQ
+	4BC204B9	R2_BH_QQQ1
+	6709813C	R2_MB
+	466E47B6	~z~Here in Liberty City, we speak English. Get used to this.
+	480A906B	~z~Shit, this is fucked. Now I going to be in even more debt.
+	48315DA8	~z~Please don't hurt the men after us, cousin. They hate me enough as it is.
+R2_CUT1_1	CB7163A4	~z~Come on, big guy - either do some work or get out of here. We don't need jokers.
+R2_CUT1_10	4492808E	~z~Very difficult, I think... hello, Roman! Hello, Miss...
+R2_CUT1_11	BAFF6D6A	~z~Mallorie, this is my cousin I tell you about, Niko...
+R2_CUT1_12	A8CEC909	~z~-Hi.~n~-Niko, this is Mallorie, the beautiful girl I tell you about...
+R2_CUT1_13	0B0D0D88	~z~See? Not everything I tell you was bullshit.
+R2_CUT1_14	7901696F	~z~I bet most of it was.
+R2_CUT1_15	5F90368D	~z~Hey!
+R2_CUT1_16	4D549216	~z~I hope you're less full of shit than your cousin over here.
+R2_CUT1_17	D4399FDE	~z~-Thank you.~n~-This is the woman that I'm going to marry!
+R2_CUT1_18	41D5FB19	~z~Huh! Whatever you say.
+R2_CUT1_19	24A4C0B7	~z~-I thought you were going to marry me, baby?~n~-Hey, Vlad.
+R2_CUT1_2	4D6EE7AD	~z~-Screw you.~n~-Screw you!
+R2_CUT1_20	85D70D0A	~z~Hey... Vlad... great!
+R2_CUT1_21	1F7AC04F	~z~You're fuckin' crazy, man.
+R2_CUT1_22	314463E2	~z~You should lose few pounds - otherwise this beautiful lady is going to leave you.
+R2_CUT1_23	47058F64	~z~I know... I'm a fat prick, what can I do?
+R2_CUT1_24	54582A09	~z~Pay your debts?
+R2_CUT1_25	EA1F5599	~z~I... I will do man. We spoke of this.
+R2_CUT1_26	F80CF174	~z~No, we didn't speak.
+R2_CUT1_27	0DBC1CD2	~z~You spoke then you say your phone out of batteries. You treat me like a bitch.
+R2_CUT1_28	1B92B87F	~z~Never! I'd treat you like an idiot, not a bitch, eh?
+R2_CUT1_29	B5856C62	~z~I guess it's true...
+R2_CUT1_3	3EC1CA53	~z~Baby... when I look into your eyes, it means something.
+R2_CUT1_30	CB2A9450	~z~the beautiful women do like the guys with the funny sense of humor.
+R2_CUT1_31	D96930CD	~z~Ho ho. I'm laughing.
+R2_CUT1_32	A7AECD59	~z~I'll get you the money.
+R2_CUT1_33	D9BC313F	~z~I know. And Roman...
+R2_CUT1_34	A7C7CD57	~z~tell this fucking yokel here if he doesn't stop staring at me,
+R2_CUT1_35	B6A96B1A	~z~I'll have his head chopped off and put a film of it on the internet!
+R2_CUT1_36	8352046C	~z~Ouch...
+R2_CUT1_37	021F8205	~z~Ah... all good... great...
+R2_CUT1_38	F06D5EA1	~z~Hah! Yeah, fantastic!
+R2_CUT1_39	FFD2FD6C	~z~Look, say what you like,but at least that guy knows how to speak to a lady.
+R2_CUT1_4	70EBAEA6	~z~I see little Romans, I see little Mallories,
+R2_CUT1_40	6E805C25	~z~Yes, he's all charm. Come on Niko, let's go.
+R2_CUT1_41	CB4015A7	~z~Darling... I'll see you later. I've got to take my cousin around some more, get him settled...
+R2_CUT1_5	9255F17A	~z~I see stars, I see angels.
+R2_CUT1_6	17FAFCC2	~z~ In my homeland we have a saying...
+R2_CUT1_7	FD40C74E	~z~Yeah, we got one too. You're a fag!
+R2_CUT1_8	2F7D2BCA	~z~Shit...
+R2_CUT1_9	20988E01	~z~Jesus, Roman, you fuckin' idiota. How can I take you seriously?

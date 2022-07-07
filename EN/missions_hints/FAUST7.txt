@@ -1,0 +1,14 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	4EF7EFA6	Take down ~r~Faustin.~s~
+	3CBA4B2B	~r~Faustin got away.~s~
+	5D36E0E4	Get to ~y~Faustin's club.
+	51DA74FF	~r~Faustin~s~ is inside Perestroika.
+	21AB950E	~r~Faustin~s~ is getting away. Chase him.
+	0FF0F199	Faustin will arrive soon.
+	2E9E5EF8	Body armor increases the amount of damage you can take from gunfire.
+	2CF7CC27	~s~Lose your wanted level.

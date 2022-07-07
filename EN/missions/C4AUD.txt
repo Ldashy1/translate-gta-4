@@ -1,0 +1,308 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A1BDB7EC	~z~Whatever actually, just smoke it.
+	A2C96661	C4_A_DE
+	A050A396	~z~Wine up on the blood clot.
+	A1BB38C9	~z~I appreciate your assistance, Bellic. You did a good thing today. Now it's my turn.
+	A4AD5504	~z~Gwann chill out Niko, we jammin' here.
+	A6DBE18D	~z~Come down, Niko. I an' I need fe get lower for de shot and ting.
+	A90B6CA5	C4_A_OA
+	A5583ACC	102102
+	A55D91FB	C4_A_IA
+	9A919818	~z~I an' I need fe closer.
+	9ACD66BA	C4_YC
+	9934A000	C4_GD
+	998D30FA	~z~Fine, smoke it. Whatever.
+	9BB0D852	~z~I should have seen.
+	9EBE1365	102
+	9F69097B	C4_CD
+	9C8AA06F	~z~Your sometime accomplice, Jacob, is there. He's riding shotgun on this one.
+	9E571966	C4_A_MB
+	AAA73B1A	~z~It isn't easy to follow orders when you don't know what the fuck is going on.
+	BC2FC468	~z~Ya got some crucial flying skills, ya know Niko. Can I drop I off on de heli pad though? Me no feel so good ya know.
+	BC5E69C0	012012102012
+	B90A9061	010100
+	BB5377BB	~z~Him going through City Hall. That's a seriously tight fit.
+	BC7CE72F	012102102012102
+	BFBC4410	~z~Yo, dis be some crazy shit ya know Niko. Yo, we inna the Star Junction in a helicopter.
+	C281A2C6	~z~For a man who has asked me to kill a lot of men, this guy is really safety conscious.
+	BD9FFF19	~z~We lost Jacob in this piece of shit mission of yours.
+	BE4F1F6B	102012
+	B3B78B40	~z~Let's do it!
+	B4E90795	~z~Seen. He got that government ting about him. All for the greater good and ting.
+	AE98448A	~z~Jacob? The rasta?
+	B34C219F	102012102
+	B4F136F0	012
+	B7EEFEE0	C4_GC
+	B8AE86BF	010100100100
+	B5877CA6	~z~Hey, me and Jacob kind of messed up.
+	B7A7BB5F	C4_A_JB
+	990B5F84	C4_DB
+	873B0FED	C4_JA
+	87C5DB66	C4_BB
+	860FD5D1	C4_OE
+	86DF7971	C4_A_DA
+	882E2214	~z~Why'd you miss, Jacob? Smoking too much?
+	893BBACC	102012012012102
+	8A0627E2	~z~Get lower for de shot, Niko.
+	884A63D2	C4_A_GC
+	88EF9AA8	C4_A_EF
+	7D981DC8	C4_A_CA
+	7E82279B	C4_ED
+	7BE530F0	~z~Yo, I an' I see ya soon Niko.
+	7CCA578C	102012102012102
+	7E907D9C	C4_JB
+	835F077F	102
+	83DDEAB1	~z~Can't shoot dis bumba clot from back here.
+	7F0AC9A7	C4_A_BB
+	8075D223	102
+	8A22ABF8	~z~Ya man, It just some almshouse gwaan ya know. Forward a chopper, see America? It's a real fucked up place man.
+	94A79EA2	~z~I will try to find the man you're after. I will call when I have something.
+	94BAEDFE	~z~Dis some real spy shit I and I is doing ya know.
+	90EB8931	~z~Bellic. We need you. Now. The chopper is prepped and waiting off Grummer Road in Northwood.
+	931B8293	~z~He wasn't my man, he was your target. Lives may be lost because of this mistake.
+	95A5566A	102012102
+	97613A6C	~z~It's like we in a movie or something.
+	981034FA	~z~Rhaatid. Him back over on land again.
+	9601B925	C4_ZD
+	973C877A	C4_HB
+	8CBFD2A5	~z~Ras. De chopper ain't in good shape and ting. It fuckery to the fullness, seen?
+	8D9C158F	102102
+	8B1D8480	~z~Niko, I needed you to come through on this. I'll be in touch.
+	8BB9AF2A	~z~and tell me some I haffi come up here and meet him, and den find some boy and mash him up and ting.
+	8EEB4104	C4_NA
+	8F78ACC7	102102012102012
+	90213D2D	~z~De boss gonna be vex with I an' I for losing dat ras clot ya know, cha!
+	8F233F37	~z~Cha, me no come yah fe hear bout how horse dead and cow fat. It nuh nuttin.
+	8F65A2A5	~z~He paid his debt to our country. He did a good thing. Maybe that was the one good thing he did.
+	C45400E4	C4_HE
+	E83CC5CF	~z~I'd be impressed if you had been.
+	E86C4EB7	~z~I don't see so good when you're blowing the smoke in my face!
+	E7AEE15C	C4_QA
+	E81330A2	~z~Ya make me lose de shot ya know man!
+	EA2361D0	C4_A_NB
+	ED91C4D9	C4_IB
+	EE2AE7FE	~z~Yo, I ain't used to seeing de Star Junction from a helicopter, ya know Niko.
+	EA736EE0	C4_VB
+	ECF13539	C4_A_MA
+	E5CFB634	C4_A_DD
+	E5F03EB5	C4_PA
+	E3E644C7	C4_YA
+	E406E5D0	~z~I have the feeling he don't want to be responsible for a helicopter crash in Middle Park.
+	E60E4618	C4_HC
+	E6A7DD71	C4_GB
+	E71DE5ED	~z~Jacob, how'd they get you into this shit?
+	E637601B	C4_ZB
+	E64D775A	C4_CD
+	EE48F066	~z~Mek we get lower, bredren. There be no shot up here.
+	F9398B3D	SFX_PAUSE_1000
+	F954D325	~z~Raas Man!, I get no more shot!
+	F81AD600	~z~I don't care what type of prison sentence de boy want check me with, ya know star. No more ah dis.
+	F85F9A24	C4_A_AB
+	FA2AD50B	~z~Give me some height some can shoot dis ras clot and ting, Niko.
+	FB92A62C	012012012102012
+	FD6A5816	~z~Don't worry about the bridge, Jacob. I'm finally getting the hang of flying this thing.
+	FAC1994B	~z~If someone can find the man I search for, it should be him.
+	FB65EC21	~z~You think I've been sitting around scratching my balls with my head up my ass.
+	F08C6AA1	C4_ZC
+	F41A9036	~z~Rhaatid, that just fuckery. I need to be back inna line.
+	EEB4D016	C4_ND
+	EFEC83AD	102012
+	F5826B51	~z~What do you mean? Is full of rich joggers and tourists.
+	F7803311	~z~We couldn't get a clean shot on the chopper.
+	F7A303A6	010100100
+	F60AE9F4	~z~Jacob, man!
+	F7089F26	C4_KA
+	E034D971	C4_BA
+	CB76258E	102102012012102102
+	CC05C585	~z~Good place to hide if the government are after you.
+	CA0C7B72	~z~Don't ask unnecessary questions. I want you to take out this guy's chopper.
+	CB4A9E2D	C4_A_EA
+	CCA49A5D	~z~I can make it.
+	CEB4992D	C4_FA
+	D0A0B55D	C4_A_ED
+	CEA9BF6C	102
+	CEB0836D	012102102012102
+	C8B47E13	010100100010100100
+	C8D8E597	102
+	C4F66648	~z~I lost your man.
+	C6CE1F33	~z~We had to shoot the chopper down over land.
+	C9580724	~z~And I'm paranoid enough with US government on my ass.
+	C9DA9B75	C4_XA
+	CA07D4C2	C4_AB
+	C9AF08B4	~z~You think I don't know that?
+	C9D4D7BB	~z~Maybe the casualties would have been fewer overall.
+	D100A24E	~z~I tink dat's our boy over der ya know. Get him so we can go home man.
+	DB370BE8	C4_A_CD
+	DD6D1403	100100010100100
+	DAD6DAEF	C4_EA
+	DAFAFA07	~z~Fuck the math. This is no way to fight a war. There might be another opportunity.
+	DDA06F8A	C4_TA
+	DEDE3ED0	~z~Yo just chill Niko, you can always head around.
+	E02C9285	C4_A_GD
+	DDCFBE3B	C4_KA
+	DE75BB57	102102012102
+	D3D1BB78	~z~Yo, bring dis ting down me breda. I can't get him from up here.
+	D5C5CC45	~z~Wicked Niko, ya don't know, ya de man, ya know? Sight de man soon, seen?
+	D15EBA6F	~z~Some bigga ess put some pressure pon me and call me up in him office and tell me all type of nonsense.
+	D1DDEFC4	~z~Trust me, dis ting a mess wit me structure.
+	D747BE9C	C4_ZA
+	D8E1E298	C4_DA
+	D9E0613A	~z~He trying to lose I and I through City Hall.
+	D793A39B	~z~The secondary smoke doesn't exactly help my hand-eye coordination.
+	D855CE6E	~z~True dat.
+	2450F7BA	~z~Ain't nuthin' but badda badda.
+	24AB479C	~z~Jacob, how'd they get you into this shit?
+	233515D8	C4_A_JE
+	239EC563	C4_YB
+	2706845C	C4_A_BA
+	27A6B99A	102
+	281294AF	~z~Seen, bredren. Everyting crash!
+	273DDB84	C4_GA
+	2794023B	102
+	1D399AEE	~z~Cha, what you doing? Me had him in me sight!
+	1E63EC65	102012102102012102
+	1C411E4C	~z~Yeah, but me done wit dis ting ya know, Niko.
+	1CED5ACD	~z~Girl wine up and ting, like she looking for something and ting
+	1F6F5CA0	~z~There be the other chopper. Stick to him, Niko. We need to take him down where there be no people.
+	22436432	C4_NC
+	227910FD	~z~Good shot, Jacob.
+	1FE72083	~z~We need fe get higher so me can get dis shot.
+	20A2AF4D	C4_LA
+	281DF403	~z~Yo, job well done ya know Niko, but we haffi get out dis bumba clot debt right now, ya know.
+	30C07029	C4_A_NC
+	31C5C440	~z~Get dis ting up higher so me can shoot dis ras clot.
+	30065E56	~z~Some bigga ess put some pressure pon me and call me up in him office and tell me all type of nonsense.
+	30148DA5	~z~Ya going through the arch? Ya crazy? Don't get me killed!
+	333DF831	~z~Come on, Jacob. You need new lenses in those glasses? Hit the thing.
+	35B88F31	C4_A_AA
+	35BE36D6	102012102
+	346FD712	~z~Don't go hitting a crane or nothing.
+	3528DC2D	~z~I dey 'pon haste.
+	2B9DBF97	C4_A_DB
+	2CA62404	C4_BA
+	2A7CBAC3	~z~I have a feeling that it was best to do what we did though.
+	2B177721	~z~I thought de girl was too good to be true ya know Niko.
+	2CAE4DCF	~z~Shit, Jacob. You really gotta smoke that thing now?
+	2FD83CF1	~z~Yo Respect! Ya a rightous rudeboy, Niko
+	2FEA459E	~z~Me no go back inna no more blood clot helicopter wit di boy ya know, no more!
+	2D715B2E	~z~For real. I'm gwan give dem boy some hot fe jump for!
+	2F69D428	~z~We shot down that chopper for you.
+	1BC2AEA5	C4_A_DC
+	0D4A32BB	C4_OA
+	0DA3F18A	102002102
+	0BB297B1	~z~Take him inna Middle Park. Dere ain't too many people over dere.
+	0CC83D58	~z~Now it is our turn to get him to help us.
+	0DB8CF5B	102
+	0EC16E46	C4_A_GA
+	0ED4FE25	~z~Rhaatid, Niko. I don't got no shot no more.
+	0DD56E41	C4_A_JD
+	0E0AEC11	C4_A_GB
+	057170AD	~z~Me done wit dat blood clot suit, ya know Niko.
+	05FD0FED	C4_A_ZA
+	01825C4F	C4_SA
+	053B67B8	~z~Rhaaatid! What a' gwan?
+	068A3FA1	C4_EE
+	0A9E44EC	~z~Chill Niko, we catch him soon enough.
+	0B032B81	C4_A_EE
+	07E63EE5	~z~Yo Niko, got some serious fire power up in here. Rocket launcher! Bo!
+	09DDE56A	C4_A_JC
+	0F432C31	C4_A_EB
+	16D66ADA	C4_AE
+	173459EF	C4_OE
+	164F5717	C4_A_AC
+	169A50FC	~z~I do not think he can ask us to do more than this.
+	18263098	~z~Give the tourists something to tell their families back home.
+	1A72B038	C4_HD
+	1AAFFBB2	C4_CC
+	188BB5F3	~z~Shit.
+	193B0640	C4_A_JA
+	10F2A02B	~z~Yes, here's my man Niko.
+	12679FCD	~z~Keep steady for de shot now.
+	10556D15	~z~Yo Respect! Ya a rightous rudeboy, Niko
+	10CF7DF5	~z~I'll be in touch. Pathetic.
+	13F3089B	~z~Get up, Niko, get up. Give me some height.
+	157EDA16	~z~Let's find him and get this over with. I don't like being in this man's pocket.
+	15CFDC00	C4_EC
+	1458A3AF	~z~Steady now man, me need fe shoot!
+	14960E46	~z~Yes, here's my man Niko.
+	3692753F	102
+	624CB267	~z~Niko, watch out for the crane.
+	624F3679	~z~I need fe take a shot soon, sight?
+	6022C420	~z~Not a bad way to die. I'll be in touch.
+	60FFD29F	C4_A_ND
+	62C16D86	~z~Cha, missed the ras clot. Get me back in I spot.
+	64328CF7	C4_A_FA
+	64497A2E	C4_EB
+	6382CA1B	C4_YC
+	63CEB5DF	~z~We had a few chopper troubles. This isn't going to be possible.
+	59AD7DB9	102
+	59B30DD8	C4_A_HA
+	57DBD52A	C4_NB
+	59860B36	C4_HA
+	5C261FA7	~z~He was last spotted in Varsity Heights. No civilian casualties.
+	5F44A6F9	C4_IC
+	5F889FCD	~z~Get the chopper up, Niko.
+	5DF8807A	~z~Shows you the people who need spy shit done get other people to do their dirty work.
+	5E6159AE	~z~One love, me breda.
+	655AFCD9	~z~Get close so I can take a shot!
+	7743825D	~z~I an' I be too high fe get de shot, Niko.
+	777E4395	~z~Rhaaatid! What a' gwan?
+	7523BF91	C4_A_GE
+	756F8296	~z~Yeah, sounds familiar.
+	7786C4E7	100
+	7B4FBE3B	102
+	7B8F3C87	C4_OA
+	78A32369	~z~He's over the water. Now are the time.
+	7A03859F	~z~I'll be in touch. Pathetic.
+	6BB738CB	010100100
+	6CF7EE1A	102102012012102
+	65E5C6C8	~z~How am I gonna get dis bumba clot with ya moving all over de place?
+	67918D9B	C4_AD
+	6E6E6B8A	C4_A_EC
+	714EEE44	~z~Those are the only differences.
+	74B41665	C4_CF
+	6EE76D42	SFX_PAUSE_1000
+	700CD3C6	010010100
+	57C1E144	C4_WB
+	4588895A	~z~Yeah, sounds familiar.
+	45BD2F27	C4_A_CB
+	42ECEAF3	~z~Hey, Jacob.
+	438E0BEE	C4_LA
+	460F9DD4	~z~You gotta work on your aim, Jacob. I could have made that shot with my eyes closed.
+	4667ADC1	~z~I am sorry for getting you into this. It was that girl, Michelle. She played me.
+	46954D9B	C4_WA
+	462D240B	C4_A_MC
+	46424BF1	C4_AC
+	3A9AFB5D	C4_RA
+	3ECC7896	~z~I can't take a shot with dis damn turbulence ting going on.
+	394F58B3	C4_IA
+	3A4172CC	~z~and tell me some I haffi come up here and meet him, and den find some boy and mash him up and ting.
+	3F8AB256	C4_A_LA
+	4144ABFB	C4_CC
+	41FF7231	~z~A crane, Niko. Watch yourself.
+	3F8D0AC1	~z~Yeah! Only we could get arrested or killed.
+	40B5D57E	C4_A_GF
+	46E37F70	102012102102
+	51C0AC0B	C4_XB
+	520395E2	~z~Make we dweet. Get the chopper in place.
+	50A86D5B	~z~Feel de fiyaah.
+	51A24300	C4_VA
+	529C3CC1	C4_UA
+	54C09AF4	C4_NE
+	57AE2DA5	~z~Ya man, It just some almshouse gwaan ya know. Forward a chopper, see America? It's a real fucked up place man.
+	53613BFA	C4_A_NA
+	5373E8A8	C4_AA
+	48B267E5	C4_A_CC
+	49AA5774	~z~Dammit. Maybe he should have been taken down anyway.
+	47187127	~z~Get closer.
+	47FCD987	C4_CF
+	4A6FBE01	C4_MA
+	4D2FC8EA	C4_DC
+	4DDED27A	C4_A_LB
+	4AE2D9C8	102
+	4B0E9E69	C4_JC

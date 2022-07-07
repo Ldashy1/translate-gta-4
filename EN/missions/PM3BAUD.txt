@@ -1,0 +1,323 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B0C4E1B4	~z~You're guarding the rear, Niko.
+	B1FB7D97	~z~Control yourself, Derrick. I got a plan.
+	AE2B16DA	~z~Down these stairs, men. Come on.
+	AE62DBC3	PM3_A_XA
+	B499EA8E	PM3_B_RA
+	B675EFF6	~z~Hold 'em off for a minute, boys.
+	B6C638E6	~z~They ain't gonna get us from behind, boys. I got it covered.
+	B4E784E3	PM3_B_AA
+	B5B3F296	102
+	AC10C1E3	PM3_PM3_A
+	A976108B	~z~We got cops following us, boys.
+	A99E203F	202
+	A706B16F	PM3_B_AD
+	A8AF05BC	PM3_B_BA
+	AA984E82	~z~Watch out, Packie. Get in some cover.
+	AB7CDB50	PM3_B_FA
+	ABB6F79F	~z~Let us go fucking peaceful like!
+	AACEA8F6	292122092102
+	AAFD6344	~z~Watch out, Niko. Get in cover.
+	B724B34E	~z~Looks like we got a whole precinct worth a cops out here. Get in some cover.
+	BD721B15	~z~Motherfuckers!
+	C0E6EB1A	102
+	BCA2B6E4	~z~They're behind us, the fucking cops.
+	BD12C7FA	102
+	C17B5797	~z~I'm gonna give myself a double dose when I get home.
+	C3240B7B	~z~I could do with some chop right now!
+	C6B8CE64	~z~Fucking get rid of these guys, Niko.
+	C19B474C	~z~Stick to the tracks, Niko. Come on.
+	C23E324C	PM3_C_HA
+	BAF4ACB3	102
+	B89E0A4F	~z~I ain't been here since Frankie threw me a farewell dinner when I was going to Ireland. That was a lifetime ago.
+	B94C116C	PM3_B_CA
+	B7CE7A00	~z~You don't wanna stand in our fucking way.
+	B846CF79	PM3_C_CA
+	B9920E9D	202
+	BA9B9EAD	~z~Don't stand in our way because we don't want to hurt you.
+	BAA84611	PM3_C_QA
+	B9A66FE5	PM3_C_VA
+	B9BD59EC	~z~Niko, get in cover.
+	A6A6D5F0	~z~We can't let these cops pin us down in here. Fuck!
+	8B81BCD8	~z~There's a fucking train coming. Watch out.
+	8C2F1889	~z~Keep an eye to the rear, Niko.
+	8AB85B1D	PM3_C_EA
+	8B3A82CD	PM3_B_GB
+	8E07FA8D	PM3_B_JA
+	8FF9F8C7	~z~Fuck, the door's locked. Shoot the lock out, Niko. We'll cover you.
+	90164601	~z~The fucking train is running us down. Christ.
+	8EFD046C	~z~Find some cover, Niko.
+	8F4E95A8	102
+	89F18F3F	~z~I feel like I'm in a fucking tomb.
+	84910021	102
+	84F3897D	~z~Niko, will ya keep an eye to the left?
+	7E58AF2C	090
+	7FFC17C9	~z~Come on, into this car park.
+	85F14982	~z~We got cops coming up behind us. Shit.
+	87BE2DA3	102
+	87CB2C35	PM3_C_SA
+	86233AA0	~z~There ain't no way round these fucks, we're going through 'em.
+	86E22765	~z~Shit, they sent a chopper after us. There ain't no getting away. We're done.
+	92BCFA1B	~z~I'm gonna knock myself out for the fucking count. Try to forget about all this shit.
+	9FCB9C38	100
+	A115F20D	PM3_B_YA
+	9C287944	~z~I need you to clear the area for us, Niko.
+	9D4EC7E7	~z~Shit, Niko. Find some cover.
+	A1D6522C	~z~I ain't giving up this money.
+	A4863ABB	~z~You're doing fucking great, boys. Let's get up these stairs.
+	A5F08F8F	PM3_B_PA
+	A2D67B10	~z~Shit, Niko. Check in front of us.
+	A4254702	PM3_A_ZA
+	9A7AE35F	290120210120120210090
+	93BF9A17	102
+	93C4A2E5	~z~Shit, I don't wanna die down here.
+	92E631C4	~z~That's gotta be a service exit. Let's hit it.
+	937EA5A4	PM3_B_MA
+	93E13065	~z~These cops is gonna fucking trap us in this tunnel. Shit!
+	99705312	~z~The cash is ours now!
+	9A1974CC	~z~I can taste the fresh air, boys. Can't have long to go.
+	9626510F	~z~A whole van fulla N.O.O.S.E., boys..
+	98243EC8	~z~You don't want to get in my way.
+	ECAF2BFE	PM3_C_OA
+	ED0FF332	~z~Shit, you don't never know what you're dealing with when you're in Chinatown.
+	EAC36405	~z~You don't wanna die for the bank's cash.
+	EB3A91A3	PM3_C_JA
+	EF51898F	~z~You knew what this job was when you signed up. Don't pretend that you're all holier than thou.
+	F0DF22B0	~z~Alright man, get these guys, will ya?
+	F1C8D629	~z~The cops is down here too. Check over there, boys.
+	F02DBE6B	~z~I got the front covered, boys.
+	F08752AC	~z~I ain't gonna be around much longer at this rate. Fucking help me!
+	E77BA037	PM3_B_UA
+	E4BE4CF8	~z~There are too many of them, we'll die if we stay here.
+	E5BE3D1A	~z~This ain't my idea of fun, boys. Would ya give me a hand?
+	E30E870F	~z~Clear the area for us, Niko.
+	E4AD5551	~z~That's gotta be a way outta here, boys. Come on.
+	E614064E	PM3_C_WA
+	E6C4D7EC	~z~Get outta the fucking way!
+	E761BF35	~z~Make sure these pricks don't shoot the bags. Notes with bullet holes in 'em are gonna be mighty hard to get rid of.
+	E6793F92	~z~Shit, they've followed us down here. They're in the subway too.
+	E68CF929	292
+	F2555778	~z~Michael was unlucky. It wasn't anybody's fault what happened to him and the explosive did its job.
+	FCEDA934	PM3_B_SA
+	FCEE376E	100
+	FA678F3D	292
+	FA6E8584	~z~The can't be another truck full of them. Jesus. They're blocking the roads.
+	FD4BE1E7	PM3_A_UA
+	FF07BF01	~z~Niko, those guys is yours.
+	FF994F3D	PM3_C_TA
+	FD626135	~z~Get in some cover, Niko.
+	FED95FFD	202
+	FA49907D	PM3_B_IA
+	F3739070	~z~Everybody get down. We don't want no one hurt who don't gotta be.
+	F476D3D9	~z~We got more cops on us, people.
+	F2811C17	~z~You're right. Let's cut around the back. Follow my lead.
+	F34B4D07	~z~Don't be fucking stupid, get in cover, Niko.
+	F5B25BD6	~z~Don't get this money shot up, boys.
+	F8F07F25	~z~Get in cover, Niko.
+	F9E7D95E	~z~Will you shoot the fucking lock already, Niko?
+	F6D2A53E	100
+	F76EBB71	~z~Okay, we're making a right up here. Come on.
+	E2FDAA96	PM3_B_GA
+	CF5FAD3E	~z~Back off. The money's ours now.
+	CF8C0513	PM3_B_GD
+	CE0A045F	102
+	CE2286E5	PM3_C_IA
+	D02B4087	~z~You ain't taking me down!
+	D3194386	PM3_B_AC
+	D47E6D12	~z~Niko, follow us on the tracks.
+	D0AA4F6F	PM3_B_KA
+	D11B92A9	~z~Watch the bags, boys. We don't want holes in our notes.
+	CBF0C646	~z~Let's charge through these fucks, people. There ain't no time for second thoughts.
+	C964DF5A	~z~We're heading right, people. Come on.
+	C9F896FB	~z~Hold these bastards back, boys.
+	C7859C50	~z~Niko! Cover!
+	C8CE3B12	~z~Our argument's with the police, not innocent civilians. Get down.
+	CA025EFF	102
+	CAB67F3B	102
+	CBCB0D7E	~z~You almost lost me and a big bag of money there, boys.
+	CA828537	~z~Niko you're the getaway driver. Will ya get us back to my ma's?
+	CAA67731	102
+	D560AFF4	~z~If this was easy then everyone would rob banks.
+	DDC508CB	~z~Ain't no one coming at us from the right, people.
+	DF5A4054	012
+	DC34A89B	~z~Alright, Niko. Take us back to my ma's, will ya?
+	DD7AF579	~z~Let's get down here, come on.
+	DFC07D1F	~z~The cops is behind us. Jesus.
+	E0A24A7C	~z~Moment of truth, boys. Let's go!
+	E2BF30B2	~z~Bring that shithead down, Niko.
+	E02FE68B	~z~The train's heading right for us. Watch yourselves.
+	E09F6FB9	102
+	DC0B73B4	292
+	D8353374	~z~Keep these fucks at bay, people.
+	D90DC09A	~z~There ain't no reason to get in my way.
+	D6866DFF	~z~Shit, Niko. Will you handle these boys?
+	D699331F	100
+	D9EB13FB	102
+	DB3DDBA9	~z~We're gonna head right, okay? Move it.
+	DB9ABC64	~z~We'll be laughing about this shit tomorrow, boys, I promise ya that.
+	D9EDA9C3	~z~Shit, that was closer than I'm comfortable with.
+	DA691BAD	PM3_B_GC
+	7CEE5F65	~z~Hurry up and shoot the fucking lock, will you?
+	20A12C2D	~z~More cops are joining in the party, boys.
+	21F0D25F	~z~I'm fighting for this cash.
+	208033CD	~z~Both of you shut the fuck up.
+	2095C700	102
+	22DD101F	PM3_B_EA
+	249701D8	PM3_B_QA
+	268CC21F	102
+	22F9156B	~z~We don't want another casualty on this job. Hang in there, Niko.
+	2311F0FF	PM3_
+	1E88FD38	212
+	1C569F9E	PM3_B_FG
+	1C757D80	~z~We ain't got no choice, people. We gotta head onto the track.
+	1BBBF869	~z~Take them guys down, Niko.
+	1C018CAA	~z~Frankie's gonna love this.
+	1CD5E497	~z~This ain't the type of thing I agree with. I ain't in it for the money. I believe in something, you know?
+	1E7315C3	~z~Shit, this door's locked. Shoot the lock, Niko. We got you covered.
+	1E78B84F	~z~I ain't built for being underground like this.
+	1D6F71F3	~z~Okay, boys. We're outta here. Follow me round the back.
+	1D9E266F	~z~Take that guy down, Niko.
+	271B5EDD	~z~Jesus, they're blocking off the damn road. There's another truck full of those bastards.
+	2CBEC203	PM3_C_RA
+	2D2A2EFB	~z~I got told this was going to be a smooth job. Real easy, they told me. No casualties.
+	2B31C930	~z~And you coulda been more careful of your boy Michael. He should be with us right now.
+	2BB1B714	PM3_C_KA
+	2DB1E9E1	~z~Go back home to your kids. You don't wanna die here.
+	300EE490	PM3_B_HA
+	3061E41C	PM3_B_FB
+	2DC2466F	~z~Cop car, boys! Watch it.
+	2F234437	PM3_C_DA
+	2A435B5A	PM3_B_VA
+	28B3D4E2	~z~This ain't working. We need to get out of here.
+	28B956DA	~z~Give us some cover while we run for the subway, Niko.
+	273BE789	~z~Chinatown always smells like Chinatown no matter where you are or how much gun powder is in the air.
+	280840E7	202
+	28BA8DF1	102
+	295EC45A	~z~Shit, Niko. They're all over me.
+	2A141FC5	PM3_C_PA
+	28E612BD	~z~Bring them down, Niko.
+	29106D36	~z~We just made a withdrawal, what's the problem?
+	1BA5E8D3	PM3_C_UA
+	094280AC	102
+	09C76756	PM3_C_MA
+	064B2C07	202
+	07C194B5	~z~Come on, think of the money, people.
+	0A56FB2A	~z~You ain't invincible, Niko. Get in cover.
+	0C048340	~z~That man's yours, Niko.
+	0CB42A52	102
+	0AC3DA1D	~z~Alright, boys. The only way we got to go is along the tracks. Come on.
+	0AE440B4	~z~Sure you do, you believe in the needle and its power to make the rest of the world disappear, while you dream of nonsense.
+	062A35DD	~z~Get down, we don't wanna hurt civilians.
+	0124452D	~z~Niko, that thing can't take all of us and this cash. Use your head, man.
+	012A0857	~z~Check to the right for us, Niko.
+	000E72B4	~z~They're after us, boys. Check the other platform.
+	00BBB88C	~z~Alright, we make a move around the back. Follow me.
+	034E0E75	PM3_B_FF
+	05FBAC2F	~z~Screw you all!
+	0624F4B3	~z~Get us a car will you, Niko?
+	050C992D	102
+	05D3D0AB	~z~That's a fucking sea of blue. Get in cover, boys!
+	0ED28890	~z~Heads up. Here's another cop car.
+	16624643	~z~We ain't doing that neither. Follow me. We'll lose them in the subway.
+	16CAB255	202
+	152AB897	~z~I ain't going to jail in this country.
+	1615C357	102
+	17296270	100
+	180A471E	PM3_C_AA
+	185DBF39	~z~I got plans for this money. I ain't dropping it.
+	176F3CCE	PM3_B_ZA
+	17C2FEFF	~z~Niko, you gotta hang in there. Don't die on us.
+	14E1BA6A	~z~Another fucking truck full of 'em. They're blocking us in.
+	0FE3D111	PM3_C_BA
+	100D94B3	102
+	0F5009D3	~z~Shit, Niko. Take him down.
+	0FC30B67	PM3_B_NA
+	10308137	102
+	132029BB	~z~Shit, just staying here ain't going to work. There are too many of them.
+	13566991	~z~How is you, me and Derrick gonna fit in there with the money?
+	10B3CDE5	~z~You did it, let's bust out of here.
+	119C0BB5	~z~Can you get us some transport, Niko?
+	64E9BB73	~z~Fuck, boys. I ain't doing too good over here.
+	65CDF686	~z~Fuck you, Patrick. Fuck you.
+	620BD094	PM3_B_TA
+	6290173B	PM3_C_XA
+	66CC539A	~z~Eyes right, okay?
+	68990696	~z~Look out up ahead, Niko.
+	68C9C36B	~z~We got some climbing to do, boys. Hold onto your money.
+	6815D8ED	PM3_A_YA
+	686631EA	102
+	609A27F3	102
+	597F4AD6	102
+	5A23261E	~z~Up, up, up. Come on, let's go.
+	5803B609	~z~Look right, Niko.
+	5859721A	120210090090
+	5A76B287	100
+	605FC056	~z~Will ya look left for us, Niko?
+	608B2255	102
+	5C46ACA1	PM3_C_ZA
+	5C4E31EF	~z~Get in cover, Packie. Ma'd be real upset if you got hit.
+	69C37D12	~z~Get down people. Look after yourselves.
+	7718EDC8	~z~Guard to the left, Niko.
+	783FC521	~z~I never shoulda come back to Liberty City. I knew Gerald would get me back into this shit.
+	7045DBE8	~z~This is making me nervous, boys.
+	7481D0B3	~z~Head left, boys. Let's move it.
+	795CD701	102
+	7B23F1A4	~z~I don't like this.
+	7BE9F126	~z~Packie, get in cover before you get yourself killed.
+	79C380D1	~z~Niko, find some cover.
+	7A88F53D	~z~Niko, make sure we're not being fucked from behind.
+	6FD98A03	PM3_C_GA
+	6C52193E	~z~There's light at the end of the tunnel, boys. We're nearly there.
+	6D0E5FB4	PM3_B_FD
+	6BBCFC3D	~z~Looks like we got more N.O.O.S.E. to deal with, people.
+	6C3EA7F9	~z~You ain't looking too good, Niko. Hang in there.
+	6D14F4A1	PM3_A_VA
+	6ED34948	PM3_C_LA
+	6F613364	~z~He's going to love the fact that us boys pulled off the biggest bank heist in this city's history.
+	6E1C558B	~z~Packie, get in cover now.
+	6E63F501	~z~Head into this car park, people.
+	57B949F5	PM3_C_YA
+	39F218A8	~z~Shit, a N.O.O.S.E. van.
+	3A3D6617	~z~I'm getting screwed here, boys.
+	38646B21	102
+	387C9BE4	~z~I saw your eyes light up when you thought about all the drugs you could buy with this haul.
+	3A7B2173	~z~Great, we're free from this fucking dungeon. Let's go.
+	3CC86C5D	~z~You coulda mixed the explosive better couldn't ya, Derrick?
+	3D83E5F2	~z~Just what we needed, boys. More fucking cops.
+	3B5F9061	~z~Let's bring this fucker down. Empty everything we got into him.
+	3BDA00EA	~z~Here we go, boys!
+	38519B92	~z~Both of you shut up. You're behaving like children.
+	331B262C	202
+	334BB610	~z~Jesus, Niko. You look like death. Come on.
+	30CB521B	PM3_A_WA
+	317B8BDC	100
+	35620492	PM3_B_AB
+	3684C084	102
+	36B9D486	PM3_B_DA
+	35827036	~z~This'll all be worth it when we're back at Ma's with the cash.
+	367EF265	~z~Cover us while we make a run for it, Niko.
+	3E7F325F	~z~Eyes to the front, Niko.
+	4DDF9512	~z~Find some cover, Packie.
+	4F8151FD	PM3_C_FA
+	4BA3B015	102
+	4D8CEA92	~z~You've been beat up good, Niko. Pull through, okay?
+	522F27ED	PM3_B_LA
+	540A52FF	~z~Jesus, Packie. Show some fucking consideration. Sorry if I'm a man of principle unlike you and Gerald.
+	555520DE	PM3_B_FE
+	52D730D3	102
+	53164AF0	~z~They've sent in another fucking van, boys.
+	4B2C19F8	102
+	41622F0B	100
+	422C12EE	PM3_C_NA
+	3F76911D	~z~Our left side is secure, people.
+	40FEED30	~z~Get that fucker, Niko.
+	45FB12AE	PM3_B_FC
+	4A20BAF1	100
+	4A9369CD	~z~This is typical. A typical fucking McReary family screw up. Can't we do nothing right.
+	467B77BC	PM3_B_OA
+	486B359A	~z~Here come some heavy hitters, people.

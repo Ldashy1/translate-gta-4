@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	998021A0	Подберите ~b~Марни.
+	A29242C4	~r~Марни погибла.
+	E1B3380E	Отвезите Марни на ~y~станцию.
+	96649A5D	~r~Вы бросили Марни.
+	2AB45462	Подождите ~b~Марни.
+	407F75A5	Найдите транспортное средство.
+	4176AF26	Отвезите Марни на ~y~вокзал.

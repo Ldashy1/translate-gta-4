@@ -1,0 +1,36 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	899F013B	PIS2_EC
+	9FD62FEF	~z~Here's your shit. But they didn't know I was coming at the store. I had to pay.
+	A27042A9	020200020
+	89000243	~z~Those PR people - morons!
+	7706D613	PIS2_EB
+	79FA8110	PIS2_BB
+	7D49441B	~z~Here's your package.
+	A65A3B91	PIS2_ED
+	CE260360	PIS2_EA
+	D29FC207	~z~Sorry, sugar. If you want the package, you're going to have to pay for it. That's the way things work.
+	F6CC8A60	~z~Sure, sweetie. I've got it right here. That'll be five hundred.
+	C04170C5	~z~You think they would kill to see their product in a spread like this.
+	A89235E8	PIS2_AC
+	B20AD458	~z~I'll call and get everything squared for you.
+	B3514726	PIS2_AA
+	27F79979	~z~You're a life saver. I don't know what I would have done without you.
+	297F6FC5	~z~Hello, I am here to get a package... it's for some woman, she said you'd know I was coming.
+	29DD32FC	PIS2_AB
+	19822492	010100
+	04DDA682	~z~I think there's been a misunderstanding. I'm just here to pick it up, I'm not paying you.
+	06217025	PIS2_AD
+	12621E5F	~z~Give me the fucking package.
+	38008ACE	PIS2_GB
+	59FED6F2	PIS2_GC
+	5FAB4231	010100100100
+	67956FDF	PIS2_GA
+	53E62166	~z~Your job was to give this to me. Goodbye.
+	44A882EB	~z~Please, don't hurt me. I'll give it to you. I was just doing my job. Don't hurt me... please.
+	44ABB239	020200020200
+	4B2AA689	PIS2_BA

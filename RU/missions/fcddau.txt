@@ -1,0 +1,136 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BA7B991C	~z~Твою мать. В глазах троится.
+	B236537D	~z~Класс. Я и то трезвее.
+	BCC1D02B	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BH
+	BC569CCE	~z~Клево.
+	AAE1E3EF	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CC
+	AA02125C	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BK
+	B12DB81B	~z~Заткнись, ты надрался.
+	ADA199A2	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AE
+	CE7F07A3	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EJ
+	CCDE1B1C	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FD
+	CF138D3B	~z~Только одеваешься по-кретински,
+	CEDD7D62	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BA
+	C8254C86	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DC
+	C60D17BA	~z~Я пьянь.
+	CC8273CC	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BE
+	CC363C91	~z~Слишком пьян, чтобы думать, слишком пьян, чтобы говорить.
+	99B29F17	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EK
+	9890C535	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BB
+	9CA74792	~z~И я тоже.
+	9ABBA1D0	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FI
+	927FDDBC	~z~Знаешь, старик, я так больше не могу нахрен,
+	8BCC2335	~z~Ох, старик, сейчас блевану.
+	98188B5B	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EM
+	9305DE7F	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB
+	A49D5F20	100010100100100010
+	A47C87E8	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EG
+	A6FE3D29	~z~Твою мать... я надрался!
+	A65BD673	~z~Старик, хреновей уже некуда.
+	A22A13D4	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DB
+	A1529A59	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BG
+	A464B7DA	~z~Знаешь, что, Нико? Люблю я тебя, мужик.
+	A2917DDF	~z~Чувствуешь себя в порядке, сынок, в полном порядке, ясно?
+	D0CD5B4D	~z~только заткнись.
+	ED96CA41	~z~Охотно верю.
+	ED5EB070	~z~Черт, забыл... а все потому, что от выпивки обо всем забываешь. Как отрезало нахрен.
+	EF3D6A1A	~z~Я тебе не пургу гоню, старик. Я не из таких. Никакая это нахрен не пурга.
+	EDF190D1	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EE
+	E7245C8B	~z~Потому мы и сдружились. Оба психи.
+	E700F226	~z~Или у меня вдруг прибавилось пальцев, а я и не заметил.
+	ECD799B1	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EN
+	EB9B30CD	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BJ
+	F9C4F9C9	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG
+	F94DE1AF	~z~смотришь зверем и расслабляться не умеешь, и все такое, но ты мне нравишься.
+	FF4E0A37	~z~Старик, я пьян в стельку.
+	FB0281A4	~z~Пьян, пьян, пьян, пьян, пьян.
+	F89A7CD0	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FF
+	F1907163	~z~Ну и ну, здорово.
+	F8DE7423	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE
+	F8A17AFD	~z~Сам не знаю, что я несу. Черт. В общем, это я и хотел сказать.
+	D6BB519B	~z~Класс. Слушай, помолчи минутку, мне надо сосредоточиться.
+	D5416A01	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AH
+	D99AEF60	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AC
+	D7469E4B	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AA
+	D3FE1552	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CF
+	D2C1B123	~z~Я охрененно пьян, мужик.
+	D4EAB818	~z~Отлично.
+	D40103D9	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BD
+	E2F1FF96	~z~Слушай, ради всего святого, заткнись, делай что угодно,
+	DE521263	~z~Забываю даже, что я убил своего лучшего друга,
+	E4E58286	~z~И хочется только лить слезы, а никак,
+	E39C9CEC	~z~У меня не получается.
+	DC62FB44	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH
+	DAA2EE01	~z~ну я вот о чем - идешь куда-нибудь, пьешь, и все вроде бы хорошо, понимаешь?
+	DE3377B1	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AD
+	DCBE2890	~z~Для хренова психопата из-за бугра ты еще ничего.
+	29370F9F	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AF
+	27E9BEE6	~z~Не будь таким, слышишь,
+	29CD99E2	100010100100100100010100100010
+	297B5E95	~z~Да ну?
+	1AD7E855	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EC
+	19F03FFA	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CB
+	279BE005	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CD
+	1E22A5A9	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EI
+	2E0CC8F1	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EL
+	2C9B92E0	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EA
+	312D315D	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FJ
+	2E820E89	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_ED
+	2A37E2B5	~z~А то.
+	29DF5D1D	~z~Люблю я тебя, мужик. Ты мой лучший друг. Лучший!
+	2BC6904B	~z~И продолжаешь пить, и вдруг становится так херово.
+	2A475195	100010100010100010100100100010
+	09F182F6	~z~не будь. Не будь засранцем. Господи, ну почему среди людей столько говнюков?
+	09ACD90B	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EF
+	0E0A403C	~z~Старик, я слишком пьян, чтобы думать.
+	0D14A5C8	~z~Еще бы.
+	03AF15A4	~z~Я же маньяк, старик... как ты.
+	0026B908	~z~ты же не гребаная баба, и знаешь, что?
+	089F1B08	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CA
+	03CCDD58	~z~Знаешь, что?
+	14D8354B	~z~Да.
+	146E1771	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AB
+	18AF89F1	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BF
+	1840DE0C	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DD
+	117A78A7	~z~А у меня всегда.
+	0E0AF1D4	~z~потому что завидовал и не мог простить ему успех.
+	142531A9	~z~Ну класс... Как друга прошу: не мешай вести машину.
+	123664FE	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG
+	365F3D3D	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FK
+	76DA7CF5	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CI
+	72C7D51B	~z~Класс. Может, тогда хоть помолчишь минутку.
+	79507B61	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CJ
+	78ED3DB7	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DA
+	6C271202	~z~Убей меня, Нико.
+	64E40285	~z~И кажется, только кажется, что никто тебя не ненавидит,
+	6FD6C77D	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG
+	6DEEEA1E	~z~Однажды я вот так бухнул и кого-то пристрелил, знаешь?
+	8A83CEBB	~z~Я убийца хренов, прикончил лучшего друга!
+	8A68A315	~z~Что-то я надрался, старик.
+	8AB1C55C	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE
+	8A99F47C	~z~Дуэйн, будь другом, заткнись. Ты бухой.
+	80788F35	~z~Об этом я никому не рассказывал.
+	7E84B6BD	~z~Я дерьмо, старик. Бесполезное дерьмо.
+	8218D11C	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AJ
+	820E0590	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CK
+	441AB202	100010100100010100010100010100010
+	41F00C4E	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FB
+	48169D1B	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FE
+	4678A222	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BC
+	3EC306D4	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA
+	3DEB3494	~z~что никто не хочет, чтобы тебя не было, становится тепло так, хорошо, сечешь?
+	40E299D2	100010100010100100100100010100100100010010
+	3FA4D507	~z~Думаешь? А секс?
+	5E63E919	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DF
+	5C1FBAED	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FC
+	61B45132	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FH
+	5FC6C3EA	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CH
+	4EA86019	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AI
+	4C1DEDF9	~z~Вот так прикол, старик. Лучше бухла, старик, вообще ничего нет.
+	592C6B16	~z~Здорово становится, охрененно здорово!
+	51291A1C	100100100100100100100100100100100

@@ -1,0 +1,14 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B71B57E1	~r~Вы упустили друга Анны.~s~
+	95B269F5	Догоните ~r~друга Анны.~s~
+	EE444776	~r~Друг Анны погиб.~s~
+	C1D6F0F0	~r~На Елену напали.~s~
+	4B6D877B	~r~Елена погибла.~s~
+	2BE19655	Убедите ~r~друга Анны~s~ отвалить.
+	7E0C683C	~r~Вы не оставили шансов другу Анны.~s~
+	503E5F0E	Поговорите с ~r~другом Анны.

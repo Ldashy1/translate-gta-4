@@ -1,0 +1,19 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+B4FAIL1	60A696CA	~r~Bell is dead.
+B4GT_01	AD5F4F17	~s~Follow ~b~Bell.
+B4GT_02	2DB9CFCE	~s~Chase ~r~Chubby Charlie.
+B4GT_03	D70E2278	~s~Take down ~r~Chubby Charlie.
+B4GT_04	C94486E5	~s~Take out the ~r~chopper.
+B4GT_05	F4CEDDF9	~s~Find a way inside the ~y~building.
+B4GT_06	89C107CB	~s~Find ~r~Chubby Charlie.
+B4GT_07	97F5A434	~s~Keep chasing ~r~Chubby Charlie.
+B4GT_08	5E32B0AF	~s~Go to the ~y~old Sprunk factory~s~ near Port Tudor.
+BELLLFT	7DC3E238	~s~You left ~b~Bell~s~ behind.
+BELLLST	BD32D71D	~r~Bell was abandoned.
+CHOPGNE	5020CCF0	~r~The chopper got away.
+CHUBGNE	DEC291AD	~r~Chubby Charlie got away.

@@ -1,0 +1,161 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BB41E844	~z~Packie, I ain't gonna be able to make our darts date.
+	B7BFC2F6	FCP_ACT_PPK_CALL_STRIP_CANCEL
+	BBF6088A	~z~What's up man? It's me.
+	BBA2C0E7	~z~Want to go for a drink?
+	B4E575F6	100
+	AD18144A	100
+	A8F2F410	100
+	B1FB8363	~z~Niko, there's an old Irish tradition that says you gotta go out and get wasted with your friends.
+	AF48C5A3	FCP_ACT_GETCALL_IRATE
+	BF04D2FD	010
+	C5E4E44F	010
+	C5165FE5	~z~Sorry, Packie. I can't throw darts with you right now.
+	C93B9518	~z~I ain't in the mood to get drunk, Packie. Maybe later.
+	C803A967	010
+	C3800510	~z~Sorry Packie, I ain't playing pool with you right now. Another time.
+	C0D77EEB	100
+	BF3CE44C	FCP_ACT_PPK_GETCALL_DRINK_NO
+	C29D5610	~z~Let's go plays some darts, man. I'll pick you up in the next hour.
+	C1C39571	~z~Alright Niko, we've been friends for a while. I'm thinking it's about time I showed you some traditional American strippers.
+	9377E78E	FCP_ACT_PPK_GETCALL_BOWL_YES
+	9363A2C6	100
+	96C8CDC3	~z~Hey, Niko you wanna go bowling? It's not as bad as it sounds you know.
+	9583FDC6	~z~Alright man, if that how you're playing it. We'll go another time if I don't cancel on you.
+	91FAAF06	100
+	9056AE9F	~z~Okay man, I could catch a show. Wait for me at the house for one hour.
+	8F8882EF	~z~Let's go bowling.
+	91F63054	~z~Niko, what the fuck. I ain't heard from you in a fucking age.
+	910593CC	~z~Hey man, I can do darts no more.
+	974A76F9	FCP_ACT_PPK_CALL_POOL_CANCEL
+	A4EEB7B5	FCP_ACT_PPK_CALL_BOWL_CANCEL
+	A2672577	~z~How about we go check out some naked chicks?
+	A882954F	FCP_ACT_GETCALL_ACCEPT
+	A6CFA86A	~z~Niko my man, we've been hanging out for a while now, how's about a game or two of pool, you up for it?
+	A12B2634	~z~Let's hit the bowling alley.
+	9AF0AB8A	010
+	979E0A07	~z~Hey Niko, they got pool in eastern Europe? Ha - just joking. Let's go play a few racks.
+	9F360A6C	FCP_ACT_PPK_CALL_DARTS_CANCEL
+	9EDBFA47	100
+	C98F6E2F	010
+	F16B7B6F	~z~Packie, you're going to have to get messed up alone because I can't make it.
+	EDD9CADD	FCP_ACT_GETCALL_VERYIRATE
+	F4C48C39	~z~What's up man? My ma says that I got to take you to a show since you ain't from Liberty City. What do you think?
+	F3046B1F	100
+	EDD47712	FCP_ACT_PPK_CALL_MEDLIKE
+	E713889F	100
+	E703D111	FCP_ACT_CALL_STRIP
+	EC9F4FAF	FCP_ACT_PPK_CALL_SHOW_CANCEL
+	EA36650A	~z~Man, it's Packie calling.
+	F62A384C	100
+	FE218D8D	~z~Pool... okay. I will come to collect you in the next hour.
+	FDDE89DC	FCP_ACT_GETCALL_DRINK_FIRST
+	FF636DAF	FCP_ACT_PPK_CALL_LOLIKE
+	FF58C09A	FCP_ACT_PPK_CALL_STRIP_NO
+	FDA0BE6F	FCP_ACT_PPK_GETCALL_POOL_NO
+	F9830606	FCP_ACT_GETCALL_REJECT
+	F9212C76	FCP_ACT_GETCALL_GREET
+	FC16A309	~z~Man, sorry but pool is off. Something came up.
+	F9D59E87	~z~Got to cancel our pool session, Packie. I'll make it up to you.
+	CFD1318C	~z~He Niko, let's do the strip-club, strippers, having a laugh with your mates thing?
+	CF41FAE6	FCP_ACT_PPK_GETCALL_POOL_YES
+	D22278DF	100
+	D15BF38D	~z~Sure, darts sounds good. I will pick you up from the house in the next hour.
+	CEABADF5	~z~Hey Niko, it's Packie.
+	CAABC05D	FCP_ACT_PPK_GET_CALL_STRIP_YES
+	CA46D232	100
+	CD8638DB	FCP_ACT_PPK_CALL_HILIKE
+	CB70C7C3	100
+	D37B15C4	FCP_ACT_GETCALL_STRIP_FIRST
+	DEA1BFE4	~z~Sorry Packie, I don't have the alcoholic genes you do. Maybe later.
+	DE5F6E8B	FCP_ACT_GETCALL_BOWL
+	E4B8CD41	100
+	DF5779B7	FCP_ACT_PPK_GETCALL_BOWL_NO
+	DDF6B4B5	010
+	D71446C1	~z~I can't get drunk with you today, Packie. I'm sorry.
+	D5EE942D	FCP_ACT_GETCALL_POOL_FIRST
+	DA6DA33D	010
+	D859C151	~z~Patrick here.
+	8A5E5E6B	~z~How about we go drinking?
+	2C0B14A8	010
+	2B5CD0EB	~z~Let's play some pool?
+	2CB01B39	010
+	2C575F8E	010
+	29E144D1	~z~How about some darts?
+	26311219	~z~Alright, man. If you want to hang later call me.
+	25C72C3D	~z~Wanna go to a gentlemen's club?
+	292ABF76	~z~Sorry Packie. No bowling. I got shit to do. Maybe some other time.
+	2670D6C0	FCP_ACT_GETCALL_DRINK
+	2CE89F2C	~z~Alright Niko, gimme a call when you wanna do something.
+	35E8797E	010
+	3324A7EC	FCP_ACT_GETCALL_POOL
+	37E1B57A	~z~Okay Niko. I ain't gonna get offended. Call me when you're free.
+	36475901	~z~Sorry Packie, but I can't go bowling with you anymore.
+	32A5DEFE	~z~Sorry Packie, I'm not coming to the club. Maybe another time.
+	3093A1FD	~z~I think that's a good idea. We go drinking in the next hour.
+	2D6E48ED	~z~Sure, Packie. I could go bowling with you. I'll pick you up in the next hour.
+	3245BE4D	100
+	31B8B105	~z~Something has happened, Packie. I cannot come to a show with you. Sorry.
+	0BDB2900	~z~Pool could be fun. I'll pick you up from the house in the next hour.
+	0B9263C2	FCP_ACT_GETCALL_SHOW
+	0E8039B1	~z~Why don't we get off our asses and go see something?
+	0E03175D	100
+	0533D4FC	~z~So, Niko. All work and no play da da da da... let's go play some darts.
+	012E0C32	~z~Jesus Christ, I'm hearing your voice, Niko. I can't believe it.
+	011A9A8A	010
+	028FD2B0	~z~I apologize Packie, but we're not going to a show together tonight. I'm busy.
+	02427EB7	~z~How about we play pool?
+	0F73A8BD	~z~Niko, you called. This is a miracle. Two more and you might be fucking canonised.
+	1C46ED72	~z~I got a lot on my plate right now, Packie. No time for shows. Sorry.
+	1BFF54B7	~z~How about we go see a show?
+	22360542	~z~Let's go get fucked up, I'll pick you up in the next hour.
+	1FA4AD5A	~z~Okay, Packie. I'll pick you up from the house in the next hour.
+	1A52EA9F	FCP_ACT_PPK_CALL_SHOW_YES
+	144B95B8	~z~Can't do bowling right now, Packie. Another time.
+	131570BF	~z~Niko, me and you have been hanging out some. I'm thinking we should go play some darts. How about it man?
+	181DC0D5	100
+	1794E970	FCP_ACT_GETCALL_DARTS_FIRST
+	388CDE60	FCP_ACT_GETCALL_SHOW_FIRST
+	6FFD0077	010
+	672B3A64	~z~Hey man, sorry but I have to cancel our bowling.
+	72D63B66	~z~Shit man, I'm busy. Maybe we play darts together some other time.
+	712B9ECE	~z~Nice one, Niko. See you soon.
+	63C21A43	~z~Fine Niko, I got a bitch I planned on banging anyways.
+	5D905802	~z~Alright man, let us go see some naked women. Wait for me for one hour.
+	5D6DC8CA	~z~We could go see something. I will pick you up from the house in the next hour.
+	5FD3047A	FCP_ACT_PPK_GETCALL_DRINK_YES
+	5F7BDF2A	~z~Niko, how about you and me catch a game or two on the bowling alley? It ain't like we ain't friends or nothing.
+	732F5B99	~z~Those naked girls are going to lose out on my tips, Packie. I can't come to the club with you.
+	84D2A696	~z~Sure, Packie. Strippers could be cool. I'll collect you within the hour.
+	848CFE54	~z~Sorry Packie, we're going to have to go to the strip club together another time. Something came up.
+	88655100	~z~Alright Niko, that's cool. We'll go another time.
+	87D1C53E	010
+	843894D9	~z~Jesus, Niko. You fucking avoiding me?
+	7700E37E	010
+	76282C86	~z~Shit, man. It ain't like I don't got other people to hang with. We'll do it another day.
+	83F23C1E	FCP_ACT_GETCALL_DARTS
+	81263EC3	~z~You're a saint, Niko. I'll wait for ya.
+	3CC7F342	~z~I'm not in the mood, Packie. Go to the strip club alone.
+	3C23D78B	FCP_ACT_PPK_CALL_DRINK_CANCEL
+	43FC866B	~z~I don't feel like playing pool, Packie. I'll call you later.
+	3F660C47	~z~Fuck me, Niko. I didn't even want to go in the first place. Shit.
+	3BA8685F	~z~Wanna go play darts, man?
+	399C4B6A	010
+	397C3853	~z~Sure, Niko. You must have people to kill and shit. Call me when you're free.
+	3B02301F	100
+	3A6AB867	FCP_ACT_PPK_GETCALL_DARTS_NO
+	468241EC	~z~Nah Packie, sorry. I don't wanna see a show. Another time.
+	5316587B	FCP_ACT_GETCALL_BOWL_FIRST
+	5063C31F	010
+	5A77258D	FCP_ACT_PPK_CALL_SHOW_NO
+	55E74F88	FCP_ACT_PPK_GETCALL_DARTS_YES
+	4FDD7374	100
+	4D901C39	010
+	4881E2B0	100
+	4EE45A40	~z~We got a plan, Niko. I'll wait for ya.
+	4DBEA8F8	~z~I don't give a fucking shit. I should have cancelled your fucking call.

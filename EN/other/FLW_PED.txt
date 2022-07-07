@@ -1,0 +1,29 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A305A903	Follow the ~r~dealer~s~ to his supplier on foot. Stay behind him and try not to be seen.
+	A89F8D85	Shoot out the door lock to gain access to the room.
+	9A667113	Damage the ~g~lock~s~ to break open the door.
+	6FAABF12	You killed the dealer. You will not be able to find the supplier now.
+	746B33F3	The dealer and suppliers are locked inside the apartment.
+	BF966224	You're too far away, keep the ~r~dealer~s~ within your sight.
+	D8F614E3	You're too close to the ~r~dealer,~s~ keep your distance.
+	EC0B3B0D	The ~r~dealer~s~ spotted you, keep following him to the supplier.
+	D6A09278	Press ~INPUT_JUMP~ to jump onto the fence, then press ~INPUT_JUMP~ to climb over.
+	C54970AA	Go meet ~y~Little Jacob.
+	D3B405C7	The ~r~dealer~s~ is in the apartment block. Follow, but don't attack him.
+	6C3E36D9	Don't get too close to the dealer or he'll get suspicious.
+	49A6171F	~r~The dealer was injured.~s~
+	4B6F575B	~r~The dealer is dead.~s~
+	44BC6936	Go to find the dealer in ~y~South Bohan.
+	36E6CD8B	You've spooked the dealer.
+	3BF0DD17	The ~r~dealer~s~ is getting away. Chase him to his supplier.
+	4C277B40	Follow the ~r~dealer~s~ to his supplier, do not attack him.
+	63FB2BC7	You spooked the ~r~dealer.~s~ Keep following him to the supplier.
+	64A8AF92	You wounded the ~r~dealer,~s~ keep following him to the supplier.
+	61E929E3	Take down the ~r~dealer~s~ and his ~r~suppliers.
+	541B633B	~s~Lose your wanted level.
+	55BA3C27	~r~The dealer got away.~s~

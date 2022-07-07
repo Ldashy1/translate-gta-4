@@ -1,0 +1,127 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A99AA651	~z~Anything for you, NB. It should be there soon.
+	AAFDD334	~z~Really, Niko. I told everyone you were coming to get me. I will have to walk now.
+	ACEE325E	~z~Roman, my cousin, I'd really like a cab if you could send one to me.
+	A4BCEF6E	~z~Roman, I cannot go look at titties with you. I have to do something else.
+	A14C8DBC	FCR2_ACT_PRO_CALL_LOLIKE
+	A1D71C30	~z~Roman, it's Niko. I need a cab.
+	A27A45D3	FCR2_ACT_ARRIVEF_HOSPITAL
+	B46BF78F	~z~Sorry, cousin. I cannot see the show with you no more. Hope that's cool.
+	C3365E68	010
+	C3D2205A	FCR2_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	C45FABB4	~z~Cousin, you do not have much family here, you should treat me with more respect. Maybe another time soon. Okay.
+	C0BEC96C	100
+	BE54D52B	~z~Hey Roman, you couldn't send a cab for a cousin in need could you?
+	BFC2ED18	FCR2_ACT_HOSPITAL_DROPOFF
+	C0A929AE	FCR2_ACT_PRO_CALL_POOL_CANCEL
+	8A32B99E	100
+	8AE3CE7F	FCR2_ACT_GETCALL_HOSP_REJ_HILIKE
+	8DC3AA3F	~z~Hey, Roman. You mind if we catch the show on another night? I have something else to do.
+	89C97064	~z~Roman. I can't eat with you. This may help you lose some weight.
+	85509540	FCR2_ACT_PRO_CALL_EAT_CANCEL
+	8684AEB5	FCR2_ACT_PRO_CALL_MEDLIKE
+	8913A511	~z~Sure, Niko. We can always do this another time. I see you then.
+	9127319F	FCR2_ACT_CALL_HOSP_CANCEL_MEDLIKE
+	9ADC9B6B	FCR2_ACT_PRO_CALL_BOWL_CANCEL
+	9C2C8F8B	100
+	A0E8FC01	~z~I am sorry cousin, but I have no time. I'll see you soon though.
+	9A50FD01	100
+	9227DBAA	~z~I will remember this next time you are in trouble, Niko. I will remember.
+	94FFFD18	~z~You are my cousin, Niko. How can I refuse? There is a cab on its way.
+	9594CE1F	~z~Cousin, I hope you are not forgetting your family in this city? We do this on different occasion.
+	EF7B591D	~z~Thanks for the ride, Niko. Call me soon, yes.
+	EF9B5BFD	FCR2_ACT_PRO_CALL_CANCEL_SPEC_C_GA
+	F0ED5D1F	~z~Cousin, I am no longer able to do darts with you. Sorry.
+	EE588B57	~z~I can do that for my cousin, I shouldn't take longer than an hour to get there.
+	E850DF36	FCR2_ACT_PRO_GETCALL_HOSP_YES
+	E9C15D77	010
+	EDBF61D1	010
+	F189B945	FCR2_ACT_ARRIVE_HOSPITAL
+	FB69C0E6	100
+	FD2D7481	~z~You are kind for giving me a lift, Niko. Call your sick cousin soon, okay?
+	FFFF2646	FCR2_ACT_GETCALL_HOSP_ACCEPT
+	F8C80892	~z~Roman, I'm sorry but something has come up and I can no longer pick you up from the hospital.
+	F1F4EC68	FCR2_ACT_GETCALL_HOSP_REJ_LOLIKE
+	F83838E0	~z~Okay cousin, if you have no time you have no time.
+	F8683475	100
+	D394CD60	100
+	D62C7669	~z~Hey Roman, sorry to fuck you round but I don't need no cab no more.
+	D6461247	010
+	D08C7612	010
+	C61B48FC	FCR2_ACT_PRO_CALL_DRINK_CANCEL
+	C77BABAB	FCR2_ACT_CALL_HOSP_CANCEL_LOLIKE
+	CEEF9DAA	FCR2_ACT_PRO_CALL_DARTS_CANCEL
+	DABB57C8	010
+	E4240FB0	010
+	E6B34CB3	100
+	E7135D98	010
+	E3F06EC5	100
+	DC487673	~z~That's cool, cousin. Call again if you actually do need one.
+	DDF7372B	~z~Sorry, Roman. Something has come up. I cannot throw darts with you now.
+	E17C6ED2	100
+	834E6454	~z~Cousin, I'm getting out of hospital. You couldn't pick me up could you?
+	3527F201	~z~Sorry, Roman. I cannot play pool with you anymore. I have another plan.
+	363D9B83	FCR2_ACT_PRO_CALL_REQ_SPEC
+	3D7BA182	100
+	34F0B648	100
+	2C4292B3	~z~Thanks, Niko. See you then.
+	2D3F7AE4	FCR2_ACT_CALL_SPEC_END
+	2FD1CE66	~z~I am sorry, cousin, but I must cancel our bowling.
+	40E44A37	~z~Alright then, I might get cab or something.
+	4BE2033D	~z~Roman, you need to play a single player game. I can not hang out.
+	51004C43	100
+	513C3B12	FCR2_ACT_PRO_CALL_SHOW_CANCEL
+	49322388	~z~Okay, Niko. We shall rain check this for a different occasion.
+	41C30760	~z~Sorry cousin, but I don't have no cabs right now. You must call again later.
+	42241C2A	010
+	49262141	~z~Niko, as you are my cousin I want you to use family business how you like. Any time you want cab, you call me.
+	1418D6D7	~z~Sure Roman, I'll come and get you in the next hour.
+	144D08CA	010
+	1A40924B	~z~Niko, I am too sick to walk. Please get me a car.
+	11BBF882	FCR2_ACT_PRO_CALL_HILIKE
+	02D28D57	~z~Cousin, you will be shooting pool alone today. Do not place bets, okay?
+	0F06BF64	FCR2_ACT_GETCALL_SPEC
+	101A78B5	~z~Roman, is your cousin. Any chance of getting a cab?
+	1C353493	100
+	26E6FA72	FCR2_ACT_PRO_CALL_GAMES_CANCEL
+	292B3020	~z~Niko, get your invalid cousin a car. He cannot walk in this state.
+	2B6866E8	FCR2_ACT_CALL_REQ_SPEC_YES
+	24BDF046	100
+	1D212905	~z~Roman, sorry but I cannot bowl with you anymore. Another time.
+	1F64624A	~z~Cousin, our drunkenness will have to wait. Something has happened.
+	225655CD	~z~That is cool, cousin. We do this on another occasion.
+	72974640	010
+	72E40BBD	~z~Sorry, cousin. I cannot join you at the tittie bar. You can still go by yourself though.
+	7418229B	~z~Thank you, cousin. That could be very useful in this city.
+	71DFC177	~z~Niko, I'm being discharged from the hospital. Would you mind picking me up?
+	6BCBEE45	~z~You are a good cousin. Thank you for collecting me. I need to go home now.
+	6CD7EAD3	~z~Alright, Niko. We shall do this another time. Later on.
+	6F67CD05	~z~Niko, you are just fooling with me. Thanks a lot.
+	748AF862	010
+	7BE4A010	010
+	7C088934	~z~Don't worry cousin, I have hot bitches that are begging me for my company, see you soon.
+	82186FA9	~z~Cousin, I can't play no games with you just now. Sorry.
+	79452CC2	~z~Sorry, Roman. I can't do it right now. Can't you get Mallorie to do it?
+	76D57A84	100
+	776101AC	~z~Alright, cousin. Maybe another time you will feel like being part of the family.
+	77DEC2D6	~z~Wait right there, NB. I'm dispatching one now.
+	557DC1A9	~z~Thank you for picking me up, cousin. Will you take me home?
+	5BEAC310	FCR2_ACT_CALL_REQ_SPEC_NO
+	5D5612AE	010
+	5471CEBA	100
+	5246B795	FCR2_ACT_PRO_CALL_HOSP_CANCEL_B_UA
+	53202A1A	~z~Niko, I am sorry but nothing is available. You must call back another time.
+	534F228D	FCR2_ACT_PRO_GETCALL_HOSP_NO
+	5DF47616	~z~You are a life saver, cousin. I'll see you soon.
+	66EF715F	~z~Sorry Roman, you may have to drink alone. I can no longer join you.
+	68EEA6A5	FCR2_ACT_PRO_GETCALL_SPEC_END_C_CA
+	697A2FC6	~z~Cousin, you must dine alone. I can no longer join you.
+	65F01E3E	FCR2_ACT_GETCALL_HOSP_ASK
+	632D1973	~z~You need walk no longer. There's a cab coming to you.
+	642C5A68	~z~You will leave your own cousin to walk home sick. Okay, Niko.
+	652712A5	FCR2_ACT_PRO_CALL_STRIP_CANCEL

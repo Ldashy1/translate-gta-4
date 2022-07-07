@@ -1,0 +1,64 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B041609E	~z~Trying to slip me a mickey.
+	ABD3CCF9	GCM2_DRUNK1_GD
+	A21B96F7	GCM2_DRUNK3_IG
+	B13BF1F8	GCM2_DRUNK4_JI
+	C769951D	~z~Come on, I am a nice guy.
+	C200041B	~z~If I did not know any better, I would think you were trying to put something in my glass.
+	B9190406	GCM2_DRUNK4_JC
+	9147E6A4	~z~Why don't you want to talk about normal stuff?
+	8C9B4BF9	010010010010010
+	8BE317E2	~z~Why do you always go and get the drinks?
+	96486321	010010010010010010
+	A0516B2F	GCM2_DRUNK4_JD
+	9E439CCF	GCM2_DRUNK3_IC
+	9A84BB54	~z~All you seem to have is questions.
+	C7A2F3B2	~z~I do not know.
+	EA3A17B3	GCM2_DRUNK4_JF
+	E9D0CB72	GCM2_DRUNK1_GB
+	E44D4EE4	~z~Just let me be.
+	EEAB3B35	GCM2_DRUNK3_IA
+	FE00E059	~z~You are a strange girl, Michelle.... a funny girl.
+	F5BEAF94	~z~I do not like those questions. I don't want to think about it.
+	F0D667F6	~z~Questions, questions, questions.
+	D19BA981	~z~When I am drinking, I do not like to be asked these questions.
+	CCB92A56	GCM2_DRUNK4_JA
+	CB3C6A5C	GCM2_DRUNK3_ID
+	D4AA0B1D	GCM2_DRUNK1_GE
+	E3B00B77	~z~Are you drunk? I am really very drunk.
+	E1E3281E	~z~I could swear it was just me knocking back that stuff...
+	D53D8ED3	~z~Shit, I don't know. I cannot really remember.
+	352FF0A8	~z~I do not like to be asked questions anyway.
+	343DC7AD	GCM2_DRUNK3_IF
+	2CE99DE9	~z~I do not want to think about it when I am out with you.
+	39D1D7FA	~z~So, did you drink in there?
+	4ADD3C8E	010010010010010010010010010
+	44038824	~z~You were not slipping this mickey to me, were you?
+	3ED703F2	~z~Man, am I drunk.
+	0B285713	GCM2_DRUNK4_JH
+	0A8B0BCA	GCM2_DRUNK1_GC
+	090A985A	~z~But I am a nice guy. Can't you see that?
+	0E1C0C2A	010010010010010010010
+	2C32844B	GCM2_DRUNK4_JE
+	259CDCDE	GCM2_DRUNK2_HC
+	106B19CA	GCM2_DRUNK1_GA
+	56462CA9	~z~I think that's what they call it. Is that what they call it?
+	734AC11A	GCM2_DRUNK3_IB
+	6790CF3E	~z~Very, very drunk.
+	6280803E	GCM2_DRUNK4_JG
+	79C9F3B0	~z~No, of course not. I am just drunk.
+	89811D95	GCM2_DRUNK2_HD
+	8594DBA2	GCM2_DRUNK3_IE
+	85671B51	GCM2_DRUNK2_HB
+	5B0F39F2	GCM2_DRUNK2_HF
+	5831B6CB	GCM2_DRUNK2_HA
+	56E5F1E1	~z~What was up with all those questions, Michelle?
+	5BE9649C	GCM2_DRUNK4_JB
+	62768902	~z~Shit, I have to think about this stuff when I am trying to earn money.
+	5F224488	~z~Yeah, I have got into some scrapes. Who has not?
+	5C2EC439	GCM2_DRUNK2_HE

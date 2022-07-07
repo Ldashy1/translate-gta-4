@@ -1,0 +1,12 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	7B599690	The ~R~manager~s~ is trying to escape.
+	8D9ABB12	~r~The target escaped.
+	9FED5FB7	The ~R~managers~s~ are trying to escape.
+	2036604B	Take out the three strip club managers.
+	31A0031E	Go to the ~y~strip club.
+	68ABF135	Locate the managers by listening in on conversations.

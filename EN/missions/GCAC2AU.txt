@@ -1,0 +1,198 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9C6F81FA	GCA2_ALEX_MYSTERY_JL
+	99BAAF7C	GCA2_ALEX_BAD_DAY_ME
+	975CF6AC	~z~Ohh, my doctor has all my best interests at heart. He's a real sweetie.
+	A2DF0DBC	~z~In that case, I think I'll go to Hell.
+	A2DC0126	GCA2_ALEX_SHRINK_KO
+	A0A5DC0A	GCA2_ALEX_RICH_FEELINGS_LG
+	916E107D	GCA2_ALEX_RICH_FEELINGS_LN
+	90BEB34F	~z~I don't know if they're the reason that I'm on edge or if it's from worrying about what the pills might do to me.
+	90A3B31D	~z~The fucking driver was there, why did I have to be there too? No I think it's the pills.
+	97573D2D	GCA2_ALEX_RICH_FEELINGS_LF
+	92E73150	~z~Yes.
+	91B73CF5	GCA2_ALEX_RICH_FEELINGS_LH
+	AE1D53A5	GCA2_ALEX_SUFFER_NJ
+	AC2F1EB1	GCA2_ALEX_MOTHER_ID
+	AB4C40C6	010100010100010100100100100010100100100010100100100010100
+	B21E1698	GCA2_ALEX_SUFFER_NI
+	AF13F4BA	GCA2_ALEX_RICH_FEELINGS_LC
+	AE7A6C91	~z~I've had the worst day. It's like everyone has been talking at me and no one has been listening to what I have to say.
+	A49CD990	GCA2_ALEX_SHRINK_KJ
+	A40E3B8D	~z~I'm sorry to hear that.
+	A402C33E	GCA2_ALEX_SUFFER_NC
+	A7D00528	GCA2_ALEX_SUFFER_NG
+	A72DD9E1	~z~Yeah you. I don't know much about you, you're a man of mystery. Where you from? Spain isn't? Oh! Was that the other guy?
+	A5BE423C	GCA2_ALEX_MYSTERY_JD
+	7FA47352	~z~You better show me a good time tonight.
+	7F8A7286	~z~You do well. I should have done less.
+	7E1028F1	~z~Shit. I'm on meds and they're not working well at all.
+	82E5179C	~z~I'm a bit nervous because I can't really tell what the new pills are going to do to you.
+	82AEE843	GCA2_ALEX_BAD_DAY_MQ
+	80CEF3F1	GCA2_ALEX_MYSTERY_JP
+	79AB89FE	~z~Very special.
+	784D687B	GCA2_ALEX_MYSTERY_JG
+	75DC5F2A	~z~I still hate life. I'm a failure. I should have done more.
+	7D6C865F	~z~Well, you want to know?
+	7AD278AD	~z~I knew it. You are so lucky to have me. I imagine I bring adventure to your life.
+	7A311E97	~z~You know what the worst thing is? What makes me hate her the most?
+	8C1E82BB	GCA2_ALEX_MOTHER_IN
+	8ACD2120	~z~I knew it - what else? Tell me stuff, for my blog.
+	8A92BBED	GCA2_ALEX_BAD_DAY_MB
+	90162D28	GCA2_ALEX_MYSTERY_JI
+	8F1E2144	~z~Ha fucking ha. What do you really do?
+	8D3F44B3	~z~"Alex, why are all my friends reading about your sex life on the internet?",
+	843086A8	GCA2_ALEX_BAD_DAY_MC
+	83C4FBF3	GCA2_ALEX_SUFFER_NA
+	82E617A2	~z~Or I might be angry because I had to go with my mother while she got chemo.
+	89DABDEA	~z~Did you?
+	864E320B	GCA2_ALEX_SHRINK_KK
+	852495CB	~z~Okay - I'm a hitman, who works for organized crime syndicates.
+	E474F321	~z~It's that I feel like I owe her something. For bringing me into the world.
+	E3403221	GCA2_ALEX_MOTHER_IM
+	DD5FC5E6	~z~She's dependent on me but I'm the child, I mean she's the adult.
+	ED30A25E	~z~You are so funny. Ha fucking ha. You're not being a fucking smart ass are you?
+	EB436676	~z~It's like a twenty-first century uptown boy, downtown girl story.
+	E5E750D9	GCA2_ALEX_MYSTERY_JH
+	DADA2D98	GCA2_ALEX_SUFFER_NF
+	DAC5DC6A	~z~money and a greencard? You'd be the envy of every border jumper in the nation.
+	D865C0BB	~z~It's Cinderella but with a gender reversal and the internet playing fairy godmother.
+	DC9FF25D	GCA2_ALEX_SHRINK_KM
+	DC1F3C10	GCA2_ALEX_BAD_DAY_MF
+	DB636A3C	GCA2_ALEX_SHRINK_KC
+	FBA789FC	GCA2_ALEX_SHRINK_KL
+	F83098E1	100100100010100100100100010100010100100100100010
+	F6FCBF52	010100010100010100010100010010010010100010100010
+	FE6CA9AC	~z~I would love your problems.
+	FCF089D0	~z~I mean, you really care. I think in some weird way we could be soul mates, you know?
+	FC5A679E	GCA2_ALEX_MYSTERY_JK
+	F183567A	~z~What's wrong? You seem sad.
+	EF40A3BB	GCA2_ALEX_MOTHER_IE
+	EEE25690	GCA2_ALEX_SUFFER_NE
+	F51FD43F	GCA2_ALEX_BAD_DAY_MO
+	F4238F25	~z~I think this would be a dream I would sooner wake up from.
+	F3676AC9	GCA2_ALEX_MOTHER_IH
+	C2A31BE8	~z~I think you're okay. I think you are just being a human being. That's what my cousin told me, when I was like you.
+	C22340D8	GCA2_ALEX_SHRINK_KR
+	C199684B	GCA2_ALEX_BAD_DAY_MK
+	C7139E17	~z~I don't see it like that.
+	C643D485	~z~The only reason guys become psychiatrists is to get with young, anorexic pill poppers.
+	C4B70B00	GCA2_ALEX_BAD_DAY_MH
+	B67FA1A7	GCA2_ALEX_SUFFER_NH
+	B4993130	~z~Niko, you are so not from around here.
+	B3EAD808	GCA2_ALEX_MYSTERY_JJ
+	BDDB7039	GCA2_ALEX_MYSTERY_JN
+	BD708FD9	010100010100010100010100010100010100010
+	B7291531	~z~I hadn't really thought about settling down.
+	D6C257BC	~z~For paying my rent every month. I feel like I have to meet her for lunch twice a week, like it's an obligation.
+	D6BEAE0C	GCA2_ALEX_MOTHER_IF
+	D57E0A58	GCA2_ALEX_BAD_DAY_ML
+	D828F84F	~z~I lost my virginity to him. That shows you how long I've been pouring my heart out on the couch.
+	D7FABB1C	~z~That cancer spreading into her abdomen was the best thing that ever happened to me. I hate her.
+	D7F58EC9	010100010100010100010100010100010100010100010
+	CC883FEF	~z~I bet you do. Every guy from your background must dream about marrying into money. Think about it -
+	CBD68B13	GCA2_ALEX_MYSTERY_JO
+	CB2509BE	~z~Nothing. I mean ha fucking ha, little rich girl, all depressed, can't write a book.
+	D17CD78F	GCA2_ALEX_SHRINK_KD
+	D0ADE2C1	GCA2_ALEX_SHRINK_KH
+	CCA14616	~z~Knowing that I can do whatever I want, and it means nothing. I mean nothing matters. Do you know how that feels?
+	28EA19C8	~z~He's in love with me, you know. I've been seeing him forever.
+	25975658	~z~I hope you don't really mean that...
+	24D37084	~z~This story is marketable. It could be the arc my novel needs. It might give everything structure. Do you want to get married?
+	2B3FE857	~z~Fine, Niko, just fucking fine.
+	2940B682	GCA2_ALEX_BAD_DAY_MJ
+	292952E4	GCA2_ALEX_MOTHER_IG
+	216F52CD	~z~It must be very difficult for you. I am sure you have been saying a lot.
+	1F99C205	GCA2_ALEX_MOTHER_II
+	1D794CCA	~z~So, Alex, how's it going?
+	23E38AC0	GCA2_ALEX_MOTHER_IC
+	23AAF42C	~z~No. I still know my own name. I wanna forget.
+	2332DD06	~z~Okay. Have it your way.
+	34436B90	~z~My life ended many years ago when I saw my childhood friends butchered on a hillside.
+	342E5BCF	~z~Sure. But you seem strong.
+	32B10F98	~z~I hope it isn't something I've done.
+	361016DB	GCA2_ALEX_RICH_FEELINGS_LO
+	34FE00A0	~z~I'm pathetic. Look at me.
+	34667F6D	~z~Thanks, but I really don't think you can understand how I feel...
+	2F6E9001	GCA2_ALEX_SHRINK_KE
+	2DD9D164	GCA2_ALEX_MYSTERY_JM
+	2DB4BD5C	GCA2_ALEX_BAD_DAY_MN
+	316B2ACE	GCA2_ALEX_SHRINK_KA
+	3083CF9F	GCA2_ALEX_MOTHER_IJ
+	3048F080	~z~but no one has really listened.
+	0E9FA869	~z~Yeah, well, I'm happy she's dying.
+	0D42C09E	GCA2_ALEX_RICH_FEELINGS_LI
+	0B2F0B73	GCA2_ALEX_SUFFER_NL
+	1008B6B2	~z~I'm sorry... I'm just... I'm just special.
+	0FD72F9D	~z~Exactly. God I feel like sometimes you're the only one who really listens.
+	0F339D19	GCA2_ALEX_MYSTERY_JE
+	01860616	~z~I'm a one man crime wave who has killed indiscriminately since I turned up here, but inside I just want to be loved.
+	0110A71A	GCA2_ALEX_RICH_FEELINGS_LJ
+	00CD0CC4	~z~I think you are old enough to be classified as an adult now.
+	08EE04FB	GCA2_ALEX_SUFFER_NB
+	05A08876	GCA2_ALEX_BAD_DAY_MD
+	04FD736B	GCA2_ALEX_MOTHER_IK
+	17B9ED24	GCA2_ALEX_SHRINK_KQ
+	169FB008	GCA2_ALEX_BAD_DAY_MG
+	162757F6	GCA2_ALEX_RICH_FEELINGS_LP
+	1B282293	GCA2_ALEX_RICH_FEELINGS_LM
+	1AE5EDC8	GCA2_ALEX_SHRINK_KN
+	19562C6F	GCA2_ALEX_SUFFER_ND
+	11ED50AD	~z~Absolutely.
+	1130A56B	~z~Loved or killed I guess, I don't know which.
+	111E6A39	~z~And the only reason girls become anorexic and start popping pills is to get with older guys. It's a match made in Heaven.
+	15385747	~z~No?
+	131E049B	GCA2_ALEX_BAD_DAY_MM
+	11F02F64	~z~What's up, Alex?
+	658D7D5E	GCA2_ALEX_SHRINK_KF
+	6494D456	GCA2_ALEX_MOTHER_IA
+	6310E545	GCA2_ALEX_RICH_FEELINGS_LK
+	69F59BEA	~z~Isn't that a breach of the doctor patient relationship thing?
+	694B1291	GCA2_ALEX_SHRINK_KS
+	66905EF7	~z~I'm sorry, it's just my doctor put me on some new meds and I haven't quite leveled out yet.
+	601F3448	~z~No you don't. Not in the way I mean. You couldn't possibly know how much I suffer.
+	5CC08298	GCA2_ALEX_SHRINK_KB
+	5C22B48A	GCA2_ALEX_MYSTERY_JC
+	62FC702E	~z~It's fucking Mother. It's all - "Alex do this?", "Alex, when are you going to meet a nice man?
+	625447E5	GCA2_ALEX_MYSTERY_JA
+	617AE9D2	~z~They'd say Niko Bellic - The American Dream.
+	71FF4C55	GCA2_ALEX_MOTHER_IL
+	71D25C9D	GCA2_ALEX_MYSTERY_JF
+	710B71A2	GCA2_ALEX_RICH_FEELINGS_LE
+	74B423B7	GCA2_ALEX_SHRINK_KP
+	7450FA78	~z~Yeah, I can see.
+	7265704D	~z~Me?
+	6D684EDA	~z~No pressure then.
+	6CA64F84	GCA2_ALEX_SUFFER_NM
+	6C8CDC22	~z~I work in... construction.
+	708A24F8	GCA2_ALEX_MOTHER_IB
+	6FC68C5E	~z~How are you?
+	6F9FD7D1	100010100100100010100100100100010100100010
+	45BCEF98	GCA2_ALEX_BAD_DAY_MP
+	451D391A	GCA2_ALEX_SHRINK_KG
+	427542EE	GCA2_ALEX_SHRINK_KI
+	473ABB47	~z~Yep. I guess... I guess... I guess it just hurts knowing as much as I do.
+	463A1C06	~z~I mean... ok they've like, taken the cab to where I told them to take it, or they've got me the right size of shoe...
+	45CCFF0C	~z~I act all tough, but inside I'm just a little girl. I used to be anorexic.
+	3A70DCB4	GCA2_ALEX_RICH_FEELINGS_LQ
+	39970505	~z~Okay, maybe this date is not such a good idea. If you are in this type of mood...
+	38AB1E28	~z~You're a very up and down girl.
+	40EA16DC	GCA2_ALEX_RICH_FEELINGS_LD
+	3F80A937	~z~"Alex, did you really sleep with the gardener at our place upstate?".
+	3D63F86D	GCA2_ALEX_MYSTERY_JB
+	56A9A0C9	~z~Well, I do and I tell you what, rich people have feelings too.
+	531226A0	GCA2_ALEX_BAD_DAY_MI
+	51DE97C7	~z~I guess not.
+	5A92E52C	GCA2_ALEX_RICH_FEELINGS_LL
+	59CBBF1A	~z~That was me.
+	58E425D4	GCA2_ALEX_SUFFER_NK
+	4BFA4226	~z~Oh god, I'm so fucking angry.
+	4A081719	~z~Sure.
+	48A41CCB	~z~Too many things to mention. It's been crazy. Wild and liberated, the whole nine. What about you?
+	4FB8C64E	~z~Dish washers, gardeners and valets would put posters of you on their walls.
+	4CE88D47	~z~I thought you were liberated? I didn't think you got sad?
+	4C0AE009	~z~Didn't the doctor tell you what the side effects of the meds were going to be?

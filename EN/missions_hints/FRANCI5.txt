@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B14DC98E	~r~The meeting has been called off.
+	B663D5EE	You have found ~r~Francis,~s~ wait for Derrick to arrive.
+	AF354205	Use the window cleaning platform to get down to ~y~the street.
+	70204968	Press ~PAD_LB~ to get off the platform.
+	A372B00C	Use the sniper rifle to find Francis.
+	DD901E8E	Go to the ~y~courtyard park~s~ in Lancet.
+	F0014924	~r~Derrick~s~ has arrived.
+	DA8F98B9	~R~You were only supposed to take down one brother.~S~
+	C6076FA9	Select yes to increase your fee.
+	CA687DF7	Go to the ~y~window cleaning platform.
+	14658C38	~R~You failed to kill one of the brothers.
+	26CE36C1	Press ~PAD_LB~ to take control of the platform.
+	0C397C0C	~R~The meeting has finished, both brothers are alive.~S~
+	0294EE4B	Take out ~r~Derrick~s~ or ~r~Francis~s~ when ready.
+	0B56FA1B	Get a sniper rifle.
+	5EE926FA	Press ~PAD_LSTICK_UPDOWN~ to move the platform.
+	6C92BCB9	The cops are onto you, lose your wanted level.
+	56D89145	Get the ~g~sniper rifle.
+	3A1ED7AA	Get off the roof and evacuate the area.
+	4B758013	Use the window cleaning platform, on top of the scaffolding, to get to the ~y~roof top.

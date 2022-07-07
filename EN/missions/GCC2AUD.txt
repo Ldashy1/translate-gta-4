@@ -1,0 +1,313 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A337B9A8	~z~I liked that hat you used to wear.
+	A5755CAA	~z~I like the car, Niko. It's real sexy.
+	A1F67538	GCC_ACT_BORED_TAKEHOME
+	A2F11A90	~z~This bowling really gets me worked up for what we're going to do after.
+	A650F486	100
+	ABC5F052	100
+	ABD08FBF	100
+	A770D6BF	~z~Niko, shoes is the first thing a girl gonna look at on her man. You should get some better ones.
+	A9DDEFCF	GCC_ACT_CAR_SAME_BAD
+	A100ECA7	~z~Come on, where the car at?
+	9BC1A972	100
+	9C83FDD4	100
+	998BAFEC	GCC_ACT_ARRIVE_STANDARD
+	9AE3C595	100
+	9D03592D	~z~Pool really ain't Carmen's game Niko. She don't like playing it the whole time.
+	9DF6F72E	~z~Alright, Niko. Let's go.
+	9EE40606	GCC_ACT_CAR_GOOD
+	9D1CBDDE	GCC_ACT_ARRIVE_PUB_FAVOURITE
+	9DBA49C4	100
+	B42F480F	~z~We going to see that fat English guy? He supposed to be funny?
+	B4357A32	~z~Thanks, I do okay. You look good too.
+	B2BF8F28	100
+	B2DC09EE	~z~It's a piece of crap. My other cars are in the shop. I like your value system, real simple.
+	B56ABF83	~z~We bowling again, Niko? That's gonna be great foreplay.
+	B845BCA5	~z~Yo, this car remind me of one my papi drives.
+	B87DD3FC	~z~Carmen's bored, she ain't into this shit. Take her home now.
+	B63A03DB	GCC_ACT_PCA_CLOTHES_OKAY
+	B74EE907	~z~You having financial trouble, that's why you have to get this crap car?
+	B2AE656F	100
+	AD9B24E9	100
+	ADACFA80	~z~Carmen getting real bored of pool, Niko.
+	AD3C98CC	~z~This ride is okay, is it the only thing you drive?
+	AD3DDCD8	GCC_ACT_ARRIVE_PUB_GENERIC
+	AE58293E	100
+	B14BE120	100
+	B2779164	~z~Please tell me you dry cleaned these clothes since I last seen you?
+	AFA15A84	GCC_ACT_ARRIVE_SHOW_K_WILL
+	AFDF1EE9	100
+	865DCC99	~z~It ain't bad, is it?
+	86C9367D	GCC_ACT_ARRIVE_STRIP_LAST
+	856B8DEF	100
+	85D16328	~z~Why ain't you bought Carmen no car, Niko?
+	86C97DCB	~z~Niko, Carmen been waiting for you and you not even in your car. Come on.
+	890DB865	100
+	8AA25085	~z~Hey, Niko. You taking Carmen somewhere good?
+	8781F509	100
+	878944CA	100
+	84C4082D	~z~Shit, Niko. Those are some raggedy-ass clothes you wearing. What's up with that?
+	7DEDFB3F	~z~Niko, you shouldn't wear that top no more.
+	7DFE5D1F	~z~That new hat makes you look real rich, Niko. I like it.
+	7C56A5B8	GCC_ACT_PCA_CAR_GOOD
+	7C8DDAF0	~z~No, I drive a few things.
+	7E5BE4B5	GCC_ACT_ARRIVE_DARTS_LAST
+	802F6181	~z~I'm feeling the vibe of your hat, Niko. It's a real strong look.
+	81D02546	GCC_ACT_ARRIVE_BOWL_NOT
+	7F186819	100
+	801457CA	~z~Everyone is jealous of Carmen when they see her sitting in this ride with you.
+	94293578	100
+	950E1D55	~z~Why'd you stop wearing that expensive hat, Niko?
+	934920FC	~z~You know, maybe I prefer to stay home than be seen out in this piece of shit.
+	93BFB93F	~z~I see you be spending money on cars for yourself instead of gifts for Carmen.
+	95204647	GCC_ACT_PCA_CLOTHES_BAD
+	98286F7D	010
+	997A21A2	~z~What is it about you and strippers, Niko? Carmen is so much sexier than them.
+	97A80455	100
+	97A903D5	~z~I thought you might like to take public transport. I guess I was wrong.
+	93148579	100
+	8BDF63E5	~z~I hate riding in this shitty car.
+	8C2401D2	~z~You don't look too good in that hat, Niko. It makes you look poor.
+	8B63C16D	~z~I ain't walking nowhere, Niko.
+	8BD9F383	010
+	8D5AF257	~z~There's something about being driven in a car like this that gets a girl excited.
+	91283034	100
+	9296882E	~z~Carmen ain't having no fun. Take her home.
+	8FBE58FC	~z~I ain't never heard of this shit.
+	8FF28C45	100
+	B950ED39	~z~Niko. This is one fine automobile. You are doing well for yourself.
+	DF6DEBFC	GCC_ACT_PCA_LEGS_BAD
+	E35987DE	100
+	DDD22308	GCC_ACT_ARRIVE_POOL_LAST
+	DDF0F560	~z~What the fuck is this shit?
+	E3B798E1	~z~This place really gets me excited Niko.
+	E4A26B4A	GCC_ACT_ARRIVE_STRIP_NOT
+	E599459B	~z~Why you come to pick me up in such a shit car, Niko?
+	E467377B	~z~You really like these strippers, don't you, Niko?
+	E46D754F	~z~I like the way you wearing this outfit, Niko.
+	DDBABB4D	GCC_ACT_CLOTHES_UNUSUAL
+	D54EB6B8	100
+	D556FC24	~z~My tit job is so much better than the ones these bitches have got.
+	D390E8D6	~z~Shit, man. Those are some wack threads you wearing. What's the deal?
+	D3F89995	~z~Carmen was about to call someone else. You here now though, come on.
+	D58EE1BD	~z~I could be a stripper if I wanted the easy money. I got the body for it.
+	DC075534	100
+	DD796410	~z~I like classy places but these people be all old and shit.
+	DAA1860E	100
+	DAD8484E	GCC_ACT_PCA_FEET_BAD
+	F9B7B763	GCC_ACT_CAR_OKAY
+	FA8BDE5A	100
+	F739D82B	GCC_ACT_ARRIVE_POOL_NOT
+	F8A42333	~z~As a nurse, I have to tell you that those clothes are a health risk.
+	FBE45264	100
+	FE973DB3	GCC_ACT_PCA_INTRO
+	FF2F5E9F	~z~You were fucking around so much we missed the show, Niko.
+	FBFB75A4	~z~I like it how even celebrities eat fast-food. It's food for everyone no matter who you are.
+	FC96E7A5	GCC_ACT_PCA_TORSO_BAD
+	F58BE1B8	100
+	E8F5322B	~z~You too busy doing other shit that we can't even get to the show. Nice one, Niko.
+	EA31864E	~z~Why don't you just get some new clothes, Niko? Some nice ones, maybe.
+	E5C3501B	GCC_ACT_PCA_CLOTHES_UNUSAL
+	E87E41DB	~z~We bowling now, Niko? This the 1950s?
+	ECE1063A	~z~You wearing that outfit again. I like to see you in a label.
+	F11D2E53	~z~Maybe you pick girls up from the retirement village in this car, but Carmen no like it.
+	F2AD7490	GCC_ACT_PCA_FEET_GOOD
+	EF904CBC	GCC_ACT_CAR_NONE2
+	F06F1B51	~z~You don't look like no biker, Niko, and I should know. Come on.
+	C08D6364	~z~Ahh, thanks... I guess.
+	C125FAA9	~z~Can't you tell, baby? Carmen is into having a good time. She likes the high life, but she still a South Bohan girl, you know?
+	C00BF00F	~z~You look okay, I guess
+	C0418329	GCC_ACT_PCA_NOGLASS_GOOD
+	C226AA3F	100
+	C42C41DC	~z~Niko, where your car at?
+	C488823C	010
+	C3300090	GCC_ACT_PCA_CAR_BIKE
+	C396413F	~z~I like the new top, Niko. How much did it cost?
+	BE1C5AAA	GCC_ACT_ARRIVE_FASTFOOD
+	BA0E2DB8	~z~Hey Niko, where you got your car?
+	BA1E0578	~z~Niko, you ride a motorbike. You like the danger, don't ya?
+	B99AFB13	~z~There ain't no point in trying to save money on your shoes, Niko. Girl going to be able to tell.
+	BA0B6D6A	100
+	BA8B6F9B	GCC_ACT_ARRIVE_SHOW_RGERV
+	BC83A5AD	100
+	BDB24723	~z~I can think of much more fun things to be doing with Carmen than playing her at pool.
+	BB69E74B	GCC_ACT_PCA_GLASSHAT_GOOD
+	BB80C7B8	~z~Hey, you dress real sharp. You must be doing well for yourself.
+	CBABC97D	~z~Thank Jesus you got rid of that stupid hat.
+	CE13DD31	~z~Niko. Carmen don't like bowling the whole time, comprende?
+	CAB770E5	~z~You look real sophisticated in them new glasses, baby.
+	CB6A48C0	~z~Them clothes ain't doing no favors for your sex life.
+	CF55B030	GCC_ACT_ARRIVE_BOWL_LAST
+	D1553EBC	~z~So, Carmen, what're you into?
+	D1BA8AAE	~z~If you going to try to do stuff to me under the table. You better do it right.
+	D02FE169	~z~Baby, you always got to be taking Carmen to the bowling alley?
+	D0FF9CCB	100
+	CA36B4C5	100
+	C562BA9A	100
+	C5BA0922	~z~This stuff is just so good, isn't it? I hope nobody sees us.
+	C4CED5B7	~z~I feel like I'm going out with my papi when you pick me up in this car.
+	C4E142E0	100
+	C6FD8B80	100
+	C96709AF	100
+	C9BD8A3C	~z~I am glad to see you didn't try to save no money on those new pants of yours.
+	C7314502	~z~The girls up in here are real sexy, Niko.
+	C798CD1E	100
+	7C08728F	~z~This new car ain't going to be helping you get lucky, that's for sure.
+	32249637	~z~Those didn't look good on you last time, and they don't look good now.
+	3229F7A3	~z~This guy remind me so much of a friend of mine.
+	3121FA3A	100
+	31EFF59D	~z~I like the car. Why you buy it for yourself instead of Carmen?
+	32570DC2	~z~Why don't you just give Carmen the money you going to spend on her here?
+	3462136B	~z~Well, I ain't taking the subway if that's what you thinking.
+	349B9F38	GCC_ACT_PCA_HAT_BAD
+	32BABD1C	~z~Carmen looks really good when riding in this car with you, Niko.
+	33354621	~z~I don't understand this guy's accent.
+	30BC640D	GCC_ACT_ARRIVEF_NOTLATE
+	2516AA5E	GCC_ACT_CAR_NONE
+	263F7906	010
+	237D1EA1	~z~This car really suits your personality, Niko.
+	23F479D3	~z~I don't like seeing you in those same ugly clothes, Niko.
+	275D809A	~z~I ain't doing this shit.
+	2F1209D2	~z~Niko, you'd look better with no pants than those things.
+	30241B8A	~z~Okay, let's get started.
+	2AB661A2	~z~Don't go buying no cheap glasses, Niko. They don't look good.
+	2CAD09FB	~z~Nice new shoes, baby.
+	3EB40F25	~z~Ohh. I like the new car. It can't have been cheap.
+	3ECFDFA7	100
+	3E217CD7	100
+	3E69A14A	GCC_ACT_PCA_HINTA
+	3F83A342	~z~Is playing darts how you get girls to bed where you from? Population must be real low there.
+	41C2F05B	GCC_ACT_PCA_CAR_OKAY
+	41D1BEE5	~z~Take me somewhere, Niko.
+	408A0191	GCC_ACT_ARRIVEC_NOTLATE
+	41553908	GCC_ACT_PCA_NOHAT_GOOD
+	3D238DAD	100
+	3859B1B6	GCC_ACT_PCA_CLOTHES_GOOD
+	38949BC4	~z~Well, how we going to get where we going?
+	35F49ECF	~z~Your face looks so much more handsome without those glasses, Niko.
+	37EC9C50	~z~I enjoy seeing you in that designer stuff, Niko.
+	39601716	GCC_ACT_INTRO
+	3C0DA404	010
+	3CD6A448	~z~We taking a taxi, Niko.
+	3A546897	GCC_ACT_PCA_TORSO_GOOD
+	3A5F0EFC	GCC_ACT_PCA_NOHAT_BAD
+	0814CF03	GCC_ACT_PCA_SAME_GOOD
+	08BF0C9F	GCC_ACT_HINTA
+	0658966D	GCC_ACT_CAR_NEW_BAD
+	06CC7E77	~z~Bowling, Niko? I can think of more interesting things to be doing.
+	0A96A071	100
+	0E508A50	GCC_ACT_ARRIVEF_LATE
+	1346CCD5	100
+	0B5C51BF	010
+	0B70AA31	~z~I love Katt Williams, Niko.
+	05B91FD2	~z~All this darts playing is really turning a girl off.
+	01412EFA	~z~You and Carmen look good together when you both rocking designer labels.
+	02A9B0AF	GCC_ACT_PCA_LEGS_GOOD
+	003B329B	~z~I so pleased you got rid of that hat, Niko.
+	009F35EE	100
+	02ACBFCC	~z~A friend of mine drives a bike as well, Niko. Let's go.
+	05468700	100
+	059E0D1A	GCC_ACT_CAR_BIKE
+	02C7C215	~z~Hey, we met on the internet, didn't we? Love-meet.net? I'm Niko.
+	03A4CF36	GCC_ACT_ARRIVE_CLUB_GENERIC
+	20A03BC0	~z~At least you can't have paid much money for this piece of shit car.
+	218E44F1	GCC_ACT_PCA_NOGLASS_BAD
+	1F41C92E	~z~Hey, Niko. Pleased to meet you. This is Carmen.
+	1FC19480	GCC_ACT_PCA_HAT_GOOD
+	219778F2	GCC_ACT_ARRIVE_HIGHEND
+	22EEBCA1	~z~Those are some nice pants, they must have been expensive.
+	236C4CDB	GCC_ACT_ARRIVE_SHOW_LATE
+	22315620	~z~This car really suits you, Niko.
+	22383CB2	GCC_ACT_ARRIVem_NOTLATE
+	1BC5833C	~z~You wanna play pool, Niko? I hope you're good with your stick.
+	144C25F5	~z~Caraho, Niko! This is a piece of trash, what's the deal with your ride?
+	14929B5F	~z~Let's get in here, Niko. I hope the barman don't recognize me.
+	137EBB5D	~z~Darts again? You ain't got no imagination, do you Niko?
+	14429226	~z~I don't know. I just threw on whatever.
+	1540B214	~z~Carmen has had enough. She's getting home herself. See ya.
+	1ABF17EA	GCC_ACT_PCA_CAR_NONE3
+	1B94C35F	~z~You don't need no glasses so why you buy those stupid things.
+	18F32A46	~z~I'm just out for a good time for myself, baby. I hope that's cool with you.
+	1916E40D	~z~Not for me, Niko. I ain't doing this.
+	437572BF	010
+	69BC163F	010
+	6A53CECB	010
+	66B2F534	GCC_ACT_ARRIVE_LATE
+	676AD3D5	~z~Let's go get our drunk on, Niko.
+	6CAEBC31	~z~We back at the pool table? You can't get much action if you do this with all the girls.
+	6ED6D5C9	100
+	6F0560C0	~z~This a good place, Niko. Come on.
+	6DB7FD3C	GCC_ACT_CAR_SAME_GOOD
+	6E7BA91E	~z~This car ain't gonna help you get laid, Niko.
+	663EAD1A	~z~You trying to get me into bed by playing darts? This is real interesting.
+	63094DA4	~z~If you ain't gonna take Carmen home, then she gonna take herself. See you around, Niko.
+	631F7924	~z~It's a good thing you ain't wearing those glasses, Niko. You got a much better chance of getting lucky.
+	627CC7AF	~z~You get me drunk enough, you going to get real lucky, Niko.
+	62B96028	GCC_ACT_PCA_GLASSHAT_BAD
+	63C2B83B	100
+	65AE48F8	~z~I don't know. The rest of my shit's at the dry cleaner.
+	6624F11F	~z~You could say that.
+	6575FB8C	~z~I'm digging the new shoes, Niko.
+	6590C380	~z~If you spending money on Carmen, baby, then she knows you really care about her.
+	76C3D948	100
+	76F0D0B5	~z~Pool again, Niko? You don't got much of a clue about women, do you?
+	765BD7D9	GCC_ACT_CLOTHES_OKAY
+	76C178C1	GCC_ACT_ARRIVE_BOWL_BEFORE
+	77C8595E	GCC_ACT_ARRIVE_DARTS_NOT
+	7A3D61AC	100
+	7B46EEEC	~z~Sometimes Carmen just wants to get drunk, baby.
+	7817C7B5	~z~Why don't you give me this car when you done with it?
+	79D9CF2B	~z~I like your new glasses, Niko. Real classy.
+	758D701A	~z~We going to see any celebrities up in here?
+	70F29333	GCC_ACT_BORED_LEAVING
+	7257D651	~z~You late, Niko. Come on.
+	6F1687C2	100
+	6F461507	GCC_ACT_CLOTHES_GOOD
+	732F995E	100
+	75590EEC	~z~You want to play darts again because it was so fun last time?
+	7561B1D4	GCC_ACT_PCA_CAR_BAD
+	74B8268F	100
+	751B244A	~z~That new top is nice Niko.
+	4A093EB9	~z~Where you got your ride parked?
+	4DBE4D6A	~z~Niko, you need a serious style rethink, okay?
+	49643F3F	~z~You make me look good when you stand next to me in that outfit.
+	49B9CD49	100
+	4E6E975C	~z~Carmen's going to give you some advice. You want to impress a girl, you get a nice car.
+	4E9D3578	GCC_ACT_CLOTHES_BAD
+	4F6D4949	GCC_ACT_ARRIVE_SHOW_CABARET
+	4E7C8D32	~z~No wonder you keeping Carmen waiting, you don't have no car. Let's go.
+	4E8AB02B	~z~Your face don't look so intelligent without those old glasses, Niko.
+	494318F9	GCC_ACT_CAR_NEW_GOOD
+	468DE8E2	GCC_ACT_ARRIVE_DARTS_BEFORE
+	46D07FDA	~z~We can get muy borracho up in this place.
+	438DEE5B	~z~You ain't going to try to get with me in the restroom is you?
+	44509BB7	~z~Shame you stopped wearing those new glasses, I liked them.
+	470C6260	GCC_ACT_ARRIVE_STRIP_BEFORE
+	48662289	~z~This a nice new expensive car, Niko.
+	48BFA6CC	GCC_ACT_PCA_SAME_BAD
+	474522CB	~z~Where your car, Niko? You come on foot?
+	48230FAA	~z~I don't like that new top, Niko. You should spend some more money on your clothes.
+	5C2E8484	~z~This car wasn't cool the last time I saw it, and it ain't cool now.
+	5E3213A5	010
+	59D59D3A	~z~If you ain't gonna spend a lot of money on a hat, there ain't no point in spending any money at all.
+	59DCC189	010
+	6041E758	100
+	61C03522	~z~Carmen don't like waiting, remember that, Niko. Come on.
+	6256BB40	GCC_ACT_DIFF_ACTIVITY_NO
+	60DCED67	~z~I'm going to be honest about your pants, Niko. They ain't looking good.
+	6123F426	~z~Carmen don't wanna do this now.
+	56479EBB	100
+	5335C51D	100
+	5342D864	~z~Carman ain't feeling this vibe, baby.
+	500691AF	~z~Finally here, are you, Niko? Come on.
+	515BD44A	100
+	53A8848E	100
+	5558A98B	GCC_ACT_ARRIVE_POOL_BEFORE
+	55CB2402	100
+	5415F4CD	GCC_ACT_CAR_BAD
+	547D0997	~z~I used to play darts with mi Papi.

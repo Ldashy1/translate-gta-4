@@ -1,0 +1,266 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	98527551	FIN1D_KQ
+	959EE19A	FIN1D_LQ
+	9576FD56	FIN1D_LH
+	98BCCAE7	~z~they will find it out when they stare down the barrel of my gun.
+	9BD60CB0	FIN1D_LL
+	9AE79CA1	FIN1D_UR
+	9AA01610	FIN1D_LE
+	92C3D0AA	050500500050500500050050500500050500050050050050
+	8EC1624A	~z~Me understand ya know, rasta. It's a good ting dat blood clot don't know you as good as I and I know ya, ya know?
+	8E6DB474	FIN1D_MA
+	8C483F88	~z~Ya mind be clouded and ya don't be able fe tink clearly, ya know. Ya want some weed?
+	907F21DE	FIN1D_MK
+	9283C385	FIN1D_JD
+	91BAC185	500050500050050050500500500500050
+	90ECC293	FIN1D_JB
+	9BDB6C36	~z~He was kidnapped. I should have known that the lives of those close to me would be destroyed.
+	AB33B10F	~z~If there was any way I could change my actions so that he would not die, I would do it.
+	A9BDDB84	FIN1D_XYZ
+	A8DD2C1A	~z~Seen, we just need fe stay on dis bumba clot and we'll be able to mash dem up real good.
+	ADDFD66D	FIN1D_UP
+	B09B16B0	~z~Jah know not many man could a got through dem boys, ya know, star. Ya a real badman for real, real badman!
+	AF4872D6	~z~Dat was a long time ago, ya know, king. Dere ain't no promise dat life would be any different from now, ya know.
+	AF2F92CE	~z~If you didn't wanna come up here, he was gonna go to Europe and drag you pon a boat.
+	A63B906A	~z~To get them back for what they have done, I would look for them in every corner of the earth.
+	9D9315CE	~z~You are right, but we can change what is about to happen.
+	9D5C7EB8	~z~Everybody in Liberty City know dat, so dem after de money too.
+	9D2F7E52	~z~He was a good man. No matter what happened to him, he would never be angry or upset for more than a minute.
+	9E9B1796	~z~We can make sure that Roman's life is not the only one that is lost today.
+	A48F700A	~z~I came to this city wanting revenge, I let that desire build up inside of me for many years.
+	A1EEDB0B	FIN1D_UC
+	9EA1D904	FIN1D_ME
+	8243EC40	FIN1D_LC
+	8217EA9B	FIN1D_TN
+	819C1BC9	FIN1D_MB
+	824B6B37	FIN1D_LB
+	833E1AC2	~z~All we can be tinking about is taking dat ras clot down, and stopping him from hurting anyone else. Seen?
+	82DC2536	~z~I have finally learnt this lesson. It has taken the death of my cousin, but it is something I must accept.
+	82AD6CDE	FIN1D_TK
+	8167B74F	~z~Roman brought me to this city and I was nothing but a curse to him.
+	7AA14DA0	~z~I'm going to catch Dimitri and end this for good.
+	78FA18B8	FIN1D_JK
+	77975063	FIN1D_IE
+	7BCD32BD	FIN1D_TD
+	7E97C1F7	~z~If he did, ya know, say him boss don' have long fe live 'pon this earth.
+	FFD822CC	FIN1D_JE
+	7CF82F6B	~z~Me feeling dat, ya know, breda, I and I gwan get him.
+	83523BB7	~z~I must think of something.
+	8A47391E	FIN1D_KG
+	8A0420E3	FIN1D_TT
+	887FE95D	~z~Did you get Pegorino back at de place, bredren?
+	8A7A2E62	~z~Dimitri and Pegorino will find this out as well,
+	8BA6DB41	~z~Roman should be in his marriage bed.
+	8B2BDA57	~z~Easy Niko, just be cool now. Pegorino and Dimitri be splitting up de large amount of money dem get from de business deal.
+	8AEDBA47	FIN1D_ID
+	880C73FB	FIN1D_TG
+	83F5F4C1	FIN1D_NC
+	83E42EB4	~z~We must find Dimitri and Pegorino and end all this.
+	83576971	FIN1D_TF
+	84C8EFD7	~z~Instead I did the business deal that lead to Roman getting killed.
+	87AD43DA	~z~I don't tink you have a choice about dat, ya know, Niko. Roman loved you.
+	85190AFA	050500050050500050500050050500500500050050050500050500
+	850972EE	FIN1D_TL
+	E3D8A005	~z~If we had got him then, Roman would still be alive. Things would be good.
+	E320FAC0	~z~Okay, this is good news. I do not know how much of this driving I can continue to do.
+	E2900980	FIN1D_NK
+	E5134847	FIN1D_UM
+	E75739B8	FIN1D_TJ
+	E6746131	~z~for every agreement he went back on, for every friend he betrayed.
+	E5FEE0EA	FIN1D_UE
+	E0B9AA5A	FIN1D_LD
+	D964C70E	~z~Dey say a dying animal is de most dangerous inna de jungle, ya know, cousin. So, ya better be careful.
+	D957E82D	~z~Nuh, man. I and I do dis for Roman.
+	D9421835	FIN1D_US
+	DA1C84BE	~z~We leave him out for de dogs and crows.
+	DC424B35	FIN1D_UI
+	DBAA9D9D	~z~Yes, but the chances of my cousin being dead would be much slimmer.
+	DB4F8214	600
+	E79F6383	~z~That is the plan, Jacob.
+	F6738E73	~z~Why would they bother to send a hitman to the wedding?
+	F5A020B9	~z~He had many men there. Both Russians and Pegorino's men.
+	F4D0AE7F	~z~He has reason to be nervous, the man who will kill his employer is following him.
+	F6F47766	FIN1D_TR
+	FFA49498	FIN1D_MC
+	FD5FEE67	FIN1D_NE
+	F6F62600	FIN1D_NN
+	F4561DC1	~z~Just be calm now, rasta. Just make sure ya don't lose dat blood clot.
+	EE42D626	FIN1D_UQ
+	EE0E2C58	FIN1D_IJ
+	E7E676C3	~z~Alright, Niko, man. Alright.
+	F1B9CB64	FIN1D_UU
+	F44DB920	~z~Cha! A burial be too good for that bumba clot, ya know. He ain't worth putting inna di ground, ya know, star.
+	F42BCCE8	FIN1D_UT
+	F38BB5E7	FIN1D_II
+	BD219489	FIN1D_KG_QQQ1
+	BCCE37E6	~z~Piece of shit... eat hard metal!
+	BC9F570C	050050500500050500050050500500050
+	BD4D0EE3	~z~Dat be a whole heap of teeth, ya know, Niko. I don't tink we have enough ammo fe shoot him dat many times, ya know.
+	BE6AB24F	~z~I do this for my cousin and for his wife. I needed to make Dimitri pay.
+	BE33B17D	~z~I guess I'll just have to pass the time by thinking about how much I'm going to punish these scum.
+	BDDAC094	~z~Are we getting near to them or is this man taking us on a tour around Alderney?
+	B9E937C5	~z~Roman was a good man, ya know. He had a righteous heart, ya know, star. Jah know him in a better place now.
+	B4490885	FIN1D_IA
+	B29485F2	FIN1D_JG
+	B20C1897	~z~Ya man, we getting closer. Me hear from me source dat Pegorino might be inna di north of Alderney.
+	B47A80A9	~z~I will not forget him. Nor will I let these men forget him.
+	B94111FB	~z~A man stab you in the back once, him gonna keep stabbing until di job is done, seen?
+	B7D54A52	~z~What's done is done, and dere ain't no way to change what happen earlier.
+	B65780F4	~z~I will put a bullet in his heart for every life he ruined,
+	BF81B481	~z~Roman did not deserve to die. Not on this day, not in that place.
+	D4F75E6D	~z~I an' I gwan find dem, we going to find dem and take dem out, for real, dat's what we doing for Roman.
+	D3C45C9E	~z~I thought the money would help Roman and the people I loved.
+	CC63A130	FIN1D_UD
+	D5BAD26C	~z~I do not need any marijuana, Jacob. I can think clearly enough.
+	D82D65D9	FIN1D_JJ
+	D62E6172	~z~I can't believe I did that deal with Dimitri. How could I trust him? I'm a fool.
+	D6129167	FIN1D_TM
+	CB12AA6E	~z~Perhaps one bullet in his brain will have to do then.
+	C246DEED	~z~I am doing my best.
+	C123AA50	FIN1D_JI
+	BF8F188B	~z~We not angry at him, ya know, Niko. Its di people he's working for, seen?
+	C294C173	FIN1D_TC
+	C5EF8B02	FIN1D_KM
+	C505CD63	FIN1D_KN
+	C461BD32	~z~No matter what he was gonna get close to ya. Because, before you come all him a do is talk about him cousin, Niko.
+	255362B0	FIN1D_KD
+	2549B68E	FIN1D_NB
+	22C5FB04	~z~Seen Niko, a whole heap a bodies left inna dat place dere, ya know? Ya a real lion for real, ya know, star?
+	2653E45A	~z~That's just the way Roman was. Don't ever forget him, seen?
+	2AED3604	FIN1D_IH
+	28902BB4	500050500050050500500050500050050500500050500050500
+	287C060C	~z~A leopard don't change him spots, ya know, Niko.
+	21CF57EA	~z~Seen.
+	1B08B307	FIN1D_KJ
+	1AF8EEC4	FIN1D_KK
+	18B63BED	FIN1D_TP
+	1D4F61C4	FIN1D_MJ
+	2140E96B	FIN1D_KA
+	20B17677	~z~Tink about how ya gwan mash dem up when time ya find out which part dem a hide.
+	1F2EE059	~z~Dem ras clots tink dem are de dons of dons.
+	368E1411	~z~I let it eat out everything good in me. It took me over.
+	35B48AB8	FIN1D_JA
+	336B8003	FIN1D_KI
+	3C3E11EB	~z~Yo Niko, ya need fe lose some of dis anger, ya know, before ya go after dem boy dere.
+	3D1E9BC8	~z~Me tink dem be afraid of ya, ya know, me breda.
+	3C9C3EF7	FIN1D_NJ
+	3C9AC9B1	~z~I think he probably did. We'd have to go to Russia to find out though.
+	32457DFE	~z~I just want to drive this scum off of the road and smash his brain out on the concrete.
+	2EDC2E34	~z~Maybe we should go with Dimitri's body. Bury him in his homeland.
+	2E03FBCD	~z~True me breda, true. I ain't gwan fe let it go neither.
+	2D16B28C	~z~You were there when Dimitri first wronged me.
+	2F6704B1	050500500500500050050500500050050500
+	30C7838A	~z~Dimitri and Pegorino, they be pon top after that deal, ya know. They got de coil and de brown, didn't dey?
+	30C2DE61	FIN1D_UN
+	2FE3A4A0	~z~I had the opportunity to settle my score with Dimitri the other day but I chose not to take it.
+	18518902	~z~Don't worry, rasta. I gwan shoot him out de blood clot sky. He ain't going to be able to talk his way outta dis.
+	0B4E5A8E	~z~Come on, why does this take so long? Where are these idiots hiding out?
+	0A3364DF	~z~A snake always be a snake, ya know rasta. Dimitri woulda steal from him own mother fe get ahead, ya know.
+	092DAF6B	FIN1D_JC
+	0BFA75DF	050500050500500050500500050050050500500050050
+	0ECD0FE1	FIN1D_ND
+	0E55D6B4	FIN1D_TE
+	0E180277	~z~Roman was a gambler, he would've liked those odds.
+	08125502	~z~De boy leading us back because him tink him boys going fe tear us to pieces and ting.
+	00C23AF8	FIN1D_NM
+	003721FA	~z~If Dimitri and Pegorino are so on top, why would they care about me?
+	7D92A595	FIN1D_IM
+	01215CE9	~z~I would sacrifice anything.
+	06852F06	~z~How you know he's going back to Pegorino and Dimitri? Why would he lead us back to them?
+	05715B67	~z~Ya man ya man. How'de ginnal get away from you anyway, Niko? Me tink ya get dat boy for sure.
+	0266EB21	FIN1D_NA
+	1535BBCC	050500500500050050500050050050050500050050500050
+	15335FDF	~z~I had to fight through a lot of people to get to Dimitri.
+	15096146	FIN1D_NO
+	166FF1BD	~z~Yo Niko, Dimitri and Pegorino gwan have mad firepower pon di ground, ya know. Dis ain't gwan be easy.
+	17F7006A	~z~No, Dimitri killed Pegorino when I arrived. I don't think he likes to share.
+	17A25180	FIN1D_JH
+	16CD2E65	FIN1D_NI
+	14A2C2CF	FIN1D_KE
+	0FD4D4BE	~z~Alright, so this guy is taking us to his bosses. We cannot kill him yet then.
+	0FCB701B	~z~We catch him, then we kill him, then we decide what to do with the body. How's that sound, Jacob?
+	0F045B59	FIN1D_TB
+	10BB8949	FIN1D_IG
+	1321C3B6	FIN1D_MF
+	12EE4768	~z~Dimitri tinks dat you forget about what happen on the docks ya know, in Broker. Him screw ya over after ya kill Faustin for him.
+	12C5B042	FIN1D_NF
+	62416447	~z~Sending an assassin after me and killing Roman on his wedding day, this is something I will not ignore.
+	63F22042	~z~He stabbed Pegorino in the back, just like he did to everyone he has worked with while I have known him.
+	612F93E8	FIN1D_LK
+	61C00961	FIN1D_KP
+	654EE4C7	FIN1D_MG
+	662324FB	FIN1D_LM
+	64EAE04F	FIN1D_MD
+	653F8CEC	FIN1D_KO
+	5BC0D97C	~z~Also, dey ain't going to know their boy at the wedding didn't do his job properly. They tink ya dead, ya know.
+	5C270530	FIN1D_IK
+	5AA14FF3	FIN1D_KF
+	5B684CC3	FIN1D_UJ
+	5F2B0F5B	FIN1D_LI
+	60E1A809	~z~Dere ain't no guarantee you gonna make it, bredren. I and I don't know what our actions can do and ting.
+	5C426B56	FIN1D_LP
+	5CDDE040	FIN1D_IC
+	67CF083B	FIN1D_LN
+	7095252A	~z~So dem man dem haffi hide out for real.
+	716117D5	~z~Seen, think about how you going to bust these bitches up then.
+	6D66BC4A	FIN1D_MI
+	6FE43043	~z~Who dat inna de helicopter? Did Dimtri and Pegorino both leave when you get inna de ground?
+	747AC052	FIN1D_LJ
+	76484EED	FIN1D_MH
+	71AF8A4B	~z~I cannot allow that to happen again, not to me, not to Mallorie and everyone who loved Roman.
+	739E8F51	FIN1D_KB
+	6A23BAA2	FIN1D_TI
+	6B076F81	~z~Dem boy dey no right ya know, Come inna church and come kill a man pon him wedding day. Jah know, it ain't right.
+	688D2DC7	FIN1D_LG
+	697BF4F2	~z~There ain't no way those boys gonna be scared of some boys like I and I following their boy, ya know.
+	6D0D1EE2	~z~Well then I am looking forward to disappointing his expectations.
+	6D2D9DCD	FIN1D_NL
+	6B308AE1	~z~He was beaten because of me, he was shot, his business and his home were burnt down.
+	6B6CE273	FIN1D_NG
+	430FCAFC	~z~I can tell him getting nervous, ya know, Niko. He's driving different. We must be getting close.
+	4D5174F4	FIN1D_LA
+	43A90321	FIN1D_UO
+	42F7A5E0	FIN1D_KC
+	50CFC164	~z~I did not forget about this, but I let it slide in the interest of business.
+	5018856C	FIN1D_TH
+	46C5A6FE	~z~Yeah, I understand. I get it. I just need those bastards to know and understand what they did to me.
+	46451CF9	FIN1D_UK
+	441C6A4E	FIN1D_IF
+	43A91AED	FIN1D_UA
+	4991F96A	~z~Anyting could happen if you kill Dimitri pon dat day.
+	43ABDFB6	~z~No matter what you say about dat murderer, he's consistent. He's consistently fucking anybody him can.
+	51567B0B	~z~Now, it stops.
+	3FFE9970	~z~We haffi get to dem, so we follow dis bumba clot, seen?
+	57D6E501	FIN1D_TA
+	570D9461	~z~Had I got rid of Dimitri then, the bloodshed would have ended.
+	4CD928CD	FIN1D_UF
+	3ED05B26	FIN1D_LF
+	59E7D96C	FIN1D_IB
+	570B38A1	FIN1D_UL
+	544D420D	~z~Me want get dem bumba clot dem too, ya know.
+	5166A2C3	FIN1D_NH
+	42A3C938	~z~They could not hide anywhere that would keep me away from them.
+	564084DF	~z~Dimitri saved me the trouble.
+	42362947	FIN1D_JF
+FIN1D_CUT2_1	E2E301A9	~z~Welcome to America!
+FIN1D_CUT2_10	00303A15	~z~Come on Niko man. Get out of here. Let's go. Come on!
+FIN1D_CUT2_11	11F6DDA2	~z~Wha gwan. Come on. Let's go!
+FIN1D_CUT2_12	B5E72594	~z~Roman...
+FIN1D_CUT2_13	C3A0C107	~z~never hurt... anyone.
+FIN1D_CUT2_14	199B6CFB	~z~I know. I know.
+FIN1D_CUT2_15	A72B081C	~z~Let's go man.
+FIN1D_CUT2_16	FECEB762	~z~It's over.
+FIN1D_CUT2_17	0C4A5259	~z~You won.
+FIN1D_CUT2_2	107B5CD9	~z~~c~Fuck you... you dick.~s~
+FIN1D_CUT2_3	47504A82	~z~Speak English.
+FIN1D_CUT2_4	F58AA6F8	~z~You're a strange man.
+FIN1D_CUT2_5	DD7BF6DB	~z~You killed your best friend.
+FIN1D_CUT2_6	CB385254	~z~You betrayed everyone who ever came in contact with you.
+FIN1D_CUT2_7	C1EE3FC0	~z~You killed my cousin.
+FIN1D_CUT2_8	AC53148A	~z~I guess...
+FIN1D_CUT2_9	CD47D67B	~z~the survival of the fittest thing really meant a lot to you.

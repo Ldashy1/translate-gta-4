@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9A967EA4	~s~Take out ~r~Dwayne.
+	8782D855	~s~Chase ~r~Playboy~s~ down and get rid of him.
+	84F05358	~s~Shoot the handle off and find Dwayne.
+	A2067554	~r~Dwayne got away.
+	F413A487	Take out ~r~Dwayne.
+	F12833C9	Take down ~r~Playboy.
+	ABEC5664	~s~Placeholder Cutscene.
+	602009B8	~s~Go up to Dwayne's apartment.
+	4299DB77	Dwayne lost you.
+	08714D36	Take out ~r~Playboy.
+	63EF112E	~s~Go to Dwayne's apartment building.
+	8453737F	Kill ~r~PLAYBOY X~s~ or ~r~DWAYNE.
+	7C4729D6	~r~Playboy got away.
+	79B93CC2	~s~Use the elevator to get up to Playboy's apartment.

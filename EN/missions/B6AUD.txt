@@ -1,0 +1,320 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD726C4C	B6_FJ
+	ADEC9C11	B6_BP
+	ACF300D8	100
+	AD476420	B6_CI
+	AE04722D	~z~We got more company.
+	AF245FD7	B6_XH
+	AF76DC85	~z~Shit, we can't stash the stuff with the cops on our backs, lose 'em.
+	AE109FA6	~z~Okay, I had word from Frankie, my nephew.
+	AEB99AE8	B6_BN
+	A70E8236	~z~As long as we don't see any helicopters, vans, suspicious gardeners talking into earpieces.
+	A7FAA02E	B6_KA
+	A61CECAF	~z~We will fire if you fail to surrender what you are carrying.
+	A6775EB6	~z~You got a wife, you got a ma, don't play around with your life.
+	A8CD4C4F	~z~Get a move on, we ain't sight seeing over here.
+	AC8DEB17	~z~Don't I know it, Phil. I shoulda seen 'em.
+	ACB1EDE4	B6_YC
+	AA141105	~z~We gotta lose this heat, Niko.
+	ABC4A48C	100
+	B06AA46D	B6_BO
+	B9798FA4	~z~Niko, get in that car and follow me.
+	B9BF7AB1	B6_XE
+	B8B29ECC	~z~Put your foot down, catch up to him.
+	B92C4341	102
+	BA42DD38	102
+	BB3BC538	B6_KC
+	BBDB3B3B	~z~No one's been paying undue attention to the H we took off the Triads.
+	BA4C0693	~z~I've been telling Niko I got a lot on my mind.
+	BAEF0017	B6_EA
+	B420FA09	~z~Don't play around with other people's lives either.
+	B4AE366C	~z~Poor girl. She ain't got much hope left now.
+	B2C5023F	~z~Frankie, you been keeping your eyes open out here?
+	B3667A51	B6_YB
+	B4F7FC4C	B6_YE
+	B706E8C2	~z~Come on Niko, chop fucking chop.
+	B812D547	~z~Come on, move it.
+	B5F40C5D	~z~Drop your guns and your bags, now. Let us take you into custody.
+	B64883B4	B6_FI
+	A599CCA8	100
+	8B2773B6	B6_NA
+	8BE088E6	B6_YG
+	86E6F651	B6_FM
+	8732824D	B6_CU
+	8C10C589	~z~Crap, we're losing him. We're screwed.
+	8D67290B	B6_YA
+	8F6930CE	~z~Damn, this is a wild ride. I didn't think I was gonna come outta that one.
+	8D406F7D	~z~Look, I don't ever assume something's gonna go down easy, without any trouble.
+	8D43CBCA	~z~Screw you, scumbags.
+	812A9967	B6_CM
+	816018FE	B6_CL
+	7EDF058B	100010100010100100100010100100010010100
+	7EFF621B	~z~There you are.
+	818E95CD	B6_FC
+	83DB06FA	~z~Fucking Feds.
+	86B3DA74	~z~He fucked up. Us unloading the H was his call.
+	82801189	B6_EE
+	83A205A8	~z~We both gotta take a lot of shit from Jimmy and it helps to speak about it.
+	9298BB56	~z~The Feds aren't learning their lesson, there's more of them.
+	9D3E4C78	~z~You're fucking lucky that you did. Lucky any of us did.
+	9DB2581A	~z~I ain't seen a soul, boss. It's a ghost house.
+	9BA71C70	~z~We don't got all day, come on.
+	9BEEB292	~z~Let's hustle Niko... move it, move it, move it.
+	9DCF909F	~z~So, you just left it with Frankie?
+	A2F99303	~z~Ray's gonna be pleased about this. He's been trying to bang Frankie's wife ever since they got married.
+	A3691649	B6_PA
+	A0BED7A2	~z~The cops are on us, Niko.
+	A2A0CD9C	B6_XF
+	9618EB52	B6_CT
+	961D7947	~z~You don't need to blame yourself.
+	93373118	B6_CJ
+	954E5B6C	B6_FD
+	97946492	B6_BK
+	99D58399	B6_A_AA
+	9A325F81	B6_A_CA
+	98670EBD	~z~You don't notice the fifty feds watching these cars?
+	993ECAA2	B6_OA
+	BC69B105	200020
+	E9086EC5	~z~You seen anyone snoopin' around?
+	EB5A6A99	100
+	E43D0C02	~z~he can ask the bitch to take it out of the divorce settlement. Fucking cunt.
+	E5160DB0	~z~He's my nephew through my ex-wife, I might give him work sometimes but I ain't gonna give him this load of horse.
+	EBF30848	100
+	EE0A3A02	~z~I thought Phil was just paranoid.
+	EEA18CCD	~z~I don't want to see a fucking picture. I'm trying to get us out of this situation.
+	ECC02EA4	B6_BB
+	EDA495B5	B6_MB
+	E15C4DD9	B6_EB
+	E1DE4C65	B6_ED
+	E0361E5A	~z~And my sister, I been putting her through college.
+	E07167BF	100010100100100
+	E28D0926	B6_ZC
+	E4177E93	B6_BC
+	E4191CBC	B6_A_GA
+	E320F3A8	~z~Speed up Niko, we're screwed otherwise.
+	E40565B1	020020020200200200020200200020020
+	F0A3E0B6	B6_CB
+	F7B83083	B6_BQ
+	FA73A1F1	~z~Can't these fucking Feds let up for a minute.
+	F7AFA24F	200
+	F7B29C6F	~z~God they ain't making it easy, are they?
+	FA9B82A0	~z~Niko, that's the van. We gotta get to a safe house.
+	FD89887E	~z~Sorry, Phil, but we lost Frankie.
+	FED4A45B	B6_FL
+	FC73159E	~z~Shit Frankie, you dumb fuck. The Feds have been watching us all along.
+	FD364F6B	~z~He's related to my ex-wife and she was smart enough to ruin my life with one law suit.
+	F2595F66	~z~Pick up the pace, Bellic
+	F2D4A92D	~z~He wants anything except a bit of muscle work
+	F14756DE	B6_YF
+	F1F641DA	~z~I didn't have much time to scope this out. My ma's kinda sick. I been looking after her.
+	F2FBA97F	~z~You had any more girlfriends since the ex-wife?
+	F4A0364B	~z~Frankie, shit, the bastard's dead.
+	F4D7B07E	~z~This ain't over until we got the H in a safe place.
+	F3209F90	B6_A_CD
+	F41D388E	B6_ZF
+	DF40B1C1	B6_HA
+	C5A82CF1	120120200200100120100
+	C6543A0F	~z~Ah God, we're gonna lose the boss.
+	C37693F7	B6_RA
+	C484A5BE	~z~I got the horse loaded into two cars for you.
+	C6616EB9	100100
+	C98C569D	~z~We're gonna go pick it up.
+	C9D1F8C5	~z~Hurry this shit up.
+	C690DA2D	~z~This is one more reason for my ex-wife to hate my guts. He was her nephew, man.
+	C852A2A0	~z~Next time, mind on the job. This ain't a fucking joke.
+	BDB9C4E7	B6_A_CB
+	BE00D9F0	~z~Gimme a break, man. I got a lot on my mind, you know?
+	BCDDE285	~z~Sure, Frankie. My lips are sealed.
+	BD122E24	200
+	BE55160F	B6_CO
+	BF903359	B6_BA
+	C14B145D	~z~I don't want to take a bullet or a stint in the pen for anyone else's fuck up.
+	BE588E2D	B6_YD
+	BE6126D4	B6_GA
+	C9F69989	~z~Shit, Niko. My half ain't in too good shape neither but I don't wanna tell the skip we lost it all. Ciao.
+	D850602F	~z~Maybe then you can spend time with your wife instead of some jailhouse bitch.
+	DAA10936	B6_ZE
+	D74DF220	~z~I thought it was a wedding present for your nephew?
+	D833E9DC	B6_MA
+	DB150B29	~z~It's about time to pick up that H that my nephew's been sitting on.
+	DB6F3C7A	~z~Phil, that stuff ain't around anymore. We lost it.
+	DC8CF5F6	~z~Can you get these cops off of us?
+	DB17E91E	B6_FB
+	DB665741	~z~There's no way out of this. Give up your bags and weapons.
+	CCCF567B	~z~I don't feel comfortable with all these cops on us.
+	CFB5746A	~z~Yeah, we put it in an isolated place, hopefully any attention it was getting would be noticed.
+	CAED73C9	~z~Are you fucking blind?
+	CC2ACCC3	~z~Sniper on the roof, keep your heads down.
+	D0A57FF6	200
+	D590AB77	B6_XG
+	D604C8BA	~z~I dunno, this don't feel right.
+	D0FFB3C6	~z~Alright guys, shit. I'm sorry.
+	D520DE5A	~z~If none of that's going on then we're okay?
+	2F9F9083	~z~Eat this, pigs.
+	2FD3DE0D	~z~Yeah, well, that's something that Ray likes to run his mouth about.
+	2E97ABEC	B6_A_BA
+	2F8F6C89	~z~Dammit, Niko. We can't do this with just two of us. I'm calling it off. Ciao.
+	30FF8F08	~z~Crap, the Feds are hammering us.
+	331657FB	~z~We're heading back up to that old house off Beaverhead Avenue in Westdyke.
+	34B8AFE4	B6_ZA
+	31422952	~z~There's been some fucked up shit going on but you been keeping cool.
+	3245B1C1	102
+	2A052773	B6_A_GB
+	23502BC4	~z~Up the fucking pace moron.
+	248A505C	B6_EC
+	218ED60A	~z~Deal with the Feds, Niko.
+	21B29102	B6_A_BB
+	24A7273B	~z~I'm sorry man. It's just... I only got married the other day.
+	27D24DAA	B6_CA
+	29CD5E35	B6_A_FA
+	24B73174	100100010010100100010010010
+	24CDC0B7	~z~Alright.
+	3D86481A	~z~Don't think about it. He fucked up today and he paid the price.
+	3E2671C1	B6_A_EA
+	3C428EAB	~z~More damn cops.
+	3C9EEE68	B6_AA
+	3E771852	100
+	3F08085A	B6_EG
+	406727FB	B6_A_DA
+	3E997B66	~z~Shit, you might be right there but that's only an attitude that'd work for a lone gun like you.
+	3EF67C52	~z~If only the Feds knew how full of shit most wiseguys were.
+	3A247BE2	302
+	358D694A	~z~Well, you can't count on nothing going right. That's the lesson I've learnt today.
+	376452A4	B6_DA
+	34BE43D9	B6_VA
+	3558F63D	B6_CK
+	377FED1D	~z~A Fed don't care if he's taking someone down on a legitimate beef or if it's total bullshit.
+	387E83D5	~z~They're all over the boss, Niko.
+	38C2A5AC	~z~Yeah, you fucking laugh. Laugh all you want.
+	379DFAB4	~z~Might just keep the Pegorino family's head above water. See you around.
+	37CCADD7	B6_BR
+	1214A902	B6_XC
+	12A0C5AD	~z~Put your bags down and lie on the ground.
+	103C12F7	B6_YH
+	10DCA46E	B6_XI
+	12DFB17E	B6_EF
+	16620AB1	~z~Shut up, these Feds are all over me.
+	168B2432	~z~Niko, they're all over us. We're ditching the cars and going on foot. Park up behind me when I stop.
+	14CA3D66	B6_FF
+	161A9A05	B6_CQ
+	0FE6A5DA	B6_XD
+	05104A38	B6_IA
+	06FD54C9	~z~You're damn right.
+	004B4999	100
+	009EC4C5	~z~If you're getting smart about seeing Angie at my place then you can button it.
+	0B174ED9	010100
+	0EF14424	B6_CE
+	0F9A0458	~z~What're you waiting for?
+	0B7BEBF6	~z~Frankie's one guy, he can disappear real easy if the Feds show. Plus, he's a smart kid.
+	0DB51988	~z~The Feds know that wiseguys run their mouths, they love it.
+	1DAF022C	~z~Niko, you done good for me.
+	1E083DA2	B6_CD
+	1CC8C50A	~z~Nice driving, Niko. We're gonna be able to shift this H for a lot of money.
+	1D406596	B6_UA
+	1E213AA8	~z~Ray runs his mouth so much that no one pays much attention to what comes out of it.
+	213AFADC	B6_A_CE
+	2161F404	~z~You like that?
+	1E6EB303	B6_CH
+	1EB1F38A	B6_A_CC
+	1C233664	~z~Then maybe you wouldn't have such problems with people turning state's.
+	18BF0F67	~z~God, I love that kid. You wanna see a picture?
+	19203F92	200120210210120120020020200
+	172AD130	200
+	183F4A3B	~z~If you wanna get rid of the chopper there's some fire power in the back.
+	19675FB7	100100100010100100100010100100100010100010100010010100100100100
+	1B4EB707	B6_CC
+	1C142326	100100100010010100
+	19E931AB	B6_XA
+	1AC0AFFA	B6_XB
+	6512C1EF	B6_YI
+	675A7C4D	~z~Shit, I think we're losin' him.
+	62C45860	~z~The Feds don't fuck with the boss and get away with it. Get close to them.
+	62D2B5AC	~z~More fucking bacon, shit.
+	680A8BEB	B6_BI
+	69965A9D	100
+	67D4F5B6	B6_A_DB
+	67F20CB2	~z~These cops ain't flipping me if I'm caught. And they better not flip you either.
+	60EDFD16	B6_BL
+	5A521D73	~z~Shit. Uncle Phil's gone forever. Don't tell the other guys you saw me crying, okay?
+	5B658BC8	~z~So, it's been long enough. You think we're gonna be okay to pick it up? No trouble?
+	571DAC6E	~z~That's just the way it is.
+	5A240155	~z~You and me are only here today because we didn't make the fuckup that Frankie did.
+	5F530E8B	B6_CS
+	60733163	B6_CG
+	5C25FB1E	B6_ZB
+	5F426B8D	~z~Shit, I don't know how much more of this I can take.
+	75F0DBE8	~z~Frankie, Niko, grab the stuff from the trunk and follow me. I got a van we can use.
+	792DDBFF	B6_FN
+	750AFCED	~z~Get me close to the boss and I'll take out that Fed car.
+	75B8A83F	~z~Shit, I ain't made for this sort of stress. Can we lose the heat already?
+	7D19A7CF	~z~Don't lose the boss, man. I got no idea where we're headin'.
+	7E972E71	~z~Have some of that.
+	7AA62500	B6_FA
+	7C17253A	~z~The Feds are all over us, man.
+	73BC3181	010100
+	6CA3CA72	B6_CR
+	6DC48CCC	~z~Damn Feds.
+	6A6356C6	B6_TA
+	6B517E3B	B6_CF
+	70DD96B5	100
+	7204626D	~z~I wasn't making no accusations.
+	6E39908D	~z~That's what keeps me alive and outta the pen. We'll see when we get there.
+	70087081	B6_FE
+	4C609726	~z~I believe it. I'd be dead already if Jimmy P listened to anything he'd said about me.
+	407AF54A	B6_A_EB
+	49DD29E0	~z~I smell the police, watch it.
+	4B6FE9CE	B6_ZD
+	4CDB46BF	~z~They're destroying us, Niko.
+	4FE7B2BF	~z~We can't let those Feds run the boss off the road, get them.
+	4FF1ECF1	~z~Admittedly, it was a high one.
+	4E5188CE	100010
+	4FD25485	~z~Niko, that's the van. We gotta get back to the pizza place in Westdyke.
+	43B08590	~z~You can if you do everything yourself. If you don't rely on anybody else.
+	4441DD7D	~z~Yeah, call it a cooling off period. We took it, but we don't know who was watching it beforehand.
+	4224CB17	~z~You're a good earner. I got respect for you.
+	428E9D9C	B6_CN
+	4486975A	B6_JA
+	48731A97	B6_SA
+	49CFCC9A	B6_BJ
+	46EDCE5E	B6_BM
+	472153E9	B6_WA
+	5546ED89	100100
+	545F6F8C	~z~Hey, let's see if we get back before you start talking like this, shall we?
+	56549B98	B6_CP
+	5578A956	~z~The two of us is just friends. We talk.
+	53A6A1FF	~z~Stick close, Niko.
+	55E8AB16	~z~As long as he can get his face in the newspaper and a blowjob from his wife, he's happy.
+	527379E0	~z~It's just been sitting there?
+	4CC697C0	~z~This thing of ours is built upon trust for everyone else in the family.
+	5113C25D	~z~Fuck. He was a good kid, but he screwed up today and now he paid for it.
+B6_CUT1_1	E1363DDA	~z~Okay, I'll see ya later.
+B6_CUT1_10	9644394B	~z~Sure.
+B6_CUT1_11	87B19C26	~z~But, Phil - and...
+B6_CUT1_12	E1FF50C4	~z~I don't mean to take advantage, but...
+B6_CUT1_13	1755BB70	~z~maybe I need help one time.
+B6_CUT1_14	D187AFD5	~z~Maybe I can give you a call?
+B6_CUT1_15	F2D0F267	~z~What do you mean?
+B6_CUT1_16	491A9F01	~z~I mean...
+B6_CUT1_17	6AE5E297	~z~I need to find something out about someone. Maybe you can help.
+B6_CUT1_18	24B2D62E	~z~Are you fucking blackmailing me?
+B6_CUT1_19	568F39EA	~z~No!
+B6_CUT1_2	18C22CF1	~z~-Yeah, okay. I'll see you later. ~n~-You take care now.
+B6_CUT1_20	0DC9A99C	~z~I'm asking for a favor.
+B6_CUT1_21	006D0EE3	~z~Why do you think I put my neck on the line for you?
+B6_CUT1_22	7FF18DEA	~z~Because I need help with something.
+B6_CUT1_23	8E412A89	~z~You know, since you don't look like you're full of crap,
+B6_CUT1_24	9B6B44DD	~z~how could I say no?
+B6_CUT1_25	A935E072	~z~Enough of this chit-chat.
+B6_CUT1_26	48A61F54	~z~C'mon, let's go.
+B6_CUT1_3	06F8895E	~z~Give me a call.
+B6_CUT1_4	744763FA	~z~Hey.
+B6_CUT1_5	6272C051	~z~It's not what it looks like...
+B6_CUT1_6	619DBEA7	~z~Okay.
+B6_CUT1_7	502E1BC8	~z~It's not like that.
+B6_CUT1_8	BD10F58C	~z~We talk.
+B6_CUT1_9	ABC252EF	~z~So do us all a favor and keep quiet.

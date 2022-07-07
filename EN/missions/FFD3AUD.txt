@@ -1,0 +1,25 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C15428E7	100
+	D030FEF2	~z~Welcome.
+	B21C8D47	~z~Here you go, binge away!
+	BAF2870C	FFD3_FANNY_BYE
+	D4CAD2A3	~z~Enjoy, try not to puke.
+	F61BE188	100
+	FB7985E5	FFD3_FOOD_SERVE_MEAL
+	D6259CF6	FFD3_AA
+	E698763E	~z~I dropped this in the kitchen.
+	AD7C2F13	~z~Thanks for helping us make food fast.
+	2BB2F417	~z~You look famous, can I help you?
+	30203459	~z~Bye, come gorge again!
+	086DFA8A	100
+	1A0550BC	~z~Hi, it's my real pleasure to serve you.
+	37700B91	~z~Well hello, food and a hand-job?
+	777317E9	~z~Enjoy your meal, fatso!
+	81605452	100
+	402DF0EE	FFD3_FOOD_WHAT_WANT
+	4946AF3E	~z~Hi, can I serve you?

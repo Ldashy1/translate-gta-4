@@ -1,0 +1,313 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AFBD43B2	~z~Don't get jealous, Nicky. The ladies and I will be thinking of you when we have our fun. Yeah!
+	B01777B3	~z~Okay - not really my style, but whatever.
+	AC6B0062	FCB2_WA
+	AF12693D	100
+	B03166B6	~z~Nicky, you're a winner. Let's treat these ladies right, my man. Move out, bro.
+	B30BAC28	~z~Man, I need to get home. Can you take me there, Nicky, please?
+	B317D0DD	100
+	B250D223	FCB2_A_MA
+	B289FDC4	~z~NB, thanks a lot homie. You know you're the best.
+	AB2D7449	FCB2_ACT_LEAVE_CLUB_GENERIC
+	A6A89BB2	~z~NB, what the fuck man. You're in America now, bro. Don't go to this shit.
+	A6DA93C6	~z~Destination: Home. Make it so, capitaine.
+	A640D93F	~z~That was fun man, a little distraction from world domination, ya know?
+	A6A20CFD	FCB2_ACT_ARRIVE_BOWL
+	A70FC6EF	~z~Can you drive us to my place, Nicky. I'd like to invite you but three's company and four's a motherfucking crowd!
+	A8E203A4	100
+	A910D272	100
+	A7B11F16	FCB2_RA
+	A8695DC0	FCB2_ACT_LEAVE_PUB_FAV
+	BB39832D	100
+	BD9AA1C8	~z~Take me up to South Slopes, homie. Ok? You're a fucking winner.
+	B9D3C40B	~z~Uh, I don't get it, bro.
+	BB1E45FC	~z~A fucking tie! There ain't no fucking winners in a tie, Jesus!
+	BEB7159C	FCB2_ACT_LEAVE_CLUB_FAV
+	C1594640	100
+	C172E71D	~z~See you later, homie. Stay hot, stay happening.
+	C0DA5B37	FCB2_ACT_LEAVE_HELI_GOOD
+	C147489F	~z~These legs are tired, take a winner home, Nicky.
+	B91BF15E	100
+	B48AEFCB	FCB2_ACT_ARRIVE_BOAT
+	B49396E9	FCB2_ACT_DIFF_ACTIVITY_NO
+	B31D467D	100
+	B32D6D0A	~z~You're going home, Nicky. Take this thing to Hove Beach, baby.
+	B62E2C4F	100
+	B7AF976B	100
+	B8986542	~z~Can you drive me up to Cerveza Heights? Thanks man.
+	B68D85E4	100
+	B75B2E3D	FCB2_ACT_SHOW_POS
+	8E387BE5	~z~Let's jus' show these people how we roll, man, this is a 24/7 lifestyle choice bitch!
+	90EB6521	~z~Okay, Niko, girls, let's get in the chopper.
+	8D79AA1F	FCB2_A_BA
+	8D7D7F2B	~z~Nicky, you're beautiful. Thanks man.
+	92D6B133	FCB2_ACT_LEAVE_PUB_GENERIC
+	94E48415	~z~The women may ignore you because I'm here, yeah that's it, don't let it damage your fucking ego, asshole, yeah-heh!
+	9568089B	100
+	93BE9512	FCB2_XA
+	9475AFD5	100
+	8CF4FEAC	~z~I'm fucking into it, Nicky. This is meant to be some funny shit.
+	8523E26C	~z~Oh man, you screwed up my chopper you chump! Not cool, bro, not cool.
+	8632E103	100
+	802E8ED4	100
+	82FD25DF	~z~You can't be a winner if you ain't going to finish shit, Nicky.
+	86DDDF38	100
+	8B820FD4	~z~Back home, babe. I think the foreplay is over and me and these ladies is about to get down to it.
+	8BE478C7	100
+	87B47FC2	~z~I didn't think we were doing this... but I'm down, bro.
+	87EB9BE9	100
+	A2BB7CC8	FCB2_ACT_LEAVE_GAMES_EARLY
+	A42B98BB	~z~Woah, wait a second, was that mean to be funny?
+	A19608DB	FCB2_ACT_BOWL_LEAVE_LOST
+	A2046D94	100
+	A440EB4C	FCB2_ACT_ARRIVE_SHOW_COMEDY
+	A57ABD67	FCB2_ACT_LEAVE_BOAT_BROKEN
+	A5AC3154	FCB2_A_AA
+	A4AE2B9A	FCB2_ACT_ARRIVEF_NOTLATE
+	A578E190	FCB2_QA
+	A040C6D5	~z~Nice one, Nicky. You can see we got a lot to handle with these two ladies. Let's go.
+	97B80AA1	100
+	97F59A86	~z~Nice bike, man.
+	96669931	FCB2_ACT_ARRIVE_PUB_FAV
+	9666FD2E	~z~Shit, there's some major culture differences going on here, bros.
+	999CA8C8	FCB2_ACT_LEAVE_SHOW_EARLY
+	9E14E314	100
+	9F931E92	~z~Man, these people have never seen anything until they've seen me, in the club, shit.
+	9A55AD7B	~z~Hit up the Brucie love shack, Nicky. The ladies and me have some business to get down to.
+	9DCC4EF3	100
+	C3942F75	100
+	EBDB4FAA	100
+	EBDC5805	~z~That's how we roll, homie! I love this - it's bling on an industrial scale!
+	EBB0CD24	100
+	EBCB1345	~z~Nicky, you got to understand that these two babes need to be treated right. Hook us up with a ride, bro.
+	EC14EF7E	FCB2_OA
+	ECD3D276	~z~Nicky, can you take me and these fine bitches back to casa Brucie. I've treated them right now I'm treating them wrong, ha ha!
+	EE75EC85	FCB2_ACT_ARRIVE_SHOW_LATE
+	EC3F556D	100
+	EC5F18F4	~z~A stylish kind of joint, for a stylish kind of winner, yeah.
+	EADDEC5B	~z~Man, you're late.
+	E5E1C0C2	~z~Good times, NB, good times. I'll see you soon, man.
+	E6F1A2BF	FCB2_ACT_ARRIVE_LATE
+	E4293484	~z~That was fucking fun.
+	E5CE0744	100
+	E713EF93	FCB2_SA
+	E89F3F1C	100
+	E9FD8B8E	~z~Let's see who the real winner is here.
+	E725CF86	FCB2_ACT_ARRIVE_STANDARD
+	E753B845	~z~I'm going to Outlook Park, man. Before you say it, it's not like that. Ok?
+	FBE2A008	FCB2_ACT_LEAVE_BOAT
+	FE1DB231	FCB2_A_FA
+	F98BB0E9	FCB2_ACT_DIFF_GAMES_YES
+	FAC89803	FCB2_ACT_ARRIVE_CLUB_FAV
+	FE48BCC7	~z~Let's put some bitches to the sword in here baby, come on.
+	FF8A97B9	100
+	FF941F2A	~z~What up, NB? You got to learn to cut loose, homie. Take it down a notch.
+	FF3A1811	~z~Nicky, what the fuck man? I told these ladies that the red army taught your ass to be punctual. Let's go.
+	FF5CC098	~z~Can you give me a lift home, bro?
+	F8DE6F33	FCB2_ACT_ARRIVE_FASTFOOD
+	F1935971	100
+	F3E9CEFB	~z~Winner, we need a car, and why you late? Am I chopped liver Brucie?
+	EEC9E8BB	~z~I loved that - but I'm gonna have to work on my lats now, shit!
+	F11F241D	~z~Can you take me back to my crib, homie?
+	F49E283F	100
+	F89C705A	FCB2_A_IA
+	F8BF4A17	100
+	F6302599	FCB2_NA
+	F6F9F0D5	~z~Damn, that's intense.
+	CD8727CB	~z~That was cool - man I enjoyed that shit, yeah baby, yeah!
+	CE16D40A	100
+	CCC71783	~z~Quitters never win, Niko. I made that up, but it's true.
+	CD412A48	~z~Alright, NB. Brucie's busting outta here. Hit me up later.
+	CED6840D	100
+	D00C1C07	~z~Man, those women were all over me, bro!
+	D03D957A	~z~Good times, homie - good times - see you soon - and do some crunches, man - for god's sake. Shit!
+	CFCEA558	~z~Let's put some b-ling into the bowling scene baby, yeah.
+	CFF165F3	~z~Take me home, homie.
+	CBA167A6	~z~What's that?
+	C5C30571	100
+	C8A71430	~z~I wish I hadn't got a shot in my forehead this morning.
+	C4341F08	~z~Let's go man - I'm annoyed, because you're so late.
+	C4465FD5	FCB2_YA
+	C990A1AF	~z~Nicky, I want some boardwalk action, baby. Take me to Firefly Island.
+	CACB2EAE	FCB2_ACT_ARRIVE_HELI
+	CB5437EC	FCB2_A_HA
+	C9AC7DF3	~z~Hey NB - that's a cool bike. Brucie likes bikes. They're manly, but also classy. Like me, yeah-heh baby!
+	CA94F640	~z~This isn't really my style, man.
+	DDAFBFFA	~z~Let's get the fuck outta here, homeboy.
+	DE053109	~z~Good rolling with you NB. Let's hang out soon. We're winners man, fucking winners. Yeah!
+	DB6639AE	~z~I fucking love this shit.
+	DC5819C6	~z~NB - do I look this cheap?
+	DF1BCE4B	100
+	E190027D	~z~Okay, Niko, girlies, let's live it up a little, yeah.
+	E2EA77B7	~z~That shit was fucking funny, all eyes in the room are normally on Brucie, right? When it's that guy instead it's okay.
+	DF56CE73	~z~Man, I can't stay away from the weights this long. I can feel my triceps shrinking. Later on, bro.
+	DF764A14	~z~Good food, and not too many carbs. Perfect.
+	D845D378	FCB2_A_DA
+	D5AAC1F5	~z~Why you so late? Come on.
+	D6B1301B	FCB2_A_NA
+	D281BBA3	~z~Yo, if I'd known you'd be late, I would have done some more crunches, stupid.
+	D4D4FA08	FCB2_ACT_SHOW_NEG
+	D6E37567	~z~Man, you must have got caught up staring at my abs. We missed the show, asshole.
+	D832F9C5	100
+	D835EFC9	~z~Okay Niko, ladies, let's get in the boat.
+	D704AF27	100
+	D82B177E	~z~Hey, genius, you're late - winners arrive on time... now we need a car, bro.
+	7FF4B545	FCB2_A_LA
+	2326C23B	~z~I should be the one getting paid - that was ridiculous.
+	234ECACB	100
+	1E59497A	FCB2_UA
+	1FCD1159	FCB2_ACT_ARRIVE_GAMES
+	2465F573	~z~Take this winner to E.I.C., Nicky.
+	25EE4BB0	~z~Hey! Whoa! What are we doing here? No thank you, bro.
+	263AFB08	~z~The only way to travel, baby, only way.
+	24CF506E	~z~Yeah - I like that.
+	256D40F2	FCB2_ACT_ARRIVEM_NOTLATE
+	1E2D460E	~z~I need to hit up Meadows Park, homie.
+	19A265EC	~z~Man, I love that place - it's full of rich winners and hardly any cellulite.
+	1A8807CC	FCB2_A_KA
+	18AA5B2F	~z~Cruise up to Meadow Hills. But do it in style, bro.
+	192753F0	100
+	1B5A8016	~z~Man, I had bitches staring at me all night.
+	1C7D2BB7	FCB2_ACT_LEAVE_HELI_OK
+	1D460AC5	~z~Ah, not enough rich, superficial people for my liking, you know what I'm saying? It was alright.
+	1B8808ED	FCB2_ACT_TAKEHOME
+	1C0CA38B	100
+	3523D5D0	100
+	36D3C70C	101
+	33D033CE	100
+	33D5B3E2	FCB2_ACT_LEAVE_GAMES_GOOD
+	373051FB	100
+	3A1879EA	~z~Let's show everyone how two winners bowl.
+	3AFE42A0	~z~What did you get jealous because the tail all liked me, bro?
+	3735EE3F	~z~This isn't what we arranged, man.
+	374AAED1	100
+	31F9DEEE	100
+	2847CE87	~z~Why you quitting so soon, bro?
+	2B0087E6	~z~I loved that. I loved it, all that fucking laughing worked my abs. Nicky that was nice.
+	26650A93	~z~Man - not my usual style, but whatever.
+	2749ADC6	100
+	2EA6638A	FCB2_ACT_BOWL_LEAVE_DRAW
+	312FD7D9	~z~Hey, NB - we need a car, man.
+	314DF794	FCB2_ACT_ARRIVEH_NOTLATE
+	2EAA4072	FCB2_ACT_LEAVE_HIGHEND
+	2F0BDFCE	~z~Jet these perfect abs over to the airport, bro.
+	08FAE741	~z~I really need to go and work my abs.
+	0929B1A0	100
+	05576146	FCB2_ZA
+	081DBAC6	~z~Alright, time to preen like a peacock. I'm a winner baby! Let's do this shit.
+	09ECC681	~z~That's my kind of place - classy and understated. Like me.
+	0BD39498	100
+	0D5E281F	FCB2_TA
+	0AA59188	FCB2_A_JA
+	0B63E701	~z~That was fun.
+	04B5CA6E	~z~Can you take me home, man?
+	01F0D445	~z~Man, that revolts me - this body is a temple and it's been desecrated, motherfuckers, shit!
+	021208BE	~z~Let's bounce homie.
+	00E0211C	100
+	016B82AB	~z~Hey! Stick to the plan, man!
+	02153FD9	~z~Nicky, these are my hot friends and if you think I'm sharing them you're fucking mental. Get us a car.
+	03197821	~z~Nicky, babe. Let's roll on down to Beechwood City, baby. Sweet.
+	043FFD7E	~z~That was good times. They'll write books about times like this. Winners relaxing, know what I mean?
+	02AADAA1	~z~Man, that was neither classy nor healthy enough. Shit!
+	0316AA0C	100
+	165CD744	~z~Let's find some bitches and show them how we roll.
+	16F06EE3	~z~Yo, can you drop me at my pad?
+	139C8D59	100
+	13DBAC51	~z~Let's take it to the max, man - come on, let's go.
+	17457330	100
+	18777A0D	~z~You wanna bowl now? Bit weird, quite frankly, but okay, yeah!
+	18795F85	~z~I love that thing!
+	176186E9	~z~You've got to learn to respect nature, NB - you've destroyed a classy bit of kit man, shit!
+	1811259C	~z~We need a whip, homie.
+	12ABA974	100
+	0F87A433	FCB2_ACT_LEAVE_STRIP_GOOD
+	10273905	~z~Nicky, you're the greatest. Winners stick together. You know it, I know it.
+	0DE14221	~z~I wanna get down and dirty, babe. Take my ass to the Firefly Projects.
+	0EFF91D7	100
+	103A70D8	~z~That place is foul, shit! - I need to work out hard as penance.
+	117FBC9C	~z~Hey man, these girls have been getting impatient. What up, man? Let's move it.
+	11E243C6	~z~Nicky, you getting jumpy man. You on the juice as well, that's why we're leaving!
+	10A62120	~z~Hey! Stick to the fuckin' plan, bro!
+	112B6C97	FCB2_ACT_LEAVE_FASTFOOD
+	3C8F5FE3	FCB2_ACT_LEAVE_STANDARD
+	676469DA	FCB2_ACT_ARRIVEC_NOTLATE
+	6814C133	100
+	65F01382	~z~Shit, Nicky. We missed the show. If I'd been in control of the car, this wouldn't have happened, hello.
+	6713287B	~z~Let's go see some women, man.
+	688BDA12	~z~You've got to learn to respect power Niko - you've destroyed a classy bit of kit.
+	6BB3ECCF	~z~Nicky, man. It's Schottler or bust. Thank you.
+	6E3626EC	~z~The best your gonna do in a competition with Brucie is second place. Remember that.
+	69FD4421	~z~Shit, man. Cabaret? Woah, we could have stayed in and watched America's Top Hooker, you know?
+	6B861A57	~z~Get in the chopper, everyone. Get in!
+	65D0EF63	~z~That place is a fucking joke, the alley slopes. Shit. You got lucky with that slant my friend. Ok?
+	5D444157	~z~Expensive, yeah, classy, yes - this is my kind of place, man.
+	5D708561	~z~Don't mess with the winner Niko.
+	5B89FF8B	100
+	5BC1EF19	~z~You want to lose, my friend?
+	5D9F91D3	FCB2_ACT_LEAVE_SHOW_CABARET
+	610844F4	~z~Fucking hilarious, homie.
+	6143DA0D	~z~As long as they can make me an egg white omelet, I'll be ok, bro.
+	5E6320F7	~z~The ladies and I are grateful. Thanks Nicky.
+	5ED8E14E	FCB2_ACT_ARRIVE_CLUB_GENERIC
+	78833A6A	~z~I had to fight the women off tonight - as usual. They smell my success, thank you.
+	79D9B18B	~z~Okay, let's have a drink then.
+	75F92987	FCB2_ACT_LEAVE_STRIP_OK
+	76245751	FCB2_ACT_ARRIVE_PUB_GENERIC
+	7BA33F64	~z~A fucking chopper. I was telling these ladies that you rode in style. Hell yeah.
+	7F2B6E7D	~z~Alright man... Cabaret? This the shit they made you watch in the Red Army, bro?
+	7F2FE8CF	FCB2_ACT_LEAVE_SHOW_COMEDY
+	7BE24626	~z~Shit, Nicky. That stuff's not for me, man. I'd rather have worked on my fucking delts.
+	7D74BE34	~z~Get in.
+	7315EEF9	100
+	6F46C350	~z~Sweet, NB. This shit is meant to be hilarious. I'm pumped.
+	6FC80DB3	FCB2_A_GA
+	6F166DA0	100
+	6F1BCA71	100
+	6FFA828C	FCB2_ACT_ARRIVE_STRIP
+	70C58170	~z~Shit Nicky I don't like this shit, Brucie don't stop before the finish line.
+	70FB1009	~z~Set course for Steinway, Nicky. Engage.
+	701D83E2	FCB2_ACT_DIFF_BOWL_YES
+	7040E51A	~z~Hey NB, let's roll.
+	4D2EB30F	~z~Man, you are the man, man. Yeah! Awesome. Thanks, bro!
+	4D44E72D	~z~Niko - are you turning queer?
+	4C87CB6C	~z~Willis, baby. That's where this winner is going.
+	4CE95E56	100
+	4E6FE53B	100
+	5034D8D6	FCB2_ACT_BOWL_LEAVE_WON
+	5073736C	100
+	4F9B7B41	FCB2_VA
+	4FDF6055	100
+	4C2B9D20	FCB2_ACT_BOWL_LEAVE_ABANDON
+	42F89EA3	~z~You helped the Brucie out, NB. He's got a lot of love for you, bro.
+	4504D606	~z~Nicky, you kept these two fine ladies waiting. That ain't the behaviour of a gentleman. Get us a car, bro.
+	40B0914F	100
+	41BE7D69	FCB2_ACT_ARRIVE_HIGHEND
+	465932E9	~z~Nicky, man. This ain't my scene man. Take me back to my crib. Okay?
+	48CAFDC6	~z~That's a classy place to drink. They deserve my business.
+	4B9F3C74	100
+	47AA09CB	100
+	48B7D7FC	~z~Niko, girls, I hope you had fun, yeah?
+	596EDEEC	100
+	59A05A23	100
+	57CEFB9A	~z~What the fuck, Nicky? Winners don't keep their friends waiting when they got two chicks with them. Come on, get a ride, bro.
+	592066C1	100
+	5A536A42	100
+	5B485477	100
+	5B62CCE2	100
+	5A5DA0B0	FCB2_ACT_ARRIVEF_LATE
+	5AA33E41	~z~Niko - you've got power, but no finesse - we've got to work on that bro, work on that shit.
+	572D5F86	FCB2_ACT_DROPOFF
+	51C0D8CA	FCB2_A_CA
+	5241A399	~z~I'm going Downtown, baby. Make it happen.
+	5136A644	100
+	51839A57	FCB2_A_EA
+	53754D21	~z~Damn, Nicky. I can't go this long without even a light toning session. Take me home.
+	553FBA85	FCB2_ACT_ARRIVE_SHOW_CABARET
+	566A7361	~z~I hope you all enjoyed yourselves.
+	53EE4B9E	~z~Maybe you won, but the game is about flare. And I had more of that, bro.
+	54853E42	100

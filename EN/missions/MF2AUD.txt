@@ -1,0 +1,204 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD98F6AF	MF2_LB
+	ACA75115	100010100010100010100100100010
+	AC6EA394	010
+	AF7AA93A	~z~The Pegorinos? They're not a family.
+	AF1569C6	100010
+	AECED2AC	MF2_HD
+	A9043F30	~z~Don't worry about it. You've got enough on your plate looking after Roman. See you soon.
+	A85EED27	~z~I've already helped you but I'll help you again. Wait for me to be in touch.
+	A6D82D38	~z~What's up, Mallorie?
+	AB5FCEFD	100010100100
+	AAAD9B1C	MF2_XH
+	AA70A9A9	~z~Do you know where Vlad is?
+	B810BD4A	~z~Elizabeta Torres, she's got an apartment on San Quentin in Fortside. Meet me there.
+	B558FB76	~z~Is your johnson so big you can't keep it in your pants, Bellic? I told you to be calm.
+	B4B8D577	MF2_A_BJ
+	B9CA5318	~z~Yeah, thanks for helping him get rid of the body. He has such fire in his heart.
+	B97B2A97	MF2_IE
+	B8DD268F	MF2_IC
+	B2D0DE03	100010100100
+	B0BF923E	MF2_A_ZB
+	B06C12B7	MF2_A_AC
+	B490C8A9	~z~Thanks and hey, Roman and I decided to be honest with each other last night. He told me about Vlad.
+	B3DC49DB	~z~Mallorie, the man who got Roman killed is dead.
+	B33F90C4	~z~What do you want, to make me do more "good things for your cause"?
+	A588C45B	MF2_OB
+	911701B6	~z~Roman hasn't spoken to you about anything, has he? Nothing about maybe asking me to marry him?
+	8C2434B2	~z~I know it gets lonely. I know what it feels like to get close to a man.
+	8B5A7FB1	~z~Come on, Mallorie. Roman wouldn't do something like that to the love of his life.
+	95197A32	~z~Hey, this Mallorie. Leave me a message and I'll hit you back.
+	94DFD7B3	MF2_ZD
+	946DB165	MF2_IA
+	82A29B77	100010100100
+	82112500	100010100010100100010100
+	7EB1DB05	100
+	8AACE283	~z~I was tired of him as soon as I saw him.
+	88DABA9B	MF2_A_CB
+	83A52D24	MF2_JC
+	A2E66357	~z~You know Roman, he has these other women but you're the only one he loves.
+	A243EEC9	~z~You have nothing left. Goodbye and good luck.
+	9F8F61CC	~z~I been taking a lot of heat for you, Niko. Start doing me some favors.
+	A571EFD5	MF2_JB
+	A42224CC	100010
+	A3983931	MF2_A_HA
+	972E04BA	~z~I've got someone else who might have some work for you.
+	970ED6C1	100100100100
+	95885FF2	MF2_YE
+	9B7F490B	010
+	9B30AA6A	MF2_XE
+	98ED3C4F	SFX_MACHINE_BEEP
+	BBC287D6	MF2_KA
+	EE98BA80	MF2_A_DC
+	EE05892A	100010100100
+	E905FC50	~z~Now, you're useless to me. We need someone who wants something, someone with burning desires.
+	F12841D3	~z~I guess when he found out about me and Vlad he couldn't help himself.
+	F107070D	~z~I looked at him and realized that revenge was not what I wanted after all.
+	F0DB9557	MF2_YD
+	E3836DD3	MF2_JD
+	E2A19A0A	~z~Now these Russian putas keep calling me asking where he is, like I fucking know.
+	E1980D7C	~z~Bellic, I want to introduce you to John Gravelli, head of the Gambetti family. He needs help.
+	E9047671	MF2_YC
+	E4F32C08	~z~That won't bring him back will it? He'll never even meet his son.
+	E3C131B9	~z~Hey, sometimes I just can't help myself.
+	FC6BF1BF	MF2_XA
+	FBE9DC6D	MF2_HC
+	FB9A4D91	~z~Hey Niko, you tired of Manny yet?
+	FF58A3B0	~z~After all that trouble, you didn't even kill him. Remarkable.
+	FD980E56	~z~Niko, I heard that Michelle was a cop or a fed or something, is it true?
+	FC95DB4D	~z~Your child will never worry about anything, Mallorie.
+	F346A041	MF2_MB
+	F280990F	MF2_A_AA
+	F1CC183A	MF2_A_AB
+	F9B70EF0	MF2_A_DA
+	F8264513	~z~Listen, I'll level with you - I stupidly got involved with him to get back at Roman, for all his playing around.
+	F3AA5CAA	010100010100010100
+	DECAAEED	100010100100100
+	C15E591A	~z~I was tired of him as soon as I saw him.
+	C139A321	MF2_A_BD
+	C004B661	MF2_A_CA
+	C2F1B742	MF2_ZA
+	C187B950	MF2_ID
+	C180F928	MF2_HG
+	BEDE2818	MF2_PA
+	BC769B9A	~z~I'll start doing that when you start doing me some.
+	BBF24599	100100100
+	BFAA541C	~z~Roman and I are getting on well now, and I don't want this shit to jeopardize anything. Thanks Niko.
+	BF995FC2	MF2_A_DD
+	BF45C9C1	~z~Niko, I heard that Michelle was a cop or a fed or something, is it true?
+	CF897E96	~z~He did?
+	CCBBE4AD	~z~I don't know what she is, but she was lying to us all along and now I'm paying for it.
+	CC2CF7E1	~z~I haven't heard anything, but I'm sure it would be a really good thing for both of you.
+	DDB61AEF	~z~His love for me took over and he just had to kill him.
+	D8A9447D	~z~Putanesca. There was always something funky about her. I'm real sorry.
+	D81A1256	~z~Son?
+	C7F0854D	MF2_XD
+	C621EE94	MF2_JA
+	C437B9B0	MF2_YF
+	CC1029C9	MF2_KB
+	CB6C8A05	MF2_XF
+	CAB69CD6	MF2_IB
+	2AE4FD22	MF2_A_BB
+	2A170187	~z~Hello, you have reached United Liberty Paper Merchants. None of our operatives can come to the phone.
+	287ED879	100010
+	2E1F0FBF	MF2_ZC
+	2D5F2F80	~z~Sure.
+	2BF18462	MF2_A_CA
+	23B9CDA6	MF2_A_CC
+	22945494	SFX_MACHINE_BEEP
+	1F7C6CDB	MF2_PB
+	284ADBD8	MF2_A_FA
+	27AABC7B	~z~Good thing you haven't been hanging around with them too much. That shit is fucked up. I'm sorry for getting you involved.
+	2687F348	MF2_A_BC
+	3BC713FD	~z~You think I wouldn't have fingered him in a second if he was your guy?
+	3A5DB93E	SFX_MACHINE_BEEP
+	39F3FE37	MF2_LC
+	421B6234	~z~No more jobs, is that it? Am I out?
+	3F319ACE	~z~I'm helping you find the man you're after, I'm not some reunite old boyfriends service. Look, I was in the army.
+	3D53D22B	MF2_A_JA
+	322DCE8D	~z~I thought I told you to lay low? To keep your head down?
+	31957441	100010100
+	2EEABFF6	~z~Thank you, Niko. I know you're trying, but a child without a father has a lot to worry about. Trust me on that one.
+	369B9712	MF2_A_CC
+	344DC699	~z~You're out. You've done good things for us and we are grateful. That said, I've given you a lot of protection.
+	342F7929	~z~I'm sorry, I'm excitable.
+	1F415AF2	~z~So, I hear you've found the big bad monster you were after? Bernie Crane, the muscle Mary. Come on.
+	09E5EEF3	~z~Hey, you've reached the phone of the future Mrs. Bellic. Leave me or Roman a message and we'll get back to you.
+	0987F531	~z~I'm pregnant, we were going to say something at the reception.
+	0536D218	MF2_ZA
+	0C019D12	~z~Puto, where are the scissors? Where are the fucking scissors?
+	0BE6E215	~z~Tell him you were sent by a mutual friend. He's expecting you.
+	0B5AA9DB	~z~I don't know what she is, but she was lying to us all along and now I'm paying for it.
+	0327A141	MF2_NA
+	0220CE89	~z~Gravelli is the only man who can get what you need done. He's in Schottler Medical center.
+	005C47E0	MF2_XI
+	049092F6	MF2_A_BH
+	0467D8FA	MF2_A_EA
+	041E9897	100100
+	15E018E6	~z~Really?
+	15137EED	~z~Give him some of his own medicine - find out if he was serious about me.
+	13290450	~z~Bellic, I have your man. He's been flown in. We're going to drop him in the airport cargo area for you.
+	1CD43200	~z~Niko, tell me straight. Was Roman with another woman last night? I swear I'm going to cut his balls off.
+	19BA0570	MF2_A_DF
+	15FD529A	MF2_YA
+	0FD7E9FB	~z~I'm already working for a Mafia family. They are scum.
+	0E47A19E	~z~He don't act like it. Piece of shit, when I get my hands on him I'm going to...
+	0CB35ED1	MF2_ZC
+	12C2BF5F	MF2_NB
+	1190EC25	100010010100
+	1176C272	MF2_A_BE
+	43DB74DC	~z~Niko. The shit went down with those guys in Bohan. Elizabeta's doing a bid. I think she might have killed Manny.
+	6B91BA9F	MF2_HB
+	69DDF8B9	~z~For him, death would have been a release. For me, another stain I do not need.
+	670445FA	MF2_XB
+	6CEC2766	MF2_XG
+	6C9D09C2	~z~I must be getting paranoid. Of course Roman wouldn't. Thanks Niko.
+	6C698319	~z~So, you got your revenge. I hope it gave you the satisfaction you were looking for.
+	638BB296	100010100
+	6090AB8D	100
+	606DE45A	MF2_YB
+	67012BFF	~z~From here in, you're alone. Goodbye.
+	65D441F6	MF2_XC
+	65171EF3	~z~I haven't seen him.
+	79E240EE	~z~I've got someone else who might have some work for you.
+	73D824EE	MF2_MC
+	72E9BA98	~z~He could be dead in the river for all I care. I just want to put that shit behind me -
+	7DE83DB4	100100100
+	7CBF9D0E	~z~That's exactly right, he's an old school romantic. See you soon, Mal.
+	7B5E314A	MF2_MA
+	71077E79	~z~You could have told me he was here.
+	6FB93EF3	~z~Hey Niko.
+	6D5FF72E	~z~Fuck you.
+	722874C0	MF2_A_BF
+	721C37AD	SFX_MACHINE_BEEP
+	716CD389	MF2_HH
+	5DBE8896	MF2_ZD
+	4E68259C	MF2_A_BI
+	4DDF604C	100010100010
+	4DB77030	~z~Hey, Niko. It's Mallorie. I've got a personal question for you.
+	516373E4	SFX_MACHINE_BEEP
+	50389385	MF2_HF
+	4FF6AF7D	MF2_A_BG
+	49204782	MF2_A_CB
+	4895A466	SFX_MACHINE_BEEP
+	4669993A	MF2_LA
+	4D06F06D	~z~Elizabeta Torres, she's got an apartment on San Quentin in Fortside. Meet me there.
+	4AF10474	MF2_OA
+	49DA0C24	MF2_HE
+	5BD3E500	~z~Please leave a message.
+	5B935C24	~z~Maybe you have learned something, Bellic. Goodbye and good luck. Try to live a good life.
+	5ADF5229	~z~I'm sure you do, but you said you'd help me.
+	5D3125E2	MF2_HA
+	5CAA9872	MF2_A_AD
+	5C730610	~z~Hey Niko, you tired of Manny yet?
+	5803540A	MF2_A_BA
+	5577CCFA	MF2_LD
+	54CEE590	MF2_MD
+	5970FE15	~z~Putanesca. There was always something funky about her. I'm real sorry.
+	59537894	MF2_A_AB
+	588998DC	100010100100100100010100100

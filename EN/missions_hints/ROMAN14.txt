@@ -1,0 +1,22 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	80B8B65A	~s~Wait for ~b~Roman.
+	9DB88054	~s~Execute him or walk away to let him live.
+	74FD27C0	~r~Roman is dead.~s~
+	7AA4A1B2	~s~Head to the ~y~rendezvous.
+	C2BAB1E5	~s~Pick up ~y~Roman.
+	FD56271B	~s~Get a car and pick up ~b~Roman.
+	B1B5CF99	~s~Choose to kill ~b~Darko~s~ or let him live.
+	B55440AC	~s~Get a car for you and Roman.
+	2A26A5E2	~r~The car has been destroyed.~s~
+	363FB0FB	~s~Choose to kill ~r~Darko~s~ or let him live.
+	162DD8CA	~s~Go and get ~y~Roman.
+	27147A97	~s~Pick up ~b~Roman.
+	50D54E14	~s~Take Roman to ~y~Brucie's place.
+	5DF7E859	~s~Go back and get ~b~Roman.
+	3DB9D2F1	~r~Roman has been injured.~s~
+	47E9BC3D	~s~Get back in the ~b~car.

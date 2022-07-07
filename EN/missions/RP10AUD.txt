@@ -1,0 +1,212 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9DC4F9C1	RP10_A_QA
+	9C3DA817	Rp10_A_JG
+	9BACE214	~z~NB, don't make me angry!
+	9E628838	~z~I've put the PCJ 600 in the lockup now. It's all good.
+	9E52C8C0	~z~Thanks, I guess. Tell me if you want help with something else
+	9E34DDE1	~z~Spot the genetically superior one!
+	915AF07D	010
+	90C5595B	~z~You tried at least, I'll tell Brucie that.
+	8EF50B5F	RP10_A_LA
+	9A26E7DF	~z~I got my hands on that Sabre GT. It's in the lockup now.
+	9771D063	~z~I'd like to see you try an take one of my cars NB, not a fuckin chance baby!
+	93571359	~z~I ain't hanging around here. Let's go.
+	9F77B4B4	100010100100010100100
+	A7A4EF99	~z~Shit Niko, your car skills, and my body, people are gonna be petrified of us!
+	A58CB7C4	~z~Get me outta here, like now.
+	A36C868C	~z~The Sanchez is now in the lockup, man. It's a fun little bike.
+	AB8A1007	RP10_A_XA
+	AB76B15C	~z~Hey man, I couldn't get that bike. It's not going to be delivered.
+	AB4BA396	RP10_B_AA
+	A20D7863	010
+	A0C89BF1	~z~He's going to send you emails about all the cars he wants and you're going to get them for him.
+	A007D39F	~z~Brucie. Are your balls okay? You're sounding really angry. Tell me if there's another thing you need.
+	A2C70792	Rp10_A_CA
+	A281FCD4	~z~Okay, Niko. It happens. I'll tell Brucie.
+	A258268D	Rp10_A_BA
+	8DF746A9	~z~NB, what the fuck?
+	79C314FE	~z~NB's a winner!
+	77E65AD1	010
+	777F3C85	~z~Yo, I am trying to conduct a business transaction up in here.
+	7ADC1101	~z~I've put that Feltzer in the lockup, man.
+	7AB2B2D2	~z~The NRG 900 is in the lockup now, man.
+	7AA88AEC	~z~Hey man, I put that Banshee in the lockup.
+	726B8F92	~z~Don't push me man!
+	6E6EB47B	~z~No, he can take care of that all by himself. Brucie is a major motor head.
+	6C5183FB	RP10_A_KA
+	776EF4EA	Rp10_A_JC
+	754CC0E4	~z~Good, Niko. You've done well. I'm gonna let Brucie know.
+	7542C0C8	~z~Look at you, Niko. I'm proud that you're doing so good for Brucie.
+	7B5F08D8	Rp10_A_EA
+	874DB013	~z~Niiiice!
+	8724648B	~z~If you keep doing this good then Brucie might start asking you to lift weights with him. Watch out.
+	86F2642F	~z~Brucie's going to be real happy. Thanks, Niko. I'll tell him.
+	8D963F58	~z~Hey man, I couldn't get that car.
+	8D83F2A5	~z~Niko, my friend Brucie has a business proposition for us.
+	8D3867F7	~z~Hey, have some respect for the business deal we gots going on.
+	802A2B0F	~z~Whaddya doin', Nicky?
+	7F3659A1	RP10_B_DA
+	7CA850EE	~z~He's going to send you emails about all the cars he wants and you're going to get them for him.
+	86656557	100
+	85491E00	010
+	83AA1AE4	~z~Be cool, Brucie. It's not a big deal. Let me know if you need anything else.
+	ABCA790C	~z~Spot the alpha male!
+	EA3EAA64	~z~Hey man, the car's screwed. It ain't gonna make it to the lockup.
+	EA09896E	300
+	E8A7979A	010
+	EB938F4A	~z~Cool, Niko. Thanks for telling me. I'm sure Brucie will be cool.
+	EAFD4173	700
+	EAC1728D	~z~Alright, man. I got hold of the Cavalcade.
+	DE66E100	~z~Hey, I'm sorry but I couldn't get the car, it's not going in the lockup.
+	DE473E87	RP10_A_OA
+	DC710EC9	~z~The car got trashed. It's not going to get delivered.
+	E2D88943	010
+	E15A3EB1	~z~Don't that belong to you, man?
+	DEA7C961	~z~Great, Brucie. If you need another thing, tell me.
+	EC1FAFD3	~z~Come on, I made the introduction. I'm the manager, man.
+	FDC6D5FB	~z~The bike isn't going in the lockup. I couldn't get it.
+	FC4DD2FA	~z~Come on, I made the introduction. I'm the manager, man.
+	FBB8999C	~z~Man, how am I gonna explain this?
+	FFE2D5AC	~z~Alright man, hate to say this but the car is real messed up. It ain't gonna be delivered.
+	FEA1EBA2	Rp10_A_JD
+	FE51B4C6	~z~Brucie's going to be upset. He's a bit of a child like that. I'll let him know.
+	EDF9F8FD	Rp10_A_HA
+	EDDBEF46	~z~Maybe you've had too much juice Brucie. Tell me if you want something else.
+	EC8E1241	RP10_B_BA
+	F1D56FBC	~z~Sure, Brucie. Tell me if there's something else you need.
+	F1B70E0F	~z~Don't be a cock!
+	F14D5DCE	010
+	DC0A0591	~z~Shit, how a man meant to do business when you all up in his grill?
+	B39DD483	Rp10_A_JA
+	B3442CB4	010
+	B3408AB4	~z~Alright man, thought I should let you know that I couldn't get the car. It's not going in the lockup.
+	B540FE11	~z~Yeah, Brucie, whatever. Tell me if there's another thing you need.
+	B4AD4FE7	100
+	B3B8F28F	Rp10_A_DA
+	B0D26DBF	~z~Ummm. Okay. Tell me if you want another thing.
+	AEF796EE	~z~Hey, that ain't yours.
+	ADE0FD41	~z~Well done my friend, well done!
+	B2946E4C	Rp10_A_AA
+	B28F3F7E	~z~What're you going to do?
+	B20A18DF	100010100100010100100
+	B88114C5	Rp10_A_FA
+	D0CEDD0A	RP10_A_WA
+	CF61DA07	Rp10_A_JF
+	C72838F2	~z~Stop fuckin' around, NB.
+	D744C218	~z~Hey, Brucie. You've got that 'roid rage pretty bad. Let me know if you want anything else.
+	D44D802F	~z~What're you going to do?
+	D30752A4	010
+	BC3A99F4	~z~He's genetically superior, like me!
+	BA9A08C3	~z~Sure Brucie, I'm going to assume that's the steroids talking. If you want something else, let me know.
+	BA5CC15D	010
+	C679A484	100
+	C41AE5DD	010
+	C3C52BB8	RP10_B_CA
+	218AF136	100
+	2133BF41	500
+	212719E1	~z~He going to pay me to pump him full of steroids and tell him how great his abs are?
+	229EF9B4	590
+	228D7D3D	~z~I'll pass on the news to Brucie. Thanks, Niko.
+	218F8D05	Rp10_A_JB
+	1DA595A9	~z~No, he can take care of that all by himself. Brucie is a major motor head.
+	1C4D7467	RP10_A_TA
+	1BE70DB4	~z~Shit man, the car got screwed up. Sorry.
+	20E6D286	~z~No way I'm gonna let you nab me, asshole.
+	20C162F4	~z~Winner! Hello!
+	1FDC1198	RP10_A_PA
+	253A8297	~z~Shit, Niko. I'll go tell Brucie.
+	32E8E1CD	~z~Hey, isn't that your ride?
+	31F1BB76	~z~Go check your emails, Niko. Let's hang out soon, okay?
+	30D27029	~z~We're all booked up buddy, I can't wash shit for ya.
+	34E69369	~z~The fuck you doin?
+	34C0BFCD	~z~Brucie will pay good for this, Niko. He loves spending money. I'll tell him the news.
+	33770B23	~z~The car is not going into the lockup, man. I couldn't get it.
+	2AACF5A3	~z~Hell - yeah NB! Take that shit, just like we take the bitches we want in the clubs!
+	26FADA06	~z~Alright then, man. Tell me if there's something else you want.
+	267E09F0	100
+	2DEF7E09	~z~Damn, I ain't gonna get paid for that job.
+	2CBC412E	RP10_A_UA
+	2C7F645E	010
+	1ABF744D	Rp10_A_JE
+	05316CC6	~z~You ain't coming up on my ride, are you?
+	051E76E3	RP10_A_ZA
+	04EBDA80	~z~Excellent, Niko. I'll tell Brucie the good news.
+	0BF00D8E	~z~Hey man, the bike got trashed so it's not going to be delivered.
+	09B1A6ED	~z~Whatever, Brucie. Tell me if there's something else you need.
+	07F3EA55	~z~Alright man, wanted to let you know that I'm not going to be able to get the bike.
+	012C72F3	Rp10_A_JB
+	012974E1	RP10_A_SA
+	00AD3E15	Rp10_A_JG
+	02CBF891	~z~The Patriot got liberated from its temporary owners. It's in the lockup now, man.
+	0270B5BD	200
+	01DB300C	010
+	0C7524FB	~z~Thanks, Brucie. Let me know if there's something else you need.
+	1633BD20	~z~You ain't getting no ransom for me.
+	1632BD4C	010
+	130F0018	~z~I trucked that PMP 600 down to the lockup, man.
+	196DB850	RP10_A_NA
+	183D92F2	~z~You best be keeping away from my ride, bitch.
+	17B72B6A	~z~Shit, I thought that was yours.
+	0EDCC0FD	~z~This lady had a hard night. Go looking somewhere else for what you need.
+	0E39C714	~z~You don't wanna make me angry homie!
+	0DED7639	~z~Go check your emails, Niko. Let's hang out soon, okay?
+	12AAE050	Rp10_A_JA
+	10CD8A9E	RP10_A_RA
+	10C9D9B6	~z~Okay, I'm going to tell Brucie. I think we were going to go out hunting for titties later anyway.
+	35304042	~z~Alright. The car got messed up, man. It ain't going in the lockup.
+	55EF37F2	~z~Ummm, sure Brucie... sure. Just let me know if you want another thing.
+	54C53D13	~z~Chill the hell out, Brucie. It isn't a big deal. Let me know if you want something else.
+	51AC1905	~z~Man, this is bullshit. The bike is ruined. I'm not going to be able to get it to the lockup.
+	59BA09BF	~z~Shit, Niko. Brucie might start to like you more than he likes himself, and that's saying something.
+	59777DBC	Rp10_A_JC
+	57DCE8B6	~z~I was looking after that thing.
+	4E1FBC88	~z~You make that shit look easy baby, you're a fuckin' animal!
+	4DF1C018	~z~Alright man, getting that car proved to be a bit too difficult. Sorry.
+	4DE7FE46	~z~Get your cheap ass away from my ride, fool.
+	51488F3D	~z~Shit. Get me outta here, quick.
+	4F657516	~z~Nice one. Brucie will be pleased.
+	4E367252	~z~Alright man, the car got trashed. I'm sorry.
+	5B88EF33	~z~Brucie will not be happy, but what the fuck. He'll just look in the mirror and forget about everything else in the world.
+	689E7D4C	600
+	689646D9	~z~Shit man. The bike is trash. It's not going in the lockup.
+	63F97B0A	RP10_A_VA
+	6B72AD30	~z~I think that you and me are going to be Brucie's two favorite immigrants in this city. Good, cousin.
+	69EB7719	~z~I ain't in the mood for no more nothing tonight. No matter how much you planning on paying me.
+	69280FED	~z~All good, Niko. Not everyone can be as perfect as Brucie's abs. Can you believe he actually said that to me the other day?
+	60C012AF	010
+	60A06575	~z~I wasn't able to get that car, man.
+	5FE4D858	RP10_A_MA
+	6329B795	010
+	62F8F748	Rp10_A_IA
+	6219EDCF	~z~What the fuck?
+	4D77ABAB	~z~I ain't being kidnapped.
+	428C5F76	~z~Niko, my friend Brucie has a business proposition for us.
+	3F0B119F	~z~Okay Brucie, I get the point. Tell me if you need something else.
+	3E7FD34B	~z~Good, Niko. I bet you receive a big man hug when Brucie next sees you. You're a lucky guy.
+	442CAC8E	~z~The car ain't going to be delivered, sorry man.
+	43AA9369	~z~That's one way of putting it, Brucie. Tell me if you want something else.
+	434CC2E0	RP10_A_YA
+	36678E40	~z~Look at that baby!
+	35DED483	Rp10_A_JE
+	35566B50	100
+	39601D7C	~z~Not cool man.
+	39547EB9	~z~Yeah, Brucie. If you want another thing, tell me.
+	38759134	~z~You're a fuckin alpha male man, you take what you need, and I love it!
+	44C3980F	~z~Hey, I'm trying to do a job. Would ya get lost?
+	4A6F4DDB	~z~Shit, I hope we ain't liable for this.
+	49BF4BA0	~z~I'm going to let Brucie know. Here's hoping he's not too juiced on testosterone from bull sharks.
+	4875CED5	Rp10_A_JD
+	4CE3C6B5	~z~The Intruder is tucked up safely in the lockup, man.
+	4C4672EA	~z~He going to pay me to pump him full of steroids and tell him how great his abs are?
+	4B7CA581	~z~Buddy, I'm trying to wash this thing here.
+	46FCBB5B	400
+	46A6E32F	~z~Hey, I couldn't put the car in the lockup. It got trashed.
+	45032D49	~z~I'm all worn out, so don't go trying to make me do shit I ain't doing.
+	481ABAF1	~z~You European prick!
+	48046783	Rp10_A_GA
+	47997B98	Rp10_A_JF

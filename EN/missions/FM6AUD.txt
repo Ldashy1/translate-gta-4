@@ -1,0 +1,345 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A9B9A84E	~z~You've got Katie.
+	AA7C13B6	~z~Alright, man. We're burying Derrick in the graveyard in Steinway. Let's get there.
+	A9830A0F	FM6_XH
+	A9A0556B	FM6_YI
+	ABDBB0C5	100
+	AE38246E	~z~At a funeral, Jesus - you scum!
+	AE81B1D4	~z~Come on, move it.
+	ACB6C5F4	~z~She will, Packie.
+	AE2C88BB	~z~You know, I'm still not that fond of the guy, even in his death.
+	A8EBCCBD	100
+	A2EF1306	100
+	A361ED08	~z~This ain't good, Niko.
+	A1ADAC1D	100
+	A2A5304D	~z~Get in the Romero.
+	A388F473	FM6_XG
+	A649D6E6	FM6_ZI
+	A883FD6E	~z~Are you suggesting that I'm a fucking cop? I thought that you would know better than that.
+	A3E61181	~z~We are on to you, Micky bastards.
+	A495FEDE	~z~I don't wanna lose my brother, Niko. Come on.
+	AEB8078D	~z~Alright, we're fucking here. Let's bury this bastard.
+	BC57B7B3	FM6_A_GA
+	BC89A330	~z~Okay, this is it. We can put him in the ground now.
+	BAA2B8C6	~z~You have taste of own medicine, McRearys.
+	BC0D1288	~z~This must be a hard day for you, Packie. I'm sorry.
+	BD205E79	FM6_SA
+	C09B57E9	FM6_YC
+	C0A1CAF8	~z~Pathetic Americans, you thought we would not find you.
+	BD542076	~z~I'm sorry about Francis's casket, Packie.
+	C066DFE8	~z~Jesus, there's another car. It's like a whole damn army.
+	BA9A5050	~z~Is not that I don't like cops, you do what you do to get by.
+	B0E18475	FM6_ZO
+	B495A4BD	~z~Shit, there's more. Protect my family.
+	B079ADA1	FM6_UA
+	B0919482	FM6_A_KA
+	B578A032	FM6_OA
+	B7E2A4A8	FM6_EC
+	B914DA48	FM6_ZE
+	B6115795	~z~This must be some of those Albanian guys Gerry was fucking with.
+	B61B9DD6	FM6_JA
+	85786678	FM6_YG
+	86E34CEF	FM6_YJ
+	84F1FE2E	102
+	855E6621	~z~Like I said, thanks. Give me a call sometime, Niko.
+	870762EA	~z~I did it for all of you.
+	8808C251	FM6_A_NA
+	89EC5BCF	~z~Ain't you got no thoughts for the dead?
+	8754BD45	~z~What for?
+	87D835F5	~z~Shit, we're taking a pounding.
+	849E11D3	102
+	7ECF6A32	FM6_ZA
+	7F373D52	~z~They're coming along the sidewalk, Niko. Hold fast.
+	7D35A6D2	~z~Can't we call for backup or something?
+	7E66854F	~z~This must be a hard day for you, Packie. I'm sorry.
+	8042B640	~z~Niko. My brother's about to hit the road.
+	82B983D5	~z~If you're going to fuck up an Albanian gang's arrangement with the Mafia, there might be some backlash.
+	8482AECC	~z~My ma's the only one in the family who thought he deserved a burial.
+	80F87632	~z~Derrick needed good dose of smack to cope with most of the situations that life threw at him. You gotta admit that.
+	82173ED7	FM6_YN
+	8A11CFB6	~z~There's more coming. Watch out, Niko.
+	97EB6B69	~z~Jesus Christ, there's more of them.
+	98425600	FM6_EA
+	948E277E	~z~I don't know why your brother got killed but it looks like the funeral was shot up because of the shit Gerry was into.
+	97CF6D67	FM6_YQ
+	9B92FF1C	~z~I'm gonna teach ya for doing this at my brother's funeral.
+	9F18FDDA	FM6_VA
+	A16EFE66	FM6_YO
+	9BFC0CD3	~z~Now that Francis is on his way to the graveyard, and Gerald is behind bars all I gots left is that smack-head Derrick.
+	9C498091	~z~This is a religious place!
+	935661BC	~z~Jesus, how'd that fuckin' happen?
+	8FAE3081	FM6_IA
+	8FBF920D	~z~I don't think they're after us no more, Niko.
+	8D7A50BD	FM6_RA
+	8DE20463	100100010100010100100010100100010100100010100100100
+	8FE2742E	FM6_FA
+	91D2B27D	~z~They're coming through the alleyway, Niko. Watch the alleyway.
+	92B5D1D2	~z~No, you dumb European fuck, I meant my brother, Francis. It was a joke.
+	91086592	~z~You fucked up a good thing, McRearys.
+	918F4963	~z~We ain't looking pretty, man.
+	C0E42E42	~z~Swiftly running out, Niko. Ain't got that many left.
+	EF2AE566	~z~There can't be a lot more where they came from, right?
+	EF95E7AC	~z~You're fucking right it's a hard day.
+	EEED8C1E	FM6_YK
+	EEFC93B6	~z~We're about to lose my brother, Niko!
+	EFCB0BD0	FM6_NA
+	F0E4C4F7	102
+	F19E278A	100100010100010010010100100100010100100100010
+	F01DB0DE	FM6_GA
+	F0D5F7D6	FM6_A_CA
+	EED4C44B	FM6_ZD
+	E7931316	~z~Stay back, me and Niko will handle this.
+	E7A8DD79	~z~Niko, are you gonna help me stop these bastards from killing any more McRearys?
+	E592130D	~z~Ain't no more McRearys ending up in caskets today.
+	E59358CC	FM6_ZF
+	EA19334C	~z~Shit, it looks like we got more of 'em coming. Man up, Niko.
+	ECC456C3	400040400400040400
+	ECCE655B	FM6_A_KC
+	EA6A7718	~z~Cover my family, Niko.
+	EB637D4A	~z~Niko, will you help me protect my family?
+	F1C961F3	~z~Only a McReary family funeral would get shot up like this, Niko.
+	FA7C183F	FM6_A_FA
+	FB1941BF	FM6_PA
+	F91D9882	~z~Don't these scum let up for a second.
+	F9A55FD0	~z~Modesty's one of the few virtues I'm blessed with, Niko.
+	FC2A2A44	FM6_XC
+	FD665F2E	FM6_ZB
+	FE5C03C8	~z~It looks like that's all of 'em for now.
+	FCEDCDFF	~z~As if my mother hasn't gone through enough without a bunch of goons shooting up her son's funeral.
+	FD639C65	FM6_CA
+	F8CE1232	FM6_BA
+	F25F7F2C	~z~There ain't no way we're making it to the graveyard now, is there?
+	F319D9D3	~z~If Derrick was alive he'd need a shit load of horse to deal with the stress of this situation.
+	F1DB5262	~z~Other members of my family'll be more upset. See ya, Niko.
+	F1FC939C	FM6_YL
+	F483C1F5	FM6_YE
+	F7B94438	~z~I coulda fucking guessed you'd bring her up.
+	F83CB469	~z~Don't come out of the fucking church.
+	F48AF2B5	102
+	F62857F4	102
+	CC49F3AF	~z~Guys like you don't like cops. Being here, helping us out... I appreciate it.
+	CD2129DB	~z~Dammit. We're some back doors light, Niko. The fucking casket better not fall out. Go easy.
+	CAF14244	~z~I guess you've got enough brothers to hate one of them.
+	CC20479D	100
+	CDB47A83	~z~Another car full, Niko. This is a full on assault.
+	D1D1C969	~z~He should a got one just for her. Later on, Niko.
+	D21A66FD	102
+	CE0B5725	~z~Christ, that didn't have to happen.
+	CEB0BEF3	FM6_ZJ
+	CAAAA98F	100
+	C23676FA	~z~I think we've finally lost 'em.
+	C2A553C0	FM6_TA
+	C13E5757	~z~Which ain't gonna get used, I might add.
+	C1C1DD3D	FM6_DC
+	C3E1B425	~z~Hell of a fucking time to be making jokes about your dead brother.
+	C68A99AB	FM6_ZG
+	C9544866	~z~Shit, Niko. Calm it or we'll lose my brother.
+	C5F9F87A	~z~That means the men is in for a bad time but Katie's gonna make it out the other side. She'll stay clean and come out good.
+	C61CD8D8	FM6_A_DA
+	D2586E65	~z~You fucked with us, we will fuck with you.
+	DED6F93F	~z~We got more of these bastards coming. Hold them off.
+	DEE8CA38	FM6_A_MA
+	DC9B02EE	~z~There will be more funerals in your family.
+	DCD0AD83	010100100
+	DF9671CF	FM6_EE
+	E1DFCC40	~z~More people didn't have to die at a McReary funeral. I'll see you round.
+	E31C3A98	~z~You're a sick man, Niko. I'd fucking slap you if I didn't love ya so much.
+	E0116A03	FM6_XD
+	E16B6F38	~z~I guess that's what turning cop'll do to a fraternal relationship.
+	DC4323F4	FM6_A_BA
+	D52296CB	~z~and smack-heads, and gangsters, and petty hoods.
+	D625EA67	100
+	D25E7C91	010100100
+	D37BDB57	FM6_A_AA
+	D6CC7119	~z~We are not as stupid as you think, Irishmen.
+	DB26B1EF	100
+	DBA3ED05	~z~My brother's about to fall out the back of this thing. Christ, Niko.
+	D82A20E3	FM6_A_HC
+	D94C076C	~z~What are you waiting for? Go!
+	7CB3629E	FM6_XJ
+	2E5524A2	~z~I am pleased Gerry picked his fight with you.
+	2FD8FD0E	FM6_ZN
+	2E1F0AD7	~z~Like I said, thanks. Give me a call sometime, Niko.
+	2BA3E3C9	~z~It's only consecrated ground for a brother of mine.
+	2D38B8C5	~z~Gerry would love to be here shooting you too.
+	320E587B	~z~Is that what you suggest we do with your brother?
+	32472022	~z~Another fucking car load, Jesus.
+	31AF0B7C	100
+	3197587F	~z~There's a lot to be sorry for on this day, Niko. But you ain't to blame for none of it. I'll speak to ya soon.
+	3197B27E	010100100
+	26D68608	FM6_XI
+	26E83A55	~z~Anyway, maybe our curse is just us McRearys being screw ups.
+	2628A074	~z~What in the hell is this, don't these people have any damn respect? It's my own brother's funeral!
+	24FB76C5	100010100100010100100010100100
+	2529BA0F	100
+	2A282FB6	~z~Cops are just regular guys trying to survive.
+	2A3A6BCA	FM6_A_FB
+	2A25328A	FM6_DG
+	270BFA2B	FM6_XF
+	290E7C3C	~z~Finally, it's time to say goodbye to my brother. Amen.
+	41684992	FM6_A_JA
+	42A7FAA0	~z~I'm sorry about Derrick's casket, Packie.
+	40C3B7F4	FM6_EB
+	40164824	~z~Gerry was right to screw with you.
+	401E6517	FM6_KA
+	47784A95	392
+	4A1523C5	~z~Shit, we lost the back doors. Don't lose my brother too. Go easy there, Niko.
+	46D52FF8	~z~Don't let 'em get my family, Niko.
+	45EBF6D8	~z~Alright Niko, it's time to go but we're taking my brother with us. Can you drive the Romero?
+	4633DE28	FM6_HB
+	3948DD92	~z~Niko, get behind the wheel of that Romero. You, me, and my brother are getting out of here.
+	3BD68748	~z~There's a whole lot a air where the back doors should be, Niko. Go easy on her or my brother'll fall out.
+	379276D3	~z~Bye, bye, Francis.
+	341A5986	FM6_A_HB
+	3565E2D6	FM6_WA
+	3F68B086	FM6_EF
+	3F75C2C7	~z~I guess me brother ain't making it into the ground.
+	3F2F5936	FM6_DD
+	3DB1A9FC	~z~I did not come for Derrick, I came for you and Packie.
+	3E898337	100
+	09A35B43	~z~You don't got no respect.
+	0A1579EC	FM6_ZC
+	08BD05D9	~z~That's why I normally tie breeze blocks to 'em and throw 'em in the Humboldt.
+	07BFA7D8	100
+	07D557E0	292
+	0DCFFD3C	FM6_DF
+	0E21F067	~z~This is place of God. Jesus Christ! Can't these people shoot at us on another day?
+	0DC34450	102
+	0A9A6A08	~z~Go, go, go, go.
+	0AFC3C3F	~z~They're really giving it to us, Niko.
+	034B9E87	~z~Jesus, we lost Derrick, the poor bastard.
+	035FDA0D	FM6_YB
+	027FC8EF	~z~Things ain't pretty out here. Stay in the church.
+	008FEC3D	~z~Okay Niko. Time to get out of here but I ain't leaving my poor dead brother to the mercy of them animals.
+	0138F11D	~z~Yeah, well, there ain't a lot more that coulda been done.
+	07247304	FM6_A_EA
+	0755486F	~z~Frankie's plot is in the graveyard on Colony Island, Niko. Can we put him in the ground?
+	069234DA	~z~They've sent a whole van load. Hold 'em back, Niko.
+	045C753E	~z~Only a petty hood, Packie? You're involved in more shit than that.
+	05FFE0C5	~z~I was thinking you only kept those hitmen away from the church to protect my sister.
+	1D542F07	~z~He's having a hard death too if this is anything to go by. I never knew it was so difficult to put a body in the ground.
+	21A069C3	~z~Of course, Packie.
+	1C80D3D9	102
+	1B71F5C9	~z~Watch the car coming along the sidewalk, Niko.
+	1B9A3E44	~z~I don't reckon they can throw much more at us.
+	245BBC56	~z~If Derrick was alive we wouldn't be in this situation.
+	24E7C1B9	FM6_A_HA
+	24260E7C	FM6_LA
+	21CF4B4D	~z~Fuck. Francis was an asshole but he didn't deserve to end up on the road like that.
+	21E716DC	010100
+	115330CD	~z~I'll do my best, Packie.
+	13F4334D	FM6_ZH
+	0F754F5E	100
+	0E34F862	FM6_DA
+	0F16C07C	~z~Keep my family covered, alright?
+	182F8BC5	~z~Anyway, I'm not here for Francis. I am here for you and Packie.
+	1A94A7B9	~z~It don't look like they're following us no more, thank fuck.
+	15E8FC7B	FM6_HA
+	141DD37B	FM6_XE
+	14E47D04	FM6_A_IA
+	4A3D2886	102
+	661DCA9E	~z~Maybe bad shit just happens when you got a family made up of dirty cops,
+	6634CAC8	~z~How'd you figure?
+	646224CB	FM6_DB
+	64D01E7C	~z~Sure you did, Niko.
+	66BBBC1D	~z~I am sorry that we weren't able to bury your brother, Packie.
+	693A32D3	FM6_DE
+	69F607CE	~z~I think we got 'em! Make a run for the cars!
+	68592646	FM6_YD
+	690E3C88	100010
+	63DAF64E	~z~It means a lot - you coming here and helping this messed up family of mine.
+	60DA5A29	FM6_A_FC
+	60E76A9E	FM6_ZL
+	5EBB18DB	~z~What for?
+	60A98EC4	100
+	621087A3	~z~Fuck you, McReary.
+	62EE3150	~z~This has got to be about the deal Gerry fucked up between the Ancelottis and those Albanians.
+	7BE52BAC	~z~Get out of the church, come on!
+	628701F7	FM6_YP
+	62D56D5F	~z~Watch that van, Niko. There's more of 'em coming out.
+	711E90D9	~z~Derrick never had many friends, he sort of lived in his own head.
+	716EFACC	~z~There goes my brother, Derrick.
+	7002ECDA	FM6_A_KB
+	70EDBD40	~z~Thanks, Niko.
+	738BBBF3	~z~Tell yourself you did it out of the grace of your own heart rather than for another piece of your anatomy.
+	78BE6FDB	~z~We're a family cursed. I'm telling you that now.
+	7A2F022A	FM6_XB
+	76AB1BF6	~z~Thanks, Niko.
+	77E76E31	~z~Consider us fucking backlashed then.
+	6FD5232C	~z~You killed us, now we kill you.
+	6BF65EBA	102012
+	6C4ABE1F	FM6_A_EB
+	6A855974	102
+	6AA84992	~z~We all have our ways of coping, Packie. That was Derrick's. He had a hard life.
+	6CAD983F	~z~Shit, there's a car coming along the sidewalk.
+	6DBA112F	~z~Christ! The casket's about to fall out.
+	6F13B88F	FM6_YH
+	6DAE16EF	~z~They've sent more of the bastards.
+	6DB5F9D7	FM6_ZM
+	5D6040D6	FM6_MA
+	52E2EDBD	~z~You damn disrespectful bastards.
+	51B5705A	FM6_QA
+	512CD8C7	102012
+	4B88EB7E	FM6_YA
+	54853707	FM6_A_KA
+	52E9EF8A	~z~Eat shit, McRearys.
+	4AC913F1	~z~Yeah, well, Gerry got stung by the law because of the shit he was involved in.
+	50D86598	~z~There ain't no way we're making it to the graveyard now, is there?
+	4C4C404D	~z~Jesus, they're coming out of that van. Keep 'em away from the church.
+	4B114012	FM6_ZK
+	4C10A6F6	~z~Check the alleyway, Niko. Cover the fucking alleyway.
+	4E18CFBB	400040400040040040400
+	4AFFC267	~z~Shit, I never thought I'd be on the run from some Albanian gangsters with a cop in the car.
+	4FFC463E	~z~If this ain't a fucking beating I don't know what is.
+	4F4292C7	~z~That's a valid point, Niko. Who knows what sort of situation we'd be in?
+	4A6C6CA5	FM6_YF
+	635E7A7F	~z~Make a run for the cars! Quickly!
+	5981E531	FM6_A_LA
+	5D53C97C	~z~Hold 'em back, Niko. They're coming through the alley.
+	5D1346AB	FM6_XA
+	5B1FB49E	~z~One brother in jail, another killed and the funeral attacked. You can't tell me this is just bad luck.
+	558D5B9C	FM6_YM
+	4ACA4965	FM6_ED
+	5C3FC3C9	FM6_IB
+	54CCF2D5	102
+FM6_2V2_1	7E23774A	~z~And while no one is suggesting he was an angel, none of us are,
+FM6_2V2_10	6E0499E0	~z~I'm sorry for your loss.
+FM6_2V2_11	9FC07D57	~z~I'm not. I'm sorry for Ma.
+FM6_2V2_12	9021DE1A	~z~I gave up on my brothers a long time ago.
+FM6_2V2_13	BFADBD31	~z~Most I ever expected from them was to put flowers on their coffins.
+FM6_2V2_14	D486E6E3	~z~You have a strange family.
+FM6_2V2_15	C61BCA0D	~z~Who doesn't?
+FM6_2V2_16	F909AFE8	~z~I don't know.
+FM6_2V2_17	EAB59340	~z~Oh my God get the hell out of the way!
+FM6_2V2_18	1BA07515	~z~-Let's go inside, it's gonna be alright.~n~-Come on, come on!
+FM6_2V2_2	6EE958D6	~z~that is why God put us on earth and not in heaven.
+FM6_2V2_3	E2EE40DE	~z~The trials of humanity were sometimes too much for him to bear,
+FM6_2V2_4	948C241B	~z~but he was a committed family man,
+FM6_2V2_5	85EA86D8	~z~and a man of beliefs. God asks us to show faith and that is what he did, in his way.
+FM6_2V2_6	B95CEDBC	~z~Francis gave so much of himself and will be sorely missed by us all.
+FM6_2V2_7	38236B47	~z~-Amen.~n~-Amen
+FM6_2V2_8	2A74CFEA	~z~Now, if you all please will join me in the procession to the cemetery.
+FM6_2V2_9	CA86100E	~z~-Francis was a good boy.~n~-You must have faith.
+FM6_CUT2_1	637CFB9E	~z~While no one is suggesting he was an angel, none of us are...
+FM6_CUT2_10	D32CDB76	~z~I'm sorry for your loss.
+FM6_CUT2_11	E5D100BA	~z~I'm not. I'm sorry for Ma.
+FM6_CUT2_12	F777A407	~z~I gave up on my brothers a long time ago.
+FM6_CUT2_13	4A2D4971	~z~The most I ever expected from them was to put flowers on their coffins.
+FM6_CUT2_14	2EE612E3	~z~You've got a strange family.
+FM6_CUT2_15	4098B648	~z~Who doesn't?
+FM6_CUT2_16	92A15A4C	~z~I don't know.
+FM6_CUT2_17	A4ECFEE3	~z~Down, everybody get down!
+FM6_CUT2_18	66358175	~z~-Oh my God!~n~-Come on, Come one, get inside!
+FM6_CUT2_2	E1E17865	~z~that is why God put us on earth and not in heaven.
+FM6_CUT2_3	B3EE9C80	~z~The trials of humanity were sometimes too much for him to bear,
+FM6_CUT2_4	BE07B0B2	~z~but he was a committed family man,
+FM6_CUT2_5	1088D5B7	~z~and a man of beliefs. God asks us to show faith
+FM6_CUT2_6	965B615A	~z~and that is what he did, in his way.
+FM6_CUT2_7	689585CF	~z~Derrick gave so much of himself and will be so sorely missed by us all.
+FM6_CUT2_8	82B1BA07	~z~-Amen.~n~-Amen.
+FM6_CUT2_9	D4FFDEA2	~z~Now, if you will all please join me, in the procession to the cemetery.

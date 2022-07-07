@@ -1,0 +1,22 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6C974FD1	~s~There are too many cops about, lose your wanted level.
+	76E2F0F8	~s~Take Bernie to the ~y~rendezvous~s~ to meet with the blackmailers.
+	54C4202B	This vehicle will not satisfy Bernie.
+	68995465	~s~Placeholder! ~n~ Mocap Cutscene
+	B31CDCDF	Go to ~b~Bernie.
+	C15E7962	Take Bernie back to his ~y~apartment.
+	8F7D15A0	Find a car.
+	9FCBB63D	Pick up ~b~Bernie.
+	1AA83880	~r~Bernie is dead.
+	1AF13916	~r~You lost the blackmailer.
+	0C759C1B	~s~Eliminate the ~r~blackmailers.
+	0D5A9DE9	~r~You lost the blackmailers.
+	488987B6	~r~Bernie can't handle being left alone.
+	5422AB78	~s~Don't leave ~b~Bernie~s~ behind.
+	225447DC	~s~You need a vehicle.
+	2F7DE22F	~s~Placeholder!~n~Waiting for NY Mocap.~n~(Deal goes bad, russians flee)

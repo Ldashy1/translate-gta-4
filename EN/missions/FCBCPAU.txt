@@ -1,0 +1,207 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B414ED81	FCB_ACT_PBR_GETCALL_GAMES_NO
+	B327C66C	FCB_ACT_GETCALL_BOWL
+	B1A6A42F	100
+	B5E5680B	FCB_ACT_GETCALL_STRIP_FIRST
+	B5D29262	~z~Alright Niko. I'll hang with someone else. Call me soon.
+	B4442026	100
+	AFF8CC80	FCB_ACT_GETCALL_STRIP
+	AEDFBC78	~z~Why don't we go get us a drink?
+	AEAAF3B1	~z~Can't do it right now man, try the subway.
+	B150713A	FCB_ACT_GETCALL_REJECT
+	B13B4828	FCB_ACT_PBR_GETCALL_DRINK_YES
+	B0494A6B	~z~Sure man, you might have to wait an hour, but no longer.
+	B901ECE7	~z~Nicky, man, every winner needs a back-up. You need a wingman bitch, so don't leave Brucie in the cold... Jesus!
+	C2CE1D63	FCB_ACT_GETCALL_DRINK
+	C108E61A	010
+	BE9DDA2E	010
+	C454C1CE	100
+	C3B083E2	010
+	C2D0DA2E	~z~Shit, Brucie. I ain't in a bowling mood right now. Some other time.
+	BC6DFD78	~z~So...you wanna to go bowling?
+	BBBF5955	~z~Alright, Brucie. Let's go drinking. I'll pick you up in the next hour.
+	BA01A3BF	100
+	BE576687	~z~Cool, wait there, should be there in the next hour.
+	BD54967B	FCB_ACT_PBR_CALL_STRIP_YES
+	BCC747A4	~z~How about we go check out some naked bitches?
+	93E55816	FCB2_JA
+	9352E3CB	~z~NB, what's up?
+	93392476	FCB_ACT_GETCALL_SHOW_FIRST
+	996C9192	~z~How about you and me go drop some serious dollars at a bar, bro?
+	96A36173	FCB2_EA
+	956E890B	FCB_ACT_PBR_GETCALL_EAT_YES
+	8B349AD9	100
+	895BE970	~z~Nicky. I don't want no excuses or nothing but why the fuck haven't you called me. Shit.
+	87A7910F	FCB2_GA
+	92373ACA	~z~Not now Brucie, sorry man.
+	9127DF75	~z~Yo, yo, yo, yo. Niko it's Brucie, baby.
+	8D00A561	100
+	9AE0039E	FCB_ACT_GETCALL_IRATE
+	A6CB487A	~z~Nicky, I shouldn't be the one making this call. We were friends and now you're leaving me on the fucking line, man. Fuck.
+	A697AB27	~z~You an' me have been friends for a while and we ain't even got some food together. What up with that bro? Let's eat!
+	A6468B76	010
+	ADA2F916	FCB_ACT_PBR_GETCALL_BOAT_NO
+	ACB30D0F	100
+	AA23DCC2	100
+	9FDAA748	~z~Wanna play some video games, bro?
+	9E5E6F4A	~z~Sorry man, I'm not that hungry. Another time.
+	9E4DD27C	FCB_ACT_PBR_CALL_STRIP_NO
+	A409DE6F	~z~I'm busy man, call someone else.
+	A4032378	100
+	A3F331BF	~z~Alright man, I'll be there within the hour.
+	E2FBE318	FCB2_LA
+	E146AF9C	~z~Powerboating, I'm into that. Wait for me at your place for an hour.
+	E07567A7	~z~Sure thing, Niko. Hit me up soon though.
+	E6296B8E	100
+	E5DB87E2	~z~Let's go bowling. I'll come collect you within the hour.
+	E5D7DFB6	FCB2_A_PA
+	DAC22E80	FCB_ACT_GETCALL_VERYIRATE
+	DAAD5644	~z~I'm not in the mood for laughs, Brucie. Another time.
+	DA85A05E	010
+	DED273E9	~z~Sorry Brucie, I ain't in the mood to go airborne. Another time maybe.
+	DC28CC15	010
+	DB50D7F5	FCB2_ACT_PBR_CALL_HELI_YES
+	E7264C53	010
+	F6F1AA0E	~z~Bowling sounds good, Brucie, I'll see you in the next hour.
+	F5572A26	FCB_ACT_GETCALL_GAMES_FIRST
+	F41EA265	~z~NB, at the airport I am. Will you pick me up?
+	FA58DF50	100
+	F8F53266	FCB_ACT_GETCALL_ACCEPT
+	F6F3C05F	~z~Nicky, I'm stuck out in Meadows Park. Will you come pick me up?
+	E9F02ECC	~z~NB, you wanna feel the sea air in your face, huh? Why don't we go for a powerboat ride dude?
+	E851DB2C	~z~Let's go get some food, man.
+	E73FEE00	010
+	F2687443	FCB_ACT_GETCALL_BOAT
+	F03E1862	010
+	EB24E0D2	~z~How about you and me do some serious carb loading, bro?
+	CC10BEDE	~z~I was just getting jacked up thinking about hanging with you. Shit! Another time, bro.
+	CB54B5F8	~z~A chopper ride sounds good. I'll come by your place in the next hour.
+	CAB6AFFD	FCB_ACT_PBR_CALL_SHOW_YES
+	CEB10A71	~z~A powerboat ride could be fun, Brucie. I'll come pick you up in an hour.
+	CD468446	FCB_ACT_PBR_GETCALL_EAT_NO
+	CCA57243	~z~You and me is depriving the women of Libery City of the hottest bodies out, baby. Let's go for a drink, man.
+	C77118AF	100
+	C73B1539	100
+	C4BA4718	~z~Nick, babe. You got to start treating me right, man. Take me to a show.
+	CA2E4F60	FCB2_ACT_PBR_CALL_HELI_NO
+	CA2CE26F	~z~You wanna go to a gentlemen's club?
+	C9FE0FC6	FCB_ACT_GETCALL_SHOW
+	CED54865	FCB2_HA
+	D93F63C1	100
+	D7D6AF27	100
+	D7A5B9B7	010
+	DA77DDBA	100
+	DA3E5B39	~z~Alright, NB. If that's how you're playing it. We're gonna hang real soon though.
+	DA13EA08	100
+	D223023F	FCB_ACT_GETCALL_HELI
+	D000DCED	100
+	CF633FB0	~z~I don't feel like sitting around laughing, Brucie. Maybe another time.
+	D50B7EA3	~z~Sorry Brucie, you caught me at a bad time. I can't go bowling with you.
+	D45A0A76	~z~Brucie, we should get a drink. I'll get you from your place in the next hour.
+	D3E81A49	100
+	872F92FC	~z~Hey! How about we hit up the bowling alley, bro?
+	29B2AD81	~z~Sorry Brucie, I'm not in the gaming mood.
+	296F7B32	~z~Hey! I'm on Firefly Island. Did you know this place was closed? Fuck! Will you give me a lift?
+	29509AEA	010
+	2D2E3FEF	~z~There you are. I need a ride, Nicky. I'm Downtown here, bro.
+	2B85F9F0	~z~Alright Brucie, let's go see a show. I'll pick you up within the hour.
+	29DD75B8	100
+	26378199	FCB_ACT_PBR_GETCALL_BOAT_YES
+	2215C0A0	~z~How about you and me roll big baby, in a powerboat?
+	216E0CAA	~z~Nice one, NB. See you then.
+	277C86CB	100
+	26C9CF26	010
+	265BE8CA	100
+	2E56590A	~z~Sorry man, I can't go drinking right now.
+	3FA5F9DC	100
+	3DE52E59	~z~I ain't in the mood to eat. Sorry Brucie.
+	39284C1C	FCB2_MA
+	415815D2	~z~Hey, NB. I'm in Willis of all places. Can you come pick me up?
+	40DEB91A	~z~Hey, Niko. I need a lift. Can you come by my pad?
+	40859764	~z~Sorry Brucie, you're going to have to pay for a taxi.
+	304031E1	~z~I'll get some food with you, Brucie. I'll pick you up in the next hour.
+	2FC141D3	FCB2_BA
+	2F3E03BE	FCB2_DA
+	376B6B4B	~z~I think you and me should hit the river in a powerboat, bro.
+	32D618E1	FCB2_IA
+	311322BA	010
+	09847A9A	~z~How about we do some gaming?
+	07CD46EC	~z~Nicky, babe, can you pick me up from my place?
+	06C58E4A	100
+	0F54362B	FCB_ACT_GETCALL_EAT
+	0C9D9EF6	FCB_ACT_GETCALL_GREET
+	0BB7AB89	~z~Hey, man, I'm in your home town of Hove Beach. Will you pick me up?
+	0222A393	~z~Sure, let's go for a ride in your chopper. I'll pick you up in the next hour.
+	01876723	FCB_ACT_PBR_GETCALL_GAMES_YES
+	0106C034	FCB2_ACT_PBR_GETCALL_LIFT_YES
+	03BF1037	010
+	0324883F	100
+	0291A961	~z~Hey man, I been putting it to South Slopes hard but it's getting tired, bro. Can you pick me up?
+	1080B3EF	100
+	1A46439F	010
+	1A3814CD	100
+	1A044DE8	FCB_ACT_GETCALL_EAT_FIRST
+	20ACC2E9	100
+	1DB6F08C	100
+	1A558496	100
+	159F1725	~z~Strippers sound good, man. I should be at your place in the next hour.
+	12C75749	~z~You and me should go for a ride in my chopper bro! Big pimpin' baby. You in?
+	12A45827	100
+	18CBD47C	~z~Sure Brucie, we'll go see something. I'll come get you in the next hour.
+	18A56E9A	010
+	16FC9519	~z~NB, I think you and me, we know each other well enough now to hit up a strip club together. You in?
+	7097E8A1	FCB_ACT_GETCALL_DRINK_FIRST
+	707E1742	~z~Not right now, man. Maybe we'll go for a chopper ride some other time.
+	70638A48	~z~Nicky, thank god you picked up, I need a lift outta Schottler, it ain't cool, bro.
+	7244BEDF	FCB_ACT_GETCALL_BOWL_FIRST
+	719710D0	~z~There you are, big guy. I've been hitting it in Cerveza Heights. Will you give me a lift, bro?
+	70FFFCD1	FCB2_FA
+	66815E13	~z~I ain't really in the mood to get horny with you. Sorry.
+	64C506B0	~z~Niko, it's Brucie baby.
+	640E91C9	~z~Hey NB, we been kicking it a bit now man. How about you and me hit the bowling alley, yeah?
+	6C2E46BA	~z~Nicky, I thought I had a line on some good shit in the Firefly Projects but it was bogus. Will you collect me up here?
+	697163F3	~z~I don't really want to go check out chicks right now. Another time.
+	670970EB	FCB2_CA
+	724BF7D9	FCB_ACT_PBR_CALL_SHOW_NO
+	7B8A4DCD	~z~Niko man, I ain't no desperate cat but I haven't heard from you in a while. What the fuck?
+	7A9BB482	FCB2_KA
+	78D4CBC4	~z~Not now Brucie, I want to stay in the real world for the time being.
+	87106DF7	~z~Sure thing Brucie, I'll meet you at your house in the next hour.
+	8214A7A6	FCB_ACT_GETCALL_BOAT_FIRST
+	814D1BCA	FCB2_AA
+	7438C848	~z~Okay, man. Wait for me at your house for an hour.
+	72FA3783	100
+	72BF04E5	~z~Yo, Nicky. I need a lift. I'm out in Steinway.
+	781B3A03	~z~Sweet, Niko, Sweet. Catch you then bro.
+	7817EB50	~z~You wanna roll with the heavy bling in my chopper?
+	770B2B3C	~z~NB - It's your man Brucie.
+	4889DF97	010
+	47D86745	~z~Nicky, I'm in Outlook Park. Bro, everyone thinks I'm cruising for ass. Will you pick me up?
+	45D186C4	~z~How about we take a ride in my chopper.
+	4A4F2FCD	100
+	4914A908	FCB_ACT_PBR_GETCALL_BOWL_YES
+	490E2A8F	100
+	43645390	100
+	42BC25BA	~z~Sorry, Brucie. I can't roll with you in a powerboat right now. Another time.
+	427F0419	FCB_ACT_PBR_GETCALL_BOWL_NO
+	45655C2B	~z~We can go eat together. Wait for me at your place for an hour.
+	44AA1D96	~z~How about we go see a show, Nicky, huh?
+	4420F1F7	~z~Nicky, I'm in Beechwood City. Get me out of this shithole. Pick me up, man.
+	4BF603CE	~z~Alright, Brucie. Let's go watch some strippers. Wait for me for an hour.
+	57DD2A8B	FCB_ACT_GETCALL_HELI_FIRST
+	57A69927	~z~Ok man, I'll try to collect you within the next hour.
+	57845001	010
+	5F793B4F	~z~Shit, I've got stuff to do, Brucie. I can't get a drink right now.
+	5C847065	~z~Wouldn't normally ask this Nicky, but I need a lift. Can you pick me up at my place?
+	5C5096CB	FCB_ACT_GETCALL_GAMES
+	521E8727	FCB2_ACT_PBR_GETCALL_LIFT_NO
+	511558AE	FCB_ACT_PBR_GETCALL_DRINK_NO
+	506EC11F	~z~Shit man, I'd love to but not right now. Another time.
+	54116CD5	~z~NB - if you are anything like Roman you'll want to do some gaming with me. How about it, bro?
+	53165D89	~z~Nicky, Nicky, I need to ride in style, bro. Will you come pick me up at my place?
+	527BB939	~z~Why don't the two big dogs hit up a show? How about it?

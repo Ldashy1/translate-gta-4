@@ -1,0 +1,75 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	87ED0854	GCA2_ALEX_DRUNK_2_PG
+	89D30BF3	~z~and you seem on the edge of a breakdown.
+	7FB813AA	GCA2_ALEX_DRUNK_1_OF
+	82A97D9C	~z~Man, I am so drunk you look kind of cute.
+	9807A85C	~z~You are so superior and nasty, but your confidence is clearly pretty thin,
+	9A16ECBC	~z~What the fuck do you know? You're old, old and poor. You dick.
+	93111FBC	GCA2_ALEX_DRUNK_2_PF
+	95094E07	~z~Sit quietly, please.
+	764764DC	~z~The problem is your personality. What is wrong with you?
+	6A226544	100010100010100100010100010100010
+	6CA80E9B	GCA2_ALEX_DRUNK_2_PC
+	635D7F4A	~z~Really fun.
+	69B9EE5E	GCA2_ALEX_DRUNK_1_OH
+	6F7C1323	GCA2_ALEX_DRUNK_2_PB
+	746D0B64	~z~Whatever.
+	6D8B7F0C	~z~Look at you. You're inane. Ha fucking ha. Inane. That's a new word. I learnt another new word - preposterous, and that's what you are..
+	6DB713FD	~z~Man - I'm loaded... I can't wait to get online.
+	E0F5E5B0	GCA2_ALEX_DRUNK_1_OG
+	E4006F57	GCA2_ALEX_DRUNK_2_PK
+	DDEF5FD6	~z~Oh, why, because you think now I'll fuck you? You're ridiculous. Oh, you're a man. What did I expect?
+	DEE1F9B1	~z~It's lonely. It's so fucking lonely. I'm amazing and I hate myself. Well figure that out.
+	F18ADBCD	~z~I can sleep with any man I want. I can do anything. And I'm intellectual and I can read!
+	F98316FD	~z~Man, I'm drunk.
+	EC3FD1FF	GCA2_ALEX_DRUNK_3_QA
+	ED5B9338	~z~You'll be able to tell your kids you knew me, before that I was famous. And that I had a fun side.
+	D589A3CB	~z~You're a loser, loser. I can get into any club I want.
+	B0A41D36	~z~Beats me.
+	B3EEFD03	GCA2_ALEX_DRUNK_1_OE
+	A4C2ED7A	~z~Fuck you.
+	AF10FE6F	GCA2_ALEX_DRUNK_1_OC
+	C7DAF369	GCA2_ALEX_DRUNK_1_OJ
+	CCFFACB7	GCA2_ALEX_DRUNK_3_QK
+	B838D8AA	GCA2_ALEX_DRUNK_3_QC
+	C35BFF04	~z~Fuck you. I hate myself as much as anyone. I know what is to be an artist. What do you do? Fucking nothing!
+	612E3AAA	~z~How do I look?
+	21F0DD69	GCA2_ALEX_DRUNK_1_OI
+	244B0126	~z~Sounds fun.
+	19059C26	GCA2_ALEX_DRUNK_3_QI
+	19F06C61	~z~I'm special, dickhead. People want to know me. I have fans. Do you know how that feels, to have fans?
+	2EC75846	GCA2_ALEX_DRUNK_2_PI
+	2F7EC820	GCA2_ALEX_DRUNK_3_QF
+	28B57326	GCA2_ALEX_DRUNK_1_OB
+	2C7A54CC	GCA2_ALEX_DRUNK_2_PH
+	186EC6ED	GCA2_ALEX_DRUNK_1_OD
+	0836C8EE	~z~No.
+	0BB63B63	~z~Cool.
+	035D7F72	~z~Well done. Well done and shut up. Please!
+	0480014F	~z~And what's the problem?
+	13EA1457	GCA2_ALEX_DRUNK_3_QG
+	14B94C12	GCA2_ALEX_DRUNK_1_OA
+	10094409	~z~I'm spinning out. I shouldn't be drinking so much. At least these meds are working... fuck. I'm drunk...
+	107E1947	~z~Thanks.
+	4CE7C450	GCA2_ALEX_DRUNK_2_PJ
+	4FE65638	GCA2_ALEX_DRUNK_2_PD
+	45024190	GCA2_ALEX_DRUNK_2_PE
+	483B7BE1	GCA2_ALEX_DRUNK_3_QD
+	52BB9DC5	~z~Good. You always look good. That's not the problem...
+	5BDDDBB1	~z~If I wanted conversation, I would have gone online. Fucking loser.
+	5131DAF3	~z~You're an annoying drunk.
+	51B4987F	GCA2_ALEX_DRUNK_3_QB
+	41933F22	GCA2_ALEX_DRUNK_2_PA
+	3229F842	GCA2_ALEX_DRUNK_3_QL
+	32BC55AF	GCA2_ALEX_DRUNK_3_QH
+	31960CCF	100010100010100010010010100100100010
+	31ACF8FA	100010100100100100100010100010
+	3E5B20AC	~z~I'm not. I'm great. Great, man.
+	4140E87C	GCA2_ALEX_DRUNK_3_QE
+	34EE03EA	GCA2_ALEX_DRUNK_3_QJ
+	36F3A677	~z~I'm not drunk. I'm special. Yep. Special.

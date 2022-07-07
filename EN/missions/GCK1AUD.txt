@@ -1,0 +1,192 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A03B6AD4	~z~We only just hung out, Niko.
+	9D5D0063	GCK_ACT_ANSWER_PHONE
+	A19ED210	~z~Hey Europe, it's America - and Ireland.
+	A21588A1	~z~How you doing, Kate?
+	A1B9FF29	~z~I'm happy to give our friendship another go, because I like you, even though you are a dick. Pick me up in an hour.
+	9D25B371	~z~Thanks! Thanks a lot.
+	9AA3E804	100
+	987C6811	GCK_ACT_CALL_VERYIRATE
+	9B1ECADB	GCK_ACT_CALL_DATE_NO_RECENT
+	9D1EA9D8	~z~You wanna hang out?
+	9CA73CAF	GCK_ACT_GETCALL_DATE
+	A2D30623	100
+	B302D5A0	~z~You up to anything? Want to do something?
+	B2D680EF	GCK_ACT_GETCALL_REJECT_IRATE
+	B3961360	100100
+	B448996F	100
+	B42AC26E	~z~I'm too pissed off to speak to you right now, amigo. Call back when I don't think you're a dick...
+	B0E12FF6	010
+	A5678076	GCK_ACT_CALL_HOSP_CANCEL_MEDLIKE
+	A2F19FFC	~z~You're a fine one to call me after the way you've been treating me... I know - piss off. Call back when you're less annoying.
+	A5793EC5	010
+	ACB60DDC	100
+	AAC4F1DA	100
+	862D419A	GCK_ACT_PKA_GETCALL_HOSP_YES
+	86070ECB	100
+	866F8986	100
+	883823D5	~z~Okay, speak to you soon.
+	87882381	~z~I haven't heard from you in quite a while.
+	841CC603	~z~You really are a dick. I'm getting out of the hospital you ass! Fuck you.
+	7C91AFB4	~z~Sure thing, Niko Bellic. Call me sometime, okay?
+	7A6FECC1	~z~So, listen, you want to hang out at all?
+	7E22C1E4	GCK_ACT_CALL_SLEEP_REPLY
+	7FEFE77E	~z~I've got some family stuff to deal with.
+	7E2ECC7F	~z~Thanks - I love rejection!
+	8984AB0C	~z~Great. I'm on my way.
+	9345325F	100
+	927A62BE	~z~Call me when you're willing to try to be a human being.
+	94406CF3	~z~Hey Kate.
+	97EACDD9	010
+	962BB091	GCK_ACT_CALL_DATE_NO_GENERAL
+	926DB844	~z~Okay. I'll call back.
+	8C50D457	~z~Okay... you're a dick, but I forgive you. Let's try again, shall we? Pick me up in an hour or so.
+	89CB97B2	~z~You? I thought you must be dead.
+	8C8A922B	~z~God, I must be really boring... even you don't want to know me.
+	908AF137	~z~Okay. Maybe we'll hang out another time, when you're less busy - maybe not.
+	8E384219	~z~Thanks - for absolutely nothing, Niko.
+	B74CB30F	~z~Hey, it's me.
+	EB434F9B	~z~What is wrong with you?
+	E78C938E	~z~Kate, hey, it's me, Niko.
+	EC051A04	100
+	ED3C7292	~z~See you soon.
+	ED3B6EEA	~z~I haven't heard from you in ages.
+	E65A6C1E	GCK_ACT_GETCALL_VERYIRATE
+	DC77D109	~z~Great, see you in a bit, Kate.
+	DB96DA46	100
+	E1DAF2E2	~z~Sure - I'm not doing anything now, actually. Come by.
+	E477144C	100
+	E36DEC11	GCK_ACT_CALL_DARTS_YES
+	EDFEB7DA	~z~Are you still alive? I haven't heard from you for a very long time. Did you lose my number?
+	FC76669D	100
+	FB539097	GCK_ACT_GETCALL_HOSP_REJ_LOLIKE_QQQ1
+	FCFEBE72	~z~Hi it's me, Niko.
+	FEE471B6	010
+	FDE9C090	010
+	FAB46E8D	~z~Great!
+	F4573FB5	~z~I was wondering if you were still alive?
+	F051F480	100
+	F5393898	GCK_ACT_GETCALL_HOSP_ASK
+	F8AE42FC	GCK_ACT_GETCALL_GREET
+	F70DC945	~z~Sorry - I didn't realize what time it was. Go back to sleep.
+	C6C9D1BF	~z~Okay.
+	C5F83B1D	~z~I'm free now. Come pick me up.
+	C7670DA4	~z~Of course - I'll be there in an hour.
+	C9DAABCF	~z~See you shortly.
+	C833B20F	GCK_ACT_PKA_GETCALL_HOSP_YES
+	C4802EEB	GCK_ACT_PKA_GETCALL_HOSP_NO
+	B840BC67	~z~No problem... I will make my own way home.
+	B8349F96	~z~Yes - how about now? I'm bored.
+	C0FACA11	010
+	C1D96AE8	~z~I'd love to, but I'm in the middle of something.
+	C14DB20D	~z~That's weird, because when I woke up, I said to myself, Kate - hopefully you can be stood up by a prick today.
+	CA2F53F9	100
+	D835E6FF	~z~Okay, Niko. I hope you're not causing too much trouble out there.
+	D7D7DF29	~z~Thanks - really great of you - I love being stood up.
+	D8A243DD	100
+	D9E947F7	GCK_ACT_PKA_CALL_MEDLIKE
+	D94B76C2	~z~Wonderful.
+	D6F84264	~z~I was wondering if you were still alive.
+	CFF9F2B9	~z~I was wondering what exactly had happened to you.
+	CC8149F7	100
+	D10ED8B1	~z~Fine, look after yourself, okay?
+	D51FD96C	~z~Come pick me up, I'm free now.
+	D3672C05	~z~You sure know how to make someone feel like an asshole, Niko. Thanks!
+	24B28E94	~z~Sure, Kate, I'll be there in an hour.
+	225AAC55	~z~Sorry, Niko, I'm busy with family stuff.
+	259EA711	~z~I assume you must hate me?
+	269E1C15	GCK_ACT_CALL_LIKEYES
+	25CA2308	GCK_ACT_PKA_CALL_GREET
+	21BF7F4D	100
+	1FFC5BDA	GCK_ACT_PKA_CALL_DATE_CANCEL
+	1F2AB654	~z~You wanna get together at some point?
+	200C5811	~z~Hey. Can you come pick me up? I'm getting out of the hospital today.
+	207385D1	GCK_ACT_CALL_HOSP_CANCEL_LOLIKE
+	2073855B	~z~Kate.
+	27B1E77C	~z~Look forward to it, I'm on my way.
+	310BCEC3	~z~Thanks.
+	30F35231	~z~I was asleep - call me after 8.
+	3169DAD2	~z~You wanna hang out sometime?
+	332B4DF6	~z~I can't, Niko - I'm busy doing something for Ma.
+	324C3A58	~z~No worries, Niko some other time, perhaps.
+	30DBAF15	~z~Thanks friend... asshole.
+	2964CD82	010
+	27FAF073	GCK_ACT_GETCALL_IRATE
+	2DB6318E	GCK_ACT_GETCALL_HOSP_REJ_HILIKE
+	2EEDA7F3	GCK_ACT_CALL_IRATE
+	2EB07F33	100
+	09E398FD	~z~Excellent - rejection. My favorite.
+	08BC68FA	100
+	0C051009	~z~You wanna hang out?
+	0D8FAF5A	100
+	0C9480C9	~z~Sorry, but I'm taken up with family stuff.
+	07AAB9A9	~z~I've only just finished our last date! Another time.
+	02D21DBD	~z~I'll be there soon.
+	02B433B3	100
+	04DFE4E9	~z~Shit, I'm sorry, Kate.
+	06C8B55D	100
+	0680710A	GCK_ACT_CALL_LIKENO
+	0EF735E7	~z~Hey, it's me - can you pick me up from the hospital? I'm getting out.
+	197A2550	100
+	172B9981	~z~I'm getting out of hospital and this is how you treat me?
+	1B843C3E	~z~I love being blown out, Niko.
+	1E02D5A5	GCK_ACT_GETCALL_REJECT_VERYIRATE
+	1C2A146B	100
+	16C84618	GCK_ACT_GETCALL_HOSP_REJ_LOLIKE
+	125DB0B5	GCK_ACT_PKA_CALL_REJECTED
+	10BF3A0C	GCK_ACT_GETCALL_ACCEPT
+	12FCED60	~z~Kate - I'm sorry, something's come up... I can't make it to the hospital.
+	15F343FF	~z~Cool.
+	1353027A	~z~I was beginning to hope you were dead.
+	33848AE4	GCK_ACT_PKA_CALL_LOLIKE
+	65F38278	~z~Don't worry about it, Niko. Another time.
+	65EC1D9C	100
+	682DF37A	GCK_ACT_PKA_CALL_ACCEPTED
+	69791765	~z~Hi there, Kate, it's me, Niko.
+	6916A3EC	~z~Okay - I'll get a taxi or something.
+	64BCDCE3	~z~No problem.
+	59D9C287	~z~Niko, it's me, Kate.
+	599B5419	100
+	60A2E100	GCK_ACT_PKA_CALL_HiLIKE
+	62F48A16	~z~Great, see you soon.
+	62DA4464	~z~Sure, Kate, I'll be there in an hour.
+	6A4E7FBC	100
+	74ADA128	090
+	742B22C5	GCK_ACT_GETCALL_IRATE_V2
+	75AF2F8B	~z~Good. See you in a while.
+	794C870A	~z~Listen, I haven't heard from you in a while.
+	77A8410F	~z~Okay - I guess I'll make my own way home.
+	73F8261D	010
+	6EB11521	GCK_ACT_PKA_CALL_HOSP_CANCEL
+	6BF8C83B	~z~I was asleep - I'll be up around 8.
+	704D78BA	~z~Okay.
+	71FA8E53	~z~No - another time.
+	7123677B	~z~Thanks - great to be missed.
+	47B5652A	~z~No problem, Niko.
+	463F1B52	~z~Niko, it's Kate.
+	4803464C	~z~You've reached Kate McReary. I'm sorry, I can't take your call just now. Please try back another time.
+	4AE2DA39	~z~Hey Kate.
+	485F8853	GCK_ACT_CALL_HOSP_CANCEL_HiLIKE
+	44EF7977	~z~You up to anything? I'm bored.
+	357A1422	100
+	33FAF6C6	~z~It's me, Kate McReary.
+	36F7DD88	~z~You free? Wanna do something?
+	3DC3815E	GCK_ACT_GETCALL_HOSP_ACCEPT
+	3C3ECB39	~z~Oh, you... I wondered what had happened to you.
+	4C039AC4	GCK_ACT_PKA_CALL_SLEEPING
+	543C1523	~z~Thank you Niko - I'll be waiting.
+	53F46D17	~z~Of course - I'll be there in an hour.
+	55C55805	~z~Listen Kate forgive me, but something's come up.
+	57F45A3B	~z~I can't again so soon - another time.
+	578DFAAF	GCK_ACT_GETCALL_REJECT
+	538F7E44	~z~I haven't heard from you in ages!
+	503A87AC	~z~I'd really love to Kate - but I'm in the middle of something crazy.
+	4C824746	GCK_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	516A7058	010
+	52A0CB8D	GCK_ACT_PKA_CALL_DATE
+	52932942	~z~Oh, I assumed you must be dead.

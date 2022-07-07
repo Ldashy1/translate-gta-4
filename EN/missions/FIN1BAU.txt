@@ -1,0 +1,102 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AA604007	~z~I killed Dimitri, it's over. He was on the Platypus, the boat I arrived in Liberty City on.
+	AAF1C846	100
+	AC150141	FIN1B_LA
+	A2A69FF9	092
+	A93838D6	~z~He is going for Dimitri.
+	A9714F9F	~z~Shame that'll be the second last thing that goes into your head. Goodbye.
+	B27E270E	010010100100100010
+	B4A51963	FIN1B_IC
+	B88FDBB5	~z~I should have put you out of your misery a long time ago. Goodbye, Dimitri.
+	AC748CF1	FIN1B_QE
+	AC94AE41	~z~Think about Pegorino, he's got nothing without this deal.
+	AE8202AB	~z~Secure the cargo hold. There is an unknown on the ship.
+	90DCAA0A	FIN1B_NB
+	9213178C	~z~A man is on the boat, watch for him.
+	92D00C02	~z~We must stop him from getting into the hold.
+	8A64A321	FIN1B_OA
+	8B03C6E5	FIN1B_IB
+	8E84D63F	010010010100100010
+	9DC8C862	FIN1B_NF
+	9DFEB8BA	~z~I've never been popular. I don't mean to start now.
+	9E42EF1A	~z~I would never have trusted you again, you snake.
+	9ADED233	100010010100010010010100
+	9B5A0BCC	~z~You're fucking a lot of people over by killing me.
+	9D234171	FIN1B_PA
+	E5211DB1	~z~Hey, come on, we got history.
+	E6265BA8	FIN1B_ND
+	E71F03BD	FIN1B_QF
+	DC0BD124	~z~You had the warning, now you get the bullets.
+	E2AB53D2	FIN1B_NE
+	E3117622	FIN1B_QA
+	F5561052	~z~Secure the shipment, lock down the cargo hold.
+	F6BEC0EC	~z~It was never my idea to set you up.
+	FCFAB18D	200
+	EDC04EE5	~z~There is an intruder on the ship.
+	EE5E75C9	~z~I promised myself I wouldn't kill nobody today. By coming on ship, you have made me break promise!
+	EED8311F	~z~Niko, it's not too late, we can work this out!
+	BE6AF03B	~z~We have intruder on the ship, beware.
+	C017A5D6	~z~The shipment must be protected, lock down cargo hold.
+	C0C43BD4	FIN1B_MA
+	BB65DD31	~z~Protect Dimitri and the heroin.
+	BC3A26F0	FIN1B_QD
+	BC7C29D0	FIN1B_QB
+	D2D6CB54	~z~Secure the hold, secure cargo hold. Enter lock down.
+	D5A05802	090
+	D6D42A64	~z~You screwed me over, now you're paying for it.
+	C1928CAD	FIN1B_NA
+	C61B4AE7	FIN1B_IF
+	C70DC530	FIN1B_RA
+	2C3EBD46	~z~You don't belong here, Slav.
+	2D7346EE	~z~America does not change everyone.
+	3A425DF4	FIN1B_IA
+	2584364D	~z~I will see you at the wedding, yes? Remember to wear a suit.
+	27CFA309	~z~It was a long time ago that I pissed you off. Forget about it.
+	2B907CC6	~z~We have intruder, lock down cargo hold.
+	41CBD346	590
+	4AEAD1D8	FIN1B_IH
+	4B1E8244	~z~That is what you will be when you die here.
+	3C7E2B73	490
+	3E151539	~z~I told you to piss off.
+	3FB66B74	~z~Niko, it's been a long time. I thought your time in America might have calmed you down.
+	11F48FF1	~z~We have other business to finish.
+	129BD473	FIN1B_ID
+	12AAF8C4	~z~You don't need to do this.
+	06FA3B9F	FIN1B_QC
+	0A7BEF7D	200
+	0E468156	~z~Hey, you ain't got no business here.
+	1E3E8FE7	~z~I didn't mean nothing. Please.
+	23CC2D97	FIN1D_VA_XXX1
+	2402B40D	~z~Hey Dimitri, I don't think I'll be doing this deal with you.
+	1384E6F9	FIN1B_IE
+	145593F0	~z~I'll be there Roman, don't worry.
+	176198DE	FIN1B_KA
+	78DFDDC6	~z~~c~Shut up this Balkan cock sucker.
+	7A59F171	~z~You're the one who's going to learn a lesson. People aren't going to be happy if you kill me.
+	7CD7DE7F	~z~I got orders that says you don't come on this ship.
+	6412341B	~z~~c~Get all of the heroin packed. We're shipping it tonight.
+	670DB2EB	~z~Get out of here, we don't need no more hands.
+	703296CE	~z~Dimtri, where are you, you rat?
+	857D87B8	~z~You're about to learn a lesson, actions have consequences.
+	87F8C286	~z~Come on Dimtri, I'm here to end this.
+	8860F591	~z~Dimitri don't want to see you.
+	7ECAE8DD	~z~But Dimitri will not bother you again.
+	8108B4A6	~z~I have been looking forward to killing you for so long, Rascalov.
+	856E37BE	FIN1B_JA
+	4ECED033	~z~Your ship has sailed, Rascalov.
+	4FA773A0	~z~Don't do it.
+	4FF438F7	~z~Dimitri say I have to kill you now, too bad.
+	4B746A52	~z~Go easy on me. We were friends, remember?
+	4D1C16F6	~z~~c~Stupid motherfucker.
+	4DD55A1E	490
+	5D8F4290	FIN1B_NC
+	614DADE3	~z~So it seems it ends where it began.
+	61A9DC62	~z~You should have listened you dumb Slav, now you dead.
+	50C65EEF	FIN1B_IG
+	52000F48	~z~I guess you did what you felt you had to do. No deal, no money, no hot tubs and models.
+	5D7A26FB	~z~Look at you, you arrived in this country a spineless rat who would sell out his friends.

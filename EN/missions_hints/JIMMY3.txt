@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B3E1AE47	~s~Staff have alerted the cops.
+	9EAD83DF	~s~Move quickly, the cops are onto you.
+	8802C5D9	Press ~a~ to speak to the nurse.
+	FAF73C71	~s~Go ~y~outside.
+	C21E4AC0	~s~Get out quickly and discreetly.
+	B4C42550	Press ~a~ to unplug the life support machine.
+	1064E74C	~s~Lose your wanted level.
+	0939D8F6	~s~Silence ~r~Anthony,~s~ he's in the ER.
+	08475721	~r~The cops are onto you. Your chance is gone.
+	6C243296	Press ~a~ to change into doctor's scrubs.
+	5ED35FF4	Do not enter the building with a weapon drawn, there may be cops inside.
+	576C755A	~s~Go to the ~y~hospital.

@@ -1,0 +1,166 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A495B2C3	GCM2_MICHELLE_CONVERSATIONS6_EI
+	A18119E0	GCM2_MICHELLE_CONVERSATIONS7_FK
+	A5879ADB	GCM2_MICHELLE_CONVERSATIONS2_AQ
+	A83F205A	GCM2_MICHELLE_CONVERSATIONS3_BF
+	A71F40A5	GCM2_MICHELLE_CONVERSATIONS2_AC
+	9C8D65E6	~z~How's Mallorie? We haven't spoken in a while.
+	9BEF7A91	~z~Slowly. Your country is strange. Your city makes people crazy.
+	9D53A567	~z~Okay.
+	9E44C775	GCM2_MICHELLE_CONVERSATIONS4_CJ
+	9DF61355	~z~It is... he wants some coke, for a bachelor party.
+	B33A2D37	~z~Me too. Maybe here, things will be different.
+	B2FF92CA	~z~Good. She's a great girl. I really like her.
+	B4A0588F	~z~You found work? Great. What are you doing?
+	B8D3DC67	~z~So, what did you do in Europe?
+	B64D4920	GCM2_MICHELLE_CONVERSATIONS7_FJ
+	ABB32A9E	GCM2_MICHELLE_CONVERSATIONS6_EE
+	A9DA2728	GCM2_MICHELLE_CONVERSATIONS2_AP
+	AE132AB6	~z~I'm sure.
+	B25DB4A7	GCM2_MICHELLE_CONVERSATIONS6_EB
+	B1B3AC35	~z~aggressive to hide inadequacy? I never see him again. Why?
+	7F686E1C	~z~It's hard to explain. And not a big deal. I'm just tired.
+	7F405992	GCM2_MICHELLE_CONVERSATIONS5_DG
+	7FE96F22	~z~I don't think you can help. It's nothing.
+	86EF4553	GCM2_MICHELLE_CONVERSATIONS5_DN
+	858C53E7	~z~Sure.
+	7C7C9C0F	GCM2_MICHELLE_CONVERSATIONS3_BJ
+	79B7BA1F	GCM2_MICHELLE_CONVERSATIONS2_AA
+	7C833FCA	~z~How do you think it was? Seeing your friends die?
+	7E45434E	~z~How was that?
+	7E35C9E0	GCM2_MICHELLE_CONVERSATIONS2_AO
+	912580F5	100010100010100010100010100010
+	90D97D87	GCM2_MICHELLE_CONVERSATIONS4_CD
+	92CFED54	GCM2_MICHELLE_CONVERSATIONS3_BE
+	9A6D2429	~z~Nothing regular.
+	93F08C0B	GCM2_MICHELLE_CONVERSATIONS7_FH
+	8BA95FE7	GCM2_MICHELLE_CONVERSATIONS3_BD
+	8A238396	~z~Maybe I can help. Tell me what's going on?
+	8C9E0973	GCM2_MICHELLE_CONVERSATIONS2_AE
+	8F09E4D7	~z~I'm so sorry.
+	8E0D06DA	~z~Yeah, I've never dated a foreign guy before - a lot from another planet, but none from another country.
+	E6E7253A	~z~Sure. That's what everyone says.
+	E4B9763D	~z~Good, I think.
+	E8F0E697	GCM2_MICHELLE_CONVERSATIONS6_EJ
+	EB88C1D0	~z~Tell me about yourself. Tell me about Niko Bellic.
+	EA88AE2E	GCM2_MICHELLE_CONVERSATIONS7_FI
+	DCFB82C4	~z~What do you know about that guy Vlad?
+	DC603624	GCM2_MICHELLE_CONVERSATIONS2_AK
+	E0130B9B	GCM2_MICHELLE_CONVERSATIONS7_FM
+	E2CB9A4C	~z~You didn't.
+	E06D7F36	GCM2_MICHELLE_CONVERSATIONS7_FP
+	F6604175	~z~No. Roman is an addict, but not cocaine. Gambling.
+	F4E04557	GCM2_MICHELLE_CONVERSATIONS4_CH
+	F811F32A	GCM2_MICHELLE_CONVERSATIONS4_CE
+	FED547A5	~z~I guess not... Interesting weather, isn't it?
+	FA27BD1C	~z~Nothing. He's a friend of Roman's.
+	EF0C2813	~z~I don't think Roman would make much of a criminal.
+	ED0ADC30	GCM2_MICHELLE_CONVERSATIONS4_CF
+	F22E5B96	GCM2_MICHELLE_CONVERSATIONS2_AF
+	F435A866	GCM2_MICHELLE_CONVERSATIONS7_FO
+	F2B558FC	GCM2_MICHELLE_CONVERSATIONS2_AB
+	C6E2FD14	~z~I'm having some problems, in my work.
+	C01FA9E7	GCM2_MICHELLE_CONVERSATIONS5_DL
+	C6FD57FA	~z~Me too.
+	C9051991	GCM2_MICHELLE_CONVERSATIONS4_CM
+	C8017AC2	~z~No problem.
+	BBCABE68	~z~Sure.
+	BA294BBB	~z~Some what?
+	BBCBF160	GCM2_MICHELLE_CONVERSATIONS2_AL
+	C00848DE	~z~Mallorie mentioned him, that's all.
+	BDBEC250	~z~Did you fight in the war?
+	D3A9F3BF	GCM2_MICHELLE_CONVERSATIONS2_AN
+	D11B1180	~z~You seem really agitated, Niko. Is something wrong?
+	D4B0F361	~z~Do you think they'll try to involve Roman?
+	DB9C79EE	~z~That would really scare me. Organized crime, I mean.
+	D7855BD5	~z~Yeah, she's done well. She comes from a very poor background.
+	CBDBEF20	~z~Listen, it's a bit of a strange question, but do you know where I can get some... some.
+	C9F8BC39	GCM2_MICHELLE_CONVERSATIONS5_DB
+	CC8F5F23	100010100010100010100010100010100010100010010100010
+	CE0DF095	GCM2_MICHELLE_CONVERSATIONS7_FF
+	CD2EDD13	~z~No.
+	1FBA8CD3	GCM2_MICHELLE_CONVERSATIONS6_ED
+	1FA90BAC	GCM2_MICHELLE_CONVERSATIONS3_BI
+	219009E5	~z~Seeing men have their legs blown off? It was... it was... it ruined me.
+	22941B92	~z~I really have no idea.
+	2283B2DB	100010100010100010100010100010100010
+	1B92F9DA	~z~He likes to gamble though, doesn't he?
+	1958848F	GCM2_MICHELLE_CONVERSATIONS2_AM
+	1CBFAAAC	GCM2_MICHELLE_CONVERSATIONS2_AD
+	1EBDF060	100010100010100010010100010100010100
+	1E4C96F1	GCM2_MICHELLE_CONVERSATIONS7_FL
+	306544A4	GCM2_MICHELLE_CONVERSATIONS6_EH
+	2D0E2FB4	GCM2_MICHELLE_CONVERSATIONS7_FE
+	315BBC7A	GCM2_MICHELLE_CONVERSATIONS5_DF
+	37881BE1	~z~Yes, really normal.
+	3469BF3D	~z~Okay.
+	24A93319	GCM2_MICHELLE_CONVERSATIONS5_DH
+	23C19679	GCM2_MICHELLE_CONVERSATIONS3_BG
+	291A14E8	~z~I don't know about that.
+	2B2BCC04	GCM2_MICHELLE_CONVERSATIONS2_AH
+	2A219592	GCM2_MICHELLE_CONVERSATIONS3_BL
+	09545B75	~z~Okay.
+	09103EF6	~z~Me too. Nice girl.
+	0979E7A8	~z~Yeah. Sorry I mentioned it. I didn't mean to offend you.
+	0D360593	GCM2_MICHELLE_CONVERSATIONS5_DI
+	0B86E108	~z~Very.
+	01A450CF	GCM2_MICHELLE_CONVERSATIONS3_BH
+	00A358B2	~z~No, no no. It's for my cousin.
+	046544EE	~z~My pleasure! You're kind of cute.
+	076DE522	GCM2_MICHELLE_CONVERSATIONS4_CC
+	06E2E434	~z~Do you think he's in the Russian Mafia? He sounded like a crook.
+	13225316	~z~Hey I'm sorry - by our standards - she comes from a rough part of South Bohan.
+	125E0D9B	GCM2_MICHELLE_CONVERSATIONS5_DK
+	1330775B	GCM2_MICHELLE_CONVERSATIONS6_EG
+	180EF6EF	~z~I worked, in tourism. In travel industry.
+	143BFFE3	~z~Fair enough. That is his business. But I am not a drug dealer. What made you think that?
+	0F4A23D6	GCM2_MICHELLE_CONVERSATIONS4_CI
+	0D595D67	~z~Okay.
+	0FFBDC1F	~z~I really like her. And I think I like you.
+	1158E1A5	GCM2_MICHELLE_CONVERSATIONS4_CN
+	1044DE1D	GCM2_MICHELLE_CONVERSATIONS4_CK
+	6328359C	~z~Okay. If you're sure.
+	62BC71D4	100010100010100010100010100010100010100010
+	647A33B1	~z~I don't have regular work, yet.
+	6542A1EF	~z~Some drugs?
+	6516063A	GCM2_MICHELLE_CONVERSATIONS5_DC
+	5CB8942A	GCM2_MICHELLE_CONVERSATIONS4_CG
+	57252302	GCM2_MICHELLE_CONVERSATIONS2_AI
+	5CDAF9E4	GCM2_MICHELLE_CONVERSATIONS3_BO
+	612A0507	~z~How's Roman?
+	5DA0813B	GCM2_MICHELLE_CONVERSATIONS4_CL
+	6EF5C8A8	~z~There is not much to tell. I just moved here.
+	6E11D3CD	GCM2_MICHELLE_CONVERSATIONS2_AJ
+	73E0B090	~z~Can I ask you a question?
+	799F33D3	GCM2_MICHELLE_CONVERSATIONS7_FN
+	7675A55D	GCM2_MICHELLE_CONVERSATIONS5_DD
+	67356577	100010100010100010100100010100010100
+	65C73005	GCM2_MICHELLE_CONVERSATIONS7_FG
+	683CFD4A	~z~Full of crooks and killers. I imagine she knows some very dangerous people - and she's so normal.
+	6D68CA21	~z~I wish you'd trust me - talk to me about your work - I'm a good listener.
+	6BFFAC0C	GCM2_MICHELLE_CONVERSATIONS6_EF
+	42A74630	GCM2_MICHELLE_CONVERSATIONS3_BK
+	406DC9AB	~z~Really?
+	42C8704A	~z~So, thanks for taking me out again.
+	467E4FB0	~z~How are you settling in?
+	457037B1	~z~No - I come from a poor background. You people don't know what poor is.
+	3970CA4C	~z~I just thought you might know someone. Or Roman did...
+	381F2AF9	GCM2_MICHELLE_CONVERSATIONS3_BN
+	3A60B775	~z~Mallorie said he was in debt, to some criminals. Do you know about that?
+	3FA4B914	GCM2_MICHELLE_CONVERSATIONS5_DE
+	3FA1BB6A	~z~Thank you.
+	53ADF1D1	GCM2_MICHELLE_CONVERSATIONS3_BC
+	5207E5D9	GCM2_MICHELLE_CONVERSATIONS3_BP
+	5547954C	~z~I know - and you live with your cousin - but what do you guys do?
+	5713505D	GCM2_MICHELLE_CONVERSATIONS3_BM
+	55730250	~z~No. I didn't know you liked to party.
+	487D78F1	GCM2_MICHELLE_CONVERSATIONS5_DJ
+	48075C60	GCM2_MICHELLE_CONVERSATIONS6_EC
+	49E009B0	GCM2_MICHELLE_CONVERSATIONS2_AG
+	502B6EE8	GCM2_MICHELLE_CONVERSATIONS6_EA
+	4DA2E415	~z~I met him - he seemed angry, how you say...

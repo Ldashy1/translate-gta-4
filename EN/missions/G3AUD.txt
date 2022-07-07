@@ -1,0 +1,101 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8F3468A0	~z~We in big trouble if he get other van.
+	90533105	~z~I'm afraid some of that chop is going to make it to the noses of yuppies in Middle America, Mr. Gravelli.
+	872161CE	G3_DD
+	81E9CE0B	~z~Damn, we lose the van.
+	84014A48	192
+	A5E85C2F	~z~I better not fucking die with him thinking he's got the upper hand. Goodbye.
+	A8568283	~z~I'm pleased to be helping you out with this thing you need.
+	A0BBBA60	192
+	90F86B7C	G3_DA
+	977B5873	G3_KA
+	780E6A48	~z~He's shooting up the coke, man.
+	783031C6	292
+	77787C75	G3_EA
+	7024C204	~z~That's one fat pay day gone up in smoke.
+	7684B56D	G3_DB
+	7D260AAB	~z~They slipped through your fingers, did they?
+	81AE1955	~z~No shoot until he out from behind the van.
+	7D1FA225	G3_HA
+	78B0A3A1	292
+	79F7F296	292
+	AA438671	~z~I have put your competitors out of business.
+	DE6E5547	292
+	E77BD899	~z~Fuck, get some coke out of here before all is lost.
+	DE1F523A	~z~He behind a van, no shoot.
+	D9017C39	~z~This is no good at all.
+	D9CBC00A	G3_EB
+	F24EE18C	G3_CA
+	FAC97F34	~z~Get out of here with this coke.
+	F19F0568	~z~All coke is lost. Get this fucker.
+	ECD46FA4	~z~You will hit van if you shoot. Hold back.
+	EF13696D	G3_EC
+	BC539AD2	~z~We lost everything. Make him pay.
+	C0B66456	010100100100
+	B9FA25DE	~z~You've given a dying man a few minutes of happiness, Niko.
+	B0C564F5	G3_FA
+	B419F892	~z~Fucking Ancelotti is gonna see that as a victory.
+	D4297011	192
+	D6CCDF6F	~z~We'll speak again when Darko Brevic is in the country.
+	D0A0AB68	G3_ED
+	C0EA3171	G3_IA
+	C2DB7FE1	~z~Shit, he's trying to destroy the stuff.
+	3C317CD3	G3_JA
+	13E598D5	~z~Look after the product.
+	1C7A3321	~z~Protect the stuff.
+	40211BCE	292
+	3CD9246C	G3_AA
+	3C400240	~z~Take the vans away from here.
+	37D0381E	G3_BA
+	006EFEA1	~z~Don't let him destroy all the charlie, get the vans out. Now!
+	25B83C7A	~z~He's after the vans.
+	242CD3FC	G3_GA
+	370BEBDA	~z~Escape with some of this coke.
+	31BCADAE	~z~He blow up the van, shit.
+	22A63907	~z~Make this bastard pay for what he's done.
+	0E38969E	~z~Make sure we don't lose the product.
+	666AAE90	~z~This some fucking vigilante shit?
+	04F487AC	~z~Get the vans out of here.
+	5E2AAD5A	~z~Protect the vans.
+	042700E3	010100100100
+	2FC45343	~z~This boy's just cost us a lot of money.
+	6B5A2B60	G3_DC
+	6973CD13	~z~We don't want to lose the cocaine.
+	4B960831	~z~Get him away from the stuff, people.
+	4954F465	~z~It's gonna be our heads on the chopping block for this.
+	0E02005E	192
+	56AC0F13	~z~You know how much that was worth?
+	5D8E0554	~z~That was worth a lot of monies.
+G3_CUT1_1	A254626A	~z~It's all about problems and solutions,
+G3_CUT1_10	8FE843E6	~z~Everyone. Now did you hear what I said?
+G3_CUT1_11	582B546D	~z~Yeah, I heard what you said.
+G3_CUT1_12	6B887B27	~z~Niko, our friend here is telling me that the Ancelottis are in league with the Russians.
+G3_CUT1_13	F4A40D60	~z~Ancelottis! I know these guys seventy-three years.
+G3_CUT1_14	06EA31EC	~z~In 1972, I should have killed his uncle...
+G3_CUT1_15	13014A1A	~z~but I spared him, and this is how he repays me? Unbelievable!
+G3_CUT1_16	2558EEC9	~z~And now he's dealing drugs with Ivan the Goddamn terrible...
+G3_CUT1_17	E4AFED70	~z~So what we're saying is this is a matter of security. National.
+G3_CUT1_18	D2BF498F	~z~Normally, I don't care about cocaine, keeps controllable people in power,
+G3_CUT1_19	CB1BBA48	~z~-but this is no good.~n~-Alright, what's my role in this?
+G3_CUT1_2	2487E6D3	~z~-you know that...~n~-Ah, Niko!
+G3_CUT1_20	99BFBE0D	~z~The distribution network is a fleet of vans
+G3_CUT1_21	1FFE4A8C	~z~parked at a grocery warehouse in Alderney City.
+G3_CUT1_22	0557153E	~z~The product is packed into the frames of the vans,
+G3_CUT1_23	BBAD01E7	~z~ready to be moved all over the country.
+G3_CUT1_24	D0F72C7B	~z~Destroy everything.
+G3_CUT1_25	770BF8A6	~z~Whatever it takes.
+G3_CUT1_26	485A1B43	~z~And for me?
+G3_CUT1_27	169EB7CD	~z~For you? I've got a real gift for you.
+G3_CUT1_28	63F4D278	~z~Get this done. Then we'll talk.
+G3_CUT1_3	16CCCB5D	~z~Of course, you guys already know each other...
+G3_CUT1_4	491AAFF8	~z~Niko. Good to see you.
+G3_CUT1_5	3B7694B0	~z~Interesting friendships you both keep.
+G3_CUT1_6	D9205001	~z~Yeah... very interesting.
+G3_CUT1_7	0B9734F6	~z~The mayor will be here in a minute, and I have two senators dropping by later.
+G3_CUT1_8	FDA1190A	~z~Everyone wants to pay homage to a dying legend,
+G3_CUT1_9	2FB4FD31	~z~everyone wants the glamor of a bygone age...

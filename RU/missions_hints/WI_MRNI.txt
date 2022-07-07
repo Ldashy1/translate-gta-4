@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C8D85399	Отвезите Марни к ~y~торговцу.
+	E0DDAB0C	~r~Марни погибла.
+	E9FBBF74	~r~Вы бросили Марни.
+	8FE9E1BD	Найдите транспортное средство.
+	000D780F	Отвезите Марни к ~y~торговцу.
+	03E4F66E	Подберите ~b~Марни.
+	47C0FC21	Подождите ~b~Марни.

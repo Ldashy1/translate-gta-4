@@ -1,0 +1,33 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9A9B7670	Each friend and girlfriend you have will have their favorite and least favorite activities.
+	AE8DE33D	~s~Take Michelle to the ~y~carnival.
+	B3B68BDD	~s~Pickup ~b~Michelle.
+	887CD233	Watch a cabaret show or a stand up act.
+	8BD3868B	~s~Take Michelle ~y~home.
+	99675AC5	~r~Michelle was abandoned.~s~
+	BAC43E5F	~s~Go to Michelle's ~b~car~s~ before she leaves.
+	EFCB7296	~s~Be careful with Michelle's car or the date will be over.
+	EFDA604E	~s~Go back to ~b~Michelle~s~ before she leaves.
+	F5A49982	~r~Michelle's car has been destroyed.~s~
+	BD10F770	You will make friends and meet girlfriends as you spend time in Liberty City. You will be able to partake in a variety of activities with them, like eating...
+	BF864045	You will make friends and meet girlfriends as you spend time in Liberty City. You will be able to partake in a variety of activities with them.
+	D0EAE30E	There are many different types of restaurant around the city where you can take them for food.
+	82E21A20	~s~Wait for ~b~Michelle~s~ to enter.
+	26D2CD50	These range from delivering guns to providing bombs to help you get those hard-to-reach targets.
+	26EB0ED3	Each friend and girlfriend you have will have their favorite and least favorite activities.
+	33E4BFA6	Many of your friends have special abilities that they'll use to help you, should they like you enough.
+	0E51980F	~r~Michelle has been scared off.~s~
+	1E41FD3B	Many of your friends have special abilities that they'll use to help you, should they like you enough.
+	203697E4	~s~Go ~y~bowling~s~ with Michelle.
+	48B08366	~s~Go back to Michelle's ~b~car.
+	74108F2A	~r~Michelle is dead.~s~
+	7A542F21	~r~Michelle has left.~s~
+	8262F34A	~s~Go back to ~b~Michelle.
+	541DE976	Go to a bar or club, where you can enjoy a few drinks.
+	5AB72791	Playing games, and watching cabaret shows or stand up comedy acts.
+	66438DC1	Play a game of darts.

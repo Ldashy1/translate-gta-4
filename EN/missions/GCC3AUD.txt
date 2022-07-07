@@ -1,0 +1,271 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A154B7DC	~z~Why don't I escort you in?
+	A1D982CB	~z~Catch you around, Carmen.
+	A00E7567	GCC_ACT_SHOW_REACT_NEG
+	A0AEBCA4	100
+	A6509113	~z~This isn't working, Niko. Just take me back to my place.
+	A651AF59	GCC_ACT_END_BAD
+	A2001FDC	~z~You sure can handle your stick, Niko.
+	A58343EF	100
+	9AF274B7	~z~Enjoy Carmen when you have her.
+	9B88FDD5	100
+	952DEE31	100
+	987D1537	100
+	9EF289EF	~z~You a lucky boy, Niko. You get to take Carmen home now.
+	9FDEE1DC	GCC_ACT_LEAVE_STRIP_OKAY
+	9BFD98CD	~z~You can't even beat Carmen at your own game. You ain't much of a man, is you?
+	9D4B0595	100
+	AB3FB751	~z~Carmen ain't impressed with your pool skills, Niko.
+	B37B70E4	~z~What's the problem, Niko? You can't handle seeing all them sexy women with me there?
+	B51D05BB	010
+	B20B22F0	~z~That so funny.
+	B31A1855	100
+	B82278D7	GCC_ACT_LEAVE_PUB_GENERIC
+	B901975B	GCC_ACT_LEAVE_CLUB_GENERIC
+	B53FEDF2	~z~Maybe you can give Carmen the money you would have spent at a real restaurant.
+	B6D93525	~z~Winning at bowling is the one time you going to get lucky tonight, baby.
+	AC770CC9	GCC_ACT_LEAVE_SHOW_EARLY
+	AD45995D	~z~Carmen likes this.
+	AB56981F	~z~You been treating Carmen right.
+	ABE94D05	~z~I'd like to come in.
+	B0E64E3D	~z~Where we going next, baby? Carmen is having fun.
+	B18149ED	GCC_ACT_END_GOOD
+	AFF8D4F4	~z~I think we'd have fun if I came in.
+	B0342C72	~z~Carmen's feeling tired. Why don't you take her home?
+	7F84437B	~z~This is just not the spontaneous thing I was thinking of. Just take me back to my place, Niko.
+	80EA5301	~z~You got Carmen all hot, Niko. You want to find a place where we can park and we can enjoy each other?
+	7E5FC97B	100
+	7F4E8210	~z~Even if it ain't classy, it tastes good.
+	860FA250	~z~How many guys in that place you think I been with, Niko?
+	86606E61	~z~Where you taking Carmen? She's getting bored.
+	81B9AFC9	~z~I'll find something else to do.
+	81BBB53B	~z~That how I like my bowling, short and sweet.
+	7B616FC7	~z~Don't nobody not want to get with Carmen.
+	7BECECDD	~z~I think you know what I'm thinking. How about I come in?
+	7A91C845	~z~You want to do something other than play pool with Carmen?
+	7B2977D3	~z~There's somewhere we can have fun, just over there.
+	7DE94A34	~z~Mmmm, you remind me of my papi. Take me home, will you?
+	7DFC5731	~z~Okay then.
+	7C783AB6	GCC_ACT_BOWL_LEAVE_WON
+	7D4CB96C	~z~Me gusta. Me gusta. Papi. Papi.
+	86C8DBFF	~z~You can take Carmen home now. She's had her fun.
+	902781F7	~z~This is boring, let's do something.
+	912AE1BE	~z~So long, Carmen.
+	8E46228B	100
+	8F4213B7	~z~You want me to come inside with you?
+	9427FBF2	010
+	950A6E87	~z~You have lost your opportunity for outdoor fun with Carmen. Take me home instead.
+	93CF78CB	~z~Let's be spontaneous, Niko. Find somewhere to park this car so we can have fun.
+	942794C0	~z~I'm having fun, Niko. You got anywhere else you want to take me?
+	8953E5C9	~z~You have something else on your mind than pool?
+	8B8ACAD0	100
+	86F8F4C7	GCC_ACT_PCA_END_NO_RESPONSE
+	889BD00A	~z~You cannot hold Carmen down. You can't.
+	8E02F73E	~z~This is cool.
+	8E3451B6	100
+	8C116C15	100
+	8DC964A5	~z~Let's get the fuck out of here.
+	DB59F782	~z~I'll call you soon.
+	E0C9AC73	~z~I ain't seen nothing like that before.
+	D906AB10	~z~There something wrong with you?
+	D93956D2	~z~I don't normally say no, Niko. But for you, I'll make an exception. No.
+	E39E8141	GCC_ACT_LEAVE_HIGHEND
+	E5BD1D48	GCC_ACT_LEAVE_STRIP_EARLY
+	E1D4E815	100
+	E201F653	~z~That place is okay.
+	D0C35DB1	GCC_ACT_LEAVE_FASTFOOD
+	D3B8664A	~z~Carmen loves this shit.
+	D02F52AE	~z~That was alright.
+	D037FC4B	~z~I hope you pleased with yourself, Niko.
+	D7444A9E	100
+	D7EF7450	~z~Carmen is not in the mood no more. Just take her home.
+	D47BE7C9	~z~Which one are you again?
+	D71E9859	100
+	E5EE92C5	GCC_ACT_DATEFINISHED_GOOD
+	F5388ED0	~z~Niko, I'm sorry but you just ain't doing it for me.
+	F6071167	~z~Ooo baby.
+	F0AC01E1	GCC_ACT_LEAVE_SHOW_CABARET
+	F528AFD6	~z~Thank God that's over.
+	F9443E9D	~z~Carmen would like to be taken home now.
+	FE11ABB5	~z~Come on, get in here.
+	F65EAC28	~z~Carmen, goodbye.
+	F89239BF	100
+	E8949D3E	~z~You can take me home now.
+	E8AFC7B8	~z~Them people is real snobs up in there.
+	E67A8BCE	~z~Carmen likes this.
+	E7B39035	~z~Later on, Carmen.
+	EB468D80	~z~Huh? What the fuck?
+	F042977C	~z~I ain't doing this shit.
+	E9C670DF	~z~Carmen beat you at bowling. I hope you feel like less of a man.
+	E9D13F12	~z~You got anywhere else you want to take Carmen now?
+	C1862866	~z~Bye, Niko.
+	C19B656C	010
+	C043D76A	~z~Yeah, I had fun too. Give me your number and you might just get a call from me.
+	C0B94044	~z~Papi, papi. Ooooo.
+	C252DCA4	100
+	C3AA506A	~z~I'm happy that's over.
+	C1A34F77	010
+	C21D1A6E	~z~I'm drunk out of my brain, baby.
+	BDEFE850	~z~How about you take Carmen to do something else now?
+	BECA6BD5	~z~Ain't no winner there.
+	BB129378	~z~Carmen can't help being good at this shit, even if it is bowling.
+	BB7342F0	~z~Take Carmen home will you?
+	BF3B6022	~z~Can we do something already? Come on, Niko.
+	BF4D55C3	~z~That made me all excited, Niko.
+	BEFF3CD0	~z~You like this, don't you?
+	BEFFBD17	~z~Later.
+	C3B5C645	~z~Ha, ha, ha, ha!
+	CD37DB3E	~z~You can't leave me like this.
+	CD3D5992	~z~Bye.
+	CB04E21F	~z~Can you take Carmen home?
+	CCC1E58D	~z~But it's time to take Carmen home, baby.
+	CF949C27	100
+	D004137A	GCC_ACT_DATEFINISHED_OK
+	CE0510E6	GCC_ACT_DARTS_LEAVE_WON
+	CEC42224	GCC_ACT_DATEFINISHED_AGAIN
+	C52A7E64	100
+	C531AE2B	GCC_ACT_PCA_END_REJECT_RESPONSE
+	C3D72CBC	GCC_ACT_PCA_END_BONK
+	C4F2CFDE	GCC_ACT_DATEFINISHED_HOME
+	C7FED770	~z~You got the better score, Niko. Big man.
+	CA9796A1	~z~Aha! I beat you at darts!
+	C616AC33	GCC_EA
+	C6DC86BC	~z~Don't you want to try nothing?
+	79E983FD	~z~There ain't even a winner. What's the point of that?
+	2E428E46	GCC_ACT_PCA_END_KISS
+	2EDEC10C	~z~This hasn't exactly been Carmen's dream date.
+	2DA7BE9E	~z~Carmen don't know what you thinking on this date.
+	2DF73902	100
+	2FD96BAF	100
+	2FFE53A4	100
+	2F0EE2B0	GCC_ACT_DARTS_LEAVE_ABANDON
+	2F8DBA55	~z~Alright.
+	27945CC7	GCC_ACT_POOL_LEAVE_DRAW
+	284EF5F6	~z~Later, Niko.
+	245A1FE3	~z~I'm real horny now, Niko.
+	27299F81	~z~Carmen's real horny, Niko. Why don't you find a quiet place where we can have some fun in the car?
+	2BD43FBF	~z~Yeah, Niko's not so sure. I think one date was enough for him. See you around.
+	2CA84C70	GCC_BA
+	287AD7D6	~z~You real impressive, Niko.
+	2AF79764	~z~You treat Carmen okay.
+	303C1009	~z~Carmen wants you in here.
+	3898433C	100
+	391592D0	100
+	348CE21B	~z~What's up with you?
+	383472EF	~z~I hope you got something out of that.
+	39F46A44	~z~I would have dressed up more if I'd known we was going to that place.
+	3A6AAE6A	100
+	393233D9	~z~Carmen kind of enjoyed herself.
+	39B5FA4C	~z~Ain't you the big man?
+	31BC27EC	~z~I'm not feeling it no more, baby. Just take me to my place.
+	32716664	~z~There's a good place for fun. Park the car there, Niko.
+	30D6F24B	100
+	30F295E8	~z~Carmen has some fun in there. You can put away that vodka, Niko.
+	33F7F958	GCC_ACT_LEAVE_PUB_FAVOURITE
+	345A6A25	~z~Yes! I beat you at darts!
+	32FB9685	~z~I ain't in the mood tonight but I'll probably be next time. See you soon, baby.
+	3351F08F	~z~Niko, I thought you wanted to get horny up in there?
+	07378662	~z~Carmen had a real good time, Niko. This is something she could do again.
+	07D6E06C	~z~You know where Carmen's place is. Come on, Niko.
+	06A6BEEE	~z~You see how many guys in there was staring at my tits? You a lucky boy tonight.
+	06A9B2AC	~z~Bye baby.
+	0E93FF6B	100
+	0FAB9FEB	100
+	07EED289	~z~At least I can say I seen it now.
+	080A50FB	GCC_ACT_POOL_LEAVE_ABANDON
+	02935622	GCC_ACT_BOWL_LEAVE_LOST
+	03002A5F	~z~This ain't how I want tonight to end. Too bad.
+	012150FC	010
+	0126EB89	100
+	05ECCCA7	~z~Think of me tonight, okay?
+	064B0ECB	GCC_ACT_PCA_END_REJECT
+	038CB7C8	~z~Baby, maybe next time, okay?
+	04C32852	GCC_DA
+	106F2B55	GCC_ACT_DATEFINISHED_BAD
+	20678247	~z~That was fun.
+	20BB0337	100
+	1D8DDB1C	GCC_ACT_LEAVE_SHOW_LATE
+	1DFB90BD	GCC_ACT_BOWL_LEAVE_ABANDON
+	228D74AC	~z~Get in here now.
+	2340092B	~z~Well, that was something to do, wasn't it?
+	20BE8EAC	~z~He was funny, I guess...
+	22077B44	100
+	12C100BC	~z~Hey.
+	13B6A322	100
+	1129D3F4	~z~Carmen was easily the best looking girl in that place. For sure.
+	1166472B	~z~You fucked this one up, Niko. I don't know how, but you did.
+	1B7887AB	~z~You taking Carmen home, ain't you?
+	1B931A75	~z~Carmen ain't sure what you trying to do on this date.
+	140CA6B8	100
+	1763DF52	~z~Not tonight baby, but that don't mean I don't like you.
+	6467923C	GCC_ACT_PCA_END_KISS_AGREE
+	648AF560	~z~Alright then.
+	62639329	~z~Carmen liked that, you can take her home now.
+	63448AFC	~z~I'm all cold now, Niko. The heat has left me. Just take me back to my place.
+	688374BB	GCC_ACT_PCA_END_GOOD_Y
+	68E79BE5	010
+	6623F9D1	GCC_ACT_BORED_HOME
+	6805D18C	~z~I know just the spot, Niko. It's over there.
+	5CE4FB3E	~z~That was okay, Niko.
+	5D1445A2	GCC_ACT_DARTS_LEAVE_LOST
+	5BBFEE75	~z~Carmen getting real bored.
+	5BD8A3CA	GCC_ACT_PCA_END_RESPONSE
+	5DC3BD08	~z~Carmen going to take you on a wild ride. Pull up over there.
+	60C75030	100
+	5D85F07C	010
+	5DADB05F	~z~We might both enjoy it if I came in.
+	6AB294CE	~z~Goodnight, Carmen.
+	6FE0FCD7	GCC_ACT_PCA_END_YES
+	73699897	~z~More time we bowling, the less time we going to be doing other stuff, Niko.
+	6E781389	100
+	6EC2333C	100
+	77B73FF1	GCC_AA
+	790248BB	GCC_ACT_BORED_GETTING
+	749DCADC	~z~Are we going to do something, or what?
+	74A137A4	~z~Carmen is finished now. Take her home.
+	6AC9B734	~z~Why's it taking so long to find something to do?
+	6ADBD4E4	GCC_ACT_PCA_END_GOOD_N
+	6AB296DC	~z~I've had a good time.
+	6ABFF8F2	100
+	6B4F4BA2	~z~If I've read the signals right, you want me to come inside as much as I do.
+	6DE7FD35	GCC_ACT_PCA_END_KISS_RESPONSE
+	6B068263	~z~Another time, maybe.
+	6B0E94F0	~z~You lucky, lucky man. How lucky are you?
+	4638A035	GCC_ACT_SHOW_REACT_POS
+	46DAC4AB	~z~Carmen don't get this shit.
+	45EA3C17	100
+	4630402E	GCC_ACT_PCA_END_NO
+	4A0D5384	~z~See you.
+	4D0DCAA9	~z~Carmen feels your vibe baby. But she don't feel it like that tonight.
+	46E76AC5	100
+	48DA4367	GCC_ACT_DARTS_LEAVE_DRAW
+	3F9C44BC	~z~I don't think I could have lasted that whole game out. Good thing it's over.
+	414A65E3	~z~Carmen didn't exactly have fun.
+	3AF33DA4	GCC_ACT_POOL_LEAVE_WON
+	3B2C02E2	100
+	4402497C	~z~Carmen's enjoyed herself.
+	4437E8F9	GCC_ACT_LEAVE_SHOW_COMEDY
+	4313BA2A	~z~That got me in the mood, baby.
+	437A71D3	~z~That shit is fucking crazy.
+	4D996C60	~z~I want you to treat Carmen like a real lady. Find somewhere quiet to park this car.
+	554ED467	GCC_ACT_POOL_LEAVE_LOST
+	556DD505	GCC_CA
+	551ED9CE	~z~Come in Niko, let's go.
+	5523351E	GCC_ACT_LEAVE_STANDARD
+	59BF28B2	~z~I really want to come inside with you.
+	59F62CCD	100
+	558B7C46	100
+	5867F039	~z~I'll call you, okay?
+	4F1F5FB3	~z~I've had an alright time.
+	4F40CACC	~z~Your loss, Carmen.
+	4E1D4883	GCC_ACT_BOWL_LEAVE_DRAW
+	4E7D6A29	~z~That was interesting.
+	53F936BE	100
+	545838DD	~z~I don't think we should see each other no more. Carmen looking for a man who's big time. Sorry baby.
+	4FA5B210	100
+	5181B4AE	100

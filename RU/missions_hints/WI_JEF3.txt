@@ -1,0 +1,8 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	862C9C9D	Джефф погиб в результате аварии.
+	04601902	~r~Вы бросили Джеффа.~s~

@@ -1,0 +1,197 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A2F6E286	102
+	9F0B268D	~z~Fuckery, just pure fuckery and ting.
+	A4E8E00F	~z~More men in here, we gwan get sheg up good, Niko.
+	A77F54BB	F7_DE
+	A53CE62A	~z~It ain't fucking over. We need to lose these cops.
+	9D8060CD	~z~Jacob no get salt.
+	9A0F19BC	F7_SG
+	97F83154	F7_TB
+	9C581E9A	F7_UA
+	9D7A8238	~z~Yo, find me a car, we haffi get out of here!
+	9CD11144	102
+	BBB9DB1C	~z~Give me some cover and ting!
+	B740ADA5	102
+	BD5716CB	~z~Come forward, rasta.
+	BF767888	~z~De higher da monkey climb da more him expose him batty hole, ya see it?
+	BD676853	100010100010100
+	B0623397	~z~We can catch dem later.
+	AA5ACF8D	F7_TG
+	A88A7613	~z~Watch me back!
+	ABCB05C5	F7_BG
+	AFDED955	~z~Just cool Niko, di boy's a ginnal, yuh nah see? He gonna make his own downfall.
+	AE59B3E5	F7_RA
+	896B2914	~z~Dey rammin dis place full bredda. Bumba clot!
+	87767764	~z~He was reason I had to leave Europe.
+	8AC3A348	100010100010100
+	8C2A18A1	F7_CA
+	8BB13D2F	~z~Die ras clots.
+	84AE9207	F7_OA
+	81FADB49	F7_PD
+	7D305CF5	F7_BD
+	822F5732	~z~Just easy man! The place rammed full man, you'll get us killed my youth.
+	83AD2498	~z~Sight.
+	833929D6	~z~Alright me breda, me hear dem Russian is seriously vexed wit ya.
+	95662468	~z~I will bring Dimitri down myself. I promise you this.
+	943C0A2C	F7_BC
+	95A9BE4A	F7_PA
+	97A53B14	F7_OB
+	972A4492	~z~They keep coming Niko. More a de ras clots
+	93F47ABC	~z~Shit, Dimitri and Bulgarin are leaving. Can you hold these men while I go after?
+	8D8E9265	~z~Bumba clot, Babylon! Mek we step outta de place
+	8CEB8CFB	F7_TF
+	8F0CA0F1	F7_TD
+	93B8D701	F7_QB
+	91ADF2E6	100010010010100010010100010
+	C2B37EFE	~z~Fucking Dimitri, made me kill Faustin then he sell me down the river.
+	E718243D	~z~I have it. Meet me at the warehouse on Mohanet in Downtown Broker. Come alone.
+	E697B5A1	~z~Dimitri and Bulgarin. This is not something I expected.
+	E77074A4	~z~Feel me teeth.
+	EA40A711	F7_FA
+	E930E8DF	~z~Dimitri, you got my money?
+	E4B05FC2	~z~I have it. Meet me at the warehouse on Mohanet in Downtown Broker. Come alone.
+	E0E7CB2F	F7_MA
+	E0D7D79B	100010100
+	E1971387	F7_SH
+	E2AA4081	102
+	E1F017E1	102
+	FA1265A1	~z~Yo, dis a Babylon car. You asking for all sorts a trouble wit dis!
+	F7C4C102	F7_SJ
+	FC31CA44	F7_RB
+	FFF5EF8C	F7_SD
+	FF86B597	010100
+	F5B48E9A	~z~I not gonna last. We haffi end dis soon.
+	EE1DBFEB	~z~Control de downpressors!
+	EAE32694	102
+	EEEFB10E	F7_BF
+	F564C0D6	~z~Dimitri, you got my money?
+	F073EA16	102
+	CF053A27	~z~Forward, Niko.
+	CEB5F3DA	010100100100010
+	CF439997	~z~Now, who fucked up de game back der? What went wrong?
+	D03588DD	~z~And who is Bulgarin?
+	CFA0A227	100
+	CD817D8C	F7_UB
+	C5397FD6	F7_TH
+	C4D11FDF	~z~Cha! Dis a right bangarang. There be more men inna dis blood clot place.
+	C7983BFD	F7_EA
+	C9367616	F7_UC
+	C8A5E9BE	F7_PE
+	DB06F159	F7_IA
+	DAA25B08	~z~Niyabinghi.
+	DBD33B58	F7_JA
+	E0663BDC	~z~I don't fucking know and I can't think about it now. I need to shake these fucking pigs.
+	DD858AB6	F7_HA
+	D969AEF4	F7_AB
+	D4ACB1FE	F7_NA
+	D3D499A2	F7_SB
+	D757B14D	010100
+	D900CE1E	~z~Come on Niko, Move in!
+	D82D2B5F	F7_AA
+	3931DAD8	~z~And now he's here, in Libery City?
+	369BF36D	~z~I going speak to Badman, you keep on the low, call Roman and get outta dis place.
+	39D8579E	F7_BE
+	3F5AE32D	F7_SF
+	3AEB7780	F7_TE
+	3107ED36	F7_DB
+	308FB3F0	~z~Their time will come, trust me.
+	32E34E37	~z~I only have Roman.
+	34E70CEF	102012
+	33A8A9CD	~z~~s~
+	43466EFD	~z~It is fucked. Dimitri can do this to me because he has connections here.
+	431B667C	F7_QD
+	4444F945	F7_SE
+	4A53B7DF	~z~Bumba clot! I be fucked to the fullness.
+	44EEB60E	100010100100010100100010
+	40AE24BD	~z~I know de one. Me see ya around da back.
+	4087E4BE	~z~Cover me ras!
+	41DA2982	~z~Feel me badness.
+	422F27CB	~z~Yo, what eyes can't see, me heart can't leap at ya know. Me ah come wit you. Where's da place?
+	41FD010F	F7_TA
+	2FF48356	~z~I'm not afraid of him.
+	1256B6D7	F7_LA
+	11FF987D	F7_TI
+	15891387	~z~An old employer. He lost much money and blamed me for it rather than taking responsibility.
+	17FBD328	~z~Dey getting me good Niko. I don't know how long I got.
+	16F90E54	F7_BB
+	06518E5E	F7_CB
+	00F97D02	~z~I'm trying to fucking lose them.
+	09A076F0	~z~Cover I.
+	0F3F6934	102
+	0E4B0045	~z~Watch me back, Niko.
+	26F91771	F7_DD
+	24FB3D16	F7_SC
+	27CD55D0	~z~Thanks for your help, Jacob.
+	2AFD3E6F	~z~It appears so.
+	2AB4D078	~z~Babylon just ah hold a man down. Ya a righteous dread ya know Niko.
+	1B56DA1B	~z~A warehouse on Mohanet.
+	19203876	~z~One love me breda.
+	1E36C634	F7_DA
+	23D61861	F7_KA
+	1EC68EEA	~z~Nuttin, nuttin, men inna place, I watchin' out for ya, seen?
+	4A841C9E	F7_DC
+	6B154FC3	~z~I didn't know that Mr. Bulgarin was here in Liberty City. If I could have killed them all then and there...
+	69B56F20	~z~Seen, bredren, seen.
+	6B8538AF	F7_QC
+	6D4B9D12	~z~Yo, ya lose Babylon man, forward back ah café now. I need fe black up some more.
+	6BF5FE60	F7_AA
+	5FF01140	~z~Thanks for coming.
+	5F1E37D5	~z~Just chill Niko man, one at a time. Wan wan coco full baskit, seen?
+	6468E84B	~z~Rhaatid, Dem boy dem pon top of us, get dem!
+	6962DB4A	F7_TC
+	68CC2C7F	010100
+	6D9AB7BA	F7_GA
+	75AE666A	~z~Everyting crash back dere. Babylon all over de place, lose them.
+	750463A1	~z~I told you Dimitri was a snake in de grass.
+	7965307F	100010100010100010100
+	7B68C8A9	F7_PB
+	7A0DD324	F7_BA
+	736F028F	~z~Yo, that was some righteous fuckery, nuh true rasta?
+	70ACEF5C	102
+	73AB0A8D	~z~I not doing too well 'pon me structure... slipping Niko.
+	74F6185C	F7_QA
+	74BB999A	100190
+	4AD0E872	~z~Alright.
+	521B54CF	F7_AB
+	538B42CC	~z~When I next see Dimitri, he is dead man. I will find him.
+	4FFDF748	F7_PC
+	4B27B5C9	~z~Niko, get dem boy above us. Dey fucking with my structure.
+	4C43B43D	~z~Is some pure almshouse a gwaan, Niko.
+	4CF0937A	~z~We find out where Dimitri is and then bam! We take the rest of dem out. Just keep ya head down til then.
+	54804C6D	~z~I only pissed off one, he's dead. I'm going to meet Dimitri to collect on the hit.
+	57981315	F7_QE
+	5EB260D1	~z~Yo Niko, you better watch ya back ya know. Me know ya wicked but dem boy dem are some dog heart ya know.
+	5667CA0E	~z~Yo, mek we go back a the café, seen? But not till we lose Babylon car, sight?
+F7_CUT1_1	92B9404B	~z~Sharp eyes, huh?
+F7_CUT1_10	B8F9C41C	~z~Okay.
+F7_CUT1_11	C7356093	~z~You are Niko Bellic, correct?
+F7_CUT1_12	B4BC3BA1	~z~What is this?
+F7_CUT1_13	8104D433	~z~And you used to work the coast in the Mediterranean, smuggling people into Italy?
+F7_CUT1_14	9022726E	~z~-I don't know what you're talking about.~n~-But you messed up...
+F7_CUT1_15	5E600EEA	~z~and left a lot of bad debt.
+F7_CUT1_16	1D000C23	~z~You left a good friend of mine out of pocket, big time.
+F7_CUT1_17	4F84712B	~z~Hello, Niko.
+F7_CUT1_18	F9384494	~z~Hello...
+F7_CUT1_19	2B67A8F2	~z~Mr. Bulgarin.
+F7_CUT1_2	A417E308	~z~You dunno? Me have it, seen, star?
+F7_CUT1_20	3809C392	~z~Ras!
+F7_CUT1_21	4A00677F	~z~Where's our money?
+F7_CUT1_22	1750021F	~z~I don't know. I didn't rob you.
+F7_CUT1_23	2991A6A2	~z~Really?
+F7_CUT1_24	02DB5936	~z~We were busted a mile off the coast. I had to swim for my life.
+F7_CUT1_25	1515FDAB	~z~I don't know what happened. I nearly drowned.
+F7_CUT1_26	DE549029	~z~My heart is bleeding.
+F7_CUT1_27	BBF74B6B	~z~I did my best! I didn't fuck up!
+F7_CUT1_28	705AB3BF	~z~~c~Remove him.~s~
+F7_CUT1_3	770988EC	~z~Hey, Niko. Glad you could make it.
+F7_CUT1_4	15C3C65E	~z~Yes. You got the money?
+F7_CUT1_5	280DEAF2	~z~Sure.
+F7_CUT1_6	F8D50C81	~z~But I just wanted to say how grateful me and my bosses are for what you did.
+F7_CUT1_7	5B1ED113	~z~Good.
+F7_CUT1_8	DEC8D869	~z~Yes.
+F7_CUT1_9	F0D67C84	~z~And I just wanted to check something with you.

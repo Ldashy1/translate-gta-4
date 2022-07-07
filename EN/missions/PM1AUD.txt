@@ -1,0 +1,375 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A61E070C	~z~We're going this way.
+	A67B7E98	PM1_TC
+	A605E1A5	100
+	A3E7EBB7	PM1_DAF
+	A3FDEFA0	~z~So?
+	A9EE91B1	~z~You should come along next time.
+	AA26E3AA	~z~Anyone who hangs around my family hears about the old days. Just wait.
+	A8DB9723	PM1_LB
+	A78D76C7	~z~Shit, man. I keep forgetting you're not from here.
+	A79BB85C	PM1_DR
+	A2DEA30C	~z~We wouldn't be working for him if our family still had the same status it did back in the day.
+	9EAF0BBC	PM1_JA
+	9F0AED27	PM1_DV
+	9BECE865	PM1_DAI
+	9ADE7010	~z~See you round, Niko.
+	9B6A70F1	PM1_CM
+	A0A59301	~z~Why don't they make these places easier to break into?
+	A0BF3E03	PM1_JI
+	9F54CE06	~z~Oh yeah, Ray Boccino's a slimy motherfucker. The one thing you can rely on him for is greed.
+	9F0F873B	~z~Saving someone's life has got to count for something in this fucked up age we live in.
+	9F40A830	~z~Hurry up, you bastard. What's the problem?
+	B8C0ED54	011101
+	BBA4F96A	~z~Hey, what do you think you're doing?
+	B7C2E73E	~z~That's great. That's just fucking great. We lost the stuff.
+	B34AE9F7	100100
+	B5C5C7BE	~z~Let us drive in fucking peace, you cocksuckers.
+	BF1232E9	PM1_TB
+	BF265750	PM1_JC
+	BE285A7D	PM1_DAA
+	BC40F44F	PM1_GD
+	BD3BBE39	~z~Don't these triads have other stuff they need to fuck with?
+	B29A9F55	~z~Don't you got other guys to help you out? You're from here, you should know everyone.
+	ADCF02F9	~z~That's a lesson I've learnt. Fucking Boccino said it'd be easy.
+	AE69B1A1	PM1_CAF
+	AC5C9ECD	PM1_CJ
+	AADDED74	PM1_MB
+	AB7C332B	~z~Get away from the truck. Don't you know when you're beat?
+	B0BFAA9B	~z~That's why you're on this job with me.
+	B17B4CA5	~z~Come on, ain't you fit enough for this work?
+	B067F6E0	PM1_MC
+	AE844D31	PM1_SB
+	AF155AB9	PM1_WA
+	8778A630	PM1_A_BA
+	8911C18C	~z~You gotta jump down there to get at 'em, man.
+	876E34FF	101101101011101101011101101011
+	850FDBCA	~z~You better be right about this shipment. If it's just fish I'm gonna be pretty irritated, Packie.
+	865BEA07	~z~What makes you think that the information is legit?
+	8AA8DFEC	~z~Yeah. Stuff that'll stop housewives cutting their wrists and make their husbands get wood.
+	8AB2C237	PM1_DT
+	8A5C11B5	~z~This is where the deal's meant to be going down.
+	898F9691	PM1_GC
+	8A4BCEA8	~z~And I know what happens to a man when he ain't getting any. It ain't pretty.
+	84888993	PM1_DZ
+	7EFEDA31	~z~Possession is nine tenths of the law. Deal with it.
+	7F033C20	PM1_JF
+	7EC63B61	~z~Shut the fuck up. You think you're a right fuckin' comedian, don't ya?
+	7B36BACB	010
+	7D1F099B	~z~Makes sense.
+	83CE5B3F	PM1_CAE
+	840CD862	PM1_DE
+	825F4DC7	PM1_CB
+	804FE264	390
+	81986EC9	PM1_CF
+	949A0683	~z~First off, I don't trust this guinea for a second.
+	951F14F0	PM1_CAJ
+	93ED7985	~z~This place really wasn't made with us criminals in mind.
+	919D5D8E	~z~Shit, we nearly had it. That was a fucking screw up if I ever saw one.
+	919E025F	100
+	9A27DBAD	PM1_DY
+	9ACC6501	~z~Jump down there, man. Have at 'em.
+	99490EC5	~z~Go back to the docks where you belong.
+	95696277	PM1_DD
+	986B7B71	~z~Meds. Mollis, sedatives, antidepressants - meds.
+	915C87EE	PM1_DN
+	8D361ACA	PM1_JD
+	8D4BC23C	~z~But, if it's going to the fish market they must be saying that it's fish.
+	8CD854E2	~z~Meds?
+	8C0E0229	PM1_DQ
+	8C416A31	~z~We'll wait until the truck is loaded then we'll take it. Simple as that.
+	91564A59	~z~The fish market smells fishy?
+	9159C23A	PM1_BA
+	913C7EAC	~z~These are ours now. Fuck off.
+	8E2E9242	PM1_DO
+	8E84AC66	~z~I'm too small time to be worth setting up so the one angle he can be playing is the cash one.
+	BF7CA654	~z~They do not like to be robbed, I guess. Not many people do.
+	E5D514C5	~z~You can't trust people. I only trust me family, some of them at least, and people I don't know.
+	E661175B	~z~Okay, how do we do it?
+	E5A405B7	PM1_CAN
+	E1D33CAF	~z~I'll cover you from up here while you're down on the ground cleaning up.
+	E352EE13	PM1_CV
+	E9D30F0B	~z~We've got business out at the docks in Algonquin.
+	EB40A5EC	~z~Not in this country. In Europe. They do things different there.
+	E9C00768	PM1_TA
+	E6E7E2BF	PM1_CP
+	E7CF1CD9	PM1_DH
+	E1A952B2	~z~Depends on what you think is fun.
+	DA0277C6	~z~Persistent motherfuckers, aren't they?
+	DA427C58	~z~What the hell...? Is it Chinese New Year already?
+	D9D59F13	PM1_DP
+	D8FC0163	~z~General population. That's a prison term. You ever been inside?
+	D922D9A0	~z~They're taking this real serious, aren't they?
+	DCCB21BA	PM1_DS
+	DDC497BB	~z~Get away from the fucking truck.
+	DC631614	~z~All we know is that it's worth a dollar or two.
+	DB997506	~z~Yes?
+	DC589FB9	101
+	F8884D42	~z~Fuck off back to Chinatown or wherever you triads hang out.
+	FAD8F3C2	PM1_JF
+	F754C378	PM1_DI
+	F68CAEC2	090090
+	F71416B5	PM1_CS
+	FEA2BB18	~z~Learn the damn language.
+	FF6A79BF	~z~What's the plan?
+	FD8CFA4A	PM1_JE
+	FCDE493B	~z~It don't happen on the other side of the ocean.
+	FCE49694	PM1_JH
+	F49EB3D6	~z~We'll wait until the truck is loaded then we'll take it. Simple as that.
+	F02E3DAA	~z~My brother Gerald had word about it through this Italian, Ray Boccino.
+	F085B532	PM1_DF
+	EF72BB17	~z~Stay away from us, you shitheads.
+	EB859588	100
+	ECF454D3	~z~Alright, here we are.
+	F30F490B	PM1_CAK
+	F3529812	PM1_IA
+	F2E7F52F	~z~Yeah, he'll probably try to give us a fraction of whatever this stuff's worth but it'll be a fun night.
+	F0F89FC4	~z~If that's what's going through your brain then we've got ourselves a problem.
+	F2B021DF	PM1_CK
+	C58885FC	~z~We get up on the roof of that warehouse.
+	C5CD54BA	~z~get into fights on a nightly basis and die young leaving a scarred, bloated corpse.
+	C4E0A7D7	PM1_VA
+	C302C1E2	PM1_JD
+	C44B4C58	~z~Jesus Christ, I'm getting sick of these fucking triads.
+	C64B609B	PM1_OA
+	C73AFAD1	100010100100
+	C61E9EED	PM1_CR
+	C5EFE812	~z~Take your defeat like real men. Fuck off.
+	C5F69B4D	~z~Usual for you and me maybe. The general population, I am not so sure.
+	C2D96D1B	PM1_DL
+	C1565FFB	~z~Who are we welcoming and what have they got that makes this drive worth the effort?
+	C18E4DBA	~z~This is where the deal's meant to be going down.
+	C115846B	~z~Let's kill these thieves!
+	C02F49A9	100100
+	C0D43BC8	~z~I think me and you could get along. I need a guy like you on our team.
+	C28156B4	~z~Alright, Niko. You drive. I'll take out anyone who tries to follow us.
+	C2884E2C	~z~Because you don't know me?
+	C227B3CA	PM1_DAH
+	C1BA0CF1	~z~Where's your car, man? We need a car.
+	C2242D05	PM1_DX
+	D3C7F71A	100010100100100100010100100100010100100100010100010100010100010010100100100010010100010100010100010100100010
+	D6759100	PM1_CAL
+	D33B2161	~z~There should be a good view of the dock so we can scope that shit out.
+	D15C3230	PM1_DA
+	D2D4E079	~z~Stick to me, man.
+	D835580E	~z~My brother Gerry's had word from Ray Boccino, his Italian contact,
+	D8483FF0	~z~Stealing, gunfire, car chases, all the usual stuff.
+	D7BE68BC	PM1_CD
+	D6805E75	011101101
+	D7987850	~z~That sound like the sort of life worth saving?
+	D035F2FB	PM1_DG
+	CC91874E	PM1_CH
+	CD5B588A	~z~Anyways, I was in Algonquin last night, partying with some sweet college chicks.
+	CC2169F4	~z~We're going to Ray's lockup in Westminster off of Union Drive West.
+	C8F5F329	~z~Jesus, watch where you're going!
+	CC052780	100
+	CF44E927	~z~And here's the boat, right on time.
+	CF5B20F6	~z~Stupid Americans are trying to rob us!
+	CF041711	~z~These better be some good fucking pills. The housewives better be grateful.
+	CE837690	~z~This ain't no fireworks display. It's a fucking assault rifle.
+	CEA8FAA0	~z~We're welcoming some of our cousins from the East, but we don't know what it is that they're bringing in exactly.
+	7A694417	PM1_DB
+	2E0156BD	PM1_JG
+	2E4B0ADF	PM1_DAG
+	2DDFAA25	PM1_DC
+	2C64C269	PM1_CAI
+	2D27180C	PM1_CA
+	30E9C32B	~z~Fuck me, that did not look pretty.
+	3130E458	101011
+	30E88977	~z~Something smellin' fishy means that it ain't quite right.
+	2F355121	PM1_CAM
+	2FFFE42D	100100100010100100100010100010100100100010100010100100100010100100010100010100100100010100100100010100100010100100100010
+	2BD0A5A7	~z~Not in a "fun in the showers" kind of way. In a male bonding, about to go rob some people, kind of way.
+	2826638A	~z~And here's the boat, right on time.
+	282A7C88	PM1_DU
+	27F8EC94	101
+	262596E7	~z~See those boxes on the back of the boat? They must be bringing cloned meds.
+	27208EFB	PM1_CI
+	2A5EA42F	~z~Well, you've got to do some time over here. See what you've been missing out on in your chaste European jails.
+	2B299065	~z~Oh yeah?
+	2951F5F6	PM1_RA
+	2873147D	~z~That's if we're ever going to get out of this fuckin' jam. Put your foot down, man.
+	28874B9A	PM1_JA
+	3E52FB5C	PM1_JC
+	3F6750CA	100
+	3CB3476C	~z~I think I know what you are saying.
+	3BDD5146	~z~There's a billion of these motherfuckers back in China, they won't miss a few.
+	3C86331E	~z~So, you got yourself a girlfriend, Packie?
+	4297C8F3	~z~They're fucking ramming us. Shit.
+	43855504	PM1_XA
+	40809AFB	PM1_MD
+	3FBDF790	PM1_PA
+	40527A10	PM1_JB
+	3A9D116A	PM1_CX
+	33E23732	~z~Did no one pay you any attention?
+	3417A601	~z~Sure, sure, guy like you. You'd have a good time.
+	33BF321A	~z~Meds?
+	32ED7F32	~z~I get here on my own time.
+	32F32678	~z~Fuck off. We just want the damn shipment.
+	35356793	PM1_JB
+	368B1A99	100010100100
+	34D0B7E2	PM1_YA
+	34711090	~z~about a big shipment coming in near the fish market.
+	34B22706	PM1_CL
+	25E4899B	~z~Really?
+	0D6AE3F0	~z~That, and you saved my life.
+	0F10EDA0	~z~As I said, the whole prison bitch thing is an American phenomenon.
+	0B0C5263	~z~Most definitely.
+	0A664F9B	~z~Follow me, Niko.
+	0AAC6AE0	100
+	127672EF	~z~We would see if they'd be able to touch me, I got some moves.
+	136A13D2	PM1_CG
+	115A44A1	PM1_UA
+	0FA0AE98	~z~Am I going to hear this story?
+	102952DA	PM1_TD
+	0A4FC84E	PM1_A_AA
+	0427D652	~z~You'd be touched if you did some time, that's for sure.
+	04648B89	PM1_GB
+	0270C2B4	~z~Unless you're hoping to see me sis again?
+	00063B6F	PM1_CN
+	01E03DD3	~z~Some guys I know have checked you out as well.
+	079E7C99	PM1_CAD
+	0A192A09	PM1_CO
+	064F5AA5	~z~Will do. Might even put you on the visitors list.
+	0557DA1A	~z~Not so much of the "fun in the shower" that you guys have here in America.
+	063FC692	~z~It usually means you don't, right?
+	21B59517	~z~Okay, how do we do it?
+	21E4B6DB	PM1_JJ
+	21A2249C	~z~Hell, I didn't think I was coming out here with a special needs kid.
+	202BB033	PM1_JI
+	216F924D	~z~Bet a guy like you thought he was going to be real popular with the lifers.
+	23E0EF1B	~z~Good thing I enjoy a good ruck.
+	25D1DF2A	PM1_CQ
+	23859537	PM1_CAH
+	2299AB36	PM1_DM
+	22AB8201	PM1_CC
+	1F9F5376	100
+	17977E99	~z~Must have been a real disappointment.
+	188F0090	~z~I'm going to pass on that. Send me a postcard if you do some time.
+	14997739	~z~I'd be fucking touched.
+	1395A2BE	PM1_JH
+	1436627F	~z~I do and I don't if you know what I mean?
+	1ABFC98E	PM1_MA
+	1D9A893B	~z~You're a good man, Niko. I like you.
+	1A52C3FC	~z~But that's another story.
+	19BF6151	190
+	1A46CE6D	100
+	44E8CD68	~z~I thought you had the luck of the Irish?
+	68A58497	PM1_DAD
+	68F06B91	100010100100
+	681110B3	~z~Shut up and let us rob you. Jesus.
+	7A089A60	PM1_CU
+	67C9FB93	PM1_CZ
+	6B77C3E9	PM1_SA
+	6BA29243	PM1_JE
+	6A6D2E65	~z~You dumpling-eating motherfuckers.
+	69AEBD80	PM1_JJ
+	6A200F72	~z~Yeah. Stuff that'll stop housewives cutting their wrists and make their husbands get wood.
+	6228A1AD	~z~Okay, there's a ship coming in and we're the welcoming party.
+	63623D99	~z~This is America, assholes. The strongest survive.
+	5E59FD45	~z~This is import tax, deal with it.
+	5D3A8392	~z~That depends on the life, I guess.
+	5D5774C0	~z~The problem's that you'll be letting yourself in for a lifetime without getting action.
+	661A7DE5	PM1_DAJ
+	677AC9B8	~z~These better be some good fucking pills. The housewives better be grateful.
+	64B67DDD	PM1_DAE
+	6420766F	PM1_DW
+	649DA33A	100
+	76959A32	PM1_CW
+	781ECD8D	~z~He gave us the heads up in exchange for a cut of the haul.
+	730A10DB	PM1_CY
+	723E05A1	~z~See those boxes on the back of the boat? They must be bringing cloned meds.
+	727D637D	PM1_DAB
+	79DEB44E	~z~You fucking triad bastards!
+	79E4DE4A	PM1_CE
+	79503F30	010
+	783750B8	PM1_DJ
+	7856ABDF	~z~Meds. Mollis, sedatives, antidepressants - meds.
+	6EB420FE	~z~Shit, Niko. These cocksuckers are all over us.
+	6F30277D	~z~Tell you what, I'll snort a load of rails, fuck a lot of drunk girls,
+	6E9E6CB0	PM1_CAB
+	6C123FCD	101
+	6CEAA1AA	~z~There's a box of grenades in here. Pass some up, Packie - I'll give them a taste of their own fireworks.
+	71CAB0A0	PM1_CAG
+	72259C38	PM1_JG
+	714CCED0	PM1_CAC
+	70AA2517	~z~Dammit, they just don't give up.
+	710C9FEE	~z~So if this shipment is what they say it is, then it's going to smell fishy anyway.
+	4F86E12F	PM1_LA
+	4F56AD01	PM1_CAA
+	4F425896	~z~Ha. You're a perceptive guy. I got the lowdown on you from Elizabeta.
+	541F6BD5	~z~I fuckin' do. It's just that we've got your fuckin' Slavic driving skills as well.
+	54B48AC0	~z~Don't have much in the way of coordination do ya?
+	546471E6	~z~That's the fucking problem, everyone in the neighborhood... hell, in the whole fucking city knows us.
+	542C87C7	PM1_DK
+	49CA5E30	~z~I'll cover you from up here while you're down on the ground cleaning up.
+	4791B6C9	~z~So, this shipment smellin' fishy means that it ain't gonna be what they say it is.
+	499EAF9B	100
+	4B1F3DEC	~z~The triads are expecting something and it smells fishy.
+	4E27F5DB	~z~Put that in your wok and fry it.
+	4DDB4566	PM1_CT
+	4CA359D8	~z~Take some of your anti depressants if you're that damn upset about us robbing ya.
+	5A0C07D5	PM1_QA
+	5838B01C	PM1_DAC
+	55E75E28	PM1_A_AB
+	58E3C3F0	PM1_AA
+	5B7CB86C	PM1_GA
+	4675EE43	~z~You're going to hurt yourself if you keep that up, boy.
+	57E58956	~z~I just can't be bothered with this shit.
+	5AAFD88B	PM1_HA
+PM1_CUT1_1	8E5DFEBE	~z~All I'm saying is that we'll all be judged in the end, all of your brothers...
+PM1_CUT1_10	04271102	~z~Good. 'Cause I ain't fucking got none.
+PM1_CUT1_11	16EDB68F	~z~Very funny.
+PM1_CUT1_12	699D5BED	~z~Maybe if being a drunkard doesn't work out you can be a comedian.
+PM1_CUT1_13	7B56FF60	~z~Fuck off...
+PM1_CUT1_14	43610F75	~z~and you, Kate, fuck off outta here.
+PM1_CUT1_15	4E2324F9	~z~But aren't you going to introduce us?
+PM1_CUT1_16	A0AA4A0A	~z~Sure.
+PM1_CUT1_17	B2F0EE97	~z~This is Niko, some drug dealing de-fucking-generate from some armpit in Eastern Europe.
+PM1_CUT1_18	FA7CFDAE	~z~That's my ma.
+PM1_CUT1_19	840A10CA	~z~Nice to meet you.
+PM1_CUT1_2	E64E2E9D	~z~and you, Patrick. And you, Kate!
+PM1_CUT1_20	5488BDD4	~z~Hi.
+PM1_CUT1_21	36C4824C	~z~And this is my sister. Lovely lass.
+PM1_CUT1_22	AB0EEB5B	~z~Scared to bits of life. And fucking off outta here right now, before I throw a fuckin' bottle at her.
+PM1_CUT1_23	98D3C6E5	~z~Patrick!
+PM1_CUT1_24	3B2B8B36	~z~Nice to meet you.
+PM1_CUT1_25	491AA714	~z~Likewise, see you around.
+PM1_CUT1_26	978BC3F1	~z~Bye.
+PM1_CUT1_27	B3A1FC1D	~z~What a girl!
+PM1_CUT1_28	33B27C44	~z~I think she likes you.
+PM1_CUT1_29	02239927	~z~Word to the wise, though - she don't put out.
+PM1_CUT1_3	D8821305	~z~Who's going to judge Kate? What would she win if they did? Virgin of the year?
+PM1_CUT1_30	6022D428	~z~Which is convenient, 'cause if she did, I'd have to kill you.
+PM1_CUT1_31	73E0FBA4	~z~Understood.
+PM1_CUT1_32	7D718EC1	~z~Good lad.
+PM1_CUT1_33	8FB8B34F	~z~You got any drugs on you, boy?
+PM1_CUT1_34	24F0DDC5	~z~No.
+PM1_CUT1_35	F9498677	~z~Shit...
+PM1_CUT1_36	406594AE	~z~well, probably a good thing... we got some business to take care of.
+PM1_CUT1_37	52A7B932	~z~Come on.
+PM1_CUT1_4	C2C86792	~z~-I'm thinking maybe you can catch VD for both of us, Patrick.~n~-Fuck you, Katie.
+PM1_CUT1_5	B5354C6C	~z~Language.
+PM1_CUT1_6	F0DB43B3	~z~Sorry, Ma.
+PM1_CUT1_7	1FADA15F	~z~Oh, there he is, Mr. fucking crazy man...
+PM1_CUT1_8	D40B8A14	~z~you wanna beer?
+PM1_CUT1_9	E1CEA59A	~z~No.
+PM1_LOCK_1	8345E56C	~z~The stuff all in there?
+PM1_LOCK_10	6E471359	~z~Fucking guinea.
+PM1_LOCK_11	807CB7C4	~z~I work for whoever's paying.
+PM1_LOCK_12	9399DDE6	~z~I might give you a call sometime.
+PM1_LOCK_13	A154795B	~z~Get in, Packie.
+PM1_LOCK_14	6EC5143D	~z~Eh, I'll catch you round, man.
+PM1_LOCK_2	94E008A8	~z~Sure is. All safe and sound. Whole truck load of it.
+PM1_LOCK_3	DDE71AB1	~z~A lotta wives and mistresses are gonna be happy when their men get a hold of those, huh?
+PM1_LOCK_4	EFA4BE2C	~z~Whole city's gonna be hard in a few days time.
+PM1_LOCK_5	BA6D53BE	~z~Who's this?
+PM1_LOCK_6	CC2FF743	~z~That's my boy, Niko.
+PM1_LOCK_7	14A28827	~z~He's an absolute savior. Couldn't have done it without him.
+PM1_LOCK_8	3A69D3B5	~z~Niko, come over here.
+PM1_LOCK_9	F0E6C0B0	~z~You work for these mick bastards?

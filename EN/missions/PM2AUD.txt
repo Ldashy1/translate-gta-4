@@ -1,0 +1,382 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	99D3F1A6	PM2_CF
+	9A1C5AA6	~z~It'd be my fucking pleasure. See you at your ma's.
+	996EDBDF	PM2_DAA
+	985BB40D	~z~Alright boys, let's go inside and find this money.
+	98FCA495	~z~A Mafia controlled waste management plant?
+	9A4BF344	PM2_DAH
+	9C504530	PM2_WA
+	9C8D33B8	PM2_CX
+	9BFF8BF2	PM2_DQ
+	9A91A8FD	~z~I'm goin' up to get the cash. Cover me, Niko.
+	9B760DCF	~z~The only thing they're doing for Gordon is keeping the bookies off his back for another week.
+	92169E19	PM2_YA
+	92364B13	~z~That sounds like the Francis McReary I met.
+	90BB8B32	PM2_A_KE
+	902A8845	PM2_B_AA
+	907D585B	PM2_CR
+	925C7A94	PM2_DT
+	9740DEA9	PM2_FB
+	97AEC521	~z~Gordo's down. This ain't good. I'm outta here.
+	95E27F84	~z~Not gonna throw it at the bookies like Gordon over here. I'm saving it up so...
+	938ABED3	~z~Don't fucking worry about it. They'll just figure it was another one of the five families.
+	94AA43F8	~z~Okay kids, I got the cash. Shit! Looks like we're not the only ones after it.
+	A65535CC	PM2_ZB
+	A69D9D8E	PM2_DD
+	A493EB61	120310310120210
+	A3129594	PM2_DG
+	A386B6DC	100010
+	A7C246C8	~z~Fuck, Packie's down. I ain't hanging around.
+	ADC99F45	~z~Course they are. Cosa Nostra and all that shit.
+	AF1F7BE0	PM2_DAC
+	AB7E1337	302
+	A8E375E8	~z~What a trooper.
+	AA2779D5	~z~Fucking Frankie, my brother.
+	9D71C9DD	~z~These places are messed up. I think this Ray guy is fucking with you.
+	9E8117D1	PM2_DO
+	9D364CD6	PM2_DW
+	9CAD4A63	PM2_A_MA
+	9D1115E7	PM2_JA
+	9F9C7975	PM2_LA
+	A1CB3776	~z~Packie's fucking bought it. What am I gonna tell his brother? Shit.
+	A244855F	PM2_CAB
+	A13B5A34	~z~Providing the Ancelottis don't figure out it was us that ripped them off.
+	A0C77FB2	PM2_A_PB
+	A13006E9	100010100100
+	8FE0EDC5	PM2_DJ
+	7C3FF20E	PM2_CW
+	7CE93673	~z~Can you get us a car, man? I'm afraid these two idiots can't drive for shit.
+	7BC8CE81	~z~I think they're fucking with ya, Packie. They're laughing at ya.
+	7B0F9BA6	~z~Listening to them was like being in Purgatory.
+	7B18902D	PM2_AB
+	7D612165	~z~I'd like to see him try it. Not gonna happen with the things Gerry knows.
+	7F8A7185	~z~Hey Packie, I'll go get the money. Cover me, will you?
+	800428EB	PM2_CJ
+	7F26B3B0	PM2_CAD
+	7E0AAE9B	~z~How were we supposed to get that money outta there if our getaway boat gets trashed before we're even on board?
+	7E6B9AD4	~z~Fucking Gordon got himself hit. We should regroup at the house.
+	767F10D4	PM2_A_AB
+	777C83A3	PM2_DU
+	7583B75F	~z~That's got to be the office up there. I can smell the fucking money.
+	71CCBA7D	~z~Them guidos use you for what they like, if the Peg asked Gerald to wipe his ass he probably would.
+	7370BCF9	PM2_DE
+	77EDC96F	~z~Swimming for it, eh?
+	78F600E6	~z~The whole city is turning into a fucking theme park.
+	7905178D	~z~I can believe that.
+	78AF152B	102
+	78810A10	~z~We did it. Top of the fucking world. Here's your share. Don't go spending it in any Italian restaurants.
+	788322B8	PM2_A_AE
+	861E1A79	~z~Michael's out. Does anyone know where he keeps his cash? Fuck it, I'm gone.
+	88F3CE54	PM2_DAF
+	861051F5	~z~Why are we always waitin' for you?
+	85CAA6B1	PM2_AA
+	85EB2EF6	~z~What do ya fucking call this? Get us a car we can all fit in.
+	8A2D672A	PM2_DF
+	8EEFF193	~z~You shouldn't save too much, Michael. You never know, you might get hit by a bus tomorrow.
+	8FAFE5EC	PM2_CS
+	8CDC7B4D	~z~All that money floating in the Humboldt River.
+	8AF50702	PM2_BA
+	8C6CD86E	PM2_DAE
+	82D82B33	~z~You know Frankie do ya? I got a story for you if you do.
+	83062FFE	PM2_A_AH
+	823632AD	PM2_GB
+	809744E1	~z~Our family used to be bigger than all them Mafia families put together. Back in the day, that is.
+	80E5176A	PM2_A_IA
+	833099D5	PM2_WC
+	849710EA	PM2_A_HA
+	85A1B0CA	~z~Fuck you, Gordon. I'll fucking come back there and kick your fucking ass in a minute.
+	8477A531	PM2_DAD
+	8375AD92	~z~He swears to this day that he wanted to serve the Lord. Gerry knows the truth though.
+	837A1EB2	~z~I'll think about the money then.
+	E78D310E	PM2_CAE
+	E84EB79B	PM2_DA
+	E72BE764	~z~I'll see you soon, Packie.
+	E5560234	~z~We made it, Niko. Who'd a thought we'd fucking survive that?
+	E654B4BF	PM2_XB
+	E9D5E2A4	~z~It looks like he ain't too pleased with the dates you been taking him on, Patrick.
+	EE69FE37	PM2_RA
+	F095B5BF	100
+	EDEC63FB	100100
+	EBD2E347	100
+	EC757F8C	~z~I bet. Model community leader, my ass.
+	DE9075A0	PM2_CO
+	E00E57D9	~z~Shut up and think about the money. If that don't work, think about my sister. I tell you though,
+	DE896294	~z~More so. At least we ain't fucking hypocrites. Kate's the only decent one.
+	DAD4DC47	PM2_CE
+	DB4875E2	PM2_CY
+	E0FFA6DE	010100
+	E4EBA0C5	~z~Fucking with us or not, these jobs pay the bills, don't they?
+	E5210DF3	~z~Life was great. We were in charge.
+	E4A20EF3	390
+	E2F72208	PM2_A_KA
+	E3C05679	~z~We're all gonna do real well outta this.
+	FBEFF276	010
+	FC0F4BDC	~z~That shit was rigged. I got screwed in the ninth damn inning.
+	FBBA8671	~z~You got to learn how to treat a man right.
+	F7729466	~z~Shut up, Gordon. So, Niko, when Francis and Gerald was growing up, Frankie becomes an altar boy.
+	FA8D9F97	PM2_DZ
+	FC0F9C57	PM2_A_AA
+	FD6FFF32	PM2_A_HD
+	FF3C8684	~z~Gordon, Michael. You hold these boys back while me and Niko make a swim for it with the money.
+	FD49E9F8	PM2_TA
+	FC392FFA	~z~See you soon, Niko.
+	FD18A087	190
+	F1264AE4	PM2_CAG
+	F2CFA950	~z~It's fucking true. I'd like to hear you tell Gerald that it's a boring story.
+	F105B125	PM2_DN
+	F0E7CB4F	~z~Here we are boys, moment of fucking truth.
+	F0F28416	PM2_CH
+	F2F5D882	~z~They're all Mafia though?
+	F6BB8E88	PM2_CG_QQQ1
+	F710BF76	PM2_EA
+	F6B94460	~z~That don't mean shit.
+	F500E2CC	PM2_A_HB
+	F59A3A58	190190190
+	DA53061A	~z~you're only getting your hands on one of those things, you maniac, and it ain't going to be my Katie.
+	C208C35C	PM2_A_PA
+	C49308BB	100010010100100010100
+	C1AB846C	PM2_PA
+	BF1ED520	~z~You think even these Alderney guidos would have the balls to do that?
+	C0FD87CF	310
+	C532A0F3	PM2_IA
+	C85FE392	PM2_DR
+	C934561A	~z~Not this shit again. I heard this speech a million times. The McRearys ran the city.
+	C81E58F4	190
+	C672D8CA	PM2_CAI
+	C757EA3B	010100100100210210120100010100100310310310130130130100310310130010100100100010100310100100100100010100310130
+	B844DBD0	PM2_XA
+	B8CEED73	PM2_CU
+	B4105DE6	190
+	AF336D60	~z~No one's fucking with me, Niko. This is how things work here.
+	B17C73FE	PM2_DX
+	B8D637FF	PM2_KA
+	BAB8AB77	190190010100100010100100010100
+	BD5FDCD8	190
+	BAAFA4C0	PM2_A_AC
+	B97F4E05	PM2_A_LC
+	B9C776CA	PM2_A_HE
+	D1F4FACC	~z~You think they're having a laugh with Gerald, Gordo?
+	D3DB4D38	~z~He may have a badge, but I tell you for a fact he's as crooked as the rest of us McRearys.
+	D1F1B2DC	~z~Shut it, Gordo. Ray's given us a tip off about a big payment the Ancelottis just got.
+	D12D11B6	~z~Shit, the boys is dead. I ain't hanging around. Later, Niko.
+	D14B7DB5	PM2_A_KB
+	D3E10A96	PM2_CAF
+	D7D77C89	PM2_DL
+	D7F9F3A5	~z~People was scared to say their name let alone come near their place in Purgatory.
+	D7211DB6	190
+	D3F99FE6	PM2_A_HC
+	D5C85232	~z~You're just worried he'll start clamping down on you, ain't ya Packie?
+	CACFF65A	~z~Don't go too fucking far, Niko.
+	CB07A950	PM2_DV
+	CA582C6D	~z~you're only getting your hands on one of those things, you maniac, and it ain't going to be my Katie.
+	C9585F0D	PM2_A_AJ
+	C9F4067F	~z~It's the fucking Pegorinos, man. We're workin for them.
+	CB31C128	PM2_A_AG
+	D0A318EF	~z~Alright, we're heading over to the docks in Dukes. Make it happen.
+	D12C1F33	120210
+	CFAD2416	~z~I am not so familiar with these English phrases, but isn't that meant to mean something was easy?
+	CEE662FE	PM2_SA
+	CEED6EC1	PM2_A_LD
+	71B00062	PM2_MA
+	2A6AD990	~z~When taking candy from babies you are not meant to have to kill a load of their employees.
+	2A712657	PM2_DI
+	29B09137	PM2_CL
+	2906E3FA	PM2_UA
+	298418DE	~z~Watch out!
+	2D03885F	~z~Alright boys, if Ray is correct then the money's going to be kept in the office in the main building.
+	2D642E85	~z~If the Ancelottis hear we've been spending it up they might finger us for this job.
+	2CE42A11	~z~Can't have a dollar in his pocket without spending it at a card game.
+	2B5991E3	PM2_CAC
+	2C700EE6	PM2_CQ
+	287F23DD	~z~What you got to worry about? There's only every virus known to man floating about in this river. Come on.
+	232A82F7	~z~Yeah, fuck yuz.
+	23544EB3	~z~Try to keep the money dry, won't ya? I don't know how my bookie's gonna be about wet notes..
+	232A7BAD	100
+	20394F6E	~z~First you take me to a fish market and now a waste plant.
+	223F5F13	~z~There's got to be a pizza parlor on this island coz I ain't never seen so many Italians.
+	25AF24FB	~z~Sure, me boy. There's the boat just out there. I'll race ya.
+	25B970F3	~z~Another fucking story.
+	2523BCE1	~z~Pecorino's a type a cheese. Pegorinos is a bunch of guido gangsters outta Alderney.
+	244276D9	~z~And there should be a boat docked out back for the getaway.
+	24C1D015	PM2_A_HF
+	3BC4314C	PM2_CZ
+	3C488652	~z~Michael, Gordo watch our backs. Make sure none of these wops tries to come up behind us.
+	3B7FA479	PM2_GA
+	3883976A	~z~You guys take the money and meet me back at Ma's. Me and Niko are taking a swim.
+	399B8A7A	~z~I hope you're right for my sake.
+	3F8FA4A7	~z~I hear that Francis McReary is your brother.
+	410674A6	~z~You fuckin' guessed it.
+	3EA02D8F	PM2_A_AF
+	3D04BEFE	PM2_DK
+	3D2C4779	PM2_DS
+	388244C1	~z~If that happens, the bookies will be the least of your worries.
+	33BD14B9	~z~Why'd you have to go and sink it? Now we're swimming to Dukes.
+	33F024DE	PM2_CK
+	3356287A	PM2_DAG
+	2E212FFB	PM2_DC
+	301A2ABF	PM2_CAJ
+	36BC9EC6	PM2_FC
+	371794D7	~z~That's Francis down to a fucking T. I don't even know if he realizes what a crook he is.
+	358B12B6	~z~What are you doing?
+	34486CAC	100
+	3523FD4A	290
+	1FF79044	PM2_DM
+	09889546	190
+	09E3CB4F	~z~Don't worry about Gordo and Mikey, they ain't gonna have no troubles. You'll get your share.
+	0956699A	~z~How much you lose on that Swingers game last week?
+	086CA5E3	PM2_OA
+	0931E981	PM2_DB
+	0C2306D9	190010
+	0C3C7335	PM2_MB
+	0AAF9C5E	190
+	0A28CDB0	PM2_CP
+	0A6E352D	PM2_A_JB
+	078CA337	PM2_AC
+	02DE0C9C	PM2_A_TA
+	041B9A9B	PM2_HA
+	0090C4D6	~z~Did you know that, Niko?
+	0035AF31	PM2_FA
+	0079C4A4	~z~Me brother wouldn't take too kindly to that now would he?
+	04E3B776	100210310
+	06D13EE1	190212312
+	047B39A4	010
+	043A7B0B	~z~Ancelottis, Gambinos, Pecorinos.
+	04782385	~z~Out the back, boys.
+	1776B3A8	~z~Okay, if you say you are right, you are right.
+	177D02B7	~z~Don't go dropping too much green after this.
+	1736A201	190190
+	147C9B43	PM2_QA
+	14FF859A	100
+	1BF88135	~z~I've got it boys. Prettiest thing I seen in all me days. I'll tell you that.
+	1E131313	~z~Only places an honest criminal can make any money are these shit holes.
+	1BEEFFD0	PM2_CT
+	17C40CA2	~z~That don't mean I can drive one. Fuck it though, I'll give it a try.
+	1BCBA1DF	PM2_ZA
+	13454EC6	PM2_DAB
+	0E4D604B	~z~You know that Purgatory is called what it is because people were so scared of the McRearys.
+	0E8460BD	~z~It's called that because people found the McRearys' stories so fuckin' boring.
+	0E47AB8B	~z~Packie, you hang out in some strange places.
+	0D199EEE	~z~Nicely done, me boy. Nicely done. Like taking candy from a baby.
+	0E155A8A	PM2_A_SA
+	11397630	~z~A guy who bats one-fifty hits a three run homer. Bullshit!
+	1290D376	~z~Alright, it's up and over the fence.
+	10794C46	PM2_DY
+	0F439121	~z~It's an Ancelotti operation. Ray tipped us off about a big payoff they just got.
+	1022E3DE	PM2_CC
+	4154D588	~z~If ya want a pair of armbands you ain't gonna find them there. Get in.
+	5DA4F5F7	PM2_CM
+	5F01E38F	PM2_CD
+	5DA1784F	290
+	5B51FC79	~z~Be cool man!
+	5BB7AA08	~z~Ancelottis, eh? I can't tell none of those wop families apart.
+	5F4C3273	PM2_CV
+	627067F9	~z~If you think I'm letting one of these reprobates sit on my knee, you're crazy.
+	630D5F57	~z~Dammit, Michael's down. I'm ghosting.
+	605F8CDF	PM2_DH
+	5F9812E4	~z~Nah, not St. Michael here.
+	60169711	~z~What's that say about you then, Gordo? If you're taking orders from Packie.
+	579566B1	~z~I don't care so much about us, as long as the money makes it home safe.
+	57FD7A2A	100
+	5643FCCC	PM2_A_LA
+	54AE4C75	~z~Come on, Niko, use your head. There are four of us.
+	55D7D373	PM2_CI
+	581BA6A9	PM2_NA
+	5B0EF9B7	290
+	5B36DE0D	~z~Christ, Niko. What the fuck?
+	5A9C05BC	PM2_DP
+	5A87B5FD	390
+	717BFAB6	~z~That was fucking beautiful. We did ourselves proud.
+	631D27CF	~z~ It makes me sick to me damn stomach. See you, Niko.
+	6BE2C53D	010010310310130130010100100100310120120310230320120230230320320130130130210210120320130010010100010
+	6CD9CFAD	PM2_VA
+	6BD667D1	100
+	6B2E92FE	~z~Fuck you, Packie.
+	6B4428CE	PM2_CAK
+	6CE2806C	~z~He only put on that cassock so he could pocket the change in the collection plate. Fact.
+	6FA49C68	PM2_CAA
+	6FB97802	PM2_A_JA
+	6F2B4D5E	~z~Ahh, fuck. It's a massacre. This ain't gonna be easy to explain.
+	6D20E24F	~z~We'll see you back at the house, Packie.
+	6E82EAC6	~z~Sure thing, Packie.
+	679D75F1	~z~Both of me boys is gone. I got to re-evaluate this shit.
+	67CE1FE8	~z~Are these his dollars he's spending, or yours?
+	63AB9B17	~z~I don't give a shit what you're doing with your cut. All I care about is you holding up your end on the job.
+	637B6D59	~z~Michael, Gordon tries anything you fucking shoot him. Understand?
+	638F5EDD	~z~My brother Gerry is going to be fucking ecstatic.
+	67E3B9B9	PM2_CAH
+	68AE9650	~z~Take us out to the waste management plant under the Algonquin Bridge on Colony Island, big man.
+	6941D73D	~z~I like your attitude, Niko. I think we're gonna keep getting on real well.
+	689BB682	PM2_A_QA
+	680858F7	100
+	68408307	~z~Good fucking going.
+	549F09FA	~z~Niko, stick fucking close to me.
+	416F5BB3	PM2_A_KD
+	46AB6723	PM2_A_KC
+	462CB3F9	~z~Niko... Jesus.
+	4660E07E	~z~Don't trouble yourself about me, Packie. I'm sitting on my money.
+	46FEB460	~z~You're trusting us with the money?
+	495EEFD7	~z~Can you drive a boat? You got to this fine country in a boat didn't ya, Niko?
+	4BCB2ED9	~z~Us McRearys are under the fucking radar nowadays. It ain't a problem.
+	485C1621	PM2_A_HG
+	48798D0B	PM2_A_AH
+	45B4321A	100100
+	41D535A5	~z~What the hell have you done? I thought you were a damn sailor?
+	41E38881	~z~You have a lot to learn about the English language, my friend.
+	418A7698	100
+	41A9B086	PM2_A_AI
+	42A92859	PM2_A_NA
+	4552C9BD	PM2_CG
+	4566380B	~z~Shit, you've sunk it. Looks like we're swimming to Dukes.
+	434F56E7	~z~My cousin, Roman, he has this gambling problem as well.
+	44C17FD8	PM2_A_BB
+	4F53DA3D	PM2_CN
+	4E4E4B4B	PM2_A_AD
+	4D790D8B	~z~A fat cash payoff.
+	53C12C3C	~z~A whole lot to learn. I only wish I had the time to teach you.
+	52A2F824	~z~Scared of the water are we, Niko?
+	5181F34C	~z~What's mine is his. We are cousins.
+	5141C8E6	~z~Mikey, maybe you and me should take this cash down to Vice City. Have some fun.
+	4C1BAE61	PM2_A_RA
+	50C23169	PM2_WB
+	4BF2E70A	PM2_A_LB
+PM2_CUT1_1	B03D5F20	~z~...so the plan was they were gonna hide the diamonds in the Queen's ass!
+PM2_CUT1_10	59960951	~z~Then I am quite sure you and mister Niko here will have fun on your 'play date'.
+PM2_CUT1_11	CBD76DD6	~z~Kate!
+PM2_CUT1_12	506B76FC	~z~Coming, Ma... you boys play nice, now...
+PM2_CUT1_13	42A05B66	~z~For sure.
+PM2_CUT1_14	34DEBFE3	~z~Kate!
+PM2_CUT1_15	872F6483	~z~Okay!
+PM2_CUT1_16	02C7DB6A	~z~Oh, we're gonna play real nice...
+PM2_CUT1_17	104EF678	~z~They're clean as a fuckin' whistle. One previous owner...
+PM2_CUT1_18	DE0911ED	~z~safely driven... ready for action.
+PM2_CUT1_19	EBB32D41	~z~We got an opportunity, my boy.
+PM2_CUT1_2	B37C659E	~z~Oh, hey, Niko.
+PM2_CUT1_20	1D9F1250	~z~Yep. Fortune favors the brave.
+PM2_CUT1_21	3C604FD2	~z~Gotta make hay while the sun shines.
+PM2_CUT1_22	591E0951	~z~So is you down, boy, or is you out?
+PM2_CUT1_23	67E426DD	~z~Down for what?
+PM2_CUT1_24	748CC02E	~z~Down for robbing a thief...
+PM2_CUT1_25	9345FDA0	~z~Robin Hood!
+PM2_CUT1_26	14227F5B	~z~Exactly, Robin fuckin' Hood...
+PM2_CUT1_27	9EDB94CF	~z~Who are you going to rob?
+PM2_CUT1_28	AFDA36CC	~z~The fucking Mafia, boy.
+PM2_CUT1_29	BDB0D279	~z~Is the money good? What's the risk?
+PM2_CUT1_3	C3B20609	~z~Hey, Kate.
+PM2_CUT1_30	3F7252CA	~z~Well, the risk is... we all die a very slow and painful death.
+PM2_CUT1_31	6D92AF0A	~z~And the money is good, very good indeed.
+PM2_CUT1_32	E733A202	~z~So you in, big guy?
+PM2_CUT1_33	D8F1057D	~z~Or are we gonna have to kill you?
+PM2_CUT1_34	03C25B1F	~z~Well...
+PM2_CUT1_35	32EF39C4	~z~since you put that way, I'm in.
+PM2_CUT1_36	0B3E6A67	~z~-Good, let's go.~n~-Alright, alright, lets go. Let's do this.
+PM2_CUT1_4	BFF2FE8F	~z~Get your fucking hands off my fucking sister, boy...
+PM2_CUT1_5	C2B70417	~z~We're talking, not having casual sex, Patrick...
+PM2_CUT1_6	D418A6DA	~z~I pray after the amount of practice you've had you'd know the difference.
+PM2_CUT1_7	E741CD2C	~z~Sure, I know the difference.
+PM2_CUT1_8	F89C6FE1	~z~One leaves you feeling sad and empty and alone...
+PM2_CUT1_9	05ED0A82	~z~and the other's casual sex!

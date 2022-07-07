@@ -1,0 +1,23 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	7A44DEE5	~r~Playboy is dead.~s~
+	8595EDCE	Follow ~b~Playboy~s~ across the roof.
+	6A66530E	Go down to the ~Y~street.
+	6F57C152	The N.O.O.S.E. team have the bottom of the apartment covered, you'll need to escape via the ~y~roof.
+	CE2F7F00	Take Playboy to the contact's ~y~apartment.
+	E8FB3497	Kill the ~r~cops~s~ and ~r~N.O.O.S.E.~s~
+	A88888A7	~s~Lose your wanted level.
+	B7F5528C	Follow ~b~Playboy~s~ to meet the contact on the 3rd floor.
+	5E5F3B18	Take Playboy back to his ~Y~apartment.
+	0F8A81BD	Follow ~b~Playboy~s~ up to the roof.
+	18EE1BCA	~r~Playboy was abandoned.~s~
+	01BBCD7E	~r~Johnny is dead.~s~
+	02C26825	Help Playboy take out the ~r~N.O.O.S.E.~s~ team.
+	3327E4AA	Don't leave ~b~Playboy~s~ behind.
+	41486538	Clear out the ~r~floor above.~s~
+	250FACC7	~b~Playboy~s~ is in trouble. Go back and help him.
+	2C9C4E99	~s~You are too far away from ~b~Playboy.~s~ Go back and get him.

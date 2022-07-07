@@ -1,0 +1,17 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	7E547F54	Get back in the ~b~car.
+	680F52CA	~r~The car has been trashed.~s~
+	A056472B	Walk round and get the ~B~car.
+	E77FD57D	Get in the ~b~car.~s~
+	D4AFAC09	Drive to ~y~Brucie's lockup.
+	67725564	Lose your wanted level.
+	4AFF9C7F	~r~The car has been abandoned.~s~
+	077D9578	~r~The car has been destroyed.~s~
+	4CA29BF1	Lose the cars.
+	5B2ABCD1	Get the car back to ~y~Brucie's lockup.
+	55B1B1E3	Go to ~y~Yorktown Ave.~S~

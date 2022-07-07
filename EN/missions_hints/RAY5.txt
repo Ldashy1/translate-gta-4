@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AB22477F	~s~The ~r~biker~s~ has entered the subway. Follow him.
+	A679A5FA	~s~Chase and take out the ~r~bikers.
+	F372EB74	~s~Hold ~PAD_LT~ to switch headlights between dipped and full beam.
+	F9D177CB	~r~The biker got away.
+	F60E1364	~r~The bikers got away.
+	3B004F05	~s~Go to where members of The Lost are ~y~hanging out.
+	10D8FAB7	~s~The ~r~bikers~s~ have entered the subway system. Follow them.
+	60E5D135	~s~Hold ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.
+	A2949E30	~s~Take the ~b~bike.
+	7B1A0DB3	~s~Use ~INPUT_VEH_HEADLIGHT~ to switch headlights between dipped and full beam.

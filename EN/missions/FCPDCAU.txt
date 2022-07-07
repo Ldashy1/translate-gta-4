@@ -1,0 +1,210 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9D340B84	~z~Then, if I was talking to my pa I'd be burning in the Seventh Circle of fucking Hell.
+	9BD53B36	~z~I don't know, I'm pissed,
+	9BA7B710	~z~On his grave it says something like don't get worked up about life and death
+	9FB6B826	FCP2_DRUNK3_CJ
+	9EF77462	FCP2_DRUNK4_DI
+	9D50DB13	~z~You didn't seem like you were on a good path, when we meet, I mean.
+	9946DFD2	FCP2_DRUNK6_FU
+	97CDC4D8	FCP2_DRUNK1_AJ
+	97AED6A1	FCP2_DRUNK3_CQ
+	9B98E34B	FCP2_DRUNK5_EP
+	9B7A7017	FCP2_DRUNK1_AA
+	9A68B4AE	~z~horsemen pass by. That's some deep fucking shit.
+	A49AEF02	FCP2_DRUNK3_CI
+	B007007F	~z~you're leading me astray, Niko!
+	AD81DAC4	~z~swans and all types of shit.
+	AD8137D5	FCP2_DRUNK4_DD
+	B5E6D019	~z~You're drunk, shut up.
+	B23848AA	~z~Before you get smart...
+	B04EA608	~z~and this is called being a man?
+	A7AA3418	FCP2_DRUNK3_CA
+	A7545234	~z~What?
+	A62D90D2	FCP2_DRUNK4_DB
+	ACD4916C	~z~I've heard about Europe - it's near Ireland, only the people there are backwards and hairy...
+	AB665744	FCP2_DRUNK3_CG
+	A8A9675F	FCP2_DRUNK1_AK
+	96D8E80A	~z~I too like poetry. We have much in my country. Let me recite some to you.
+	873502FB	FCP2_DRUNK5_EB
+	86883931	FCP2_DRUNK2_BA
+	85FE938D	100010100100100010100100100100100100100010100
+	89644A8C	~z~Fuck me, I'm pissed.
+	8868D9CF	100010100100100100010100100100100010100100100100010100010100010
+	881A1011	~z~Sure it is.
+	7F857200	FCP2_DRUNK3_CX
+	7EE5E538	FCP2_DRUNK3_CC
+	7D8B3CB6	FCP2_DRUNK4_DO
+	84FDCF67	~z~You're fun when you're drunk.
+	82EE6A21	~z~I'll end up in
+	815F6783	~z~When summer's in the meadow,
+	89E11383	~z~because people ain't gonna care and they're gonna be walking over your dead body anyway...
+	9147F8DB	100010100100010100100
+	8F923F96	~z~and song and good times and tears!
+	8E65D724	~z~You do not mind that it is in my language.
+	96B1A1EB	FCP2_DRUNK3_CE
+	93376BDA	~z~Fuck it, quite frankly, I'd rather be a fucking puddle of piss...
+	91805584	FCP2_DRUNK4_DJ
+	8B72D104	FCP2_DRUNK1_AF
+	8B40DBCB	FCP2_DRUNK5_EK
+	8B0BE730	~z~But, point taken - I'd tell my pa he was a fucking prince if he'd rack up some rails for me.
+	8E26E1D1	FCP2_DRUNK4_DA
+	8E060DE1	FCP2_DRUNK5_EC
+	8BB5384F	FCP2_DRUNK6_FN
+	ED843FCF	~z~But come ye back,
+	EB34F6DA	~z~A-gain... a-fucking-gain,
+	E6BD06AB	~z~Sounds fun. Promise to invite me around when you're there.
+	F3DF2671	FCP2_DRUNK6_FI
+	F38A2A62	FCP2_DRUNK4_DC
+	EE24C527	FCP2_DRUNK6_FR
+	E32A7F86	~z~We'll be fighting at the kitchen table for the rest of eternity.
+	E306AC3C	~z~Tis I'll be here in sunshine,
+	E0A92621	~z~And down the mountain side,
+	E595CB0B	~z~Fucking Yeats and shit. You know him?
+	E59302E8	~z~I'm civilized. I know a lot about civilization, I went there once.
+	E45C19D3	~z~Fuck me, Niko boy. Fuck me sideways.
+	F4821863	FCP2_DRUNK2_BD
+	FC2BDB69	FCP2_DRUNK6_FC
+	FC12A897	FCP2_DRUNK4_DN
+	F74AA657	~z~Didn't like much, went back to the madhouse... fuck me, I'm drunk.
+	FFA92E53	FCP2_DRUNK1_AH
+	FEA1C2AD	~z~and I have so much inside me, but I can't express so I gets fucked up and goes and hits a cunt...
+	FD4AF07C	FCP2_DRUNK3_CF
+	F60D21EF	FCP2_DRUNK1_AB
+	F5416AE2	FCP2_DRUNK5_EA
+	F4FF5139	FCP2_DRUNK6_FQ
+	F6BB6D56	~z~We got more poets than bottles of whiskey and that's saying a fucking lot.
+	F66F8CF3	~z~I'm drunk and stupid tonight.
+	F619BD4E	~z~I don't got no coke if that's you're thinking.
+	DEABCBC3	FCP2_DRUNK2_BF
+	C170CA84	FCP2_DRUNK4_DG
+	C0E09E25	FCP2_DRUNK6_FK
+	BF457E4B	~z~He wrote about fighting and dreaming and fucking
+	C6B92DE3	~z~Leading down a no good path of wine and women
+	C68F770D	FCP2_DRUNK6_FT
+	C4F1442A	~z~You like poetry, Niko? I fucking love it.
+	BB353987	FCP2_DRUNK5_ER
+	B8FA211F	FCP2_DRUNK3_CS
+	B8875C1D	FCP2_DRUNK6_FS
+	BE3CBCA7	100010100100100100100010100100100010
+	BE3A3437	~z~Whereas you're really civilized here.
+	BE0E7FA8	~z~Niko, man, Niko, I just want to say, I just want to say, I just want to say something.
+	C7E8553B	~z~Fuck you.
+	D479C964	~z~Again.
+	D4588CEE	~z~Oh Danny Boy,
+	D2EF0AAD	~z~The summer's gone,
+	DC217DAD	~z~and unkind and full of idiots,
+	D9A3275A	FCP2_DRUNK5_EQ
+	D5289080	~z~Hushed and white with snow
+	CDBD0041	~z~Must go and I must bide.
+	CD95FF77	~z~Shoot me, in the head.
+	C8A9A2CE	FCP2_DRUNK3_CM
+	D2DAA940	~z~Let me think, shut up and let me think, let me be.
+	D254A489	~z~Cannot say that I do.
+	CF7192CE	100010100100100100010100100100100100100100100100100100100100100100100100100
+	31EA9E2F	~z~Alright, ummm. I guess I'd like to hear that. Recite away, Niko.
+	30CBB150	FCP2_DRUNK4_DM
+	2F3C4346	~z~From glen to glen,
+	372E2F4B	FCP2_DRUNK5_EN
+	3679A2BE	FCP2_DRUNK5_EI
+	345DE2A2	FCP2_DRUNK5_EE
+	2D523EE0	~z~You ever been to Ireland, Niko?
+	2B8D48A1	FCP2_DRUNK3_CK
+	2A56F760	FCP2_DRUNK3_CV
+	2EB60D64	FCP2_DRUNK1_AI
+	2DAD7A01	FCP2_DRUNK6_FL
+	2DAC3FA2	~z~I'm drunk and coked up every night - I doubt I'll see another six months and if it's much longer...
+	37358605	FCP2_DRUNK3_CU
+	3E730073	~z~You're sick, you're all fucking sick, every last one of you.
+	3D6EFE67	~z~I'm pissed and I'm saying stupid shit, about shit,
+	3D14B483	~z~You must remain very silent. It is a long poem.
+	40D1D2BD	~z~Couldn't tell you Packie. I wouldn't know.
+	3F99E781	FCP2_DRUNK3_CP
+	3F3D1E60	FCP2_DRUNK6_FO
+	38DBD82C	~z~Whatever.
+	37735322	~z~I ain't never left Liberty City.
+	37451F00	FCP2_DRUNK2_BE
+	3C5DE074	FCP2_DRUNK6_FE
+	3A315928	~z~And all the flowers are dying
+	395730D7	FCP2_DRUNK4_DK
+	2A1E3A6A	~z~I love you so.
+	0AF847E6	FCP2_DRUNK4_DL
+	0A064B40	FCP2_DRUNK5_EJ
+	09FFCBC5	~z~Me too, but I don't want to fuck you.
+	0DEB7CF5	FCP2_DRUNK6_FP
+	0DB1D8B2	100100100010010010100010010100100100010100100100100100010
+	0C4B46C8	FCP2_DRUNK3_CN
+	07D282CC	FCP2_DRUNK5_ED
+	07762513	FCP2_DRUNK2_BG
+	0097E5AE	FCP2_DRUNK6_FA
+	09384EE7	FCP2_DRUNK6_FG
+	08F191C2	~z~Fucking America, you're right but I'm a fucking Irishman.
+	0879F71E	FCP2_DRUNK3_CB
+	0F85EC1D	FCP2_DRUNK4_DH
+	1C6E2E03	FCP2_DRUNK3_CZ
+	1C2A814A	FCP2_DRUNK4_DF
+	1BFA6FBA	~z~Ha ha, a comedian, ladies and gents.
+	21EC361A	FCP2_DRUNK3_CD
+	1E928E3F	~z~You think I'd still need chop if I was burning in Hell, Niko?
+	1D35F7F4	FCP2_DRUNK1_AE
+	174E1515	FCP2_DRUNK6_FB
+	100FC895	FCP2_DRUNK3_CO
+	0FAC8A90	FCP2_DRUNK3_CL
+	1B739D15	~z~Oh Danny Boy,
+	1B209A7D	~z~I have to say, I missed it on my travels. Maybe one day.
+	179C1382	~z~Man, I gotta straighten meself out. I can't go on like this. I'm a fucking mess.
+	6CAA200A	FCP2_DRUNK5_EL
+	6C71089C	FCP2_DRUNK5_EO
+	6B2576BD	~z~Fuck you! I was a choir boy! A cherub!
+	70ACE4E6	~z~What are you talking about?
+	6DAD4187	~z~Oh Danny Boy,
+	6D3540E6	~z~Fuck you. I'm not drunk. I'm sober as a lord.
+	6879B538	~z~Oh man, I can't take it. I can't fucking take it. Shoot me.
+	60D17BFC	~z~I am just fucking with you, Packie. I don't know no fucking poetry.
+	5FE9A40E	~z~Goin' to a federal penetentiarery... penetentiary don't count as leavin' Liberty City.
+	6992707A	FCP2_DRUNK6_FM
+	69440CE1	~z~Same as booze, religion, sodomy and fighting is.
+	68F6C977	FCP2_DRUNK5_EG
+	70B025D6	FCP2_DRUNK5_EM
+	78EEA01A	FCP2_DRUNK2_BC
+	78DD42D3	~z~I don't gotta have an agenda to tell a friend he's a fucking prince.
+	78CB1208	~z~An angel sent down to live amongst men... that's what they told me...
+	7C9CA71C	FCP2_DRUNK1_AC
+	7C925D5F	~z~I'm going to Ireland though, Niko. I'm gonna fucking go. Mark me words.
+	7B305AA9	~z~Sure.
+	7372213D	~z~Poetry is in the blood of an Irishman.
+	72B577CB	FCP2_DRUNK3_CW
+	71CF1CD1	~z~Fighting, burning, eating, drinking and snorting our way through eternity in Hell.
+	77463FA5	~z~No, Niko, no, no, no. I wasn't meaning anything like that.
+	766591E0	FCP2_DRUNK1_AL
+	7524CE8E	~z~prison like everyone does...
+	5EF3A414	~z~Or in shadow,
+	49B1F79F	~z~I've only been in me dreams, Niko. In me dreams.
+	4995F775	~z~I ain't going to make old bones, I know that, but I'd like to hit thirty!
+	48D58554	FCP2_DRUNK3_CR
+	4E6100FD	~z~I wasn't gonna get smart.
+	4BFD7CC8	~z~The pipes, the pipes are calling,
+	4A3DD1CD	FCP2_DRUNK6_FJ
+	449DE4F8	FCP2_DRUNK4_DE
+	441C3AA4	FCP2_DRUNK1_AG
+	426B3E49	FCP2_DRUNK5_EH
+	48A488C3	FCP2_DRUNK3_CY
+	47EF74A4	~z~Tis you, 'tis you,
+	44BE7FCF	FCP2_DRUNK5_EF
+	4F288316	~z~Or when the valley's
+	55062D99	~z~The whole of me life, no one ever let me be, do this Packie, go there, hit him, touch me there...
+	54FB4EBB	FCP2_DRUNK6_FF
+	54382106	FCP2_DRUNK5_ES
+	5CD33D2F	~z~and I'm going to hell and the world is ugly
+	5B45DA1D	FCP2_DRUNK3_CH
+	5667E841	FCP2_DRUNK6_FH
+	51D674C6	~z~That's where I'm going, Niko boy. That's where I'm heading.
+	4FC184EF	FCP2_DRUNK6_FD
+	4F5BD911	~z~If I did I would not speak it to you. In this country all you got is rap music.
+	540E4C36	FCP2_DRUNK2_BB
+	53166280	FCP2_DRUNK1_AD
+	52C589D0	~z~Shut up.

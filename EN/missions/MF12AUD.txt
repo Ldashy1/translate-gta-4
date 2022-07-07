@@ -1,0 +1,223 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B65E7F77	MF6_HI
+	B5F9E983	MF6_MA
+	B535D895	~z~Yeah, it still has to be hard for you.
+	BAE30DE6	MF6_LA
+	B8F5BA1A	MF6_NF
+	B6AD2EDA	MF6_ID
+	B507A027	MF6_IB
+	B135A083	MF6_IG
+	B004B190	~z~He was too much of a cop for my family to accept him, and too much of a gangster to be accepted by the cops.
+	AFE3A6ED	MF6_A_UC
+	B3EF4812	~z~Sure, I'll be there in the next hour. I'll see you then, Kate.
+	B31F80FF	MF6_LG
+	B2A7A60F	MF6_II
+	BBAF38B1	MF6_FH
+	C94CA41D	MF6_OD
+	C948B8DC	GCK_ACT_PKA_GETCALL_HOSP_NO
+	C7F478A4	MF6_OG
+	CAC5EE3A	~z~Someone who betrayed me, caused a lot of my friends to die.
+	CA54913F	010100010010100100010100
+	C99D4BD2	~z~I'm not going to respect you if you compromise what you believe in for money, Niko. Goodbye.
+	C6C1B607	~z~I guess it is.
+	C09E52C3	~z~What did you think about him?
+	C04DBCBF	MF6_GC
+	BD5F89B2	~z~He gave me your number.
+	C69B022D	010100
+	C57C3CDA	MF6_FB
+	C323AEDA	010100010100010100010100010100100100100100
+	9CED02E8	MF6_KF
+	978B5A78	MF6_A_UF
+	9561FE2F	MF6_ND
+	A021046A	MF6_IF
+	9F8C17C7	~z~I don't want to know what you did to him. Just tell me how you feel.
+	9D5453F9	MF6_LF
+	9447366D	MF6_KA
+	8DD13743	~z~Are you coming to Roman's wedding?
+	8AC15F9D	~z~It means, I love you, but I won't bring children into this world to be raised without a father...
+	89CFE527	~z~Then again, I expect to get a call from the coroner about any one of my brothers every day.
+	92CDDE84	~z~It could be very profitable but it would mean going back on an oath I swore to myself.
+	92127CD4	~z~Hi Niko. You've been on my mind a lot recently. Are you okay?
+	8FAC2409	~z~I'm really proud of you, Niko.
+	A0907A09	~z~There is a man who betrayed me in the past. I am being asked to work with him.
+	A94DB634	MF6_JH
+	A84766CB	MF6_LC
+	A6EB3C00	~z~It's hard for my ma. I'm trying to be there for her.
+	ADDEB46C	~z~I thought that finding him would make me whole again.
+	A9DDE062	MF6_KB
+	A97AA008	MF6_A_TC
+	A6DA80C3	MF6_FA
+	A3D1AA5C	MF6_JG
+	A32C2B55	MF6_JI
+	A0D0062C	MF6_IE
+	A6928471	~z~Sure, I'll see you there, Kate. Goodbye.
+	A52F65FF	~z~I can't believe you could care about money that much.
+	A4AF060F	MF6_A_UM
+	F000C961	MF6_JE
+	EEC28608	~z~Is that true Niko?
+	EE3D4AA3	~z~Yeah. I didn't really know Derrick that well.
+	F2A6D379	MF6_JA
+	F18B3154	MF6_A_TB
+	F0C42CC4	010
+	ECA655FB	MF6_MB
+	EA06D89D	~z~Hey, Kate. I took your advice. I cut my connections with that man.
+	E55DF0D0	MF6_IJ
+	E47C35D5	~z~Niko, it's me. I'm so sorry about Roman. I'm so sorry.
+	EB67418E	MF6_JF
+	EA87C1EC	~z~He was my family.
+	EA70CEB4	~z~Please, call me and we can do something.
+	F421AA3A	MF6_GF
+	FDF72471	~z~Niko, I've been invited to your cousin's wedding.
+	FC806729	~z~He probably wanted to die.
+	FB7D09F5	MF6_OC
+	FFFD58A8	~z~It is all I have thought about for a long time.
+	FF916B4D	MF6_OF
+	FF66035B	~z~Well it was the right thing to do. Are you coming to Roman's wedding?
+	FADA6291	~z~I don't know what to say... I know how much he meant to you.
+	F739DDA3	MF6_JB
+	F4A10FBB	MF6_HG
+	F4813575	MF6_GI
+	F971919D	~z~Maybe I am different.
+	F8957041	~z~Hello, Kate. How are you?
+	F789C095	~z~Hi Niko.
+	D5C24A3F	~z~Come pick me up, I'm free now.
+	D3326879	100010100100100100010100100010
+	D2B34AC0	MF6_HF
+	D6A0D5C5	~z~I'll see you at the wedding then.
+	D65BF75E	MF6_A_TA
+	D62E1939	~z~Thank you.
+	D291F6AA	~z~Hey Kate, I am sorry to hear about your brother.
+	CE120488	MF6_JD
+	CDED2ACD	~z~Hi Niko. What's up?
+	CBE45500	MF6_IH
+	D268997B	~z~I'd really love to Kate - but I'm in the middle of something crazy.
+	D1BC91A2	~z~Are you going to be at the funeral?
+	CE171601	~z~I want Roman back.
+	D7E3E85F	~z~I don't know. It will make things easier, for me and for Roman.
+	E300102D	MF6_A_UA
+	E2188E4A	~z~I'll send you an email. Goodbye.
+	E006AE36	~z~I remember looking up to him as a kid. He had a dream back then, he was inspired.
+	E4263CF6	~z~I'd love to, but I'm in the middle of something.
+	E3FFFC98	MF6_A_UN
+	E34AA283	100010100100010100
+	DF3FBD96	~z~Hello?
+	DB9FB112	~z~I might do that, there are more important things to be doing now though.
+	DB8EDF8F	MF6_HE
+	DB2F88A1	MF6_NA
+	DDCEC694	100010100100010100100010
+	DD160BAE	~z~You're probably the only one.
+	DC7F54A6	~z~I don't think so, Niko. I don't want to be around you right now.
+	8933D862	MF6_A_UB
+	25F932F9	MF6_JC
+	25D3E896	MF6_LE
+	252782E1	~z~What's your choice, Niko?
+	2834DF5F	~z~I don't normally socialize with Packie's gangster friends, but sure.
+	27F74F04	~z~Please don't say that. Why?
+	2640760D	MF6_HB
+	251CFF72	MF6_FC
+	20BBF542	010100100010100
+	1D686780	MF6_A_UI
+	1D2DA73B	~z~I know, I'm just really sorry.
+	243E6736	~z~Hey. What's up?
+	22210907	MF6_NE
+	20E1C0E1	~z~What does that mean?
+	28E210EC	MF6_A_UD
+	32F264FA	~z~I'm fucking awful if you must know.
+	329C5F0A	~z~If you want to talk about, if you want anything, Niko. If you just want company.
+	327503A3	~z~Niko, hi. It's Katie, Patrick's sister.
+	3685259C	~z~Hey, Kate. I have a decision to make and I don't know who to talk to about it.
+	35F5A365	MF6_GD
+	35106EAF	~z~Yeah, I'll see you there, Niko.
+	31C5D1BB	~z~Hey Kate, I am sorry to hear about your brother.
+	2F52978F	~z~You don't need money, what is it going to change about your life?
+	2BC21B69	MF6_NB
+	2903E0FD	~z~I was wondering if you wanted to come out with me sometime?
+	313CA2B2	MF6_FG
+	30817075	MF6_OB
+	30191A41	MF6_A_UK
+	0B21E558	MF6_KH
+	0AF1277F	MF6_HH
+	0A20026C	~z~The Derrick that came back to Liberty City was broken.
+	0F5CBD73	~z~I don't normally like the hoods who hang out with my brothers, but you seem different.
+	0EE38AA7	~z~Sure.
+	0DD7EAD5	MF6_A_TE
+	093E92B7	MF6_MC
+	055E09DA	~z~Can't do what?
+	02491388	~z~Kate, it is Niko. We met with your brother, Packie.
+	015BD10E	MF6_JJ
+	090BD512	MF6_GA
+	067BEC56	010010100010010100100100010
+	05630498	~z~Call me.
+	10B2E5F0	010010100100010010100
+	1B01801F	~z~It means... it means I'm going away.
+	18E95C73	MF6_HC
+	18B759F1	~z~I didn't think you guys knew each other.
+	1D0981F3	MF6_KC
+	1D0658C6	~z~I was just wondering if you wanted to do something sometime?
+	1C349112	~z~This is strange. Things have been weird recently.
+	16AEDA8A	MF6_HA
+	13B12680	~z~I can't do this.
+	138710F0	MF6_OH
+	11B0A7F0	~z~It must have been hard to turn down the money and stick to your principles.
+	16A3AC5D	~z~Niko, it's Kate.
+	16713BD8	~z~Okay, that could be interesting.
+	14D0BA5C	MF6_OA
+	6F572EBA	MF6_NC
+	6D7C2C80	~z~Sure, I'll see you there, Kate. Goodbye.
+	69D34D77	~z~So am I.
+	72B4810A	~z~Well, we do what we can to survive, Kate.
+	722BFFF9	~z~Hey, Kate. I decided to work with that guy.
+	71259F50	MF6_GB
+	66CAB759	100010100010100010
+	5F5FF64F	MF6_FE
+	5DF9E34B	MF6_HD
+	5CF8E27F	~z~Nor did I. He called me up and said that you really liked me and wanted me to be there.
+	666EA58D	~z~What's happened?
+	6514819E	MF6_IA
+	6117A943	100010100010010100100010010010
+	742FD699	~z~I still feel empty though. The void is still there.
+	82BCB473	MF6_A_UG
+	8072D995	~z~I have been looking for a man for a long time.
+	8056A9CF	MF6_A_UH
+	882AD0DE	MF6_GG
+	876C23AD	MF6_LB
+	862D4EAB	MF6_IC
+	7E82B094	MF6_KE
+	78BCA796	MF6_GE
+	78084198	~z~To be honest, I thought this would have happened earlier.
+	771CE80A	~z~Niko, I heard about your cousin. Niko, I am so sorry...
+	7DB65B99	~z~See you, Niko.
+	7CBD2D9D	MF6_FD
+	7C9CE436	MF6_OE
+	41881EB2	~z~I don't know if it was the right decision but I did it. He screwed me over again.
+	40D9FB85	~z~Don't let this ruin you, Niko. Don't let this make you even more insular and angry.
+	3F1FFD5D	~z~I like you, I like you too much, but I know you. I know the life you lead.
+	45A04467	MF6_A_UJ
+	45890A37	MF6_MD
+	434A2741	100010100100010100100100010
+	3EEAEC05	~z~Hi Niko.
+	3B6085B6	~z~Maybe we do something together?
+	394FC049	MF6_GH
+	39382E63	MF6_A_UL
+	3EB4C785	~z~it means, I don't what it fucking means. I'm sorry.
+	3D0C3302	~z~You shouldn't work with him, Niko.
+	3C923226	100010100100010100
+	487E6175	MF6_A_TD
+	5754EF01	MF6_A_UE
+	569F787E	MF6_KD
+	554E034C	~z~And you found this guy, did you?
+	5C948BC9	MF6_A_TF
+	5BAD88E3	~z~You going to be at the funeral?
+	5A94C41A	~z~See you then.
+	53955D92	MF6_FFG
+	4C8E6338	~z~I'm sorry about Roman. I'm sorry about the life you've led. I'm sorry. I'm so sorry.
+	4A7B30AC	MF6_LD
+	48F420D9	~z~Pick me up in the next hour.
+	52F62839	MF6_ME
+	4F46BA2F	~z~You see, Niko. You should have gone with your instinct not to trust him.
+	4F45EA3B	MF6_KG

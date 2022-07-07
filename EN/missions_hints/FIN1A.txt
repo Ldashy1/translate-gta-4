@@ -1,0 +1,24 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6B87577F	~s~Lose your wanted level.
+	6E395B7F	~s~Chase after the ~r~buyer.
+	5C1C374D	~s~Take Phil back to ~y~Tudor.
+	606DBFE8	~s~Follow ~b~Phil.
+	78C7F200	~r~The buyer got away.
+	C19CBAD0	~r~Phil is out of action.
+	F962F1D4	~s~You've left ~b~Phil~s~ behind.
+	7AC37493	~s~Go and help ~b~Phil.
+	B33A1E0B	~r~The meeting was broken up.
+	27D1CEB1	~s~Steal the money from the ~y~office.
+	2FE2E037	~s~Phil is in trouble.
+	17042D16	~s~Go and meet ~b~Phil.
+	223344D8	~s~Wait for ~b~Phil.
+	358F6A2C	~s~Head inside the ~y~docks.
+	4A859420	~b~Phil~s~ is in trouble.
+	544428F9	~s~Collect the ~g~money.
+	3FD08012	~s~Get back to ~b~Phil.
+	419C8246	~s~Go to the ~y~docks.

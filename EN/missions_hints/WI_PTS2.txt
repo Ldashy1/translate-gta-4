@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BE4803C1	Get Pathos to the ~y~hospital~s~, quickly.
+	DB2E3D8D	~r~You took too long to get a vehicle.
+	FB257D7B	Take out the ~r~attackers.
+	B4006F32	Get a vehicle.
+	303A67A4	Pick up ~b~Pathos.
+	895E19EE	~r~Pathos is dead.
+	96BF34B0	~r~You took too long getting to the hospital.

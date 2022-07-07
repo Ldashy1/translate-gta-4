@@ -1,0 +1,49 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9F1FF1DA	~s~Go get Pegorino's ~g~offering.
+	9B9ECB14	~s~Don't leave ~b~Pegorino~s~ behind.
+	A3DC0CE1	~r~One of Pegorino's boys is dead.
+	B2379607	Pete
+	AE1C7171	~S~Go to the ~y~vantage point~s~ and watch over the meet.
+	8812C34C	~S~Get back to ~b~Pegorino~s~ with the offering.
+	85074CB5	~s~Keep a guard over ~b~Pegorino.
+	8D6B6E5C	~r~Pegorino was abandoned.
+	93F596CC	~s~Protect Pegorino from the ~r~Pavanos.
+	92355C41	~s~Drive to the ~y~old refinery.
+	B472ACF8	~r~The meet was broken up.
+	D2AAE557	~r~Pegorino was left behind.
+	D145EC8E	~s~Get Pegorino's offering back from the ~r~Pavanos.
+	E4841E0B	~PAD_LB~ focus on car.
+	EC4D4846	~s~Take Pegorino back to ~y~his place.
+	E6765542	~s~Get back to ~b~Pegorino.
+	C43480D0	~s~Take out the ~r~Pavanos~s~ before they kill Pegorino.
+	C1599D33	~r~Pegorino's offering was lost.
+	C6E7EA30	~s~Don't leave ~b~~a~~s~ behind.
+	D13D7E12	~PAD_LB~ put bag down.
+	CFAAC1F3	~s~PEGORINO
+	7A08B624	~S~Meet with Pegorino in the ~b~vehicle~s~ up ahead.
+	2FC2C1C4	~s~Get back and keep a guard over ~b~Pegorino.
+	2C6C2EEB	Marco
+	33548BAE	~s~Don't lose the ~r~Pavanos.
+	41712AD0	~s~Get back in Pegorino's ~b~car.
+	3FA63D25	~s~Rescue ~b~Pegorino.
+	0B10D4E9	~r~Pegorino's offering was destroyed.
+	02533E09	~s~Go get Pegorino's ~g~offering~s~, but be careful not to destroy it.
+	1794FCD2	~r~Pegorino drowned in his car.
+	1FCDA7B2	~S~Get back in ~b~Pegorino's~s~ car with the offering.
+	1D8906BB	~r~Pegorino is dead.
+	4825F4C5	~PAD_LB~ pick up bag.
+	68039A0B	~s~Progress ~y~inside~s~ the old refinery complex.
+	65443E1D	~s~Get back and protect Pegorino from the ~r~Pavanos.
+	6BEB8F99	~r~Pegorino's car was wrecked.
+	78532E4E	~s~Go find ~b~Pegorino.
+	6BEE1287	~s~Get in Pegorino's ~b~car.
+	4AE55761	~r~~a~ is dead.
+	4AAC69C0	~s~Call Pegorino.
+	4B597300	PLACEHOLDER FOR MOCAP CUTSCENE
+	635BB4D8	~r~Pegorino is dead.
+	5DD0092A	~s~Get to ~b~Pegorino~s~ before he dies.

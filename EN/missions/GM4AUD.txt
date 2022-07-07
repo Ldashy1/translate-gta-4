@@ -1,0 +1,82 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	893EEF08	~z~Give up the girl and maybe it'll be a quick death for ya.
+	CE4EE53A	~z~This is nothing in comparison with what Daddy's gonna do to you.
+	8D010237	~z~Either you give Gracie back, or we take her.
+	DF0B7E01	090
+	8DE1D9E3	~z~If my brother, Gerry, weren't in the pen he'd kick your ass, Niko. Watch yourself.
+	67EE187A	~z~They should close the borders to shits like you.
+	5C30EA90	GM4_QB
+	77200D4C	010100
+	785D4D45	~z~Give Gracie back and we won't hurt ya.
+	7830684E	500
+	93F8E300	GM4_OA
+	B379ABC5	090
+	B12DCA90	~z~The old man might go easy on you if you give up the girl.
+	CED79E2D	GM4_QA
+	BF0D46B7	~z~You fucking bastard.
+	BD71688F	GM4_BA
+	D86B2C09	~z~Sorry guys, we're keeping this bitch.
+	DB20F839	~z~Shit, the old bastard killed his own daughter. I gotta tell Gerry, I'll see you later.
+	9FD7A7E4	~z~If you wanna live, you better cooperate. Pull over.
+	A6726E44	GM4_FB
+	A5CE2826	~z~Get to the side of the road, you kidnapping S. O. B.
+	58A7D3C8	GM4_FA
+	4679F9FF	400
+	18EF205B	GM4_CA
+	FAD6DDE5	~z~We know you got Gracie, give her back.
+	32F5AE7E	~z~I can't breathe, I'm suffocating back here you immigrant fuck.
+	43D0C3A5	GM4_PA
+	33742C72	~z~Packie, Ancelotti's guys came after me and screwed up the car. I think Gracie's dead.
+	F92B4B1D	~z~Gerry was right. Ancelotti found his little girl.
+	3CFAC288	~z~Let me out, let me out.
+	205E9D49	~z~We know you got Gracie in there, pull up.
+	0ADFECC5	GM4_HA
+	4EB979FE	~z~Pull over, you bum.
+	E6A6B57D	~z~Give us back the girl, you sick shit.
+	80123E44	~z~Shit, man. I'm sorry but I had a crash. I think Gracie's dead.
+	E94CF16B	010100
+	4867DAF4	200
+GM4_ALIVE_1	DF55EDAB	~z~Niko, my man. Katie's taken over on Ma duty so I'll be watching this guido bitch for you.
+GM4_ALIVE_10	B71071E2	~z~I'll fucking kill you!
+GM4_ALIVE_2	CD104920	~z~Where is she?
+GM4_ALIVE_3	BC3A2774	~z~In the trunk.
+GM4_ALIVE_4	A8FD80FB	~z~She don't play too nice up front.
+GM4_ALIVE_5	A7A07E3D	~z~Gracie, Gracie. Act nice now.
+GM4_ALIVE_6	9660DBBE	~z~You motherfuckers, I'll rip your cocks off! Help! Help! Please let me outta here!
+GM4_ALIVE_7	838EB61A	~z~-She's a wild one. ~n~-Let me out of here!
+GM4_ALIVE_8	5F3E6D7A	~z~-I'll try to calm her down.~n~-Let me out!
+GM4_ALIVE_9	4D6CC9D7	~z~-See you later, Niko.~n~-I'm gonna fucking kill you.
+GM4_CUT1_1	6F05D384	~z~-Hey.~n~-Hey.
+GM4_CUT1_10	80DD66CC	~z~show her a new pad. Then...
+GM4_CUT1_11	52A60A5E	~z~things will be okay between you two,
+GM4_CUT1_12	FA42D99D	~z~but move your fucking ass, pal.
+GM4_CUT1_13	0C057D22	~z~Women don't like a chump. You get me?
+GM4_CUT1_2	84DFFF38	~z~Yeah, so, anyway. A friend of mine in here tells me that a close friend of yours,
+GM4_CUT1_3	8B770C6A	~z~a girl you've been spending a lot of time with recently,
+GM4_CUT1_4	9985A887	~z~swept her clean off her feet?
+GM4_CUT1_5	A7CAC511	~z~Okay.
+GM4_CUT1_6	B62061BC	~z~Yeah, her old boyfriend wants her back.
+GM4_CUT1_7	D7D0251B	~z~They always do.
+GM4_CUT1_8	262841CE	~z~Desperately and quickly and he's looking for her.
+GM4_CUT1_9	FE547223	~z~I think you and her... should go out on a glamorous date in Algonquin,
+GM4_DEAD_1	EDD4ED8C	~z~Niko, what took you?
+GM4_DEAD_2	DFECD1BC	~z~Fucking - how you say - guidos? Was all over my tail.
+GM4_DEAD_3	04569ACB	~z~You got Gracie in the trunk, do ya?
+GM4_DEAD_4	12ABB775	~z~Yeah...
+GM4_DEAD_5	9BD84994	~z~Shit, Niko. Her neck's broke.
+GM4_DEAD_6	8D91AD07	~z~Fuck!
+GM4_DEAD_7	B75C009B	~z~Fucking control your driving when the cargo's this valuable.
+GM4_DEAD_8	A90C63FC	~z~I'll be in touch.
+GM4_GRACIE_1	39DFB00D	~z~You're moving her over to Boleyn Street.
+GM4_GRACIE_2	11BE5FCB	~z~Not in the cab of this car I'm not.
+GM4_GRACIE_3	56736934	~z~After last time, she can ride in the trunk.
+GM4_GRACIE_4	2C9F158C	~z~Fair enough.
+GM4_GRACIE_5	78EAAE22	~z~Ah! bitch just bit me!
+GM4_GRACIE_6	4733CAB5	~z~I think she has something to say.
+GM4_GRACIE_7	90F8DE3E	~z~Motherfuckers! When my daddy finds you, he's gonna kill you! He's gonna kill everybody you've ever met!
+GM4_GRACIE_8	9F347AB5	~z~-Catch you around, Niko.~n~-Thanks a lot.

@@ -1,0 +1,302 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9ADFBC6F	~z~I hope you're not trying to impress one of your other whores with this new car. It doesn't impress me.
+	9C1FF8CB	100
+	9A9DCC79	~z~This car just oozes sex, Niko. Maybe that's because you own it.
+	9ADA6C8E	100
+	9C344B76	100
+	A12646C0	100
+	A1CA1972	100
+	9C404930	GCKK_ACT_INTRO
+	9D5D8940	~z~Don't hide your eyes behind those glasses, Niko. They're beautiful.
+	94A127D6	GCKK_ACT_ARRIVE_BOWL_LAST
+	9578DA14	~z~I like the new hat.
+	93F19205	010
+	9494D0F4	100
+	959B73B3	~z~Please don't dress up on my account, Niko.
+	97EBF568	GCKK_ACT_PKI_SAME_BAD
+	98E416E9	100
+	96B6B415	~z~Oh, I miss your old car, Niko.
+	973DE6D7	~z~Umm, Niko. Why're you late? You haven't been seeing anyone else have you? Let's go.
+	A43AF798	~z~That hat's good.
+	AA9E8D98	~z~Hey. I don't want to sound like a whining girlfriend or anything but please don't make me wait for you. Let's go on our date.
+	AC458640	100
+	AA0D7E47	~z~Maybe your new hat will grow on me, we'll see.
+	AA80BA95	~z~Okay, Niko. Let's play darts.
+	AE440F90	GCKK_ACT_PKI_CLOTHES_GOOD
+	B15CF617	100
+	B21BFEEF	GCKK_ACT_PKI_INTRO
+	B0493C63	010
+	B094734D	~z~I'd really like to experience your culture with you, Niko. Let's go.
+	A6E5AC24	100
+	A71F690F	100
+	A4FD6859	~z~Your eyes are beautiful. I'm so pleased you're not wearing those glasses.
+	A566F417	GCKK_ACT_ARRIVE_SHOW_LATE
+	A7BB213D	GCKK_ACT_PKI_NOHAT_BAD
+	A86F5786	~z~What happened to your old car, Niko?
+	A8F45281	~z~This place is so cute. I'm only going to have a couple of drinks though.
+	A7D826F6	GCKK_ACT_PKI_CAR_BIKE
+	A8461674	GCKK_ACT_ARRIVE_POOL_BEFORE
+	83B8229B	~z~Isn't it cool that we're comfortable enough with one another to not have to dress up?
+	84862EF7	100
+	82416B44	~z~Oh no, we missed the show. That's such bad luck, Niko.
+	82B62B39	100
+	849EB5FE	GCKK_ACT_CAR_NEW_GOOD
+	86FFD67C	~z~You really don't need to dress up to impress me, Niko.
+	87ED4B59	~z~We're walking are we, Niko? I love walking with you.
+	84B6638C	GCKK_ACT_PKI_NOHAT_GOOD
+	84F0B646	100
+	7E3965FA	GCKK_ACT_CLOTHES_GOOD
+	7F269FC6	~z~What're you into, Kiki?
+	7CE59109	~z~I can't see cars like this on the street without thinking of you, Niko.
+	7E1CB361	100
+	7F5190C8	~z~The Russian Cabaret. This should be interesting, Niko.
+	81C672D5	~z~These places are great. There's no point in spending a lot of money on food.
+	81D8AD74	~z~My Niko. You're here. Let's find something to do.
+	80EB68F0	100
+	8174BB45	~z~Well, at least you came. Let's find something to do.
+	8846780B	100
+	900849D3	~z~Niko. Let's go enjoy ourselves.
+	911FD995	~z~Pool, again? You'd think I'd get better at it.
+	8E0E408F	~z~I miss your old hat, Niko.
+	8E2698A1	GCKK_ACT_ARRIVE_BOWL_NOT
+	91AD9EB0	~z~Niko, your car. You really must be struggling.
+	933361E5	~z~It's so nice to just walk and not worry about cars and stuff.
+	93DBBAFC	100
+	92A6A27F	~z~Bowling again, are you hoping to bump into one of your other whores here?
+	92A7A10D	100
+	8A6FBE33	GCKK_ACT_CAR_SAME_BAD
+	8A84890B	~z~It's hard for me to concentrate on eating when I'm with you, Niko.
+	88B848FF	~z~It gets around.
+	88BEA88C	010
+	8BB24C9F	~z~I bet you can run fast in those new shoes.
+	8CF3CF76	100
+	8D53C225	100
+	8BCC98FB	GCKK_ACT_CAR_BAD
+	8C7BC092	100
+	E3D4B5E6	100
+	E6AA401D	GCKK_ACT_CAR_BIKE
+	E35219E8	100
+	E354F3F5	GCKK_ACT_PKI_NOGLASS_BAD
+	E6D7F77D	~z~Hey, let's go have some fun.
+	EA5BDF90	~z~We're playing pool again, Niko? If that makes you happy.
+	ECAB0863	010
+	E8418663	GCKK_ACT_PKI_CAR_NONE_
+	E9288824	GCKK_ACT_ARRIVE_POOL_LAST
+	D9307361	100
+	DCA9AE1B	GCKK_ACT_PKI_LEGS_GOOD
+	D80F94F1	~z~Ok, Niko, I'm a busy woman, I haven't got time to be screwing around like this. Can you take me home?
+	D8142C8C	~z~I guess so.
+	DD30836B	~z~What a good idea, Niko. I sometimes get emotional when I drink so stop me from having too much.
+	DF174823	~z~Katt Williams really tells it like it is. I'm so pleased you brought me here, Niko.
+	E04557C7	~z~We've got some memories of this car, don't we?
+	DDF29FA2	GCKK_ACT_PKI_CAR_OKAY
+	DEC9D07C	100
+	ECB2D359	~z~Thanks for getting rid of that hat, Niko. You really do care about what I think.
+	F5D78DE3	GCKK_ACT_ARRIVE_DARTS_LAST
+	F6892764	GCKK_ACT_ARRIVE_HIGHEND
+	F3DA5A3E	100
+	F446C3CA	~z~This is an expensive car, Niko.
+	F8970EED	~z~Those are nice glasses, Niko.
+	FA79EEE7	~z~It's so sweet of you to get rid of that hat. You knew I didn't like it.
+	FEC5BDA6	100
+	F8C34C6F	GCKK_ACT_PKI_CAR_BAD
+	F9D05BBD	GCKK_ACT_CAR_NONE
+	EEDD26C4	~z~Okay, this is nice. Stop me from drinking too much, okay?
+	EEDF95D6	GCKK_ACT_ARRIVE_PUB_FAVOURITE
+	EE0FF35C	~z~You love this old car, don't you Niko?
+	EE1BD1B3	010
+	EF9539DE	GCKK_ACT_ARRIVEF_NOTLATE
+	F12F9BF2	~z~Niko, why're you wearing that stuff? Are you having financial problems?
+	F329593E	GCKK_ACT_PKI_TORSO_GOOD
+	F0DDB50E	GCKK_ACT_ARRIVE_POOL_NOT
+	F108DFA2	~z~Sorry Niko, but I don't like your car. Does that make me a bad person?
+	B86059E1	~z~Okay, Niko. I'm really into bowling. That's only if you are though...
+	B99BF1A1	~z~Hey, I like what you're wearing.
+	B8392053	GCKK_ACT_ARRIVE_SHOW_CABARET
+	B83EE47F	~z~This is nice, Niko. But anywhere'd be nice with you.
+	BA18057C	100
+	BE149DC3	GCKK_ACT_PKI_CLOTHES_OKAY
+	BFA8EC3F	GCKK_ACT_PKI_GLASSHAT_GOOD
+	BAA9F5EC	~z~Oh, drinking? I really shouldn't...
+	BBA37DEE	~z~It's a shame you don't have that old car anymore.
+	B366C85D	GCKK_ACT_CAR_GOOD
+	B37971CC	~z~You look so cute when you're playing pool, Niko.
+	B23D9D8B	100
+	B2F94AEE	100
+	B3BCD76D	~z~Niko, you sweetie. You know I like to be driven in cars like this.
+	B53935D6	GCKK_ACT_ARRIVEC_NOTLATE
+	B5CA33A4	010
+	B47E12A4	GCKK_ACT_PKI_TORSO_BAD
+	B511DA90	GCKK_ACT_PKI_LEGS_BAD
+	BFD0E535	~z~Sure, let's play darts. If you enjoy it, that is.
+	D121D771	GCKK_ACT_PKI_GLASSHAT_BAD
+	D1633A03	~z~This old car. I really like it.
+	D00F6100	GCKK_ACT_ARRIVE_DARTS_BEFORE
+	D0DB2016	100
+	D28F30C8	~z~Oh, you're not wearing the glasses. That's a shame.
+	D4B03355	~z~All my ex-boyfriends love this guy, Niko. Come on.
+	D7A0FC1F	100
+	D44EF179	GCKK_ACT_CLOTHES_OKAY
+	D4886BC1	~z~Oh, darts again. Not what I'd normally do but if you're into it...
+	C3BF9EBC	~z~Same old trusty vehicle. Nice.
+	C4F4455A	~z~Where's your car, Niko?
+	BFD6FFD4	100
+	C1FEFE47	~z~Oh, cool car.
+	C5269F9C	~z~That top's nice.
+	CA88A438	010
+	CAA71308	100
+	C763E8C9	100
+	CA7F84FA	~z~This car's nice.
+	28DC1477	~z~We're playing darts again, are we? Okay.
+	2B3480BE	100
+	28B7301B	~z~The ball's in your court, Niko. I'm happy to do whatever you enjoy. It's such a treat for me to be out and about.
+	28B8DD1A	~z~What's different about you? Oh... yeah, you're not wearing the glasses. Pity.
+	2B4C9F17	~z~Niko, you look so sweet in those clothes.
+	2FAA0FA2	~z~Please tell me you didn't waste your hard earned money on a new top on my account.
+	302A9E20	GCKK_ACT_CAR_NONE_AA
+	2BC00BD0	~z~Thanks, Kiki.
+	2DCF520A	100
+	235B4446	~z~I don't really like being driven around in this car, Niko.
+	23E17EE9	GCKK_ACT_ARRIVE_PUB_GENERIC
+	21C1AC74	GCKK_ACT_ARRIVem_NOTLATE
+	232E995E	~z~Okay, if you're going to be like this, Niko. I'll make my own way home. Call me.
+	247001D0	~z~Hey, are you LawChick? We met online, I'm Niko Bellic.
+	263061AA	~z~Oh, I haven't seen that top before, have I?
+	276E3ED2	~z~This car gets me in the mood, Niko.
+	2522E8A2	~z~Thank God you lost those glasses, Niko.
+	25D1883C	~z~Oh, this guy's okay. Let's go see the show.
+	3127E585	GCKK_ACT_CAR_OKAY
+	39EB4CBC	100
+	3A61BE24	~z~Hey. I thought you stood me up, Niko. Where's your car?
+	386F395C	~z~Aren't you a handsome man, Niko.
+	391DA4C3	~z~I can't do this right now, Niko. My head's not in the right place. I'm sorry.
+	3A659073	~z~Okay, why don't we play pool? My ex, Tyrone was falsely accused of beating this guy to death with a pool cue.
+	3F625D71	~z~Oh God, I can't think. I'm just happy to be out of the office. It's such hard work at City Hall.
+	3F729A11	~z~Those clothes fit you like an old glove.
+	3C61A911	~z~I hope that top wasn't expensive, Niko.
+	3D4F31F1	~z~Niko, pool is really becoming our special game.
+	34F19961	100
+	35170057	~z~New pants, I see.
+	3170FED0	~z~Hey, your clothes are pretty out there, aren't they?
+	31877896	GCKK_ACT_PKI_HINT
+	355011D1	GCKK_ACT_PKI_HAT_GOOD
+	36B728EE	~z~Don't spend your money on a cab, Niko. Let's walk somewhere.
+	380663F9	~z~They'll do, you know.
+	358E1CDA	100
+	36A0DD37	~z~I like the car, Niko.
+	0C277A94	GCKK_ACT_ARRIVE_CLUB_GENERIC
+	0E05AC37	100
+	0ACC1E0D	GCKK_ACT_CLOTHES_BAD
+	0BDCCCF6	~z~Those shoes are good.
+	0E1A19C4	~z~This isn't exactly an exciting car, is it?
+	0ECC248B	~z~If you want new shoes, Niko. I can buy them. Don't spend your own money.
+	1057AF22	GCKK_ACT_BORED_TAKEHOME
+	0E48ECCE	GCKK_ACT_PKI_FEET_BAD
+	0EBEECE2	100
+	02B09B8B	~z~Does your other whore like the new pants?
+	03AA2513	~z~Those glasses are cool, Niko.
+	00085AB8	GCKK_ACT_BORED_LEAVING
+	026A9169	~z~Hey, Niko. Let's go shall we?
+	03D2EDBE	GCKK_ACT_PKI_FEET_GOOD
+	07822D32	010
+	08DFB9AE	~z~Only if you don't know how to drive them.
+	05D1072E	GCKK_ACT_ARRIVE_STANDARD
+	06F7C074	~z~Oh, Niko. Do you mind if we do something else instead?
+	1260A02B	~z~I get discounts.
+	1D47C63C	100
+	1DB1EDE8	~z~I'd appreciate it if we did something else instead of this. Sorry, Niko.
+	1B955E96	GCKK_ACT_ARRIVE_SHOW_K_WILL
+	1BE77220	~z~You don't need to take me to a place like this, Niko. Your company is more precious to me than an expensive meal.
+	1E853AE2	GCKK_ACT_ARRIVE_SHOW_RGERV
+	213D496D	~z~The new shoes make you look like a pimp.
+	214E9AE5	~z~Do you come to this club to pick up your cheap whores? Fine then, pretend I'm a whore.
+	1F1BBBC7	~z~This old thing, Niko? I think it's about time you traded in.
+	2014C17D	GCKK_ACT_ARRIVE_FASTFOOD
+	12F4A538	100
+	1501625C	~z~Niko. My schedule is pretty tight at the moment. I can't really wait around for you. Let's go.
+	12C65FDE	~z~Niko, please don't spend too much money on me.
+	12ED0AAB	~z~Sorry, Niko. I didn't realize it was going to take this long. I don't think I've got time for this. Can you take me home?
+	153B9A6D	~z~You didn't just get this car to impress me, did you? Niko!
+	185D8CAD	~z~Alright, let's go bowling.
+	19B47C3D	100
+	15709FD8	GCKK_ACT_CAR_NEW_BAD
+	1853516F	GCKK_ACT_CLOTHES_UNUSUAL
+	656BDF24	GCKK_ACT_CAR_SAME_GOOD
+	65B2AB62	GCKK_ACT_PKI_CLOTHES_BAD
+	65038586	~z~How are we going to get anywhere?
+	6562C7F8	~z~Oh, bowling is it? This is becoming our regular thing. We could have our wedding at a bowling alley.
+	66A7CD6B	~z~Aren't we all?
+	6B317D51	100
+	6CE50CAA	GCKK_ACT_ARRIVE_LATE
+	67DCFD05	010
+	685D0C2D	~z~Haven't you got a car?
+	60731533	GCKK_ACT_PKI_SAME_GOOD
+	60F11674	~z~I can't just play darts with you the whole time. Are you ashamed to take me anywhere else?
+	5CBF2830	~z~Hey, sweetie. Where'd you park your car?
+	5F2FA781	~z~You want to go bowling again? Alright!
+	6111DD4F	~z~Your clothes really smell of you. It's so sexy.
+	63AEE508	100
+	64FFA958	GCKK_ACT_ARRIVEF_LATE
+	612E2209	100
+	62E60E49	~z~You're still wearing those flashy clothes, I see.
+	6D1F75E6	~z~Pool, Niko? I'll play pool with you if that's what makes you happy.
+	74DAFD8A	~z~Oh, I like the new pants.
+	7643BB0D	~z~The glasses make you look shifty, Niko. You aren't hiding anything from me, are you?
+	7469CF99	~z~What a shame, we didn't get here in time for the show.
+	7491AC1E	010
+	765D87E6	~z~I like the fact that you don't need to wear expensive clothes to be cool, Niko.
+	78D7730A	090
+	7BDD952C	GCKK_ACT_PKI_NOGLASS_GOOD
+	78315FAB	~z~Tremaine used to take me to places like this, they're so quick and easy.
+	783A9AA2	~z~I'm not sure about the new hat, Niko.
+	6ED378D2	~z~That's my favorite outfit of yours.
+	6F813749	~z~A club, eh? We won't exactly be able to talk in here though, will we?
+	6D55C20B	~z~Your clothes are cool.
+	6D7486EB	~z~I'm always having financial problems.
+	70B2B5F7	~z~Darts again, is it? Do you practice throwing darts with your other whores?
+	73672241	~z~Have you got a car parked somewhere, Niko?
+	7467EF78	~z~I'm not sure this car is really you, Niko.
+	7136AAEA	~z~I just don't think those clothes are you, Niko.
+	71A41220	100
+	48DF01B3	~z~This is the sort of car you should be driving.
+	48E01869	~z~I used to like that old car you drove, Niko.
+	47BF0D0D	~z~Why do you drive this thing, Niko?
+	487481B0	~z~Hey Niko, it's Kiki. Kiki Jenkins.
+	49305BC1	~z~Niko. Better late than never, are you parked nearby?
+	4B618F49	GCKK_ACT_HINT
+	4B91D3BC	~z~Ricky Gervais it is then.
+	494DBC5F	~z~Niko, I've been looking forward to this so much. Let's go.
+	4B40B1AD	~z~Those clothes really suit you, I've told you that before, haven't I?
+	437282AF	100
+	43D4E1B9	100
+	404B250A	~z~I liked the old hat, Niko. It reminded me of the good times we've had together.
+	40C06CEA	~z~A motorbike. Aren't these dangerous?
+	445B3ACF	100
+	4621A018	~z~Those pants are good.
+	473B2E6D	GCKK_ACT_ARRIVE_DARTS_NOT
+	452D8B0C	GCKK_ACT_PKI_HAT_BAD
+	460C680A	~z~Bowling, Niko? Okay then.
+	4C4DCB37	~z~Sorry, Niko. I'm not in the mood for this right now.
+	54F3B344	~z~I thought we'd walk for a bit.
+	55657DCB	~z~Sorry, Niko. I really do need to get back home. Give me a call, okay?
+	540A06B8	~z~All sorts of stuff, Niko. Whatever you want to do. I'm sure I'll enjoy it.
+	542270F3	100
+	55E64217	GCKK_ACT_PKI_CAR_GOOD
+	5AC6FA0A	100
+	5BE1A7B6	100
+	58D718D6	~z~Haven't you got a car?
+	5A339B50	GCKK_ACT_ARRIVE_BOWL_BEFORE
+	4D97F9DC	~z~I'm not sure really. I don't get that much time off work so I'm just happy to be out.
+	4EEE8C8F	~z~Hey, Niko. Is your car round here somewhere?
+	4D185371	100
+	4D50A734	~z~Okay then, Niko. Let's go on your bike.
+	500DC2DB	GCKK_ACT_PKI_CLOTHES_UNUSAL
+	521264DF	100
+	52792281	~z~Can't you get a new car, Niko?
+	50C8FFAF	100
+	51DF1EB5	GCKK_ACT_DIFF_ACTIVITY_NO

@@ -1,0 +1,24 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CFD63C8C	~s~Take ~a~ back ~y~home.
+	DA113478	~s~Enter the ~y~pool hall~s~ with ~a~.
+	B46B2B9F	~s~Take ~a~ to see the ~y~show.
+	C8EA00B5	~s~Enter the ~y~strip club~s~ with ~a~.
+	DBBBB1BB	~s~Get a car to pick up ~a~.
+	F4553CCC	~s~You are too early for your date, come back tomorrow at ~1~:00
+	F86D35F5	~s~Enter the ~y~bowling alley~s~ with ~a~.
+	DBCD6A43	~s~You have a date with ~a~ in an hour.
+	E13E19CC	~s~Take ~a~ somewhere she would enjoy.
+	32BFABA5	~r~You scared ~a~.
+	49C90377	~s~Take ~a~ for a walk, or take her ~y~home.
+	04D4F700	~r~You've bored ~a~.
+	1BB561FE	~s~Get back in the car with ~a~.
+	5E2DEC86	~s~Get back to ~b~~a~~s~
+	791C846F	~s~You are still too early for your date, come back ~a~.
+	B3A4EC15	~s~You are too early for your date, come back today at ~1~:00
+	727669B3	~s~Enter the ~y~darts place~s~ with ~a~.
+	78779672	~r~~a~ has been killed.

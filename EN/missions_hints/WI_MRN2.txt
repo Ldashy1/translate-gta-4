@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	998021A0	Pick up ~b~Marnie.
+	A29242C4	~r~Marnie is dead.
+	E1B3380E	Take Marnie to the ~y~station.
+	96649A5D	~r~Marnie was abandoned.
+	2AB45462	Wait for ~b~Marnie.
+	407F75A5	Get a vehicle.
+	4176AF26	Get Marnie to the ~y~station.

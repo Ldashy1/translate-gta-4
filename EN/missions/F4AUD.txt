@@ -1,0 +1,123 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8936A937	F4_JA
+	8A10B036	~z~Don't you hurt Jason. Don't hurt him. You stupid thug, you stupid gangster.
+	785B35CD	101
+	85C531D8	~z~That fucking biker.
+	8A7B03A0	010100100
+	977FD54D	~z~I knew he was filth from the moment I heard of him. I must tell my wife.
+	A04EA223	~z~Hey, you know who you're fucking with? The whole Lost biker gang.
+	8C8530FC	102
+	961ECCF9	F4_BA
+	6EA885D3	F4_GA
+	4DFFDD2B	012
+	5BE938F2	~z~My father is Mikhail Faustin! You can't hurt your boss's daughter.
+	4A0F153E	~z~If you're going to hurt Jason, you should hurt me too.
+	4AB3FD58	~z~Cousin, they will pay for taking you.
+	5C5DD4D1	~z~Jason's a nice boy. Stay away from him. Stay away from him.
+	6D92DC45	~z~You wouldn't dare. I'm Anna Faustin.
+	6E93F93D	~z~My stupid father thinks he is still in Russia. In America I can see who I like.
+	5F3EA675	~z~You pain is over, cousin. I'm coming.
+	64C5F182	F4_FA
+	AF784076	~z~Hey, you want the whole fuckin' gang coming down on you, man?
+	E8B0A803	010100
+	E9257897	~z~The biker, yes, he's a dead man. I will come to see you soon.
+	E551FE46	F4_KA
+	E8AC96EA	~z~You fucking better be.
+	F06648C2	~z~I'm coming, cousin.
+	FCC9DB18	~z~Me and the brothers are gonna fuckin' rape you, man.
+	FEFD22AE	F4_FB
+	F484B962	F4_CB
+	FA4F15B2	F4_GD
+	DEFAEDD2	F4_GC
+	B99238B6	~z~That biker got away, I'm sorry.
+	C1BBE4FD	~z~You ain't gonna know what the fuck hit you, pal.
+	B71FEA96	200
+	B7C6A3C6	010100100010
+	C6E2A9E1	~z~I hate my father. I hate him. I hate him.
+	D2898698	~z~My boy Johnny's gonna fuck you up.
+	DE212438	~z~You will be free soon, Roman.
+	C958B856	F4_FC
+	CCCD8B70	200
+	40CC1DAE	~z~My father cannot control who I see. Me and Jason are together no matter what. This is love.
+	367D4E86	~z~We're gonna teach you a lesson for getting into other people's business.
+	34AA8FA4	~z~Mikhail, I have bad news. Your daughter... she was hurt.
+	2452AA31	~z~Stay outta this, man.
+	1979947F	~z~Hey, we're gonna beat your ass then I'm gonna go back and fuck that Russian broad and her momma.
+	3708D602	~z~These people will wish they did not take you, Roman.
+	31AAB7B0	~z~This fuckin' douchebag thinks he can tell a member of the Lost who he can and can't fuck. Let's fuck him up.
+	32DC2EED	~z~I don't care about her happiness. I care about discipline and loyalty. Thank you, Niko.
+	2CA0AD8C	~z~Hey, let's mess this commie asshole up. He fucked with me, he fucked with all the Lost.
+	26393463	~z~You won't need to wait much longer.
+	2907D310	~z~Screw you, you petty hood!
+	37AE705D	~z~Fine, kill me. I am dead without Jason anyway.
+	094B3EB1	F4_HA
+	12E3868F	F4_CA
+	147590DC	~z~I'm here for you.
+	007E064D	F4_IA
+	3EC546BB	~z~I've killed the biker. I don't know how happy your daughter will be.
+	085FF244	~z~Yo, try that again and I'll shove that tailpipe up your fuckin' ass.
+	16747279	~z~If my daughter goes blind from some S.T.D. then I am holding you accountable, Niko Bellic.
+	17205A88	F4_GB
+	3B4A5E89	~z~Hang in there, Roman.
+	165A8100	~z~Brothers, we've got to teach this commie asshole what it means to be Lost.
+F4_ARR_1	A5EA69C9	~z~Am I property of the Lost now?
+F4_ARR_2	97AFCD54	~z~Ha... if you were property then all the brothers would get to share you.
+F4_ARR_3	816EA0D2	~z~I want you all to myself.
+F4_ARR_4	733D046F	~z~Get away from Mr. Faustin's daughter.
+F4_ARR_5	3D0E1812	~z~Fuck you, this ain't Russia and we ain't communists.
+F4_ARR_6	6F50FC97	~z~Tell my father I can see whoever I like.
+F4_ARR_7	1A0151F9	~z~I'm gonna get the brothers, and we're gonna kick your fucking ass.
+F4_CUT2_1	C7AA62B4	~z~-I told you where she is.~n~-Where is she?
+F4_CUT2_10	6D2EF597	~z~Someday I'll crucify you...
+F4_CUT2_11	0611A746	~z~Niko Bellic.
+F4_CUT2_12	F86B8BFA	~z~Yes. Good name. Good name...
+F4_CUT2_13	71C4FEAB	~z~Where is Dimitri?
+F4_CUT2_14	5309C135	~z~He's busy, er...
+F4_CUT2_15	BF089935	~z~he said he had something to do.
+F4_CUT2_16	F14E7DC0	~z~Something? Something? Let me tell you something.
+F4_CUT2_17	29F96F15	~z~Me and this guy we were in the army together, we were in prison together,
+F4_CUT2_18	CCA1B467	~z~we are like brothers.
+F4_CUT2_19	7406834A	~z~Now it's always something...
+F4_CUT2_2	2F15B185	~z~-I don't see why it's such a problem.~n~-I tell you. I want you to keep an eye on her.
+F4_CUT2_20	4D1B2F90	~z~Always something...
+F4_CUT2_21	8F90B47A	~z~Always something, yes... you want a drink?
+F4_CUT2_22	A9C2E8DE	~z~No, thank you.
+F4_CUT2_23	F4ACFEB5	~z~Well, I do.
+F4_CUT2_24	DDDFD11B	~z~-You alright?~n~-What?
+F4_CUT2_25	CDA930AE	~z~Mr. Faustin?
+F4_CUT2_26	BFE0951D	~z~No!
+F4_CUT2_27	2907E76A	~z~I'm fucking angry.
+F4_CUT2_28	23BDDCD6	~z~I'm sorry to hear that.
+F4_CUT2_29	072AA3B0	~z~Let me ask you something. You know her?
+F4_CUT2_3	25879E69	~z~-Hey. Stand over here.~n~-I'm out making money all day.
+F4_CUT2_30	50573528	~z~No.
+F4_CUT2_31	83DC9C32	~z~Good.
+F4_CUT2_32	AE86F186	~z~Because if you did, I'd fucking kill you.
+F4_CUT2_33	E9C1E7FF	~z~Why?
+F4_CUT2_34	93723B5D	~z~She's my daughter. Ungrateful bitch.
+F4_CUT2_35	5993C775	~z~I bring her here. I spoil her rotten.
+F4_CUT2_36	01CA1807	~z~Raise her well.
+F4_CUT2_37	3C300CAE	~z~Look at this. Look.
+F4_CUT2_38	666E612A	~z~Look what I've given her!
+F4_CUT2_39	9A59C900	~z~Yeah, yeah... she's, uh, very lucky to have such a loving father...
+F4_CUT2_4	DAC288E4	~z~-Why are you being like this again?~n~-How many times do I have to tell you?
+F4_CUT2_40	7B6B8ECC	~z~She is. She's an out of control bitch.
+F4_CUT2_41	25B0E358	~z~Because of you, you pathetic mess.
+F4_CUT2_42	1370BED8	~z~But I don't accept my daughter turning into a whore.
+F4_CUT2_43	C92DAA53	~z~Niko, she's at Firefly Island.
+F4_CUT2_44	B6F105DA	~z~Go there.
+F4_CUT2_45	5F13D619	~z~If she's meeting up with that biker pimp boyfriend...
+F4_CUT2_46	4D5E32AE	~z~kill him.
+F4_CUT2_47	03BD9F72	~z~-Find Dimitri for me.~n~-Okay.
+F4_CUT2_48	71EFFBD1	~z~-Have him call me.~n~-Sure.
+F4_CUT2_49	93D7BFA0	~z~-Go.~n~-Alright.
+F4_CUT2_5	00D3D506	~z~-Keep an eye on the fucking girl!~n~-How many times do I have to listen?
+F4_CUT2_6	4886E46B	~z~~c~-God! God!~s~~n~-Fucking girl! She's your daughter!
+F4_CUT2_7	36B440C6	~z~~c~-Have your prayers been answered?~s~~n~-Oh my God.
+F4_CUT2_8	34083B6E	~z~~c~Your God doesn't give a damn about you! Just like everyone else.~s~
+F4_CUT2_9	19C906F0	~z~-You're a terrible man! ~n~-You superstitious old crone. I'll see you in hell.

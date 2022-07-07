@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B15A1AB2	Чтобы развернуть вертолет, нажмите ~INPUT_VEH_FLY_YAW_LEFT~ или ~INPUT_VEH_FLY_YAW_RIGHT~.
+	A6DBE5BE	Приземлитесь рядом со складской площадкой.
+	BBA2B403	Выйдите из вертолета.
+	B6F90A34	~r~Цель вас заметила.~s~
+	9EECE423	Найдите транспорт и отправляйтесь к ~y~ площади Цивилизации.
+	966D894A	~r~Вертолет уничтожен.~s~
+	A382AC87	Чтобы развернуть вертолет, нажмите ~INPUT_VEH_FLY_YAW_LEFT~ или ~INPUT_VEH_FLY_YAW_RIGHT~.
+	9F22DEA0	Чтобы накренить вертолет в ту или иную сторону, используйте ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~.
+	CAC91778	Найдите транспорт.
+	ECA0581E	Чтобы зайти на посадку, нажимайте ~INPUT_VEH_FLY_YAW_LEFT~ и ~INPUT_VEH_FLY_YAW_RIGHT~.
+	E7EA761D	Вертолет улетает, проследите, куда он движется.
+	FE578F16	Сядьте в ~b~вертолет.
+	ED11F829	Вы теряете из вида ~r~вертолет.~s~
+	D788E70F	Чтобы набрать высоту, нажмите ~INPUT_VEH_FLY_THROTTLE_UP~, чтобы опуститься, нажмите ~INPUT_VEH_FLY_THROTTLE_DOWN~.
+	D624D292	Встреча закончилась. ~n~Сядьте в ~b~вертолет,~s~ пока он не взлетел.
+	DB535CF7	Следуйте к ~y~точке высадки.
+	D8EEDCFD	Сядьте в ~b~вертолет.~s~
+	3C3B47F2	Вертолет скрылся.
+	3A19A793	Чтобы опуститься, нажимайте ~INPUT_VEH_FLY_THROTTLE_DOWN~.
+	58494A6D	Чтобы сесть в вертолет, нажмите ~INPUT_ENTER~.
+	4BD2CB05	Чтобы выровнять вертолет, используйте ~PAD_LSTICK_ALL~.
+	0AC0095A	Чтобы зафиксировать камеру на вертолете во время движения, нажмите ~INPUT_VEH_CIN_CAM~.
+	0035E5EC	Чтобы набрать высоту, нажмите ~INPUT_VEH_FLY_THROTTLE_UP~, чтобы опуститься, нажмите ~INPUT_VEH_FLY_THROTTLE_DOWN~.
+	3167FFB9	Дайте ~r~вертолету~s~ приземлиться, затем сядьте в него.
+	157DAB2E	~r~Вертолет скрылся.~s~
+	5C44B765	Чтобы опуститься, нажимайте ~INPUT_VEH_FLY_THROTTLE_DOWN~.
+	76B36B6E	Чтобы выровнять вертолет, используйте ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~.
+	752BFD9B	Вертолет уничтожен.
+	91430808	Чтобы накренить вертолет в ту или иную сторону, используйте ~PAD_LSTICK_ALL~.
+	83652D14	Следуйте к ~y~точке высадки~s~ в южной части аэропорта.
+	69E70BC9	Чтобы лететь в выбранном направлении, нажмите ~PAD_SIXAXIS_ROLL~.
+	5C946C88	Чтобы зайти на посадку, нажимайте ~INPUT_VEH_FLY_YAW_LEFT~ и ~INPUT_VEH_FLY_YAW_RIGHT~.
+	717E8947	Следуйте за ~r~вертолетом.
+	6AF254C0	Чтобы выровнять вертолет, нажимайте ~PAD_SIXAXIS_ROLL~ и ~PAD_SIXAXIS_DRIVE~.

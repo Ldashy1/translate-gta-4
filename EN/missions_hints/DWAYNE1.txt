@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A4BE8DC5	Go meet ~b~Dwayne~s~ at the Cluckin' Bell.
+	99D3781F	Get Dwayne's ~g~money.
+	8D65DF44	They're separating to lose you, take them out.
+	FD48BF0C	You're losing ~r~Jayvon.
+	DB3C38AD	~r~Dwayne was injured.
+	BF5B42FE	Go to the arcade in ~y~Chinatown.
+	2E3E20F6	Execute ~b~Cherise~s~ or let her live.
+	2356C8E1	~r~Cherise got away.
+	1FE78449	Execute ~r~Cherise~s~ or let her live.
+	70002479	Chase ~r~Jayvon~s~ down.
+	54F0AC14	~r~Jayvon got away.
+	4B26DAC7	Lose your wanted level.

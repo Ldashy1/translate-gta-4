@@ -1,0 +1,202 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD0C720C	FCJ2_JACOB_CONVERSATION_8_HC
+	AC16FB9D	~z~Да все та же хрень, копы все еще ищут меня, а я все воюю.
+	AB881DB2	~z~Ну так бросай ее курить.
+	AFC6100E	~z~Что?
+	AF3E95C1	~z~Ага.
+	AD4417C6	FCJ2_JACOB_CONVERSATION_5_EH
+	A8102143	~z~Да, в этом городе потрясающая музыка.
+	A7FFF950	~z~Тяжелый ты человек, Нико, ага? Даже для одиночки.
+	A7B0B4C0	FCJ2_JACOB_CONVERSATION_2_BL
+	A9878736	FCJ2_JACOB_CONVERSATION_7_GF
+	A8997C15	~z~Странно, что он вообще сумел наскрести денег на таксомоторную компанию.
+	A89907A5	FCJ2_JACOB_CONVERSATION_7_GH
+	BB4CB630	FCJ2_JACOB_CONVERSATION_2_BA
+	BA48C5B4	~z~Респект.
+	B713A20E	FCJ2_JACOB_CONVERSATION_8_HH
+	BC7FE96A	FCJ2_JACOB_CONVERSATION_2_BN
+	BC3AF3BF	~z~О, круто.
+	BBE7BE71	~z~Пытаюсь, чувак, пытаюсь.
+	B19A9480	FCJ2_JACOB_CONVERSATION_8_HF
+	B14D27D7	FCJ2_JACOB_CONVERSATION_3_CG
+	AFDD5B0C	~z~А, старик, а ты как?
+	B423324C	FCJ2_JACOB_CONVERSATION_5_EB
+	B20D7D1C	FCJ2_JACOB_CONVERSATION_6_FK
+	B1CBDEE1	~z~Да, он умеет задать жару. Звук - высший класс, бесподобно.
+	A7ABE4EF	~z~О, вернулся на Ямайку. Греется на солнце, чувак. Задолбал его этот город.
+	9488D9A0	~z~А что такое?
+	9327E513	~z~Знаешь, мир иногда такое дерьмо.
+	915AB84D	~z~И правильно сделал, что уехал. Может, и Плохишу на Ямайку податься?
+	9A3DEDEB	~z~Черт, не хотел бы я увидеть, как вы наброситесь друг на друга.
+	9A2C0045	FCJ2_JACOB_CONVERSATION_3_CA
+	9762D9A8	~z~Ясно, ясно. Всегда найдутся люди, которые одолжат деньги человеку с такими привычками, как у Романа.
+	8DF8173A	~z~Ништяк. Бобби Кондерс - сила, ага. Звук живой, без обработки!
+	8CC4EE4D	FCJ2_JACOB_CONVERSATION_7_GB
+	8BB5F160	~z~Вся эта хрень давно прогнила, старик. Можешь мне поверить.
+	9152C615	~z~И я рад, Нико, и я. Что у тебя?
+	8FD51D97	100010100010100010100100100010100
+	8F7EDE89	~z~Так посмотреть, Роман вкрутую подсел на игры, это точно проблема, реально.
+	A4EA0897	~z~Типа все делают вид, что важно какое-то дерьмо, а на самом деле главное, чтобы солнце вставало, а нам был оттяг и развлекуха, ага?
+	9EBB7D02	~z~Джа свидетель, он так все свое бабло может черт знает кому спустить, паршивое дело, братан. Чисто-конкретно полудурок, ага?
+	9E818E2A	FCJ2_JACOB_CONVERSATION_7_GA
+	A715718E	~z~Ничего у тебя не выйдет, пока вокруг люди, которые в грош тебя не ставят, ага?
+	A7008548	FCJ2_JACOB_CONVERSATION_8_HG
+	A66DFD6A	~z~Да вот, трава меня убивает.
+	9CCE5D00	~z~Никто не относится к тебе с уважухой, которой ты достоин, Нико, ага. А что в жизни главное? Уважуха, сечешь?
+	9CC15BE7	FCJ2_JACOB_CONVERSATION_1_AF
+	9B67D40A	FCJ2_JACOB_CONVERSATION_4_DF
+	9E5D2321	FCJ2_JACOB_CONVERSATION_2_BM
+	9DEA3C82	FCJ2_JACOB_CONVERSATION_7_GK
+	9DC436DA	~z~Мир и любовь, Нико. Как оно?
+	E8B166ED	FCJ2_JACOB_CONVERSATION_8_HA
+	E7FA8082	~z~Ничего, раста, но знаешь, не так чтобы очень, ага?
+	E7F40359	~z~Курево меня не берет, я такой, знаешь. От страха не трясусь. И на шмаль не налегаю, как Плохиш.
+	EBB98254	~z~Мэллори - славная герла. Повезло ему с ней, сечешь? Лишь бы он и ее не профукал.
+	EB2B842C	~z~У него паранойя. Слишком много курит этого дерьма. Ты скажи ему, пусть завязывает.
+	EAD38F15	~z~От травы у Плохиша башка варит совсем криво. Он уже на друзей начинает надумывать хрень всякую.
+	E6988D62	FCJ2_JACOB_CONVERSATION_5_EC
+	E1CD7D11	FCJ2_JACOB_CONVERSATION_2_BE
+	E09F56FD	FCJ2_JACOB_CONVERSATION_4_DK
+	E7DCDDF0	FCJ2_JACOB_CONVERSATION_4_DL
+	E7BE08FD	FCJ2_JACOB_CONVERSATION_5_EE
+	E79E067F	~z~Да. А у тебя?
+	FE1D9F3F	FCJ2_JACOB_CONVERSATION_6_FL
+	FDD76FBE	FCJ2_JACOB_CONVERSATION_5_EJ
+	FB673B28	FCJ2_JACOB_CONVERSATION_8_HJ
+	FFE1BE85	~z~Да.
+	FE72860A	010100010100010100010100100010100
+	FE25272B	~z~Будем надеяться, Мэллори его образумит.
+	F24B92E7	010100010100100010100100010100100100190010
+	EE2B1B18	~z~Парень, оттяг - ништяк, без всякого пара, сечешь?
+	ECD99801	FCJ2_JACOB_CONVERSATION_2_BH
+	F90D2B88	~z~Только меня пока не боится, но за этим дело не станет. Типа, не сегодня-завтра...
+	F4678978	FCJ2_JACOB_CONVERSATION_4_DC
+	F33D43A5	FCJ2_JACOB_CONVERSATION_6_FD
+	DDEB6C64	~z~Как дела, Джейкоб?
+	C5D5E9BF	FCJ2_JACOB_CONVERSATION_6_FE
+	C56CB5C7	~z~Еще бы.
+	C2DD338C	~z~И где он сейчас, этот дед?
+	CA0A52D7	~z~А то все работа, работа, работа, сечешь? Надо уметь отстегнуться, почекать, как мир вертится, ну, ты въезжаешь...
+	C897C873	~z~А как же, духовно и любовно, ага. Сечешь?
+	C797C299	~z~Айри, чувак. Как оно?
+	C0C0A4F0	~z~Джейкоб, я рад тебя видеть.
+	C04E35A3	FCJ2_JACOB_CONVERSATION_8_HE
+	BD074420	100010010100010010100100010100100010010100
+	C217FF81	~z~Хорошо, хорошо. Только что слушал "Massive B".
+	C1FFB481	~z~Трава! Мозги выедает вся эта дрянь.
+	C1A9BB9A	FCJ2_JACOB_CONVERSATION_4_DB
+	D9945789	FCJ2_JACOB_CONVERSATION_6_FN
+	D973F1AA	~z~Кажется.
+	D3110019	~z~Вавилон хочет придавить раста, но Джа не дает обижать нас.
+	DD5D9C62	FCJ2_JACOB_CONVERSATION_6_FH
+	DC3E7B53	FCJ2_JACOB_CONVERSATION_2_BD
+	D9A066AA	~z~Да по-прежнему, помаленьку. Как Плохиш?
+	CFC5603D	FCJ2_JACOB_CONVERSATION_2_BB
+	CD117A6A	FCJ2_JACOB_CONVERSATION_6_FG
+	CC444ADC	FCJ2_JACOB_CONVERSATION_1_AI
+	D256EFAA	FCJ2_JACOB_CONVERSATION_3_CI
+	D1DCD900	FCJ2_JACOB_CONVERSATION_7_GG
+	D00266E3	FCJ2_JACOB_CONVERSATION_8_HL
+	31064506	FCJ2_JACOB_CONVERSATION_6_FI
+	2FF34872	010100010100100010100100010100010100
+	2FD7735A	FCJ2_JACOB_CONVERSATION_6_FM
+	36719ABB	~z~Тогда еще дед был тут. Он говорил Плохишу - кончай дурить, не сходи с ума.
+	35D80F1D	~z~Да.
+	312F15D2	~z~Но ты же в порядке, а дымишь только так.
+	2752A194	FCJ2_JACOB_CONVERSATION_3_CH
+	262CC1D8	FCJ2_JACOB_CONVERSATION_5_EK
+	2300EE80	FCJ2_JACOB_CONVERSATION_1_AB
+	2B549AD4	FCJ2_JACOB_CONVERSATION_3_CF
+	297D8A8C	FCJ2_JACOB_CONVERSATION_7_GI
+	27A688AE	~z~И я, раста, и я.
+	4517C175	~z~Правда? Ты с ним знаком?
+	4509499F	~z~Я все деньги, какие у меня есть, трачу на девок и сенсемиллию, ты же меня знаешь. Я не бросаю их на ветер, ага.
+	43DAA169	FCJ2_JACOB_CONVERSATION_4_DI
+	47BF685B	FCJ2_JACOB_CONVERSATION_2_BI
+	457464DE	~z~Беда, когда один человек не уважает другого, ага? Важен каждый раста.
+	452D353E	~z~Сечешь?
+	3FC2141D	FCJ2_JACOB_CONVERSATION_8_HD
+	38948D1D	FCJ2_JACOB_CONVERSATION_4_DG
+	388AA43E	FCJ2_JACOB_CONVERSATION_7_GE
+	433005D3	FCJ2_JACOB_CONVERSATION_7_GJ
+	42AAB32D	~z~Раста расстроен! Плохиш с ума спрыгнул, старик. Все, спекся.
+	41E848D3	FCJ2_JACOB_CONVERSATION_3_CE
+	222F67D5	FCJ2_JACOB_CONVERSATION_1_AE
+	0BC3F25A	FCJ2_JACOB_CONVERSATION_6_FB
+	0BBC6137	FCJ2_JACOB_CONVERSATION_6_FC
+	0B68CA42	~z~а на самом деле все дело в той дури, которую он курит, старик. Она ему все мозги скрутила.
+	0FE36673	FCJ2_JACOB_CONVERSATION_5_EA
+	0EC2B952	FCJ2_JACOB_CONVERSATION_4_DH
+	0CBB72E9	FCJ2_JACOB_CONVERSATION_6_FA
+	05B5D5F3	FCJ2_JACOB_CONVERSATION_3_CB
+	053D3D1C	100010100010100010100100010100
+	01A73A91	~z~Все путем, Нико?
+	0B51E063	FCJ2_JACOB_CONVERSATION_3_CC
+	0A00D2C3	~z~Ну, как твое ничего, раста?
+	0880F06C	FCJ2_JACOB_CONVERSATION_6_FF
+	1E19F376	~z~Он истину говорит, чувак, он знает путь и все понимает как надо, ага?
+	1BDE767E	~z~А что, Джейкоб?
+	1844E9EB	FCJ2_JACOB_CONVERSATION_4_DA
+	220026E9	FCJ2_JACOB_CONVERSATION_2_BJ
+	1EE9EBA8	~z~Ничего я ему в лицо не скажу. Аллигатору лучше в морду не вякать, лучше отойти подальше, браза.
+	1ECFFE2C	FCJ2_JACOB_CONVERSATION_5_EI
+	126FC99A	FCJ2_JACOB_CONVERSATION_1_AH
+	1106932D	100010100010100010100010100
+	104B4E6B	~z~Джейкоб, что такое, старина? Ты как в воду опущенный.
+	15FAD4BC	FCJ2_JACOB_CONVERSATION_1_AD
+	154ECA06	FCJ2_JACOB_CONVERSATION_4_DD
+	12D3DCEA	~z~Он играет хорошую музыку.
+	6A1887A4	~z~Но уходить пока никуда не хочет. И паранойя у него, и всякая хрень.
+	6A00F271	FCJ2_JACOB_CONVERSATION_4_DE
+	69D51336	~z~Может, в этом дело, а может, ему просто хочется от чего-то избавиться.
+	7053A237	FCJ2_JACOB_CONVERSATION_2_BC
+	6CB717B1	FCJ2_JACOB_CONVERSATION_5_EG
+	6ADD009D	~z~Порой мне кажется, что он и ее поставил бы на кон, если бы мог. У него ничего не задерживается.
+	689C7ADE	FCJ2_JACOB_CONVERSATION_1_AA
+	68337E3E	~z~Он умел его успокоить. Деда уважали, ага?
+	66D1FFAC	FCJ2_JACOB_CONVERSATION_7_GD
+	698000D7	~z~Но ведь такое наверняка случалось и раньше, как же ты тогда успокаивал Плохиша?
+	692482D8	~z~Неправильно, старик!
+	690EA5CD	FCJ2_JACOB_CONVERSATION_7_GC
+	86EE4B04	FCJ2_JACOB_CONVERSATION_2_BG
+	84AABCC8	~z~Плохиш сейчас зол, как черт. Ну, сам знаешь, как оно бывает, братан.
+	80E3DBBC	~z~Вавилонские душегубы - вот источник наших проблем с обществом. Они все разрушают.
+	89642BE0	FCJ2_JACOB_CONVERSATION_4_DJ
+	88FDAA1D	FCJ2_JACOB_CONVERSATION_6_FJ
+	8792C666	~z~О-о, самую лучшую музыку, брат. Он играет сердцем, ага.
+	73359727	FCJ2_JACOB_CONVERSATION_8_HI
+	73013FF7	~z~Мы так и говорим - уважение нам нужно, сечешь, крутняк?
+	72C360D1	~z~Только в Либерти-Сити, йо. Чувак, музыка со всего мира собирается здесь, а потом наносит массированный удар.
+	80163FB8	~z~Тачки и пушки он не любит так же, как мы с тобой.
+	79623188	~z~Надеюсь, старик, надеюсь.
+	786B943B	~z~Точно, старик. Но я никому не даю себя в обиду.
+	649EECAA	~z~Раста не станут мириться с неуважухой. Мы обращаемся к Джа, пока не получаем то, что хотим, ясно?
+	5422CC75	100010100100010100100010100100100010100
+	54185DFD	FCJ2_JACOB_CONVERSATION_8_HB
+	526D4847	~z~Вот для наших, для раста, главное - уважуха, и все такое, ага?
+	574965D8	~z~Да как всегда, куча проблем, но я не жалуюсь, ага. У дяди Брэдшоу научился, да.
+	56E54197	FCJ2_JACOB_CONVERSATION_4_DM
+	54A86400	FCJ2_JACOB_CONVERSATION_5_ED
+	4D83CB97	~z~Правда?
+	4BF1AD78	~z~Это было бы самое зашибись, Нико, ага. Зашибись для всех нас, сечешь?
+	4B6352F7	FCJ2_JACOB_CONVERSATION_2_BF
+	514DCD7F	~z~Боюсь, именно так Роман поступает с любыми деньгами, которые попадают ему в руки.
+	4FFE1B47	~z~А "Massie B" - это высший класс, братан. Высший.
+	4E9A50A8	~z~Послушать его, так каждый встречный-поперечный...
+	62006EE4	~z~Нико, Нико, а как там большой босс Роман? Так и проигрывает все деньги?
+	61F66522	FCJ2_JACOB_CONVERSATION_1_AC
+	6127F5C3	~z~Да? А что, его ищут?
+	645A2CB8	FCJ2_JACOB_CONVERSATION_2_BK
+	639E042F	FCJ2_JACOB_CONVERSATION_5_EF
+	62DA7482	FCJ2_JACOB_CONVERSATION_1_AG
+	593D4BD0	FCJ2_JACOB_CONVERSATION_1_AJ
+	57B6DD45	~z~Если я скажу Плохишу, чтоб он завязал, он достанет пушку, и все, мне крышка.
+	57717B37	FCJ2_JACOB_CONVERSATION_8_HK
+	5F666F5C	~z~Ее растят на гидропонике, при искусственном свете, кормят химией и сушат с химией. Да еще с пестицидами... Неправильно это.
+	5F04B954	~z~Ага.
+	5D71C045	FCJ2_JACOB_CONVERSATION_3_CD

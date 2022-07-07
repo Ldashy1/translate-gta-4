@@ -1,0 +1,34 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CEEDDE08	Drop Jacob at the ~y~helipad.
+	D6FF9582	You're losing the ~r~target chopper.~s~ Don't let it get away.
+	DF2EB092	Press ~INPUT_VEH_CIN_CAM~ to focus on the target chopper.
+	CE5A297C	~r~The helicopter was destroyed.~s~
+	B3A22722	~r~You left Jacob behind, you couldn't get a shot on the chopper.~s~
+	BB4027D3	Get into the ~b~helicopter.
+	BD4B3AC3	Drop Jacob at the ~y~helipad~s~ off Union Drive East.
+	F2C61E34	Meet Jacob at the ~y~salvage yard~s~ off Grummer Road.
+	F7D4A4C3	~r~Jacob is dead.~s~
+	FE05B440	Follow the target and wait for an opportunity to take down his helicopter.
+	EFCD17CF	The target is flying south through Liberty City.
+	DF6C3ABB	Keep your helicopter to the right so that Jacob can get a shot.
+	E5840821	Get back into the ~b~helicopter.
+	EF91DB0E	Line up your helicopter at the same height as the target.
+	5F345475	~r~You lost the target.~s~
+	6EE77E4D	Fly south and locate the ~r~target chopper.
+	6F3B9E99	Get back into the ~b~helicopter.
+	398AEA2A	Get close and move to the right of the ~r~target chopper~w~ to give Jacob a shot.
+	06777742	~r~You shot the chopper down too early.~s~
+	13D14FA4	Get within range of the ~r~target chopper.
+	2C214F57	Line your helicopter up with the ~r~target chopper.
+	9ED9A2B2	Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate your helicopter.
+	A2F67DBB	Follow the ~r~target chopper,~s~ don't let it get away.
+	AF05BCA0	Use ~PAD_SIXAXIS_DRIVE~ to rotate your helicopter.
+	935BDE86	Follow the ~r~target choppper.
+	76349CFD	~r~The target got away.~s~
+	7C4E191A	Locate the ~r~target chopper.
+	815630E5	Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the chopper left or right.

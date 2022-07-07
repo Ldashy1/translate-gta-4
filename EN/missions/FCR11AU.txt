@@ -1,0 +1,244 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B2BAA532	~z~You are obsessive at this gaming. Maybe I game with you in a bit.
+	B2291BE3	~z~I can no play pool again so soon. Must spend time with Mallorie, cousin.
+	B1A703A6	100
+	B3D61D16	100
+	BDDA53CA	~z~Niko, I cannot drink with you just now. I have to keep clear head for the cards.
+	B90D42D7	FCR2_ACT_CALL_STRIP_YES
+	B87D8F45	~z~I don't like the pool so much right now. Maybe I play with you another time.
+	AA2F685B	~z~No can do it again, Niko. Mallorie shall kick my ass if she find out.
+	A7312C55	FCR2_ACT_CALL_DRINK_YES
+	A7283106	~z~I'd like to game, you want to join me?
+	AAB30206	~z~Can't see show, Niko. I lost much money and must win it back. Another time.
+	B06EB756	FCR_ACT_PRO_CALL_DARTS
+	ABC14188	FCR_ACT_PRO_CALL_BOWL
+	AB86BC8B	~z~Cousin, I am loving the bowling. Pick me up in next hour.
+	BFC48DD8	~z~Niko. I just see show with you. Mallorie will start to get jealous.
+	CAEC57BA	~z~I bring you here to this country, I cannot be treated like piece of dirt. Call me more often, maybe then we do this.
+	CAEA990B	~z~You are a good cousin, Niko. This is just what we should do. Collect me in next hour.
+	C969A122	~z~Sorry, cousin. I just see show with you. I can no go again.
+	CB5A7531	FCR_ACT_PRO_CALL_EAT
+	D1274966	100
+	D0077267	~z~We just eat, cousin. You are binging. I shall not join you in this.
+	CF89F729	~z~Cousin, I cannot trust myself to drink right now. I will lose much money online if I do.
+	C1454247	~z~Have you not got important people to kill, why you want to game so much? Maybe I play with you in a while.
+	C0D71F5C	010
+	C08B3ED1	FCR2_ACT_CALL_GAMES_NO_GENERAL
+	C7704671	~z~Sorry, man. I can't play pool again right away. I'm neglecting my career as an online gambler.
+	C94F87ED	~z~I will see you soon.
+	C93A87BF	~z~I be with you soon, Roman.
+	C82975D0	~z~Niko, this is a great American activity. We bowl together if you pick me up in next hour.
+	A6A82B32	~z~I cannot deal with bowling again right now. I hurt my back lifting the balls last time.
+	8DB646C4	~z~How about we try to numb the pain with vodka?
+	8CED1180	010
+	8CC508E9	~z~Call me later, man. I have an important game to play.
+	8FC4B386	~z~Cousin, Mallorie will start to get suspicious if we keep going. Maybe in a while.
+	9538F9AB	~z~Those darts hurt my fingers. I can no play again so soon.
+	9236112A	100
+	912B01FC	~z~Alright cousin, another time.
+	88A91264	010
+	88931CD9	~z~I think it's better I go out and try to score girls who come to Liberty City in search of fame and fortune. Later.
+	8765A4AD	FCR_ACT_CALL_LIKEYES
+	8A68C16E	~z~Niko, I have hot date. Only thing I'm seeing is titties.
+	8BD2713E	~z~Sorry cousin, you must find other dart buddy. Roman has an appointment with a lady.
+	8BC0CCBD	~z~Want to go play darts?
+	8B0B78CD	~z~How about we play some video games?
+	95EA9153	~z~We bowl like two cousins in American sitcom. Pick me up in next hour.
+	9F63A1FC	FCR2_ACT_CALL_SHOW_NO_RECENT
+	9F02309D	~z~I want go to a titty bar, how about you join me?
+	9E83AC66	~z~Niko, man, I'm online. I can't get away to bowl just now.
+	9F7EF5F0	~z~Hey Roman.
+	A2EA150D	~z~Sorry man, I will not play the darts again this soon. Make other friend.
+	A14EA243	~z~Sure, Roman, we do this some other time.
+	A1494BD3	~z~Want to go grab some food?
+	997F074F	~z~I do not think I would be able to resist groping girls, Niko. Maybe when I am less horny.
+	973F0817	~z~I cannot play the dart now. I have to be online. Sorry man.
+	96C8B944	~z~Niko, shit, I want to but I must meet people about... business arrangements. Later.
+	9B4CCA96	~z~These places make me too horny. I cannot go again so soon.
+	9D7F6406	100
+	9CBB6613	~z~Can't do it, Niko. Must meet Mallorie's cousins. Another time.
+	9B679C66	010
+	D1644112	~z~Niko, I have lost much money on pool recently. I can no play with you.
+	F2741C40	~z~Want to go bowling?
+	F21E421D	~z~I can't do bowling again so soon. It will be cramping my style.
+	F11DE1A3	FCR2_ACT_CALL_POOL_NO_RECENT
+	F34A38F0	~z~Sorry cousin, I am still full from last time. Maybe later.
+	F628FAA0	~z~Niko, we will get bored of these shows if we keep going. Maybe in a while.
+	F46F1F13	FCR2_ACT_CALL_DRINK_NO_GENERAL
+	F3C55CD8	~z~Good, I will collect you cousin.
+	EC411DC5	010
+	EC31A393	~z~Ladies, this is Roman Bellic but I guess you already know that. Leave a message.
+	EB3474A9	100
+	ECFF65B4	~z~Gaming, eh? Is a good idea but I would rather screw hot bitches. Sorry.
+	F0E84171	~z~Okay, Roman, another time then.
+	F051D8FC	010
+	EE4BD157	100
+	F679A5CD	~z~How about a game of pool?
+	FE3E99AF	100
+	FDFD3352	~z~How about we go bowling?
+	FD2C7D8E	~z~You know I will dream of titties for many nights after this? Come collect me in next hour.
+	FEFDE7C0	100
+	FFDA82EE	~z~If I could only touch those girls, I would be in Heaven. Come get me in next hour.
+	FF751EE1	100
+	FF16DD44	010
+	F804F3EE	~z~Just like in Old Country, eh? Collect me in next hour and we play the darts.
+	F804794C	~z~How about we go eat something?
+	F769D627	010
+	F8791C48	~z~You want to go for a drink?
+	FD2C519C	FCR_ACT_PRO_CALL_GAMES
+	FCC6B078	~z~Niko, I try to get rid of this double chin. I cannot eat right now.
+	F94FD81C	~z~Haha, I love to watch the girls bend down and pick up balls, of course I will bowl with you. Pick me up in next hour.
+	EAF48CDE	~z~Hey cousin.
+	D8B1F345	~z~Niko, what the deal? Why you no call me more? I hang out with you when you pay me more attention, okay?
+	D71C6FBB	FCR_ACT_CALL_VERYIRATE
+	D7022352	~z~I come to get you Roman.
+	D9341AA4	FCR_ACT_PRO_CALL_SHOW
+	DA876C9F	~z~If I spend all my time playing pool with you, there will be no moments to hook up with drunk girls. Later maybe.
+	DA3B3DBA	~z~Hey cousin, want to sit down with me and eat something?
+	D9C36A7C	~z~Cousin, hello.
+	D355328E	100
+	D18C5EB5	~z~I cannot do it again, my poor liver is still paining me.
+	D175D826	~z~How about we throw some darts?
+	D4244B7E	~z~There you are. Has been a while.
+	D6ED2324	~z~I am coming to get you, Roman.
+	D6886CCD	~z~Cousin, I cannot game with you the whole time. I go blind or something. Perhaps in a bit.
+	D5B46FA7	100
+	DB709D81	FCR2_ACT_CALL_BOWL_NO_GENERAL
+	E4184834	FCR2_ACT_CALL_SHOW_YES
+	E40DCC00	~z~Great, I would like to play darts with my cousin. I wait for you one hour.
+	E3ABE5A1	~z~Sorry, man. I got other things to do. Maybe in a while.
+	E4B60928	~z~Niko, Mallorie don't like it when I game so much. Maybe in a while.
+	EABF8387	~z~Good call, Niko. We go to show together. Come collect me in next hour.
+	E85E8997	~z~Why don't we shoot some pool?
+	E5539234	FCR_ACT_PRO_CALL_GREET
+	DFC4FB26	~z~Sorry, cousin. Mallorie put a ban on me drinking after the last time.
+	DEFD09E8	FCR2_ACT_CALL_DRINK_NO_RECENT
+	DD32D489	FCR2_ACT_CALL_EAT_NO_RECENT
+	DFE0F53F	100
+	E26CA47A	~z~We can make arrangement for another time.
+	E1DE66F2	~z~Is so good to hear your voice. I was thinking you too busy killing people to hang out with me.
+	E1796F92	~z~Niko, I cannot see nothing right now. I just enter online tournament.
+	3A017209	~z~Cousin, we are family. Of course I should be spending time with you. Pick me up in next hour.
+	391715C5	FCR_ACT_CALL_LIKENO
+	38B526A7	~z~I was thinking we play some darts.
+	3A736A2F	~z~Cousin, I shall be there soon.
+	3BBE79D5	~z~How about we go to see something?
+	3AD2C2C7	010
+	3A832BF4	~z~I am not hungry, cousin. Mallorie has just fed me her pollo y arroz.
+	30A5183E	~z~Roman, what's up?
+	2EB708C3	~z~How about we go drink some vodka.
+	2E92E850	010
+	31830ADF	FCR2_ACT_CALL_GAMES_NO_RECENT
+	36B9D10D	~z~Ah. You have finally called Roman. I think you have forgotten about the man who bring you to this country.
+	34F64CA4	~z~You want do some gaming?
+	3199666B	~z~There is nothing your cousin loves more than titty, come get me in next hour.
+	3BD821A9	~z~Great, Niko. A gaming session with my cousin is just what I need. See you in the next hour, yes?
+	4BBC770D	100
+	4AA92D94	FCR2_ACT_CALL_EAT_NO_GENERAL
+	492D04F4	~z~You want go to a strip club?
+	4C41CF71	~z~I have no hunger right now, cousin. Sorry.
+	517A05AB	~z~I think we should do some gaming.
+	50162BE4	~z~I cannot play video games now, Niko. Must concentrate on games where money can be won. Okay.
+	4E918199	100
+	44F1016A	~z~Good idea cousin, we eat together. I wait for you for one hour.
+	4247BB83	~z~What is going on Roman?
+	418243AA	~z~Okay, man. Let's go drinking. Come get me in next hour.
+	472B8C5D	~z~Niko, I am all you have in Liberty City. I could not abandon you. Collect me in next hour.
+	483747C5	~z~You want to hit the bowling alley?
+	48082156	~z~Two cousin's playing pool, I like the sound of that. Pick me up in next hour.
+	4789CB0E	~z~Niko, you are bad influence on me. I can no drink with you again right now.
+	2CC3CED0	~z~Wait for me then, cousin.
+	0E12496B	100
+	0A9B6792	~z~No cousin, I think I got a bit of sickness from our last meal. I must rest for now.
+	09EC682C	~z~Niko, I could cry. I have already said I see Mallorie. Next time.
+	0E20F5E1	~z~I am in no mood to play darts, I just lose real big. Later on, cousin.
+	0FDE5F06	FCR2_ACT_CALL_DARTS_NO_GENERAL
+	0FBD2715	FCR_ACT_PRO_CALL_STRIP
+	0EF95012	FCR2_ACT_CALL_EAT_YES
+	019EE11E	~z~Niko, you junkie, we went bowling just recently. Maybe later.
+	0193870B	~z~I would like to do darts. Come get me in next hour.
+	017EF84B	~z~I see you soon then, Roman.
+	025272B4	FCR2_ACT_CALL_BOWL_NO_RECENT
+	08F5F5ED	100
+	08171287	~z~Let us go out to see something.
+	05422DB9	~z~Is Niko! I have missed these calls from you.
+	103C31EF	~z~Okay man, pool it is. Collect me in next hour.
+	2A3D4562	FCR_ACT_CALL_BOWL_YES
+	28615D65	FCR_ACT_ANSWER_PHONE
+	27D3C4AD	100
+	2AAAE6A0	~z~Sure, let's go shoot some pool. Pick me up in the next hour.
+	2CB041E6	100
+	2C0FDA78	~z~Want to go to a show?
+	2AD9BDB7	100
+	1908B46A	~z~You want join me at the show?
+	152FD867	~z~This is a good idea. I'd like to see a show with you, Niko. I wait for you for one hour.
+	1361AAA7	~z~I have won a lot of money throwing darts before, pick me up in next hour.
+	1D00ABF3	100
+	2379F4FB	~z~Sure, cousin. I would like that. Pick me up in next hour.
+	23627E58	~z~Niko, you have the pool bug, no? I, not so much. Maybe in a while.
+	22A4D6D2	FCR2_ACT_CALL_STRIP_NO_GENERAL
+	534F3314	FCR2_ACT_CALL_POOL_YES
+	7637DF09	~z~How about we check out some massive fake titties at a gentlemen's club?
+	76077A5B	~z~Niko, we see all these shows so quickly, there will be nothing left to see. Later perhaps.
+	74106327	FCR2_ACT_CALL_POOL_NO_GENERAL
+	77B2D622	100
+	7C8CD2B3	~z~Shit cousin, this is bad time. Shit is kicking with Mallorie. Maybe we do darts later.
+	7AB3B729	FCR_ACT_PRO_CALL_ACCEPTED
+	7AA476E9	100
+	6D6D58FB	FCR2_ACT_CALL_DARTS_NO_RECENT
+	6C317BAE	~z~Good to hear from you. I was thinking you had gone missing.
+	6BCB0E89	~z~What's up, Roman?
+	6DE6301E	~z~Niko, you are like devil sitting on my shoulder. I must resist this time. Sorry.
+	7348C474	~z~Niko, people is going to think we are kissing cousins if we go back to the bowling alley together so soon.
+	7205BC22	~z~Ah, Niko, I must please a lady later and will not be able to if I am drunk. You understand?
+	700D92FE	100
+	7C998274	~z~We should eat together like cousins?
+	81765546	~z~Niko, you are thin guy but you eat like fat man. I will not eat with you again so soon.
+	814FBB47	~z~You wanna play some pool?
+	813666E4	FCR_ACT_PRO_CALL_DRINK
+	81DF88C8	100
+	86205B7A	~z~Cousin, I spend all my time playing dart with you. I will never bag no ladies. Another time.
+	82EC7872	~z~You want go see naked American girls with me?
+	824DDD4E	010
+	7DF66B4C	~z~I can't do it right now, Niko. Maybe later.
+	7DF2BC8A	~z~Wine, women and my cousin, Niko. I could not say no. Pick me up in next hour.
+	7CE58DC8	~z~I do not think I will be able to enjoy a normal breast if I see silicon again so soon. Maybe in a while.
+	7F18981C	FCR2_ACT_CALL_STRIP_NO_RECENT
+	7FCACEE8	FCR_ACT_CALL_IRATE
+	7F68340C	~z~Why don't we go play darts?
+	7F32F5ED	~z~This is a good thing for family to do. Collect me in next hour.
+	6BB11807	~z~Hopefully the booze will not make me lose my sight in one eye like that stuff back home. Get me in next hour.
+	5B24EF22	~z~I did like to play some pool with you.
+	5ACE6C8A	~z~Maybe another time, cousin. I must lose weight for the ladies.
+	5A462B1B	FCR_ACT_PRO_CALL_REJECTED
+	5BBF7824	~z~I was thinking my liver was having an easy time. We drink together. Come get me in next hour.
+	5FC113D4	~z~Sorry, Niko. I cannot trust myself around these naked girls right now. Maybe another time.
+	5CFA5FCB	FCR_ACT_PRO_CALL_POOL
+	5CCE4AE2	~z~You want to play pool with me, come pick me up in the next hour.
+	55906CFA	100
+	5468A9B1	100
+	53CA5E88	~z~~c~Hello.
+	56096306	~z~~c~Cousin.
+	59542A30	~z~This will be a bonding experience. Get me in next hour.
+	59436E81	~z~My hangover is still not gone, cousin. I will not have this dog hair with you. Maybe later.
+	5937DC34	~z~Niko, I will gladly kick your ass at the gaming. Pick me up in next hour.
+	5FF1EB38	~z~You want to go drinking like we did in the old days?
+	68CC20D2	~z~Shit, Niko. I am not playing the dart with you again this soon. I need be online.
+	6864C851	~z~I have a hunger, cousin. Come collect me in next hour.
+	677A78B9	~z~Cousin, you know I love this shit. Come get me in next hour.
+	6900B59A	~z~Niko Bellic, it has been a long time since I had one of these calls, but family is family.
+	6AEE03DE	~z~I like to see something. Collect me in next hour.
+	6A015F63	FCR2_ACT_CALL_DARTS_YES
+	69997D2B	~z~I wait for an hour, cousin. I look forward to beating you on the video games.
+	61917A79	~z~Why don't we do some bowling?
+	60BFDFC8	100
+	605318BD	~z~Sorry, cousin. I have hot date. No drinking for me.
+	62CD28B5	100
+	672DB622	FCR2_ACT_CALL_GAMES_YES
+	66E7A8AD	FCR2_ACT_CALL_SHOW_NO_GENERAL
+	63543608	~z~Cousin, I cannot be bowling just now. Another time.

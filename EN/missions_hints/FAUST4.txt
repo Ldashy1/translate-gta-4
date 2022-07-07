@@ -1,0 +1,30 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	95DD5E84	~s~You can blow up gas pumps.
+	9FD7ED65	~s~Rolling will help you avoid gun fire.
+	A7F13E80	~s~The ~r~biker~s~ is heading into the gas station.
+	7F1FAD13	~s~PLACEHOLDER CUTSCENE.
+	82D4744B	~s~Get on the ~b~bike ~s~and chase him down.
+	8FF4135E	Get back on the ~b~bike,~s~ the biker is getting away.
+	B9B1C460	~s~When aiming use ~PAD_LSTICK_LEFTRIGHT~ and press ~INPUT_JUMP~ to roll.
+	C41B3AFF	~s~Gas stations are full of explosive objects.
+	F1395AC1	Use ~INPUT_VEH_KEY_UD~ to shift your weight forwards and backwards when on a bike.
+	AE26D80E	Use ~PAD_RSTICK_ALL~ to look around whilst on a bike.
+	B0C96763	Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_SIXAXIS_ROLL~ to steer a bike.
+	B7ACDDF7	~s~Take out the ~r~biker.
+	2DE3E19A	Use ~PAD_SIXAXIS_PITCH~ to shift your weight forwards and backwards when on a bike.
+	2F2753F0	~r~The biker got away.
+	3806944D	The ~r~biker~s~ is getting away, catch up with him on a ~b~bike~s~ then take him out.
+	07DDDF9E	~r~Faustin's daughter is dead.
+	1C23BE1A	Use ~PAD_LSTICK_UPDOWN~ to shift your weight forwards and backwards when on a bike.
+	1E4F3865	Press ~INPUT_VEH_BRAKE~ to brake.
+	5C64348A	Press ~INPUT_VEH_ATTACK~ to use a weapon while on a bike.
+	70B55D30	Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT~ to steer a bike.
+	71C287C4	Go to ~y~Firefly Island.
+	4775BC96	~s~When free aiming or locked onto a target use ~INPUT_MOVE_LEFT~ and press ~INPUT_JUMP~ to roll.
+	57EFA99A	Press ~INPUT_VEH_ACCELERATE~ to accelerate. Use ~PAD_LSTICK_LEFTRIGHT_VEH~ to steer a bike.
+	5B2DA4FA	~s~Chase down all the ~r~bikers~s~ and wipe them out.

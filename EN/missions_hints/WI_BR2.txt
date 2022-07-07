@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A8E14F31	Take Brian to ~y~Wappinger.~s~
+	95068D14	~r~The deal was disrupted.~s~
+	7C2975C2	~r~The deal was disrupted by police presence.~s~
+	E48E46AE	Take Brian to his ~y~destination.~s~
+	B747D196	Pick ~b~Brian~s~ up.
+	B71EEBAC	Get a vehicle.
+	2B63D458	~r~Brian was abandoned.~s~
+	1B022B3F	Lose your wanted level.
+	12DD234B	You left ~b~Brian~s~ behind.
+	6BCAD505	Lose your wanted level.
+	60D6BF1D	Wait for Brian.
+	4A739257	You must keep Brian in sight. Get back in ~y~position.~s~

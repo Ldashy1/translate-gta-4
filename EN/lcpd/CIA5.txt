@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B15A1AB2	Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.
+	A6DBE5BE	Land the helicopter next to the Cargo Yard.
+	BBA2B403	Leave the helicopter.
+	B6F90A34	~r~The target was spooked.~s~
+	9EECE423	Get a vehicle and go to the ~y~Civilization Plaza.
+	966D894A	~r~The helicopter was destroyed.~s~
+	A382AC87	Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate the helicopter left or right.
+	9F22DEA0	Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to bank the helicopter in the direction you wish to move.
+	CAC91778	Get a vehicle.
+	ECA0581E	Press ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
+	E7EA761D	The helicopter is leaving, track it to its destination.
+	FE578F16	Get back in the ~b~helicopter.
+	ED11F829	You're losing the ~r~helicopter.~s~
+	D788E70F	Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+	D624D292	The meeting has finished. Take the ~b~helicopter~s~ before it takes off.
+	DB535CF7	Fly to the ~y~dropoff point.
+	D8EEDCFD	Take the ~b~helicopter.~s~
+	3C3B47F2	The helicopter got away.
+	3A19A793	Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.
+	58494A6D	Press ~INPUT_ENTER~ to enter the helicopter.
+	4BD2CB05	Use ~PAD_LSTICK_ALL~ to steady the helicopter.
+	0AC0095A	Hold ~INPUT_VEH_CIN_CAM~ while in a vehicle to focus on the target chopper.
+	0035E5EC	Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to increase your altitude or ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decrease your altitude.
+	3167FFB9	Let the ~r~helicopter~s~ land, then move in to take it.
+	157DAB2E	~r~The helicopter got away.~s~
+	5C44B765	Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.
+	76B36B6E	Use ~INPUT_VEH_FLY_PITCH_UP~~INPUT_VEH_FLY_PITCH_DOWN~~INPUT_VEH_FLY_ROLL_LEFT~~INPUT_VEH_FLY_ROLL_RIGHT~ to steady the helicopter.
+	752BFD9B	The helicopter was destroyed.
+	91430808	Use ~PAD_LSTICK_ALL~ to bank the helicopter in the direction you wish to move.
+	83652D14	Fly to the ~y~dropoff point~s~ on the south side of the Airport.
+	69E70BC9	Use ~PAD_SIXAXIS_ROLL~ to bank the helicopter in the direction you wish to move.
+	5C946C88	Press ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~ to line up the landing.
+	717E8947	Follow the ~r~helicopter.
+	6AF254C0	Use ~PAD_SIXAXIS_ROLL~ and ~PAD_SIXAXIS_DRIVE~ to steady the helicopter.

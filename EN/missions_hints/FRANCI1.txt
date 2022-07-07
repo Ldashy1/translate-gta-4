@@ -1,0 +1,25 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A623EFE2	The blackmailer will be somewhere around here.
+	A9883CA2	Wait for the text from Francis to get the blackmailer's phone number.
+	8DF2A3B8	Go to the ~y~viewpoint~s~ off Union Drive East.
+	9000C39C	Call the blackmailer's cell and look to see who answers their phone. Keep him talking until you identify him.
+	C06F3599	The ~r~blackmailer~s~ is fleeing on foot. Take him out.
+	D8DAE7A9	The ~r~blackmailer~s~ has entered a car, don't let him get away.
+	F0994C06	Hey, come back here so I can kill you.
+	C6F4148E	Pick up the ~g~storage device.
+	D79F37E0	~s~Photographs
+	6EE8D410	This isn't right.
+	27F85445	Take the photographs on the storage device to ~y~Francis.
+	2CD0DF26	That's the ~r~blackmailer.~s~ Take him down.
+	1CE994F6	~r~You lost the blackmailer.~s~
+	1EC151AD	You're too far away from the ~y~viewpoint~s~. You won't be able to spot the blackmailer.
+	346C7B60	Look out for the blackmailer, he's using his cell phone.
+	67F26F05	~s~Lose your wanted level.
+	6B5775C9	Oh fuck.
+	4FE5BBD7	The blackmailer is still in the area. Search for him.
+	5B8FE7B3	You're losing the ~r~blackmailer.~s~ Don't let him get away.

@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E05DAE1B	~r~Cherise is dead.
+	C80ACEEA	~r~Cherise's boyfriend is dead.
+	E362189A	Go and talk to ~b~Cherise.
+	FFE5D1A1	Go and talk to ~r~Cherise's boyfriend.
+	F1FF9EB7	~r~You injured Cherise.
+	2497FBC3	~r~Cherise's boyfriend is still out there.
+	0E3CEE4F	Wait for Cherise.
+	32519896	Pick up ~b~Cherise.
+	BCAB4B2D	Get a vehicle.
+	AE38AE48	Take Cherise to ~y~Frankfort Ave.

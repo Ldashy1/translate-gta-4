@@ -1,0 +1,136 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BA7B991C	~z~Fuck. I think I'm seeing triple.
+	B236537D	~z~Cool. I've been more sober myself.
+	BCC1D02B	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BH
+	BC569CCE	~z~Cool.
+	AAE1E3EF	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CC
+	AA02125C	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BK
+	B12DB81B	~z~You're drunk, shut up.
+	ADA199A2	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AE
+	CE7F07A3	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EJ
+	CCDE1B1C	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FD
+	CF138D3B	~z~I mean you dress like an idiot
+	CEDD7D62	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BA
+	C8254C86	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DC
+	C60D17BA	~z~I'm a drinker.
+	CC8273CC	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BE
+	CC363C91	~z~Too drunk to talk, too drunk to think, too drunk to speak.
+	99B29F17	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EK
+	9890C535	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BB
+	9CA74792	~z~Me too.
+	9ABBA1D0	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FI
+	927FDDBC	~z~You know what, man, I can't fucking stand it,
+	8BCC2335	~z~Oh man, I think I'm going to be sick.
+	98188B5B	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EM
+	9305DE7F	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EB
+	A49D5F20	100010100100100010
+	A47C87E8	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EG
+	A6FE3D29	~z~Fuck man... I am drunk!
+	A65BD673	~z~Man, shit is fucked up.
+	A22A13D4	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DB
+	A1529A59	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BG
+	A464B7DA	~z~You know what Niko? I love you man.
+	A2917DDF	~z~Feeling okay son, o-fucking-kay, you know?
+	D0CD5B4D	~z~do whatever but shut up.
+	ED96CA41	~z~It sure sounds like it.
+	ED5EB070	~z~Hell yeah... because booze lets you forget, man. Lets you fucking forget.
+	EF3D6A1A	~z~I ain't shitting you man. I ain't a shitter. I ain't a fucking shitter.
+	EDF190D1	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EE
+	E7245C8B	~z~That's why we friends. We both mad.
+	E700F226	~z~Either that or I got a lot of fingers I never knew about...
+	ECD799B1	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EN
+	EB9B30CD	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BJ
+	F9C4F9C9	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FG
+	F94DE1AF	~z~and you look angry and you're not much fun, and stuff, but I like you.
+	FF4E0A37	~z~Man, I am drunk as shit.
+	FB0281A4	~z~Drunk, drunk, drunk, drunk, drunk.
+	F89A7CD0	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FF
+	F1907163	~z~Cool, very good.
+	F8DE7423	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CE
+	F8A17AFD	~z~I don't know what I'm trying to say. Shit. Well, that's all I got to say.
+	D6BB519B	~z~Cool. Please be quiet a minute, I'm trying to concentrate.
+	D5416A01	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AH
+	D99AEF60	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AC
+	D7469E4B	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AA
+	D3FE1552	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CF
+	D2C1B123	~z~I am so fucking drunk, man...
+	D4EAB818	~z~Great.
+	D40103D9	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BD
+	E2F1FF96	~z~Shut up, please for the love of God, try to enjoy yourself,
+	DE521263	~z~Lets me forget that I killed my best friend,
+	E4E58286	~z~And you want to cry, only you can't cry,
+	E39C9CEC	~z~Not me.
+	DC62FB44	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EH
+	DAA2EE01	~z~I mean you go out, you start drinking and then the world seems okay, you know?
+	DE3377B1	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AD
+	DCBE2890	~z~For a fucking immigrant psycho, you ain't bad...
+	29370F9F	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AF
+	27E9BEE6	~z~Don't be like that,
+	29CD99E2	100010100100100100010100100010
+	297B5E95	~z~Really?
+	1AD7E855	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EC
+	19F03FFA	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CB
+	279BE005	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CD
+	1E22A5A9	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EI
+	2E0CC8F1	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EL
+	2C9B92E0	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EA
+	312D315D	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FJ
+	2E820E89	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_ED
+	2A37E2B5	~z~Sure.
+	29DF5D1D	~z~I love you, man. You're my best friend. My best friend.
+	2BC6904B	~z~So you keep drinking, and suddenly you feel like shit.
+	2A475195	100010100010100010100100100010
+	09F182F6	~z~don't be like that. Don't be a dick. God, why are people always assholes?
+	09ACD90B	FCDD_ACT_LEAVE_DRINK_GENERIC_V5_EF
+	0E0A403C	~z~Man, I am too drunk to think.
+	0D14A5C8	~z~Sure.
+	03AF15A4	~z~I'm a maniac, man... just like you.
+	0026B908	~z~cause you ain't a fucking woman, and you know?
+	089F1B08	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CA
+	03CCDD58	~z~You know that?
+	14D8354B	~z~Yes.
+	146E1771	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AB
+	18AF89F1	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BF
+	1840DE0C	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DD
+	117A78A7	~z~Yeah, well it lets me forget.
+	0E0AF1D4	~z~because I was jealous, because I couldn't handle his success.
+	142531A9	~z~Okay great... now, please, let me drive.
+	123664FE	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AG
+	365F3D3D	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FK
+	76DA7CF5	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CI
+	72C7D51B	~z~Cool. Keep quiet for a while then.
+	79507B61	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CJ
+	78ED3DB7	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DA
+	6C271202	~z~Kill me, Niko.
+	64E40285	~z~It seems, it seems people don't hate you,
+	6FD6C77D	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CG
+	6DEEEA1E	~z~Once, I got drunk and shot somebody, you know that?
+	8A83CEBB	~z~I'm a fucking murderer - I killed my best friend!
+	8A68A315	~z~I'm pretty drunk man.
+	8AB1C55C	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DE
+	8A99F47C	~z~Dwayne, please shut up, you're drunk.
+	80788F35	~z~I never told nobody that.
+	7E84B6BD	~z~Man, I am shit. Useless shit.
+	8218D11C	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AJ
+	820E0590	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CK
+	441AB202	100010100100010100010100010100010
+	41F00C4E	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FB
+	48169D1B	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FE
+	4678A222	FCDD_ACT_LEAVE_DRINK_GENERIC_V2_BC
+	3EC306D4	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FA
+	3DEB3494	~z~seems people don't want you to disappear, you get that warm, happy glow, you know?
+	40E299D2	100010100010100100100100010100100100010010
+	3FA4D507	~z~You think? Better than sex?
+	5E63E919	FCDD_ACT_LEAVE_DRINK_GENERIC_V4_DF
+	5C1FBAED	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FC
+	61B45132	FCDD_ACT_LEAVE_DRINK_GENERIC_V6_FH
+	5FC6C3EA	FCDD_ACT_LEAVE_DRINK_GENERIC_V3_CH
+	4EA86019	FCDD_ACT_LEAVE_DRINK_GENERIC_V1_AI
+	4C1DEDF9	~z~Man, that was fun. Booze man... it's the greatest thing.
+	592C6B16	~z~You feel good, fucking good!
+	51291A1C	100100100100100100100100100100100

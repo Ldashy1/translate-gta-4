@@ -1,0 +1,131 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD569758	~z~You are number one, man. The greatest of all time. There's another one for you, bro.
+	AF0547A3	~z~Yeah, Nicky. But win it this time. You're a fucking champion, man.
+	B1CE024B	~z~Nicky, you animal. The guys we raced the other day want a rematch.
+	AD18F2C2	BRp5_AE
+	A40F66CE	~z~They liked your shit, man.
+	A5DB5CC0	BRp5_GA
+	AAF9B5D2	100
+	B20344CB	~z~You're racing on the road to Bohan, baby. Win that shit.
+	BDA62864	BRp5_AB
+	BE26CCCD	~z~You're going through Alderney, Nicky. Be the best.
+	BE2A7F7D	~z~Nicky, you animal. The guys we raced the other day want a rematch.
+	BC0234AF	~z~I'm getting altitude sickness because the top of the pile is so fuckin' high. Yeah.
+	B5EB0DA2	~z~The race goes through South Broker. Dominate it.
+	B931E0D5	100100
+	BA9466C0	~z~Brucie, man. Someone else is going to have to dominate that race you organized. I'm pulling out.
+	A169FA12	100
+	8CA002D9	~z~Yo, there's one going. I don't want no more losses though, bro. You're the man, Nicky. Fucking destroy this one.
+	8CCCF839	~z~Winner! Hello!
+	8D66DF3D	~z~All eyes are on us, Nicky. All eyes, baby.
+	8C670A66	~z~Hey, Brucie. I'm not going to be on the starting grid. I have to pull out of the race you organized.
+	87DCF1C1	BRP5_PA
+	8A2AC852	BRp5_MA
+	8BCE9AC6	~z~They liked your shit, man.
+	91034039	~z~You don't wanna make me angry homie!
+	9EC1AF1B	~z~Hey man, you've got to let the other racers know I can't compete right now.
+	9EC686E5	100100010100100
+	9FCEA8CE	BRP5_SA
+	9A10B74A	~z~Cool, I guess.
+	939005BF	~z~Spot the alpha male!
+	9690E9CD	~z~It's lonely at the top, NB. Lonely, baby.
+	9727DE2D	BRp5_AE
+	E87A255A	~z~You make that shit look easy baby, you're a fuckin' animal!
+	EBB0044D	~z~You'll be racing in South Algonquin. Punish those bitches.
+	EBBD68B0	~z~Hey man, I feel like winning something. You got any races?
+	E3E53166	~z~You still got an appetite even though you didn't win that last one. I love it. I've got something for you, bro.
+	DE5D0788	100
+	E028FCFC	~z~A fucking champion like you can race as much as he wants. I know about one.
+	E1075F20	~z~What the fuck?
+	EC9F84BD	~z~The race is through South Alderney. Yeah, push it to the limit and take it to the top.
+	FEB43A12	~z~Alpha males, baby.
+	FF7E2B07	BRp5_AA
+	FFB65E0A	~z~Well done my friend, well done!
+	FDE90D07	~z~Brucie, are there any races going on at the moment?
+	EDA77AE1	BRp5_CB
+	F0588289	~z~It's a race around North Alderney. Take them down.
+	F9329096	~z~Not cool man.
+	DE33CDF3	BRp5_AC
+	CF5BE022	BRp5_EA
+	D0EE5E87	~z~You ate them alive last time and you're still hungry. Well, open up Nicky because I'm about to feed you another.
+	D642CB34	~z~Cool, I guess.
+	CD309D8D	~z~Peace, man.
+	C5AE1AD1	~z~Win this shit for me, man. I got one for you.
+	C8692F81	~z~Any time you want to race, give me a call and I'll hit you up with a location.
+	CB7AC505	~z~Shit, man, there's nothing on at the moment. Try again soon, alright?
+	D74EBE12	~z~Nicky, I was hoping you'd want to do this shit. Intense.
+	DAA9CE76	BRp5_JA
+	DC91CE94	BRp5_AB
+	DCF5AEB9	100
+	DA4ED001	100
+	D7725FA5	100
+	D785F375	010
+	D9BC6188	~z~Nicky, you animal. They must be scared of you because nothing's going down, bro. Call another time.
+	86C42BBB	~z~Stop fuckin' around NB.
+	3D25A1BB	~z~It's a street race through Star Junction. You love it, man.
+	3D794772	100
+	3E9E1B70	~z~Whaddya doin Nicky?
+	39732A26	BRp5_AC
+	36BB41DB	~z~Shit Niko, your car skills, and my body, people are gonna be petrified of us!
+	37133287	~z~You got a hard body and the skills to back it up, baby.
+	37804D9D	~z~Spot the genetically superior one!
+	3F0E2C26	~z~Sorry, Nicky. There ain't nothing going on at the moment. Maybe you call later.
+	429B4F09	BRp5_DA
+	4541E920	~z~Niiiice!
+	4BCC35CC	~z~NB, what the fuck?
+	411BA02B	100
+	3FCF0F8F	BRP5_OA
+	406D9DEF	~z~The fuck you doin?
+	406F3A0A	~z~Remind me to not call you when you're juicing, Brucie. Talk to you later.
+	36B63DB0	BRp5_IA
+	0DF4FA87	~z~I'd like to see you try an take one of my cars NB, not a fuckin' chance baby!
+	131C7A9E	~z~You're a fuckin' alpha male man, you take what you need, and I love it!
+	189F5F4D	~z~You're a fucking adrenaline junky, man. But there ain't nothing goin' on. Call me later, bro.
+	0C8449C8	010
+	0301EF9F	~z~I got one, Nicky. Win it though. Okay? Believe in yourself, man. Don't settle anything for but a win, baby.
+	077CAD2A	~z~You European prick!
+	0C6EC36B	BRP5_FA
+	1C41D01F	BRp5_AD
+	2CE5839B	BRP5_RA
+	2D5D7907	~z~Don't push me man!
+	3506A187	100
+	2C0A1140	~z~Hey, there'll be more races. I'll call you soon.
+	20305195	~z~Hey, Brucie. You know of any races?
+	20F5FD39	~z~You'll be racing on the airport run, bro. Do it, Nicky. You're number one.
+	2A3D1123	~z~Nicky, I got another one for you. You destroyed the last one. I love you, man.
+	72DF5753	~z~Brucie, man. I can't do that race anymore. Sorry.
+	75898946	~z~Don't be a cock!
+	77285BE9	BRp5_NA
+	725F216A	~z~No one, I mean no one can touch us up here.
+	6DE857DC	100
+	70A03D0B	~z~The cats are gonna blast along Dukes Boulevard. Hit it up, you winner.
+	70F4005C	BRp5_CA
+	77A2A713	BRp5_LA
+	800EDEB1	~z~He's genetically superior, like me!
+	8107BE3F	100
+	8664BCAE	100100010100100
+	7F83EFC7	BRp5_BA
+	77E4B415	BRp5_HA
+	7BE78E52	100
+	7F095CB2	~z~Look at that baby!
+	6A50B335	~z~NB's a winner!
+	551E7E33	100
+	58DBD42F	100
+	5A49D2C7	~z~NB, don't make me angry!
+	51B14207	~z~Peace, man.
+	4BF86C55	~z~Hell - yeah NB! Take that shit, just like we take the bitches we want in the clubs!
+	4C7E0995	BRP5_QA
+	4EF2AF21	~z~Yo, Brucie. I'm in the mood to do some racing. Is there one going on?
+	5B45C749	BRp5_AD
+	66576531	BRp5_AA
+	6841D3AD	~z~Any time you want to race, give me a call and I'll hit you up with a location.
+	68ED0E86	~z~Domination. That's all. Domination.
+	61D47CD4	~z~Calm down, man. It's not a big deal. I'll talk to you soon.
+	5D7313E4	BRp5_KA
+	611C7224	010
+	6173FBFB	~z~Okay, Brucie. Whatever. Talk to you later.

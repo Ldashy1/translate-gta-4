@@ -1,0 +1,80 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	98ECF630	~z~Прикинь, если и на меня нападет стероидная ярость.
+	9DB1E885	FCBD_DRUNKEN_CONVERSATION_2_BC
+	97949EFE	FCBD_DRUNKEN_CONVERSATION_4_DE
+	97E1705D	~z~Чемпионам негатив не нужен.
+	9DE156E6	~z~До наших тел всем далеко. Мы суперские нахрен. Мы бабло.
+	A4EEFD15	FCBD_DRUNKEN_CONVERSATION_3_CG
+	AB8CF23D	~z~Видел, как те сучки на меня глазели? Запали нахрен. Ага, точно говорю.
+	A372E20D	~z~О-о, ну ты и надрался, совсем готов.
+	A4CF815E	FCBD_DRUNKEN_CONVERSATION_3_CC
+	832BCAAE	~z~Да я же просто предложил, ага?
+	895BADDB	~z~С нами хрен кто сравнится. Кто еще
+	7EB64FE1	~z~Видел, как я заваливаюсь туда и беру такой самое дорогое дерьмо, какое у них есть.
+	82A080EB	FCBD_DRUNKEN_CONVERSATION_4_DC
+	8D6DED50	~z~Эх, люблю шампанское. Лучшее пойло нахрен, братан, лучшее.
+	95C30356	FCBD_DRUNKEN_CONVERSATION_2_BI
+	95C546B2	~z~Мне не хватает того Брюси.
+	8E4C5D33	~z~Вот у меня сплошной позитив. Я лучший. Меня не остановить. У меня другие гены, старик.
+	8F46E2E0	~z~Если захочешь, поделюсь с тобой клевыми стероидами.
+	ABAF17F8	~z~Да заткнись ты, просто заткнись... откуда в тебе столько негатива, братан?
+	E67B62A3	FCBD_DRUNKEN_CONVERSATION_1_AD
+	EFC07AAD	FCBD_DRUNKEN_CONVERSATION_1_AB
+	DE4C8F04	~z~Небось думали, что мы хлещем какую-нибудь шипучку паршивую или еще чего.
+	E484E42C	~z~Прикольно было.
+	F8016DDF	FCBD_DRUNKEN_CONVERSATION_4_DA
+	FC10F856	FCBD_DRUNKEN_CONVERSATION_4_DF
+	FE5D9A2F	FCBD_DRUNKEN_CONVERSATION_1_AH
+	F84134D7	~z~Завтра у меня суровая кардиотренировка. В этом пойле полно углеводов, братан.
+	FABAAAB7	FCBD_DRUNKEN_CONVERSATION_3_CE
+	B3EED6BE	FCBD_DRUNKEN_CONVERSATION_4_DH
+	B7012005	FCBD_DRUNKEN_CONVERSATION_3_CH
+	ABD12A1A	~z~Ясно.
+	B2720007	~z~А как же, старик. Мы лучшие нахрен, братан.
+	BC1E7B76	FCBD_DRUNKEN_CONVERSATION_1_AG
+	D3C628A9	FCBD_DRUNKEN_CONVERSATION_4_DG
+	D70CC93C	~z~мог швыряться наличкой так, как мы, да? Такой крутизны там и в помине не было.
+	C0649756	FCBD_DRUNKEN_CONVERSATION_1_AE
+	CF6F5117	FCBD_DRUNKEN_CONVERSATION_2_BF
+	31A29502	010100100100100100010100
+	35862BA8	~z~Тщеславные наркоманки из пластика?
+	309D258E	~z~Да? А я не заметил.
+	315C1243	~z~Ну попроси в следующий раз.
+	3FFFD695	FCBD_DRUNKEN_CONVERSATION_2_BJ
+	474F4753	FCBD_DRUNKEN_CONVERSATION_3_CB
+	48223FCF	~z~Надо было бармену прилепить ценники на бокалы. Засранец гребаный! Вот тогда бы все узнали.
+	44953739	FCBD_DRUNKEN_CONVERSATION_2_BD
+	4718CECD	~z~Чертовки, охотницы, пумы, совсем как я.
+	153EE0E7	FCBD_DRUNKEN_CONVERSATION_3_CD
+	19968E21	100010100100010010100100
+	06E7BD5F	FCBD_DRUNKEN_CONVERSATION_2_BA
+	0F789BB9	FCBD_DRUNKEN_CONVERSATION_4_DD
+	22A8DF29	FCBD_DRUNKEN_CONVERSATION_1_AA
+	2880896C	FCBD_DRUNKEN_CONVERSATION_2_BH
+	307B336C	~z~Надо бабки выложить - пожалуйста. Жаль, что меня почти никто не видел, старина.
+	252E1CD2	~z~Вот такой я, понял?
+	27D60ACA	100100010100100100010100100100010
+	50DBE253	~z~Нет.
+	6CA519E5	~z~Видел, как те телки на меня пялились, старик?
+	6E849263	FCBD_DRUNKEN_CONVERSATION_2_BK
+	6AABD91E	FCBD_DRUNKEN_CONVERSATION_1_AF
+	6AC089FB	FCBD_DRUNKEN_CONVERSATION_2_BE
+	75AC0772	FCBD_DRUNKEN_CONVERSATION_1_AC
+	7CE83E27	~z~По-дружески. Я ж люблю тебя нахрен, старик.
+	7E65411D	~z~Мне и своей дури хватает, спасибо, Брюси.
+	79D5F2B2	FCBD_DRUNKEN_CONVERSATION_4_DB
+	7C75B986	~z~Энергия у меня такая. И я не изменяю ей. Эх, люблю я тебя нахрен, старик.
+	59E4781C	~z~Начинай уже следить за собой. Начни считать углеводы и тягать железо.
+	5A3086D6	~z~Потому и стоит бешеные бабки, потому что крутое дерьмо.
+	52CEF813	~z~Да только не знали, сколько я за него отвалил.
+	543558B5	FCBD_DRUNKEN_CONVERSATION_2_BB
+	6188FD6E	FCBD_DRUNKEN_CONVERSATION_3_CA
+	670B826F	FCBD_DRUNKEN_CONVERSATION_3_CF
+	69B125D7	~z~Все видели, как ты пьешь шампанское.
+	654D7DC1	FCBD_DRUNKEN_CONVERSATION_2_BG
+	661F41B6	100010100010100100100100

@@ -1,0 +1,270 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9E0D7710	FCPC1_FRANCIS_GERRY_GB
+	9E4A4150	FCPC1_GERRY_BLOOD_HC
+	9D6B40C2	~z~I think that was when she realized just what we were like - she was young then. She was never quite the same after that.
+	9DD4E740	FCPC1_MOM_DENIAL_CD
+	A1C6816D	~z~Sure... sure. Chaos we all know about. Gerry was the only one who ever tried to live beyond the chaos.
+	A1D2F39B	FCPC1_FAM_BG
+	9F2A466C	FCPC1_IRELAND_EJ
+	A12B2B3E	~z~Sure - I reckon it is - maybe that's why the world is divided into the drunk and the miserable?
+	973F204D	~z~What did Derrick want to find in Ireland?
+	97B8E2EB	FCPC1_FRANCIS_GERRY_GG
+	93DACFF2	100010100010100010100100100010100100100
+	94EF80F5	~z~I can't go out and look for chicks without it, but once I'm out I'm in the can most of the night doing rails.
+	9CFE82AD	~z~I remember one night, years ago, a bit after my dad died, he came home covered in blood.
+	9D67F8A0	~z~I'm not sure - but it didn't do him much good, either way. I think it was because of Derrick.
+	97BD3522	FCPC1_IRELAND_EL
+	9B9E3AD8	FCPC1_GERRY_BLOOD_HB
+	A2210ACD	~z~This and that, you know? Trying to make ends meet.
+	A8B3CD7D	FCPC1_SEX_AK
+	A913DDE3	100010100010100100010100100100100010100100100010100190
+	A85A7436	~z~You're not very cheerful today.
+	A8AA60B9	~z~There is a lot that I am never going to understand, Packie. A whole fucking lot.
+	AED04688	~z~Maybe.
+	B0BD7C4F	FCPC1_FRANCIS_PRIEST_DQ
+	AD703666	FCPC1_SEX_AE
+	AD7278BC	FCPC1_GRASS_FJ
+	A4711758	FCPC1_IRELAND_EH
+	A4EF6723	~z~I saw my brother get killed, a long time ago,
+	A29F1BB4	~z~Niko boy, Niko.
+	A2AE2E48	~z~As long as I don't think about things, fantastic!
+	A6E9B5CF	FCPC1_FRANCIS_PRIEST_DS
+	A761FBA6	FCPC1_MOM_DENIAL_CE
+	A50A56A8	FCPC1_FRANCIS_GERRY_GR
+	A6DC6AF9	~z~Feel like a man?
+	7AA93BCF	FCPC1_GERRY_BLOOD_HE
+	7BCB6966	~z~More than anything he loved a good ruck though.
+	78DA28F7	FCPC1_FRANCIS_GERRY_GF
+	7A1297A7	~z~Drunken bastard. Fuck him.
+	833FFB81	~z~A grass, to avoid doing time. That's why Gerry won't bend - he sees it as his penance for the sins of his brother.
+	86A8B658	FCPC1_SEX_AH
+	7FD6C665	~z~With me, it's myself. My pa was different.
+	81717E44	FCPC1_FRANCIS_PRIEST_DM
+	7527F340	FCPC1_FRANCIS_GERRY_GO
+	758DE6A5	FCPC1_FRANCIS_PRIEST_DO
+	73C1ED70	~z~Yeah?
+	74A66C13	FCPC1_SEX_AL
+	77CFF68C	FCPC1_IRELAND_EI
+	78CA7891	FCPC1_FRANCIS_GERRY_GM
+	75BEB43A	FCPC1_GERRY_BLOOD_HF
+	771C844D	FCPC1_FRANCIS_GERRY_GJ
+	87CFFD2C	FCPC1_GERRY_BLOOD_HM
+	8F7DC289	~z~No... I'm sorry. Happy thoughts, puppies and little girls smiling and clowns and all that shit.
+	8FC15D53	~z~Why?
+	8CC82494	FCPC1_FRANCIS_GERRY_GQ
+	8D2570C1	~z~Keeps your head up your own fucking ass, that's about as grounded as you can get.
+	92835429	FCPC1_MOM_DENIAL_CG
+	92FE497E	~z~Yes, but not long enough. I wish he'd been drowned at birth, got rid of the lot of us.
+	9073AB03	FCPC1_FRANCIS_GERRY_GP
+	917EA765	FCPC1_FAM_BM
+	8877AE34	~z~I'm sorry.
+	888D8685	FCPC1_FAM_BC
+	87D33328	~z~Has he been dead long?
+	880EC3ED	~z~How you doing?
+	8BB66F67	FCPC1_SEX_AB
+	8C651C4A	FCPC1_FAM_BJ
+	898184D2	~z~He went to Ireland to find it all. An old romantic he was.
+	89ABEA32	FCPC1_SEX_AA
+	EB9AD885	~z~Francis tried to get me on his side, team up against the other two he said, but I wasn't having any of it.
+	EBE92EE7	~z~It's this fucking chop that's screwing me at the moment.
+	EAE6F38F	FCPC1_MOM_DENIAL_CJ
+	EB089C9B	~z~Maybe sometimes, I mainly try to focus my need to destroy things onto other people.
+	ED60F399	FCPC1_GERRY_BLOOD_HS
+	EEE018A4	~z~I think I do.
+	EC2FE3B2	FCPC1_IRELAND_EN
+	ECDEAD48	~z~She must be a strong woman.
+	E381009A	~z~There was a look in their eyes. It was fucking animal.
+	E3F5B529	FCPC1_IRELAND_ED
+	E29DF664	FCPC1_FRANCIS_GERRY_GH
+	E31352A1	FCPC1_IRELAND_EM
+	E72024B5	~z~That's probably why he got into smack. Took him to another world.
+	E91205E6	~z~Be a hero with feet of clay or be a drunk and a thug and a killer,
+	E534CEF8	FCPC1_FRANCIS_GERRY_GK
+	E67BFB11	FCPC1_MOM_DENIAL_CF
+	F2C26B3B	FCPC1_FRANCIS_GERRY_GL
+	F954A065	FCPC1_FAM_BI
+	FA2B3AE0	~z~Aren't we all, Niko. Aren't we all.
+	F7AD0C1D	FCPC1_FRANCIS_PRIEST_DA
+	F8B82918	FCPC1_FRANCIS_GERRY_GC
+	FE469103	100010100100100100010100010100100100010
+	FEC9B717	~z~People don't change, do they?
+	FA6D289C	~z~But then, what's the alternative?
+	FD8AA372	FCPC1_FRANCIS_GERRY_GS
+	F3F307FB	FCPC1_MOM_DENIAL_CL
+	F4CC9606	FCPC1_SEX_AM
+	F3673A21	~z~All of us except for Francis. We stayed together when it was possible.
+	F3CAA5C0	~z~And then went into hiding, for years.
+	F6D12B81	~z~Usual kind of chaos.
+	F73E672C	FCPC1_GRASS_FD
+	F5DA147C	FCPC1_FAM_BE
+	F62D5545	~z~You alright Niko boy?
+	BEFBB780	~z~It ended when they was in the kitchen, Gerry was on top just smashing Frankie's head into the floor.
+	BFCAEE60	100100010100100100100010100010100100100010100
+	BCF38006	~z~No?
+	BE2CD2CF	~z~With what's left of them. I am not so lucky to have my whole family in one city.
+	C17B5A0C	~z~I got to cut down on the shit.
+	C429C633	~z~What's going on, Niko?
+	C00A5CBA	FCPC1_SEX_AF
+	C08998B3	FCPC1_FRANCIS_PRIEST_DD
+	B431BF79	~z~That might be a good idea, man.
+	B459BF29	~z~You still in contact with your family back in... wherever?
+	B0F7CADB	~z~Sometimes, I think that is true for all of us.
+	B1A89CDA	~z~Then he looks up and he sees Katie huddled up in the corner crying and shaking.
+	BA658847	FCPC1_FRANCIS_PRIEST_DG
+	BC36A4A8	FCPC1_GRASS_FM
+	B4711CB1	~z~Okay, you know?
+	B9BD828B	FCPC1_MOM_DENIAL_CA
+	C5985E84	~z~You're good people. I like it how you have stayed together.
+	D92BBA4E	FCPC1_FRANCIS_GERRY_GN
+	D98C86A4	~z~Ma didn't even flinch. She just sat there. The next week, Gerald's place at the table was empty.
+	D415660A	~z~What makes him different?
+	D552811A	~z~Liberty City was never enough for him. He was always a dreamer.
+	E11E099B	FCPC1_GERRY_BLOOD_HR
+	E242F854	~z~Sure - great apart from all the blood and the guilt hey... kind of messed up, this kind of life isn't it?
+	DA3CA62F	FCPC1_IRELAND_EA
+	E0FBA0D8	FCPC1_SEX_AD
+	C99F7C26	~z~Although my dad was both - drunk and miserable. Right fucking idiot.
+	CC7D4CC9	~z~Yes.
+	C670FD4C	FCPC1_IRELAND_EO
+	C6F07FAF	~z~I don't know. He loved the stories about the Old Country. The poetry, the songs, the books.
+	D2F33E82	FCPC1_FRANCIS_PRIEST_DE
+	D3500461	FCPC1_SEX_AC
+	CE503193	FCPC1_FRANCIS_GERRY_GI
+	CFDE7632	~z~Us McRearys never flew far from the nest, we all stuck close to home.
+	28629967	~z~Thanks, I think. I always liked Gerry.
+	28ED4B7D	FCPC1_GRASS_FE
+	279E50AF	~z~Did your family fight a lot growing up?
+	28231868	~z~What's up, Niko?
+	2D30D901	FCPC1_FRANCIS_PRIEST_DP
+	2DAED15C	FCPC1_FRANCIS_PRIEST_DI
+	2AA5E4AE	~z~I dunno, she's me ma but I ain't gonna ever understand that.
+	2BF4E59F	FCPC1_IRELAND_EK
+	1F39DCAE	FCPC1_FRANCIS_PRIEST_DB
+	2197EE7C	FCPC1_SEX_AG
+	1EE0DB0C	~z~He got thrown out of the seminary, for cheating. He tried to cheat God.
+	1EE69163	~z~When Gerry first went to juvie, she kept laying a place at the table for him.
+	23048C92	~z~That's because you ain't Irish.
+	245C4E4A	FCPC1_FAM_BL
+	21A5C969	~z~Wasn't hard for me, but I always knew what life was like.
+	22D9FF4B	~z~There ain't winner in a fight like this. I thought the only thing that was gonna end it was one of them dying.
+	2F3AE493	~z~No. well, it must have been hard, realizing your brothers kill people.
+	3A09EAF2	FCPC1_FRANCIS_PRIEST_DT
+	3A9B3DD8	~z~a weird combination of crazy maniac and thoughtful controlled guy.
+	3865F23E	~z~Not really, usual series of shootouts, fist fights and robberies.
+	38F9BA15	~z~Well not much, you know... problems, solutions, usual sort of thing.
+	3BB9F99D	FCPC1_FAM_BK
+	3D3F3415	~z~There was just this feeling in the air. This feeling that told me - this one ain't like all the other fights. They didn't stop.
+	3B147A50	FCPC1_SEX_AJ
+	3B524A3A	~z~What happened?
+	3027DCA6	FCPC1_FRANCIS_PRIEST_DN
+	314B291F	~z~If an Irishman ain't beating himself up he's beating up his family.
+	2F4D9CC5	~z~Because Derrick was a grass. In England.
+	2FAE7CA3	~z~Really?
+	34322951	100010100010100100100010100100010010100010100010100010100100
+	35B69F2E	~z~Bury your brother, bury your dad, but at least you can look in the mirror and feel okay?
+	3275D474	FCPC1_IRELAND_EB
+	338BDD22	FCPC1_GRASS_FB
+	08B9CAF7	~z~Sneaky fucking bastard he was, even back then.
+	0B1E9F84	FCPC1_MOM_DENIAL_CB
+	078D42DC	~z~I don't know.
+	07F38294	FCPC1_IRELAND_EG
+	10C97807	~z~Cocaine is a realist's drug, right? Keeps you in the moment.
+	112E5BF4	~z~Ma had walked out when it started, didn't want to nothing to do with it.
+	0C90932C	FCPC1_FRANCIS_PRIEST_DL
+	0D0C8453	FCPC1_GRASS_FG
+	010E836C	~z~Fuck, I practically had to come outta the womb swinging.
+	032CDE3E	FCPC1_MOM_DENIAL_CM
+	006E4766	~z~Well, sometimes we're trying to keep our heads above the water, other times we're trying to drown ourselves in it.
+	008F3283	FCPC1_MOM_DENIAL_CI
+	06ADE470	~z~After all that there ain't a chance in hell of me being able to get hard. It's a fucking Catch-22.
+	0752E1F8	~z~You're getting to know the McReary family pretty good, Niko boy. What's left of it at least.
+	0467F1BA	~z~Sure. How you doing?
+	05C86828	010100010100100010100100100100010100100100010100100100100100010
+	119103AD	FCPC1_FRANCIS_PRIEST_DR
+	19E57EEC	100010100100100010100100100100100100100010
+	1B842B64	FCPC1_FAM_BB
+	197C503F	~z~Maybe we're all hypocrites. All imbeciles. Francis - you know about Francis - he wanted to be a priest.
+	19D8B524	~z~The fighting bit mainly - drunken fights, sober fights, fights on the subway, fights with the family.
+	1D267530	~z~They both just stopped when they saw her. Kate stopped being a kid after that. You know what I mean?
+	1E325FFC	FCPC1_FAM_BA
+	1C5FCCDA	FCPC1_FRANCIS_PRIEST_DH
+	1C79558C	FCPC1_GRASS_FK
+	13F76E78	~z~Niko boy, how's it going? What's happening with you?
+	1561AC12	~z~As the youngest I was always getting me ass kicked. By Derrick, by Gerald...
+	12406D2F	~z~Like he'd been rolling around the floor of an abattoir.
+	1367B0B6	100010100010100010100010100100010100010100
+	1871C69A	FCPC1_GERRY_BLOOD_HI
+	1940E643	~z~but at least you ain't a fucking hypocrite?
+	178BDC41	FCPC1_GRASS_FL
+	1825B639	~z~Must have killed someone, I guess. I never found out.
+	5DD82D80	~z~The world has a strange way of knocking that out of you pretty quick, hey?
+	605FC231	~z~Good to see you Niko, anything new going on?
+	5ADCEF50	~z~What ended the fight, who won?
+	5B18AD5D	FCPC1_IRELAND_EC
+	6306E06A	FCPC1_FAM_BN
+	65CAB12E	FCPC1_GERRY_BLOOD_HP
+	60B0E055	FCPC1_MOM_DENIAL_CK
+	614D72E2	FCPC1_MOM_DENIAL_CH
+	56E0BD27	~z~That's what I thought at first, now I just reckon it was denial. She's got this power to switch off.
+	56E9A6F5	FCPC1_FRANCIS_PRIEST_DK
+	5656F54F	~z~I don't think you're wearing a wire. My English can be a bit bad.
+	56B5CAB1	~z~I knew you could understand that grief.
+	57C118AF	FCPC1_GRASS_FH
+	5A28F4EF	FCPC1_GERRY_BLOOD_HG
+	574BCD3D	~z~Can you believe it? So he became a fucking cop.
+	5794180D	~z~I'm sorry about that.
+	65EC691E	~z~Pain comes easy to the McReary's. Pain and remorse and doing whatever we can to forget about them.
+	6FDEC6B6	FCPC1_GERRY_BLOOD_HQ
+	704DF1D1	FCPC1_GERRY_BLOOD_HL
+	6E00084A	FCPC1_FAM_BH
+	6F98A12E	FCPC1_GERRY_BLOOD_HH
+	71CCF7F7	FCPC1_GERRY_BLOOD_HN
+	73208386	~z~he was a good friend of Roman's too. We never speak about it.
+	7096D62F	~z~Crazy fucking idiot.
+	717674FE	FCPC1_GERRY_BLOOD_HK
+	6885B9F0	~z~He messed the whole fucking family up, I reckon. I used to think I loved him, then I realized I hated him.
+	69615F90	FCPC1_MOM_DENIAL_CC
+	6657D29C	~z~And he had this weird look in his eyes, like he was possessed.
+	66E787C1	FCPC1_FRANCIS_GERRY_GA
+	6CBD57F9	FCPC1_SEX_AI
+	6DA52EDF	~z~That was until my pa got into a drunken rage one week and threw Gerry's plate against the wall.
+	69D318BF	FCPC1_GERRY_BLOOD_HD
+	6BA2C915	~z~Life knocks most things out of you pretty quick.
+	47ED4971	~z~One time I remember Frankie and Gerald going at it.
+	48627D3E	FCPC1_GRASS_FI
+	452919B8	~z~When Pa would get drunk and do things. She'd just glaze over.
+	45A41245	FCPC1_GERRY_BLOOD_HA
+	4B93346C	~z~Yes.
+	4BA36DBE	~z~All of us apart from Derrick that is. He left us to visit the Old Country.
+	4ADE34BE	FCPC1_FRANCIS_PRIEST_DC
+	4B385E92	~z~You sounded just like Gerry when you said that, all cagey and thoughtful, like I might be wearing a wire.
+	3FE3B436	FCPC1_FRANCIS_GERRY_GU
+	41FC09E5	~z~Yeah. Yeah, Kate saw the whole scene, him, insane like he'd ripped a man's throat out,
+	3DA8397A	~z~He was involved in that business and he grassed on some people to avoid doing some serious time.
+	3FACEA56	FCPC1_IRELAND_EF
+	44DD75A7	FCPC1_IRELAND_EE
+	451BA405	FCPC1_FRANCIS_PRIEST_DF
+	4310F83D	FCPC1_FAM_BD
+	43ED507C	~z~Sure but you're like Gerry -
+	4C0B1988	~z~Shit, that sounds like a fucking extract from my diary. It would if I kept a diary at least.
+	52A026B2	~z~Packie, how's it going man? Is good to see you.
+	52B2274B	FCPC1_SEX_AN
+	51F918F4	~z~No. He spun it different, but that was the truth.
+	51FD1BD4	FCPC1_FRANCIS_PRIEST_DJ
+	54D59ECD	FCPC1_GRASS_FA
+	55C12084	~z~I did not know that.
+	541D1FF4	FCPC1_GRASS_FC
+	54C3700F	~z~You feel that way, you ever feel that need to obliterate yourself?
+	4CFCD280	FCPC1_FRANCIS_GERRY_GD
+	4E7DD55F	FCPC1_FRANCIS_GERRY_GE
+	4C423076	FCPC1_GERRY_BLOOD_HJ
+	4CA3C2C7	FCPC1_FRANCIS_GERRY_GT
+	50ED1C60	FCPC1_GRASS_FF
+	513075F6	~z~I guess we got Ma to thank for that. Taking us to church and cooking a big lunch for the family on a Sunday.
+	4FF525D7	~z~blood everywhere, the showering, the burning of clothes...
+	5017CEB2	FCPC1_FAM_BF

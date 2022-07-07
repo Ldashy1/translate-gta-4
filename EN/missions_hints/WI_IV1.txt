@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B1618DA6	You left ~b~Ivan~s~ behind.
+	A819FB17	Protect Ivan and take out the ~r~gang members.~s~
+	95D3D68B	Leave the car and go and speak with Ivan's ~y~debtor.
+	C4771A01	Go and speak with Ivan's ~y~debtor.
+	DF1F6921	Go and speak with ~b~Ivan.
+	CCED44BD	You are too far away from ~b~Ivan.~s~ Get closer so you can interact with him.
+	CA7D4015	Lose your wanted level.
+	4407B2F0	Take Ivan to collect his ~y~money.
+	39BA0335	Get a vehicle.
+	2762DE87	Pick ~b~Ivan~s~ up.
+	5D26CA0E	Wait for Ivan.
+	7AC5206E	~r~The meeting was broken up.~s~
+	7A561F90	~r~Ivan was abandoned~s~
+	6BFFECB0	~r~You have scared the debtor's and ruined the meeting.~s~

@@ -1,0 +1,171 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8DD39D65	~z~At least not tomorrow night that is. I'm watching you.
+	8606C6CE	SFX_OVERLAP_PHONE
+	9161B700	~z~I'm in over my head.
+	8FC5D5FD	FM1_ME
+	85C584C1	~z~Hello? Who's this?
+	8394335F	SFX_OVERLAP_PHONE
+	82AF8719	~z~Tell me you got the stuff?
+	84C3FEDF	FM1_AD
+	8438EC06	~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?
+	A1A4B7E0	FM1_AC
+	9C6F8829	FM1_BH
+	A471DCD4	100
+	A1A6E16B	FM1_IA
+	9765B089	~z~That's a weight off my mind. You don't need to be worrying about me knocking on your door in the middle of the night.
+	928B50BF	FM1_LA
+	926F259C	~z~Ahh. shit. You're the guy.
+	93FE5633	FM1_CB
+	939D885B	FM1_BB
+	81B71944	100
+	6EBC458E	FM1_AA
+	6E2A3F09	~z~He's hungry for McReary's blood and shit. Yeah.
+	7148E44C	~z~I don't, but no one else does either. They're under the water along with the guy that had them.
+	6FB13E6C	~z~Great, I can get rid of these now. I feel like a new man.
+	6DFCE7CB	~z~You might want to think about paying the man. He got away.
+	63286B63	FM1_MC
+	608D8301	~z~There are other copies. Don't do this.
+	684DA0C7	FM1_BJ
+	653341EC	010100100100
+	7FC113BF	~z~Peace, dude. Chill!
+	7DCB74CD	~z~Hello? Who's this?
+	80E6E5E6	~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+	80C9AA10	100
+	7D76B735	SFX_OVERLAP_PHONE
+	74D822DF	FM1_DA
+	71891F33	FM1_YD
+	7C7A9F39	FM1_KA
+	7C784EEA	100010100100
+	A59981E3	FM1_FA
+	E0FD6AB2	200200100010200200100200200100010010200200100
+	E0D97252	~z~Be cool.
+	ECBC7E81	~z~Something's wrong here.
+	E858F394	FM1_KB
+	DE7D75EF	~z~That means he's somewhere close and he's got a phone. I'm gonna text you his number.
+	D41A19E6	FM1_JA
+	CFB65861	~z~You've got to call him and keep a lookout for someone answering a phone. He won't be far.
+	DDEDED0C	~z~Hey, wait a second. Shit.
+	DC7A9824	SFX_OVERLAP_PHONE
+	F43FE1B4	~z~A friend. I'm calling about your exchange with McReary.
+	F2F5DF20	~z~Yeah. I got it. We're gonna make this shit happen. I don't mess around, you know?
+	FA8E16AC	FM1_MB
+	F9BB64D1	FM1_EA
+	F2F51689	~z~I just wanted the money.
+	F01A4F34	100
+	EDF92D92	010100
+	F2B037C2	SFX_OVERLAP_PHONE
+	F257C84A	~z~He's hungry for McReary's blood and shit. Yeah.
+	CEE516FF	~z~Yeah, he better have my paper. I ain't fucking around.
+	B1C86C95	100
+	B0BFB082	FM1_BK
+	B3448F0B	FM1_YB
+	B3439E73	FM1_BD
+	AE2E0165	~z~This isn't right.
+	AAFB1918	FM1_ZC
+	AA304D96	~z~Yeah, he better have my paper. I ain't fucking around.
+	AD210456	FM1_LB
+	ACD65A6A	~z~I was just talking to you.
+	C10FA3E9	~z~You know what? Fuck this. I'm getting out of here. The meet's off, buddy.
+	BE2A2286	FM1_CC
+	CBCF5DB8	~z~I don't got all day.
+	C34C28BA	FM1_CA
+	BC445B2C	SFX_OVERLAP_PHONE
+	B6E0110A	SFX_OVERLAP_PHONE
+	B5B0A688	FM1_ZG
+	B776D30D	~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+	B70D1F4B	~z~You're right there.
+	5F1174A8	FM1_BE
+	3B9EBB9D	SFX_OVERLAP_PHONE
+	3BDB5A6C	~z~Good thing Francis is paying then.
+	15E7CD98	~z~You know what? He thought that that wasn't such a bad idea.
+	3B20B6BB	FM1_CE
+	39F32D19	~z~I'm in the park, now what?
+	1E7CED98	~z~I'll get rid of them, let me live.
+	3B1964ED	020200200020
+	3C73721A	~z~I'm sure he's got your money. Have you got the stuff he wants?
+	421566E0	~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+	42B76479	~z~Your sins are absolved, I guess.
+	42CAE91F	FM1_BA
+	40AD64F4	~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.
+	146F94C3	200200100010200200100010200200100200200100010200200100200200100010200200100
+	3EEB3700	FM1_ZB
+	3FCB3F46	FM1_ZD
+	2CB93D8C	~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+	30211FCA	FM1_GA
+	329186F3	~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+	2CADF9F8	FM1_CD
+	246CA8E3	FM1_BC
+	2309870F	SFX_OVERLAP_PHONE
+	20904CF2	100
+	34D848BB	~z~Not many people get a second chance like this. It's my redemption.
+	1F4865F1	SFX_OVERLAP_PHONE
+	39BD5794	~z~Yeah, yeah. We're talking about how you ain't getting no money, but you're still giving up the photos.
+	39BE124A	FM1_HA
+	386D9600	FM1_KC
+	367C2EDF	~z~Wouldn't it be easier just to pay?
+	201A23CE	~z~Yeah, and there's a lawyer called Tom Goldberg who's real interested.
+	372751E4	~z~Push me and this shit is all over Weazel News. I got them on speed dial.
+	24D76B77	~z~Looks like you've been fucking with the wrong cop.
+	533C0A0D	~z~Push me and this shit is all over Weazel News. I got them on speed dial.
+	535E77FD	FM1_ZF
+	0822B20E	~z~He was gonna have to take 'em from my cold, dead hand.
+	52DEE7A4	~z~This isn't going to end with my death.
+	08445D81	FM1_ZE
+	53258A64	~z~I told McReary I wasn't giving up them photos unless he paid me.
+	53C0699C	FM1_BF
+	017D4913	~z~Shit, he clearly want this stuff on the news.
+	5DB7C741	~z~What? Did he know I had something to do with it? Shit, I got to call him. Don't fuck up again.
+	0CFE5913	FM1_YC
+	0679742A	FM1_AB
+	5AD449D6	~z~I shouldn't a got involved.
+	5C917255	~z~Alright. This guy told me to bring the money there and call him.
+	51430190	~z~Here. He's dead.
+	469B5B4A	SFX_OVERLAP_PHONE
+	483EF497	~z~Shit, it's you again. Money best be the topic of this conversation.
+	4A565B8A	FM1_CG
+	0CA8841D	100
+	459EEDF7	~z~Call me when this exchange is going down. I don't like all the talking. Yeah.
+	46365840	FM1_BI
+	4B797968	FM1_ZA
+	5107ABBF	FM1_KB_QQQ1
+	090CB61E	FM1_YA
+	50F46078	FM1_BG
+	4D817E98	~z~Really?
+	0C1A3B24	FM1_MA
+	4D2F605C	FM1_CF
+FM1_CUT1_1	5B7C27C4	~z~Were you followed?
+FM1_CUT1_10	F674EB78	~z~I don't know what you're talking about, chief.
+FM1_CUT1_11	5E173ABB	~z~Do you think this is a town that can keep a secret?
+FM1_CUT1_12	613B4103	~z~I really don't know what you're talking about.
+FM1_CUT1_13	3A8F73AC	~z~Yeah ya do. You know that a man's gotta do~n~what a man's gotta do.
+FM1_CUT1_14	4FC69E1A	~z~That people ain't perfect... that life is a mess...
+FM1_CUT1_15	8A711372	~z~Sure. Everybody knows that.
+FM1_CUT1_16	9FC43E18	~z~So you look out for me...
+FM1_CUT1_17	55812993	~z~and I don't look out for you. Know what I mean?
+FM1_CUT1_18	7C3176F3	~z~I think so.
+FM1_CUT1_19	C15A8144	~z~So there's a guy trying to blackmail me.
+FM1_CUT1_2	67C5C057	~z~Hey... strange seeing you here, officer McReary.
+FM1_CUT1_20	FDDE7BA7	~z~Who?
+FM1_CUT1_21	C4238832	~z~I don't know. Thinks he's getting paid though.
+FM1_CUT1_22	D66A2CBF	~z~The guy's smart. He arranged to do the exchange by the Humboldt River off Silicon Street.
+FM1_CUT1_23	14412870	~z~Said to call him from the viewpoint there.
+FM1_CUT1_24	2683CCF5	~z~Okay.
+FM1_CUT1_25	F0B6615B	~z~Listen... I did what I did... I made a mistake. That don't make me the devil.
+FM1_CUT1_26	030005EE	~z~Now obviously I can't go, cause then he gets a picture of me giving him money, and I'm admitting guilt.
+FM1_CUT1_27	5D10BA0E	~z~I ain't guilty of nothing, other than being a man.
+FM1_CUT1_28	6FD75F9B	~z~To be honest, I don't really care one way or another.
+FM1_CUT1_29	398BF305	~z~Well... I'm a good man.
+FM1_CUT1_3	3EB16E2B	~z~I told you to come here, fucking maggot.
+FM1_CUT1_30	D9C7AFDA	~z~No doubt.
+FM1_CUT1_31	1DA937A0	~z~Call me when you get to the spot.
+FM1_CUT1_4	4CF00AAC	~z~You did? Why?
+FM1_CUT1_5	36A95E1F	~z~I know about you.
+FM1_CUT1_6	44F7FABC	~z~Know what?
+FM1_CUT1_7	07FE80CA	~z~I know enough, boy.
+FM1_CUT1_8	266CBDA6	~z~What do you know, boy?
+FM1_CUT1_9	ED89CBE1	~z~I know you killed Mikhail Faustin. I know a group of Russians want you dead. I know you ain't no saint, boy.

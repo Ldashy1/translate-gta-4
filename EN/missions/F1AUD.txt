@@ -1,0 +1,208 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B00D06C5	F1_GA
+	AEDBA423	~z~~c~Here they are.
+	B0E2DFFB	F1_SE
+	B0652FD4	~z~Keep pulling vans over until you find the TVs. Goodbye.
+	AEB3B963	~z~Get out of there or you're fucking dead.
+	A8A3D8BF	~z~I'm dead if I lose this shipment.
+	A7CBD644	F1_AB
+	ADBE5ED7	F1_OB
+	AD5E944A	F1_PA
+	B10AABCB	~z~The truck is driving around South Broker.
+	BA767C64	~z~You ain't taking these.
+	B915B356	100010100
+	BCEDC047	~z~~c~Got them.
+	BC415482	~z~Get the fuck out of here.
+	B7786ED9	F1_JA
+	B5D0BB97	F1_RB
+	B14F29DB	~z~Ain't got nothing.
+	B762FE2F	F1_NC
+	B6D6000C	~z~Talk about dumb criminals.
+	A67896A7	~z~Pull it over, take it to our lockup on Duke's Drive.
+	7E07FD6D	000
+	7C375D10	~z~No, I have nothing yet. Is Roman alright?
+	7E3E1A4E	~z~Mr. Faustin wants those TVs. You do not want him to take out his anger on your cousin. Go.
+	7E1503A2	~z~Motherfucker.
+	7C0BD35A	F1_RC
+	77C0564A	010100100
+	76FCF30F	F1_CA
+	7966072D	F1_QB
+	79139A4B	~z~He's ok. A little scarred, but ok. You did good. Mikhail needs someone like you.
+	82E354DD	~z~Be more specific. How many vans you think there are in South Broker?
+	9D19009E	~z~~c~Finally.
+	9A733780	F1_SA
+	A623F46F	~z~Stop by and see him sometime.
+	A3AFCEEC	F1_AC
+	934044EA	F1_NA
+	847613B1	F1_AF
+	84013B39	010100100010010100100
+	8CF5FE8D	~z~Your cousin will only be alright when Mr. Faustin has that van. Go and get it for him.
+	87F35999	~z~That's not our problem. Keep pulling them over until you find the one with the TVs.
+	BE99446F	~z~No TVs, buddy.
+	EB36E819	F1_LA
+	E94C21A1	~z~I have the police car, what now?
+	EC69D8FA	~z~I wouldn't do this, Kenny Petrovic is looking after this truck.
+	EB9867A0	F1_AA
+	E8F200D7	F1_FA
+	E76576ED	~z~I've left the van where you say. How's Roman?
+	E5D6C6EF	F1_OC
+	E8CFD3D5	F1_OA
+	E76DAAD6	~z~Come out and don't try nothing.
+	F2445930	F1_KA
+	FBDC948C	~z~You gonna be disappointed.
+	FBA9B7F9	~z~You gonna be sorry.
+	FE287C77	~z~You making a mistake, we paying protection money to Kenny Petrovic.
+	FD4C85E7	F1_DA
+	F937166D	F1_AD
+	F42F1C5C	~z~Open up the back. You got any flatscreens?
+	F2E6F1D9	F1_AG
+	F8D54D52	010100100
+	F5517303	F1_MA
+	DEF93BCC	010100010100100
+	CA2E2CDF	~z~Mikhail does not tolerate failure.
+	C940A4E1	~z~You shoulda believed me, pussy hole.
+	CD5C5B5F	~z~This a big screw up.
+	CB4DD039	100
+	C7D9C3AE	~z~What you got back there, TVs? Show me.
+	C2CF9F14	300
+	C1103EF4	F1_EA
+	C6FC156F	~z~I ain't losing this.
+	C3C4184C	F1_QC
+	CE8F791E	~z~Come out real slow, shithead.
+	DBF2D786	F1_SC
+	DB19853C	~z~The van is driving around South Broker. Pull it over, take it to our lockup on Dukes Drive.
+	DDDBBFA8	F1_SB
+	DC05F8B2	~z~Big fucking mistake.
+	D6FD1ABB	010100190
+	D219B737	F1_QA
+	CE91E460	~z~It's empty.
+	D517862A	~z~Get out with no funny business.
+	D4494115	~z~Dimitri, I couldn't get you that shipment.
+	76293B69	~z~That is a problem for you and your cousin, not me.
+	352D3A3E	090
+	353971E8	~z~Wrong move, asshole.
+	3AC316C8	090
+	349DA746	200
+	2A9039C3	~z~You have the shipment already? You are good.
+	2B51B7A2	~z~Fuck... ~c~nothing.
+	0004A4DC	F1_AE
+	3ACED833	300
+	46936E25	~z~Fuck, get out of here.
+	47D63D3D	100
+	4E2E6DB0	200
+	44815D8A	F1_IA
+	3AD56971	~z~Listen, I don't got insurance.
+	3FC4D2E1	F1_RA
+	43D6A580	~z~Pull over more vans then.
+	0E67BB1F	F1_SD
+	1092D523	~z~Are you carrying a shipment of TVs?
+	12B3C33B	~z~I pulled over a van, it didn't have any TVs in it.
+	0C878CD6	~z~Don't kill me, man. I'll show you.
+	0649B549	200
+	09ADDD10	~z~There has to be more than one truck around here.
+	09B03033	~z~Hey, you got bad information, brother.
+	13A6F102	~z~Can't you be a bit more specific than South Broker?
+	2142764A	~z~Show me the back. You carrying TVs?
+	2258F8AF	~z~Show me you don't got any flatscreens in the back.
+	291345ED	~z~Man, I ain't picked up shipment yet.
+	201227FB	~z~I ain't got nothing. You wasting your time.
+	178FE3AA	090
+	182F7692	F1_BA
+	1C879A0E	~z~~c~Nothing, shit.
+	6208250E	~z~Man... get out of here.
+	5AB6E9EE	300
+	52C36F3A	~z~I have the police car, what now?
+	6FEFFCEE	F1_NB
+	5D3B0429	~z~I'd do it quick, Roman don't look too good.
+	2EEDF65D	~z~I hope your cousin is not nearby when I tell him this.
+	683DB851	~z~I don't want no trouble, buddy.
+	54C10A80	~z~~c~Nothing! Fuck this!
+F1_CUT1_1	26F5DAEB	~z~Where are you, Roman?
+F1_CUT1_10	B9953571	~z~Vlad was his man... that's how it works... you kill their guy, they kill you!
+F1_CUT1_11	3A6FB738	~z~Roman, get out of there, man.
+F1_CUT1_12	2889136B	~z~Listen to me, Vlad was a piece of trash.
+F1_CUT1_13	5ED37FFF	~z~They don't care about him. All they care about is making money.
+F1_CUT1_14	4C0BDA70	~z~So, we say we work for them. Now get out of there, you smell like cabbage.
+F1_CUT1_15	16CCEFDF	~z~I don't want to, man. I'm shitting myself.
+F1_CUT1_16	04674B14	~z~Get out of the dumpster, Mr. fat man.
+F1_CUT1_17	3926B492	~z~Come on, fatty, the boss wants a little chat.
+F1_CUT1_2	BDD18888	~z~Psst, Niko!
+F1_CUT1_3	CC10A506	~z~Roman! What are you doing in the dumpster, man?
+F1_CUT1_4	9B7EC3E3	~z~Are they there?
+F1_CUT1_5	B7C2FC6B	~z~What are you talking about... get out of there, man.
+F1_CUT1_6	38D57E92	~z~I'm freaking out, man. I'm being followed... I saw them...
+F1_CUT1_7	07169B15	~z~Don't be ridiculous. You're being paranoid.
+F1_CUT1_8	1260B1A9	~z~I'm being? Fuck you. Fuck you... everything was fine, and then you show up... and now we're dead...
+F1_CUT1_9	E2D6D292	~z~because Faustin is a psychopath... he's going to kill us... because we killed Vlad.
+F1_CUT2_1	51341CDD	~z~Wake up.
+F1_CUT2_10	9416D2AF	~z~Errr, my cousin, Roman.
+F1_CUT2_11	51484D17	~z~Don't be an idiot.
+F1_CUT2_12	5F81E98A	~z~That's not good enough. I'm going to saw off your fucking arm. Speak!
+F1_CUT2_13	EB6C0160	~z~Okay, okay, your dad likes it up the ass...
+F1_CUT2_14	01322CEC	~z~what do you want me to say, huh?
+F1_CUT2_15	16D8D839	~z~Very funny... do you think you're so smart?
+F1_CUT2_16	28967BB4	~z~No. I'm tied up in a basement a long way from home, while some ape threatens me with a hacksaw,
+F1_CUT2_17	BB15A0B0	~z~so no, I'm not that smart.
+F1_CUT2_18	ACDC043D	~z~Shut the fuck up.
+F1_CUT2_19	EA727F69	~z~My fucking wife is watching television.
+F1_CUT2_2	EEFBD86E	~z~We had to gag him, to stop the screaming.
+F1_CUT2_20	03A6BBD5	~z~Good Lord... what are you doing?
+F1_CUT2_21	5554DF30	~z~Nothing... I mean...
+F1_CUT2_22	6529FEDA	~z~I was finding out who he is...
+F1_CUT2_23	312B96DE	~z~And? Who is he?
+F1_CUT2_24	8BD24C9E	~z~He is... his cousin.
+F1_CUT2_25	998CE813	~z~You were about to cut up some guy in my house, making all that noise, to find out he is his cousin?
+F1_CUT2_26	6B230B40	~z~Where did you find this idiot?
+F1_CUT2_27	7729234C	~z~He was a friend of your sergeant, when we were in Vladivostok.
+F1_CUT2_28	D4D7DEA8	~z~He's an imbecile.
+F1_CUT2_29	E2967A25	~z~So, Niko Bellic.
+F1_CUT2_3	8552051C	~z~You shouldn't have brought them here, Andrei.
+F1_CUT2_30	614C73F7	~z~You think it's okay to kill my employees?
+F1_CUT2_31	76AD9EAD	~z~If he is an asshole, yes.
+F1_CUT2_32	84773A40	~z~I agree.
+F1_CUT2_33	89E14514	~z~Mikhail!
+F1_CUT2_34	9EB36EB8	~z~Asshole look at me like I am piece of shit.
+F1_CUT2_35	ADC50CDB	~z~~c~Oh my God.~s~
+F1_CUT2_36	BB92A876	~z~Now listen... Niko Bellic.
+F1_CUT2_37	E0EAF326	~z~You are very lucky Vlad was an idiot.
+F1_CUT2_38	F5CF1CF2	~z~The only reason I keep him around is because I fuck his sister.
+F1_CUT2_39	047EBA51	~z~Look at me.
+F1_CUT2_4	B37BE16F	~z~Why not?
+F1_CUT2_40	D82062FD	~z~You owe me.
+F1_CUT2_41	C8F1C4A0	~z~I got some dickheads in my neighborhood trying to run a shipment, yeah?
+F1_CUT2_42	039A39F4	~z~And we've found a buyer for the TVs.
+F1_CUT2_43	EEA41008	~z~Yes, a buyer,
+F1_CUT2_44	20F5F4AB	~z~but you've got to get them for us so we can make the sale.
+F1_CUT2_45	125B5776	~z~Can you untie Roman?
+F1_CUT2_46	2C838BC6	~z~~c~Yes.~s~
+F1_CUT2_47	248C7B60	~z~-Help! Help me!~n~-Shut up Roman.
+F1_CUT2_48	133DD8C3	~z~Shut up!
+F1_CUT2_49	28650311	~z~-Help me! Help!~n~-Roman shut up.
+F1_CUT2_5	A3C54202	~z~You've been a bad boy, Mr. Balkan...
+F1_CUT2_50	154AE2C1	~z~Shut him up!
+F1_CUT2_51	A86508F7	~z~-What do you want me to do?~n~-Shut up Roman!
+F1_CUT2_52	BA1EAC6A	~z~-Shut the fuck up!~n~-He's just screaming that's it!
+F1_CUT2_53	CDDED3EA	~z~-Roman, shut up!~n~-I can't make him shut up!
+F1_CUT2_54	DF957757	~z~Fuck!
+F1_CUT2_55	71299A81	~z~-Mikhail!~n~-Shut up!
+F1_CUT2_56	82F73E1C	~z~Stop shooting people, you maniac!
+F1_CUT2_57	8DA45376	~z~My wife don't like when people shout!
+F1_CUT2_58	9FB6F79B	~z~Whatever!
+F1_CUT2_59	31071A3D	~z~You better get those screens soon.
+F1_CUT2_6	2AA14FB8	~z~and the boss is not happy.
+F1_CUT2_60	E28CF476	~z~Or I will personally pull your cousin's stitches out, one by one,
+F1_CUT2_61	FCCA28F4	~z~and watch his guts spill onto the floor.
+F1_CUT2_62	0EFBCD57	~z~Clean this shit up.
+F1_CUT2_63	1935E1CB	~z~Listen, we'll take care of your cousin, but you better get a police car,
+F1_CUT2_64	298E827C	~z~and then you call me.
+F1_CUT2_65	3B912681	~z~Roman. Roman!
+F1_CUT2_66	51C452E7	~z~Go, go, go. I... I'll take care of him.
+F1_CUT2_67	6375F64A	~z~Fuck!
+F1_CUT2_7	D85B2B2D	~z~Oh no! I shit my pants!
+F1_CUT2_8	CD13149D	~z~Not yet, but you will.
+F1_CUT2_9	FAC8F008	~z~Who are you working for?

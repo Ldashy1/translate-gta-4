@@ -1,0 +1,56 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A367C5A4	PIMA2_BI
+	9FA00AE4	~z~You're a strong girl. You can do it.
+	9B27CD1F	PIMA2_CE
+	B4E1F310	~z~Have some cash Marnie. Look after yourself.
+	B228FEF1	PIMA2_CF
+	A73BCA29	~z~Motherfucker.
+	85C1B130	PIMA2_BD
+	848B900F	010100100010100010100100
+	797608BF	PIMA2_AA
+	9A47D7FC	PIMA2_BF
+	8F419A35	~z~Ever since I got to this city. On my way here I actually thought it was gonna be different.
+	8A0D362F	PIMA2_BG
+	BDF1F795	~z~I ended up with a two bag a day habit and videos of me doing shit I hadn't even heard of on the internet.
+	F2D3E158	~z~Maybe some big producer was going to discover me on the street.
+	E89F0326	PIMA2_DA
+	E52C4609	~z~This is a good move. How long you been living on the streets?
+	FFD5A97E	~z~Wish I'd known that before I got here.
+	FEDE7BB0	PIMA2_BH_QQQ1
+	FABCAC8C	~z~I gotta get to Grand Easton Terminal.
+	CE5A3513	PIMA2_CH
+	C97E8EAE	~z~Thought that in Liberty City everybody was a somebody.
+	C36D527E	~z~Cold turkey?
+	D250A15C	PIMA2_CB
+	D14FEE43	~z~When I first got here I thought that back home was so boring. I thought that real life was in the city.
+	D11FBC58	PIMA2_DC
+	21587517	100
+	155A53C7	PIMA2_BB
+	0FE34801	PIMA2_BC
+	29C81F3E	~z~Maybe I can last a bit longer this time around. I need to get clean first though.
+	295FF706	PIMA2_BE
+	28F4E49B	PIMA2_CG
+	0600B668	PIMA2_BA
+	031551CD	~z~Now, I never wanna see this place again.
+	02C74426	010100100100010100100010100100010
+	0F2B1A0A	~z~They pick us up when we get off the bus. Girls and guys.
+	0D9AC508	~z~I wish you had too.
+	0BA6B74D	PIMA2_DB
+	2D2B7BBD	PIMA2_BH
+	4F1DC4F1	PIMA2_BJ
+	4DAF1F4F	100010100
+	4A9B1E84	~z~I'll try Niko. Thanks. I was right - you are sweet.
+	6DC3A728	~z~The sweats and the shakes is gonna be real fun. Need to get off this shit. Need to be strong.
+	5689C0F4	PIMA2_CD
+	5662A878	~z~Didn't go like that, did it?
+	3A5DF24D	PIMA2_CC
+	375EEE8F	PIMA2_CA
+	3749BA41	~z~I wanna go back to school. I was alright at school before I left.
+	459BD6E5	~z~So, you going home to settle down?
+	43B78322	~z~Well, some producer discovered me but I didn't exactly end up in a Vinewood movie.
+	41C50CD4	~z~Here we are, Niko. Thanks a bunch.

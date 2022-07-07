@@ -1,0 +1,106 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	4274850F	~z~The fucking diamonds. Don't let anyone get the diamonds.
+	90292AF0	~z~Nicky, Nicky, I had a business relationship with him.
+	85E5AD54	RB4_CB
+	8B0E1641	~z~That Ray has gone and sold us down the river.
+	35A89530	010100100
+	99CA52A0	010010100100
+	3DC5B5C6	RB4_CD
+	3776D6EF	~z~The deal didn't go so good, Ray.
+	6663577D	~z~We should have a sit down.
+	66A14D68	~z~We're being set up. We're being screwed.
+	64A2CD96	RB4_BA
+	6579DF72	~z~Fuck, Nicky. That whole fucking gang are gonna be on our ass now.
+	7AD54E41	010100100100
+	81DE8E5B	~z~The contact we were selling to, Isaac, is dead.
+	748DF3D2	~z~I don't appreciate you screwing with my business, pal.
+	54BCA99F	~z~I don't trust that Ray Boccino from the moment I saw him.
+	9CB7AA23	200
+	0F428F26	RB4_AC
+	C1168554	RB4_BB
+	BDEC53BB	RB4_AA
+	0F8C3398	~z~Your biker friend wasn't so hardcore after all, Ray. He's dead.
+	EB29B879	RB4_BC
+	FC615D28	RB4_AB
+	064AF4A0	~z~Come back and see me.
+	061820A4	~z~Come back and see me.
+	AB2FBE6B	~z~Johnny's got the cash. I don't know who has the diamonds.
+	2BB57591	RB4_CA
+	A4279A87	RB4_DA
+	3036E094	~z~This is a fucking frame up. You damn shysters.
+	2AF4D60C	~z~What is going on? Mori, shit, Mori.
+	187CE315	RB4_CC
+	BD07E21B	~z~Shit, that biker piece of crap better not be pulling nothing.
+	AC7BBC76	RB4_BC
+RB4_CUT1_1	005FED0D	~z~Yeah, baby, I'll be there in a little bit. Alright listen, why don't you wear that pink thing, huh?
+RB4_CUT1_10	66EBC300	~z~Were you followed?
+RB4_CUT1_11	CA6209E7	~z~No. I mean, I don't think so.
+RB4_CUT1_12	DC23AD6A	~z~This town's full of rats so who knows?
+RB4_CUT1_13	E5ECC0FC	~z~What's going on? What's so urgent?
+RB4_CUT1_14	F7A76471	~z~I need you to go offload this ice for me...
+RB4_CUT1_15	93569BD1	~z~So, what you going to do for me?
+RB4_CUT1_16	A51C3F5C	~z~What do you mean what am I gonna do for you, I look after you.
+RB4_CUT1_17	AED352CA	~z~I don't need looking after, I need help finding someone.
+RB4_CUT1_18	C091F647	~z~I said I got connections, I'll see what I can do.
+RB4_CUT1_19	5CEB2EFB	~z~"I'll see what I can do." is not good enough.
+RB4_CUT1_2	EA99C181	~z~Yeah, yeah, the pink thing with the little feathers on the... yeah.
+RB4_CUT1_20	60F535B3	~z~I want your word that you will find him.
+RB4_CUT1_21	2C03CBD5	~z~Hey, I said, I'll look after you.
+RB4_CUT1_22	5921260F	~z~You know what? It's cool. Get someone else, I'll see you later.
+RB4_CUT1_23	111115F0	~z~Whoa, whoa, whoa. Are you fucking kidding me?
+RB4_CUT1_24	3E9CF107	~z~No! I keep doing these favors for you and you pay shit.
+RB4_CUT1_25	F228581B	~z~I need this from you.
+RB4_CUT1_26	2035B439	~z~A guarantee that you will find this man. I know he's in the city.
+RB4_CUT1_27	D80BA3E2	~z~So either you give me your word or go fuck yourself, I'm sick of this shit!
+RB4_CUT1_28	05C3FF52	~z~Fine. Fine you got it, you want my word, you got my word.
+RB4_CUT1_29	D930A630	~z~Good.
+RB4_CUT1_3	E00EAC6B	~z~I gotta go, I gotta go. Niko, come on in.
+RB4_CUT1_30	0D9C8E5F	~z~Who is he?
+RB4_CUT1_31	7DBF6E5B	~z~Florian Cravic.
+RB4_CUT1_32	5F7E31D9	~z~Florian fuckin' Cravic?
+RB4_CUT1_33	326E57BA	~z~That's right.
+RB4_CUT1_34	442C7B36	~z~Okay.
+RB4_CUT1_35	B6D7608E	~z~Okay, you have my word.
+RB4_CUT1_36	8895840B	~z~In the meantime head over to the Libertonian.
+RB4_CUT1_37	9B6CA9B9	~z~There you're going to meet that guy named Johnny,
+RB4_CUT1_38	6D2FCD3C	~z~and the two of you are gonna exchange the diamonds with a guy named Isaac.
+RB4_CUT1_39	EB6C49B7	~z~Then you give Johnny half the money, the rest you bring back to me.
+RB4_CUT1_4	CA5480F7	~z~Okay...
+RB4_CUT1_40	F4075A09	~z~What is he doing there?
+RB4_CUT1_41	71025401	~z~He's waiting to get paid.
+RB4_CUT1_42	635D38B7	~z~It'll be good... keep things on a level. People always behave better with company.
+RB4_CUT1_43	566E9EDA	~z~Sure. Much better getting shot by two guys than one.
+RB4_CUT1_44	28B0435E	~z~Is this the merchandise?
+RB4_CUT1_45	AC2B4A56	~z~No, it's my lunch.
+RB4_CUT1_46	9E50AEA1	~z~Funny.
+RB4_CUT1_5	C417F4A2	~z~Where the fuck have you been?
+RB4_CUT1_6	ADD4C81C	~z~Sorry... you know how it is.
+RB4_CUT1_7	A8A53DBD	~z~I know how it is?
+RB4_CUT1_8	92571121	~z~Yeah, I know how it is sitting around with two million dollars worth of stolen ice, waiting to get jumped.
+RB4_CUT1_9	4B3202D8	~z~If that's what you mean, brains.
+RB4_CUT2_1	771AB5F1	~z~Hey, alright man. How's it goin'?
+RB4_CUT2_10	30CE5CC4	~z~Whoa, whoa, whoa, whoa. Since we're having a little show and tell, let's see some money.
+RB4_CUT2_11	D3072137	~z~Of course, no problem.
+RB4_CUT2_12	E8974C53	~z~There it is. Beautiful, huh?
+RB4_CUT2_13	8C6693F3	~z~Unmarked bills! No history, no need to launder.
+RB4_CUT2_14	C6118748	~z~Good. Niko - show him the stuff.
+RB4_CUT2_15	F77AEA1A	~z~Get in there Mori.
+RB4_CUT2_16	5F5939D9	~z~Isaac - look at them.
+RB4_CUT2_17	50FF9D26	~z~Gorgeous, huh? Like condensed money.
+RB4_CUT2_18	BAE670F2	~z~Isaac - these are great.
+RB4_CUT2_19	AC7DD421	~z~Rest of you motherfuckers wanna die - do something stupid okay!
+RB4_CUT2_2	BDDCC374	~z~Hey, good to see you again.
+RB4_CUT2_20	4E509494	~z~Fuck you!
+RB4_CUT2_21	601AB828	~z~Just get the shit man. C'mon!
+RB4_CUT2_3	D29EECF8	~z~Yeah likewise...
+RB4_CUT2_4	659A12D8	~z~uh, let's hope this goes a little better than before, yeah?
+RB4_CUT2_5	7AD83D54	~z~Come on let's get inside.
+RB4_CUT2_6	C2174BD1	~z~Gentlemen, gentlemen, pardon the precautions. You know how things are.
+RB4_CUT2_7	D75E765F	~z~No problem.
+RB4_CUT2_8	324F2C43	~z~Let's do this.
+RB4_CUT2_9	43C8CF36	~z~Okay, let's see the stuff, gentlemen. Mori, come over here.

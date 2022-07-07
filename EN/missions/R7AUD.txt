@@ -1,0 +1,257 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9FFCE508	R7_CB
+	9D8DE381	~z~Cousin, this is crazy. We got each other. We don't need women in our lives.
+	9D87FC3C	R7_ND
+	A557BB49	R7_GL
+	A4F7A4EA	~z~He's probably gone back to Mallorie's for a post drive screw.
+	A2B3C0B4	~z~Wait Niko, you have to think this through.
+	959621EB	100
+	94A1EC07	R7_IB
+	944E0397	~z~Great, you lost Vlad.
+	9C6FD16D	R7_MA
+	9B7041DE	~z~You've killed yourself and your cousin, yokel.
+	994BFEC6	R7_GI
+	B711A1CF	R7_NE
+	B37913DE	~z~Stay out here, let the big boys have their conversation inside.
+	B13A9D0D	~z~Maybe next time I might watch them at it... urgh... to
+	BB809D8B	R7_CA
+	B832C9F7	R7_BF
+	B73E556E	~z~Shit, I don't like this. Fuck... fuck.
+	AA70B6D9	R7_HB
+	A975DDD2	~z~Look, Vlad has crashed his car and gone. Surely that is enough...
+	A64BB389	~z~Vlad shall soon understand that.
+	B03719A7	~z~We are going to catch Vlad, Roman.
+	AFBF36D0	R7_BD_QQQ1
+	AE20EEF7	~z~Stop, Niko... shit!
+	93FE2B0A	~z~Get back outside, Roman.
+	78A22C2D	~z~Nothing as stupid as letting that fat swine give it to Mallorie.
+	77AA9193	R7_LA
+	767C5F90	R7_FE
+	7B0BE287	~z~It is finished, he's running. We won't see him again.
+	799BED31	100
+	78FDD32A	100010100010100100010010100
+	6DE47881	~z~Pride, pride - who needs this?
+	6D56471C	~z~He'll come back. The only thing that will hold him down is six feet of dirt.
+	FC8B06B1	200020200200020200020200
+	75E725E7	R7_NG
+	756F11ED	R7_QB
+	6E024F7D	R7_TA
+	FBE1DA96	R7_OD
+	8718773D	R7_OE
+	86ABD169	100010
+	8FA9FEF8	R7_OA
+	8A374799	R7_CF
+	88A052E4	R7_IA
+	802389BB	~z~I guess I'll find out.
+	7E08A477	~z~You have been pushed around too much, Roman.
+	7D2BAC4A	R7_CG
+	86416B85	R7_GB
+	83B1CAD0	R7_NB
+	836A41BD	~z~watch his fat, hairy, sweaty back going up and down.
+	DE659E0C	R7_GD
+	F7FA89E1	~z~I brought the car round, cousin.
+	DD169D28	R7_HA
+	E6A36426	010100
+	E132A4C6	R7_GE
+	DF225AFF	~z~I am not done with Vladdy yet. Not even nearly am I done with him.
+	DAAADDBA	~z~They will not use Mallorie as well. She is too good for that.
+	D939DACC	~z~I will show Vladdy what he can have.
+	D88B3C13	~z~Mikhail Faustin thought of me as a brother. He will get revenge.
+	DB8EC090	~z~You're throwing you and your fatty cousin's lives away for that bit of Puerto Rican chocha.
+	DB739A78	R7_BB
+	DAEBF06F	~z~Don't do anything stupid, cousin.
+	F0D3FE62	~z~He's going to stay away from Mallorie for sure.
+	F0ADEACE	~z~Fucking yokel, you think you can get away with killing me?
+	F7D88271	~z~Great, we go now. Vlad and Mallorie can have happy life together.
+	F73FC9B1	R7_FL
+	F508606A	~z~Nobody fucks with my family.
+	F39C03F2	~z~We should not throw everything away for one girl.
+	E9C07BE5	~z~I getting tired of Mallorie. She's too old for me anyway.
+	E9B3EEA2	R7_KA
+	E874B116	R7_GC
+	ED61FD7D	R7_CD
+	EC9A7FAE	202202202202
+	EA3ED5E0	~z~Hove Beach is a small place, my friends will find you.
+	D7161D6A	R7_FF
+	C2CD9850	~z~Keep your head down, I'm going to finish this.
+	C280BE3A	~z~We're both going after him, Roman.
+	C0951DE5	~z~You scared him good, Niko.
+	C79DCAA3	R7_NH
+	C46CB13E	~z~You let these people use you, use me.
+	C3D1B453	~z~Wait Niko, you have to think this through.
+	BCFC75D0	R7_EA
+	BC4C9068	202
+	BBD1F5F4	100100
+	BF7C3990	~z~Hey, it happens, we have an open relationship. I do my thing, she does hers.
+	BF031FA0	R7_CE
+	BD35D0F6	R7_FD
+	CF59950D	~z~You were the stupid one, Vladdy boy.
+	CD612435	~z~You think this is worth it?
+	CCA5B77F	R7_PA
+	D6FFFFFE	R7_AB
+	D4614312	~z~He crashes his car, this is revenge enough, no?
+	D362DB51	R7_NF
+	CA63FE87	R7_OB
+	C991413D	R7_FM
+	C90D1B8D	~z~My friends will track you down, you won't last a moment.
+	CBDBBBA5	R7_CC
+	CB783F49	~z~She's too good for me. Vlad should have her.
+	CA759FE8	~z~You are nothing in this city. You will be crushed.
+	038D6E0B	~z~We do, if we are to live with ourselves in this city.
+	1F6AE486	100010
+	4206B92B	R7_DA
+	41F27051	~z~Grow a fucking spine. You think Vlad won't come after us when I am chasing him like this?
+	407ACE4D	~z~This is fate telling us to give up, cousin.
+	213018C0	R7_BE
+	41B8BE5B	~z~I can't take it. How could she do this?
+	417D27C2	R7_SA
+	1AD2C0A5	~z~You are a dead man.
+	326B1BB4	R7_NC
+	1676B663	~z~I'll last longer than you will, shithead.
+	14663A6F	100010
+	1617C8E9	~z~By doing nothing, we let Vlad take everything from us.
+	434FCED5	~z~Get to the car, Roman.
+	19E29879	R7_BA
+	49E90042	~z~I'm not walking away until this thing is finished.
+	18D41E15	~z~...you know, when Vlad is done with her...
+	03BBFA60	R7_GJ
+	29E18CA6	R7_DA
+	353A9E5D	100
+	27DD6C74	~z~This is principle, we do this because we will not be stepped upon.
+	05028A11	020020
+	3432D4D2	~z~I have to end it, here and now.
+	054AA74F	~z~Come on, Niko. This is stupid. All for a woman.
+	05FD5132	010
+	2D6B8276	R7_LB
+	3AF17F58	~z~I'm throwing your life away, prick. We'll do alright.
+	3E0AE319	R7_GA
+	3DF7EB73	R7_GK
+	22EC9D46	R7_AA
+	3E617A13	100
+	3C561565	~z~He takes our pride, Roman.
+	267EB96A	~z~Forget about Mallorie. Plans change and...
+	24426794	R7_JA
+	24885286	~z~Fuck you, I wish I could be there to watch Mikhail cut your peasant balls off.
+	4D78EE67	R7_RA
+	5DD665C6	~z~Tell me you're just blowing off some steam...
+	095E6EF6	R7_FA
+	5E0F9E0C	R7_OC
+	66C8887A	~z~I knew you cared. I have to do this.
+	59B3F206	100100010010010100010
+	6B4123D9	~z~I decide when I will give up on something, cousin.
+	87E00017	R7_FK
+	00364A11	R7_GG
+	0C14EA19	100010100100100100010
+	0987AE36	100100010100100010010010100010010100
+	60F220B9	010
+	5F327D2F	R7_DB
+	0F37B14A	R7_PB
+	5FC62BFC	~z~Alright, he's running away. We win, let's go home.
+	124641BC	010
+	09325AE9	R7_GF
+	50D80E30	~z~Shit, I don't like this. Fuck... fuck.
+	5098E337	R7_NA
+	4C69FEA7	R7_BD
+	4DEFE6A7	R7_GH
+	02DB5FB0	R7_FC
+	4F4F48B8	~z~You're going for a little drive... you're going to leave Vlad alone, right?
+	59399966	R7_BC
+	57B20578	100100
+	095AED33	R7_FB
+	0FC39AD6	~z~Stay in the car, let the big boys have their conversation.
+R7_CUT1_1	86892CD4	~z~Hey, what's wrong?
+R7_CUT1_10	6BFF7115	~z~I saw his car parked outside her place the other day.
+R7_CUT1_11	00E59AE3	~z~Yeah...
+R7_CUT1_12	0F83381E	~z~You knew?
+R7_CUT1_13	2272DDFD	~z~I had suspicions.
+R7_CUT1_14	95B8C487	~z~You fucking knew?
+R7_CUT1_15	A789E829	~z~What was I going to say?
+R7_CUT1_16	3B4A8FAC	~z~You knew my woman was banging this warthog and you didn't do anything?
+R7_CUT1_17	5CF4D300	~z~-I didn't...~n~-You didn't say anything?
+R7_CUT1_18	DE6A55E9	~z~I didn't know!
+R7_CUT1_19	EFA17857	~z~You're an asshole, Niko Bellic, a disloyal user.
+R7_CUT1_2	51A24307	~z~Hey, cousin.
+R7_CUT1_20	5CC94FC5	~z~After what I did for you, you dick! You fucking dick!
+R7_CUT1_21	6A89EB46	~z~I'm sorry!
+R7_CUT1_22	F76F0512	~z~Screw you.
+R7_CUT1_23	061CA26D	~z~Alright, so you want me to deal with it, right now?
+R7_CUT1_24	A3CEDDCB	~z~No.
+R7_CUT1_25	B1117850	~z~Sit down.
+R7_CUT1_26	3E989364	~z~No! I'm not going to stand here and have you call me disloyal.
+R7_CUT1_27	4D5430DB	~z~You might let some Russian asswipe bang your woman, but I won't.
+R7_CUT1_28	EA446AB9	~z~But you fucking did!
+R7_CUT1_29	77688503	~z~That was before I knew you cared!
+R7_CUT1_3	63FBE7BA	~z~Bullshit.
+R7_CUT1_30	42191FCD	~z~You always were a hypocrite.
+R7_CUT1_31	4FEABB70	~z~Niko... wait. Don't do anything stupid. Wait for me!
+R7_CUT1_4	BBEF179F	~z~What's bullshit?
+R7_CUT1_5	CE213C03	~z~Mallorie.
+R7_CUT1_6	9867D091	~z~Oh. What about her?
+R7_CUT1_7	AAD5756C	~z~I like her... I really like her...
+R7_CUT1_8	FD3C9AB5	~z~But you keep messing around with other women.
+R7_CUT1_9	F50689D1	~z~Yeah... no. I think she's messing around with Vlad.
+R7_CUT2_1	9B16A292	~z~Gimme a drink.
+R7_CUT2_10	3343AD37	~z~-Go away!~n~-And now Roman is upset.
+R7_CUT2_11	1D748199	~z~Oh, Roman is upset.
+R7_CUT2_12	AA009AA3	~z~Excuse me.
+R7_CUT2_13	1BD7FE50	~z~Do you think I give a fuck, peasant?
+R7_CUT2_14	0685D3AC	~z~Oh, there he is.
+R7_CUT2_15	F855374B	~z~Hey fatty, I'm sorry you're so upset. Boo fucking hoo.
+R7_CUT2_16	7687B3B2	~z~-Hey, Vlad, can't we just talk about this? ~n~-Hold on.
+R7_CUT2_17	68771791	~z~You stay away from Mallorie.
+R7_CUT2_18	C0B0C803	~z~I must be hearing things...
+R7_CUT2_19	B3092CB4	~z~I could have sworn for a minute this ratty little yokel told me what to do.
+R7_CUT2_2	04D7F617	~z~-Anyway... ~n~-You got it.
+R7_CUT2_20	C97353F8	~z~-Did you hear that boys?~n~-Yeah.
+R7_CUT2_21	DA99F645	~z~Now... get them out of here!
+R7_CUT2_3	EFC8CBF9	~z~~c~Cabbages? Why eat cabbages when you can have potatoes?~s~
+R7_CUT2_4	E9823F6C	~z~Hey.
+R7_CUT2_5	D22C10C0	~z~~c~Potatoes...~s~
+R7_CUT2_6	F2CFD20F	~z~Vladdy boy!
+R7_CUT2_7	229DB1AA	~z~I'd like a word with you.
+R7_CUT2_8	D7521B14	~z~What are you doing here? Did I summon you... boy?
+R7_CUT2_9	0908FE81	~z~I told you to stay away from Mallorie.
+R7_CUT3_1	A5209225	~z~Eeeh, you're a big boy Vladdy.
+R7_CUT3_10	6D08C5BC	~z~I am calm. He tried to kill us. He screwed your girlfriend.
+R7_CUT3_11	16B21910	~z~-What do you expect? I give him a massage?~n~-Shit! Shit! Shit!
+R7_CUT3_12	428C70C4	~z~When I was in the army...
+R7_CUT3_13	345FD46B	~z~we were going on a mission...
+R7_CUT3_14	E0222BED	~z~to ambush a squad who had killed a lot of innocent people.
+R7_CUT3_15	D1AE8F06	~z~They were our enemies...
+R7_CUT3_16	C2C77140	~z~but we never did it.
+R7_CUT3_17	B43ED42F	~z~There were fifteen of us. All boys from the village.
+R7_CUT3_18	5F392A29	~z~But one of us betrayed the group.
+R7_CUT3_19	51A18EFA	~z~It was a setup... for money!
+R7_CUT3_2	B9DDBB9F	~z~Niko!
+R7_CUT3_20	3D5EC419	~z~Twelve people died, three escaped.
+R7_CUT3_21	3921BB9F	~z~I know the traitor was not me...
+R7_CUT3_22	29F21D40	~z~So for ten years I've been searching for the other two.
+R7_CUT3_23	93BCF0D4	~z~One of them lives here.
+R7_CUT3_24	7082AA60	~z~Why are you telling me this now?
+R7_CUT3_25	604909ED	~z~Do you always get sentimental after you kill people?
+R7_CUT3_26	CD36E3CB	~z~You kept asking...
+R7_CUT3_27	BEF44746	~z~Wonderful.
+R7_CUT3_28	B7F8394E	~z~You're here on some revenge mission for something that happened ten years ago.
+R7_CUT3_29	AA3A9DD3	~z~And you don't care whose life you ruin on the way?
+R7_CUT3_3	CBCB5F7A	~z~Well, I guess this is over.
+R7_CUT3_30	242E1098	~z~No.
+R7_CUT3_31	92A0ED7C	~z~Well what?
+R7_CUT3_32	7DEAC410	~z~I don't know...
+R7_CUT3_33	6C042043	~z~I just want to know why they did it.
+R7_CUT3_34	5D5982EE	~z~Right now I don't think you're going to find out.
+R7_CUT3_35	CB785F2E	~z~Let's hide the body, at least for a while.
+R7_CUT3_36	B6E6360A	~z~Put him in the river...
+R7_CUT3_37	A5059249	~z~Mikhail Faustin is going to kill us.
+R7_CUT3_38	12796D2F	~z~Shit. We should get out of here.
+R7_CUT3_39	0031C8A0	~z~You go. I'll catch up with you later.
+R7_CUT3_4	DA60FCA5	~z~What have you done?
+R7_CUT3_5	6C492077	~z~What does it look like?
+R7_CUT3_6	4878D88F	~z~We're dead!
+R7_CUT3_7	DE47042D	~z~No, he's dead... we're fine.
+R7_CUT3_8	F001A7A2	~z~He has powerful friends... serious people...
+R7_CUT3_9	FDDC4357	~z~I told you to be calm you hot headed chump!

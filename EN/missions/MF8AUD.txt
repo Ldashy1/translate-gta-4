@@ -1,0 +1,143 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B9EB8F1F	MF4_HD
+	B7C04001	MF4_PB
+	BB37CDE2	MF4_EA
+	BA48528E	MF4_OA
+	B44056DF	~z~How'd the interview go? Is it done?
+	B30E6215	MF4_FB
+	B4D00778	~z~And the problem with having a dirty cop for a kid is that he'll kill his own brother if he gets in his way.
+	B48A3AC5	MF4_PI
+	C136D226	MF4_PC
+	C69A6A12	MF4_OB
+	C3BA739B	~z~Niko, what's this I hear about you running with Patrick McReary now these days?
+	CAE9335E	MF4_HB
+	C6C30C2B	~z~Maybe if doing what you do is good, then I wanna be no good instead.
+	C22F147E	MF4_GE
+	C1A82217	MF4_GA
+	C299666F	SFX_MACHINE_BEEP
+	C28EA2F5	~z~Easy there, Niko. You think this has been easy for me? I ain't sleeping nights. I'm a wreck.
+	A2CC4442	MF4_FA
+	9F826E36	100100100010100
+	A4C0E945	MF4_GB
+	A399D518	~z~Niko, my boy, this is Packie's brother Gerald McReary.
+	9B241434	SFX_MACHINE_BEEP
+	98929F84	~z~They fucking better.
+	9D61C194	~z~Gerry, what's this about?
+	9B908F18	SFX_MACHINE_BEEP
+	A6D96091	100100100
+	B1FE71E1	~z~Come and see me at my ma's house. Use the back entrance.
+	B0525C35	MF4_HH
+	B306B374	100010100010010100100100100010010010100
+	B27A02D4	~z~Maybe at the next McReary family function. Whatever that might be.
+	AB4FF7F2	100100100
+	AB06669D	100
+	AFB46639	~z~They're gonna need some looking after. Especially young Patrick and Katie, my sis.
+	AC50BC19	SFX_MACHINE_BEEP
+	E7D205F9	010
+	E6EB6BAE	~z~I guess that's the problem with having gangsters for kids.
+	F06B0438	~z~Don't make me do something I'll regret.
+	E8F39F7F	~z~He said he'd get outta town. I thought that'd be enough for you.
+	E543981F	~z~Fuck, I shoulda just shot him in the line of duty.
+	E537A988	MF4_OD
+	E5C242B8	MF4_QB
+	E5B9495E	MF4_HF
+	F0A48FB4	MF4_FJ
+	FC56F752	~z~Be careful what you wish for.
+	FB4737DD	~z~What, are you mental? You shouldn't even be calling me when you're this hot. I don't know you.
+	FFF5EC15	~z~Just thank the Lord you ran into Packie and not my other brothers.
+	FEBF633E	MF4_FF
+	F29DB2D3	~z~You're a fucking Weazel, Niko. I trusted your word and you screwed me. Goodbye.
+	F1BD4FA4	~z~My brothers ain't no good, Niko. Trust me on that.
+	FA565C94	MF4_FH
+	F8CCC269	100010100
+	D3690EA6	SFX_MACHINE_BEEP
+	D24990BD	~z~Packie's just a hood but Gerald is into some serious shit. And Derrick. He's the worst.
+	D6733ACE	~z~Gerry, how's it going?
+	D500A8A6	~z~You know what, me and Packie get along.
+	CEA39465	~z~Jesus. You're out of control. I'll do my best.
+	CE0D6E6A	MF4_IB
+	CF740348	MF4_FG
+	CEAF3A0A	MF4_HC
+	D6D7CB8F	~z~But I'll be more of a wreck if any one finds out about this.
+	E3DFF52E	~z~Please hang up and try again.
+	E2AD4C8A	~z~Niko, it's Gerry.
+	E48B440A	MF4_FC
+	E449E673	~z~Keep your trap shut and I'll try to keep you outta the pen for a bit longer. See ya round.
+	D9245020	~z~She didn't need to say goodbye to Derrick with that going on.
+	D7AD8BE2	MF4_IA
+	E199418A	100100100010100100100010
+	DCDD30D8	~z~Alright already. You want me to turn water into wine as well?
+	97BC4124	100100100100
+	245DB342	MF4_QA
+	1F6D2B03	~z~If that asshole ever comes back from Ireland, I can't be held responsible for what I'd do.
+	2C66D550	MF4_HG
+	2859B97E	MF4_NA
+	1E0C3A6B	MF4_BB
+	1D547BA0	MF4_PH
+	1E75FE3A	~z~You're getting too much attention. I can't do nothing.
+	1E5C438B	~z~I want you to look after 'em is all. Keep an eye on 'em. Make sure no harm comes to them. It's a fucked up world out there.
+	2CC37A2A	~z~Niko, Gerald McReary here. Calling from the Alderney State Correctional Facility.
+	36A990BC	~z~Hey, Francis. I'm feeling the heat. Cool things down.
+	33BFDE98	~z~I'll see what I can do...
+	40D6887F	~z~Great. Look, Niko. I've always been responsible for my family. Now, one of my brothers is dead and I'm on the inside.
+	36F538D8	100010100100010100100010100
+	2D16C0BC	MF4_FI
+	2CF3460B	~z~I'm not planning on taking him down. He's my damn brother, you idiot.
+	31AEF470	MF4_GC
+	30A701CA	~z~This is Francis McReary. Please leave me a message.
+	0B0F9CF2	~z~I'll do what I can, man.
+	0A8193A7	~z~I should meet the other McRearys.
+	12F84694	~z~Hey Gerry. I heard you'd been locked up, I'm sorry to hear that.
+	0FFA6E6C	MF4_PD
+	085E6A3E	MF4_CA
+	084407A1	~z~Shit, Niko. You're gonna get me arrested. I'll try.
+	09DCD508	~z~Sorry, you've gone past my jurisdiction. Don't mention my name if you get caught.
+	09163003	~z~Niko, a gunfight at my brothers funeral? My poor, poor Ma.
+	1530CDC3	~z~Hey, I don't like the sound of sirens. Tell your cop friends to stay away from me.
+	1C2D3F2D	~z~In here too, for that matter.
+	1BF25F3F	MF4_FK
+	1CD63421	100010100
+	1CD3A1EE	MF4_QC
+	1591A23C	~z~I'll pull some strings.
+	15765A37	MF4_FM
+	1A165796	~z~Yo, Frankie. The smell of bacon is starting to get on my nerves. Get these cops off my back.
+	17CBF177	MF4_PG
+	7EA9A0C3	~z~Francis, I got some of your colleagues on me. Get rid of them.
+	7AA842E6	~z~I just heard that Clarence Jones - that no good, kid killing, drug dealer I paid you to whack - is still alive.
+	8650FB01	~z~Shit, something came up. I didn't make it. Maybe they'll schedule another one.
+	7F0E0C01	~z~Good. Got a little business opportunity I need your help with.
+	760CD841	~z~Packie McReary, Francis McReary. It's all starting to make sense.
+	72DE3CF3	MF4_OC
+	78AAF827	~z~So long.
+	766131F3	MF4_PA
+	882F0F47	MF4_BC
+	95EDA9FC	MF4_FD
+	95A683B0	MF4_DA
+	97060387	SFX_MACHINE_BEEP
+	96DC8490	MF4_AA
+	8CE1E759	~z~Actually, I ain't heard nothing. I've seen him walking down Vauxite Street in the middle of the day.
+	88837D2E	~z~I knew Irish families were big but I didn't expect to run into brothers in a place the size of Liberty City.
+	9182B46A	MF4_GD
+	905A9D76	MF4_FE
+	4F0A3CC6	MF4_HA
+	49A133E5	~z~We gotta discuss something. I've put you on the visitors list here. Come down...
+	515F6FDD	MF4_PE
+	4F32CBD2	~z~We apologize for the inconvenience but this number has been disconnected.
+	42A1A8A4	~z~Frankie boy, it's time for you to get me out of trouble.
+	416679E5	~z~I'll make some calls.
+	47763255	~z~Francis, your fellow police officers are starting to irritate me.
+	457709C2	100
+	53202D12	~z~Hey.
+	68F6F53B	MF4_HE
+	66FD50AB	100010100100
+	711AEC60	~z~This is Gerald. Don't leave me a message 'cause I ain't gonna listen to it and I sure as shit ain't gonna return your call. Fuck off.
+	6BD0FB0A	~z~Hey, I'm playing this game of cops and robbers and it's getting boring. End it.
+	5BC76010	MF4_FL
+	5A982158	~z~He's got work and he's a good guy. You're not planning on taking him down, are you? Lay off him for me.
+	65F00F06	MF4_PF
+	60C13E3C	MF4_BA

@@ -1,0 +1,131 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8919632C	C1_HB
+	917ACEFB	~z~There's an email that says he's meeting someone at Tulsa St, in Hove Beach.
+	8811A9BA	~z~Sounds like it's you or me, friend.
+	85C03424	~z~Minkov got away.
+	FCE49AEF	C1_CB
+	964511A7	C1_JA
+	A0E06E3A	~z~Dispose of Minkov then call me.
+	A3221187	C1_CC
+	9C6D58FE	C1_CA
+	982B49ED	~z~Let's get this over with then.
+	9B35C15C	100
+	70EFFE69	~z~Not much. He keeps a clean house, he's got a computer.
+	73F23603	200200200
+	6D5E42B6	C1_JC
+	646180F7	C1_DE
+	6B12ADD9	C1_EB
+	73FB909B	~z~Unacceptable. Come to see me soon.
+	7F359B34	~z~Got to? You need to learn to control yourself, Bellic. Come to see me again.
+	844BB49D	~z~Perfect, I'll send someone to pick up the hard drive. You go to Tulsa St., eliminate Minkov.
+	7C4E9234	~z~I don't got no choice about this.
+	75DC17BE	~z~Whoa, killing is very different from gathering information.
+	7761296C	~z~Mr. Minkov? Anybody here?
+	E62E6D7D	C1_GB
+	E78C7B91	~z~For once this is a murder you don't have to feel confused about.
+	E0E33538	290
+	D96FE2BA	C1_KA
+	E0E169DF	010100010100100100
+	EF1B7AC2	~z~Check his emails. Call back with any information that would indicate his current whereabouts.
+	F9A94030	~z~Not by a long shot, smart ass. Nothing is safe, no one is safe.
+	FC1B2E41	~z~This is it. He must have been waiting for me. Goodbye, friend.
+	F72A015E	010100100
+	F29A7E20	100010100
+	F6D3F2FD	~z~You upset some powerful people, friend.
+	BBF55013	C1_BA
+	BD5C2731	~z~You are acting in the interests of your new countrymen, and keeping yourself out of prison.
+	B1428C34	C1_DB
+	A956FB39	C1_DC
+	B03F7D47	~z~I'm sorry, I got to Minkov's friend before he arrived.
+	BFF674CD	C1_IA
+	C9CE2EEA	020
+	CB8D4E11	C1_DF
+	C8A27307	C1_EA
+	C81B060E	C1_IB
+	C83AEA15	~z~They've come, they want me dead.
+	21452C8C	230320230
+	2AD20ECD	C1_DD
+	466DC6FA	010100
+	40B91DFC	~z~What have you got for me?
+	1B988DE6	C1_EC
+	1C041EA3	C1_JB
+	3F6F1DC6	090
+	40121FEB	C1_GA
+	4438DC90	C1_HA
+	2F33AB44	~z~Maybe something has been averted, maybe delayed. I'll be in touch. Goodbye.
+	4503D3AB	~z~I meant no harm to this great country, ~c~nor to Russia if that is who sent you. Please.
+	44E6D37D	~z~Please don't kill me. I did not mean what I was saying. They were just ideas.
+	1A783E92	010100
+	0AC8E26F	~z~Minkov is dead, the country is safe.
+	570877C0	~z~It was not meant to be taken literally.
+	0A5FCACA	~z~Oleg, you're scaring me. I was even thinking that the man behind you might be watching me.
+	5522550D	C1_DA
+	86A2C352	~z~Vasily, thank you for coming.
+	55EC8F2B	C1_IC
+	556288BC	C1_FA
+	561C0649	C1_LA
+C1_CUT1_1	12A546DA	~z~Look, I'm not in the business of caring about people's feelings, bud.
+C1_CUT1_10	B52872F4	~z~I'm sorry that I lied to you.
+C1_CUT1_11	724EED3E	~z~And... and weirdly in some ways you're a nice guy...
+C1_CUT1_12	6056494D	~z~better than the creeps I normally date.
+C1_CUT1_13	0C5BA159	~z~But you're damaged goods.
+C1_CUT1_14	02028CA7	~z~No doubt.
+C1_CUT1_15	37BF7820	~z~Let's go.
+C1_CUT1_16	298CDBBB	~z~-So I said hoist? Flagpole? Salute?~n~-In here.
+C1_CUT1_17	BD030289	~z~Eat my ass, buddy, I'm up for the promotion and, and you're not!
+C1_CUT1_18	CED9A636	~z~-What the hell are we doing here?~n~-We're going to meet someone.
+C1_CUT1_19	EA96DDB0	~z~Sounds fun.
+C1_CUT1_2	3BC7991E	~z~Yeah? Boo fucking hoo...
+C1_CUT1_20	ABFE5F80	~z~You know, you and your cousin, you should get out.
+C1_CUT1_21	F0FD697D	~z~What you're looking for you won't find.
+C1_CUT1_22	86BB94FB	~z~Feds are all over it. Crime is done.
+C1_CUT1_23	D3802E83	~z~You've watched too many movies.
+C1_CUT1_24	E159CA36	~z~Whatever you say, Michelle.
+C1_CUT1_25	2B96DEAF	~z~Or whatever your name is.
+C1_CUT1_26	39587A32	~z~It's Karen.
+C1_CUT1_27	07631648	~z~My name is Karen.
+C1_CUT1_28	15B1B2E5	~z~Interesting. And you whore for the government...
+C1_CUT1_29	63104DA1	~z~I kind of like the honesty in that.
+C1_CUT1_3	4E123DB3	~z~Hey.
+C1_CUT1_30	30BFEC65	~z~I have a clear conscience.
+C1_CUT1_31	BACF0081	~z~How very lucky for you.
+C1_CUT1_32	CD15A50E	~z~In here. Office three-nine-six.
+C1_CUT1_33	E78AD9F8	~z~Hi there.
+C1_CUT1_34	F9E87EB3	~z~Here he is.
+C1_CUT1_35	84299337	~z~I can see that. Thanks, Karen.
+C1_CUT1_36	966A37B8	~z~Hey, cheer up, you did good. You'll get a Sammie...
+C1_CUT1_37	4C292333	~z~if you care about that sort of thing.
+C1_CUT1_38	9E4A4778	~z~Thank you.
+C1_CUT1_39	7912FD06	~z~So, Mr. Bellic... quite a file, quite a story.
+C1_CUT1_4	573B5005	~z~Hi.
+C1_CUT1_40	C0560A6F	~z~Who are you? FIB?
+C1_CUT1_41	881719F2	~z~The FIB? Do I look homosexual?
+C1_CUT1_42	F9DA7D77	~z~Do you think I care about the size of your Johnson?
+C1_CUT1_43	A392D0E9	~z~Now... you can't always tell who the good guys are.
+C1_CUT1_44	952C341C	~z~I'm not a good guy. But I'm fighting with them, and guess what? So are you.
+C1_CUT1_45	3F430847	~z~Hooray.
+C1_CUT1_46	B1876CD2	~z~That's the spirit.
+C1_CUT1_47	5BDDC17C	~z~Nothing like a bit of sarcasm when someone's got you by the balls.
+C1_CUT1_48	502BAA18	~z~Now, I need you to find something out for me.
+C1_CUT1_49	1A79BEB5	~z~Find out everything you can about a man called Oleg Minkov.
+C1_CUT1_5	D9A1D4CC	~z~Listen, I know what you must be thinking, but don't bother.
+C1_CUT1_50	0DEC9FDF	~z~He lives on Iroquois back in Hove Beach.
+C1_CUT1_51	D8D635B3	~z~And if I say no?
+C1_CUT1_52	290D5620	~z~I hand your file over to those cretins in the FIB
+C1_CUT1_53	443E8C82	~z~and organized crime is dealt another serious blow.
+C1_CUT1_54	5694B12E	~z~Go to his house. Any problems, call this number.
+C1_CUT1_55	61FA47F9	~z~What's your name?
+C1_CUT1_56	73CB6B9B	~z~Not relevant. Call me. Very soon.
+C1_CUT1_57	B5FEF001	~z~Go.
+C1_CUT1_58	A5FCCFFD	~z~And hey... welcome to America.
+C1_CUT1_59	9B8B3B1A	~z~~c~Just like the Old Country.~s~
+C1_CUT1_6	E701EF8C	~z~I'm sorry, but I don't see how you know what I must be thinking.
+C1_CUT1_60	9465ABB3	~z~~c~Just like it.~s~
+C1_CUT1_7	F03C0208	~z~You've killed people.
+C1_CUT1_8	027BA687	~z~You should be dead yourself, or inside.
+C1_CUT1_9	A0546236	~z~You're just lucky it was me, and not someone else who got their hooks into you.

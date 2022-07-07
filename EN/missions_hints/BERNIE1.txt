@@ -1,0 +1,29 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BC1_F01	3F894ECA	~r~Bernie is dead.
+BC1_F02	E23A942A	~r~The hater will live to hate another day.
+BC1_F03	CC8368BC	~r~The hater got away.
+BC1_F04	06905CD5	~r~Bernie has been bashed.
+BC1_F05	F3CE3751	~r~Bernie is not happy.
+BC1_F06	9BF3079C	~r~Bernie wants you to jog behind him.
+BC1_F07	855DDA6E	~r~You are jogging too close. The hater will not attack.
+BC1_F08	BEBACD2B	~r~Bernie is not happy. You are too far from him.
+BC1_F09	A8F4A19F	~r~Bernie wants you to jog behind him, not kill people.
+BC1_F10	F91C434D	~r~You have attracted too much police attention. The hater will not attack.
+BC1_M01	E6CF497C	~s~Take Bernie to ~y~Middle Park.
+BC1_M02	F9D1EF81	~s~Don't leave ~b~Bernie~s~ behind.
+BC1_M03	CB439265	~s~Follow ~b~Bernie~s~ as he jogs, but keep your distance.
+BC1_M04	8BC6938C	~s~Take down the ~r~hater.
+BC1_M05	B9F6EFEC	~s~Placeholder! ~n~ Mocap Cutscene
+BC1_M06	EE32D863	~s~PLACEHOLDER : This chase will be on mopeds.
+BC1_M07	9C7B34F5	~s~Pick up ~b~Bernie~s~.
+BC1_M08	429D013A	~b~Bernie~s~ has fallen off his scooter, pick him up.
+BC1_M09	70CB5D96	~s~PLACEHOLDER~n~Scripted cutscene with gypsy suit anims.~n~Bernie gets hit with a baseball bat by a gay basher.
+BC1_M10	AE59D75A	Take Bernie to ~y~Perseus~s~ in The Exchange.
+BC1_M11	BC9873D7	~s~Don't leave ~b~Bernie~s~ behind.
+BC1_M12	92231EED	~s~Exit the vehicle. Driving inside the park draws too much attention.
+BC1_M13	9F64B970	~s~Lose your wanted level.

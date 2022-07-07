@@ -1,0 +1,28 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	97E4D0B7	~s~Take Little Jacob back to his ~y~cafe.
+	B1026D4E	~s~Meet ~b~Little Jacob ~s~in East Hook.
+	8F7BBFED	If you move to the limit of your cover position, you can shoot around it.
+	7AA100A0	~s~Press ~PAD_RSTICK_NONE~ to zoom-in when locked on.
+	8CDFA51D	~s~Press ~INPUT_COVER~ to take cover behind a vehicle when near one.
+	B2346FC6	Sustained firing of your weapon will cause recoil and bullets will spread inaccurately. The aiming reticule will grow larger to indicate this is happening.
+	EDABC17F	~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to zoom-in while aiming.
+	F028013C	~s~Little Jacob is taking damage.
+	E6DC5915	~s~Wipe out Bulgarin's ~r~men.
+	CEF21DED	~s~Get back to ~b~Jacob.
+	E1A26439	~r~Little Jacob is out of action.
+	300FEB7F	~s~You can change the aiming sensitivity in the front end menu screen by going to the controls section and selecting Mouse Sensitivity.
+	39937B52	~s~The cops are here. Get Jacob back to the ~y~Homebrew Cafe.
+	2D99F9DB	~s~You can aim as normal when in cover by using ~INPUT_AIM~.
+	02F68E19	~s~You can use free aim to shoot by lightly holding ~PAD_LT~.
+	13C0453C	~s~Lose your wanted level.
+	3D1C97F4	~s~You've left ~b~Little Jacob~s~ behind.
+	713E8373	~s~You can lock onto enemies as normal when in cover by pulling ~PAD_LT~.
+	79647E23	~s~When in cover, press ~INPUT_ATTACK~ to blind fire. Blind fire is less accurate than aimed fire.
+	6920DD9C	~s~When in cover, use ~PAD_LSTICK_LEFTRIGHT~ to move.
+	41F821AB	~s~Wait for ~b~Little Jacob.
+	5B0B646C	~s~Use ~INPUT_AIM~ to aim.

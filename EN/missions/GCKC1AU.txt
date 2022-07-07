@@ -1,0 +1,233 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AADD48F2	~z~It was great - you got to see people turn into animals and your close friends die.
+	A98EFD53	~z~My mother - my mother is one of life's victims.
+	A89F82A6	~z~I found her. Roman does not know - he thought she died in a house fire.
+	AD0BCE7B	~z~I couldn't date you... someone like my brothers. I couldn't do that to myself.
+	AFE4EC7D	~z~You don't have to thank me, Kate. Needed what?
+	AD9D8570	~z~She wanted to send me too, but I wanted to fight. I was stupid.
+	AD2D0E70	GCK2_THERAPY_GR
+	A248BC27	~z~So me what?
+	A205A1E4	~z~Do you think that that is where he is?
+	A1AACA8D	100010100010100100190100010010100100010100010
+	A3AE88F7	~z~I think we all need new beginnings.
+	A77602B1	GCK2_STUPID_FG
+	A5B0BE99	~z~I am what I am, for better or worse.
+	A4BAAD1A	~z~Rather than me keeping secrets about my family from you, you're probably keeping secrets about my family from me?
+	B75ABFF7	GCK2_TOUGH_BJ
+	B54D2C34	~z~Maybe it's a break from it all... a new beginning.
+	B4F8D333	GCK2_FAMILY_EK
+	B8BDCF54	~z~None of the boys liked my dad, and he didn't appear to like them much either. He believed in discipline, you know?
+	BE506045	~z~Try to keep those two sides of my life separate.
+	BC4C22CD	~z~When the war came, she saved up all her money and sent Roman here.
+	BB396AD6	~z~Alright then, this isn't a date. We're just two people, hanging out.
+	B1CF5877	GCK2_STUPID_FP
+	B12772F2	GCK2_PREACH_DD
+	B08AC4BA	~z~You poor bastard, you have. I don't normally socialize with people that know my family.
+	B27C9CCE	~z~Don't mention it.
+	B40A9540	GCK2_PREACH_DG
+	B32B193B	GCK2_STUPID_FH
+	B2B5ACA9	GCK2_THERAPY_GB
+	8C840B9D	GCK2_THERAPY_GK
+	8C515D9D	GCK2_THERAPY_GD
+	8C372522	~z~With a family like yours, I would have thought you would have learnt to cope by now.
+	8D02919B	~z~So, you.
+	8FC67D66	~z~I hope so, I don't want to believe that every man in my family was as bad as my brothers.
+	8E4D8040	~z~I guess it's nice be honest for a change.
+	8E2B196D	~z~Well, is a good thing that we are just friends. If this was a date, I'd be scared.
+	88D4093A	~z~Probably.
+	884D263D	~z~It's nice to have a friend, Niko. I feel like you are someone I can speak to.
+	86D2BF0D	~z~Maybe you're right.
+	8A3EE48B	GCK2_TOUGH_BC
+	8B848731	100010100010010100100010100010010010010100010100010100
+	8AE60A6A	GCK2_NICE_AP
+	8A738A9C	010100010100100010100100010100100100100010
+	9AAEC9D4	GCK2_HIGHWAYMAN_CC
+	9A4DE603	~z~I'm so sorry.
+	99951E62	100010100100010100010010100010010010010010100010100
+	9CBB526D	GCK2_HIGHWAYMAN_CG
+	A116FBB7	GCK2_STUPID_FC
+	9FAEF987	GCK2_TOUGH_BF
+	9DF14896	~z~Some downtime. A moment away from the craziness of it all - my family, life in general.
+	92A4D5DD	GCK2_PREACH_DH
+	9219020B	~z~You know, just waiting around and wasting time until she can join my father in the eternal splendor of Heaven.
+	913DE41A	GCK2_THERAPY_GA
+	93BEDB71	GCK2_PREACH_DI
+	99330FD4	GCK2_TOUGH_BO
+	98A7A9BF	~z~You seem well, Niko.
+	94805A68	~z~The world is hard. What are you going to do?
+	BEE0AF28	~z~she was... she was... she was raped and murdered.
+	E4B4FD9B	GCK2_FAMILY_EN
+	E4704071	~z~Another what?
+	E3C063CE	GCK2_HIGHWAYMAN_CH
+	E5A73F99	GCK2_NICE_AA
+	E8311B05	GCK2_NICE_AH
+	E70E5ACF	~z~but it's those moments when you can just forget that I value most.
+	E6EA0220	GCK2_TOUGH_BI
+	DE3DB2F3	GCK2_THERAPY_GP
+	DE102F57	~z~Sorry. I knew it was a dumb question. It's just, I hoped it wasn't so awful for you.
+	DC0E1BC8	~z~Is nice to get to know you too, seems like I've gotten pretty close to everyone else in your family.
+	DFE0E9F6	~z~You're still stupid!
+	E37BB634	GCK2_NICE_AK
+	E2D48742	~z~I wasn't suggesting that, Niko. I was just saying that therapy is one of the reasons I'm still here today.
+	E1AFC079	~z~You know what my family is like.
+	F91DFEEE	~z~I'm sure you do, Niko. Maybe it's something other than forgetting that you need though.
+	F7EE6034	GCK2_THERAPY_GI
+	F7D919DE	~z~Ha ha.
+	FB276DDF	~z~Another one like my brothers. A tough guy with a death wish. A man eager to get into Hell as soon as possible.
+	FEEBF56C	~z~So what?
+	FED07278	GCK2_THERAPY_GM
+	FD473266	~z~Maybe.
+	EBA049C9	GCK2_FAMILY_EC
+	EAE933B2	~z~They hated him, they'd fight with him and scream at him and run away for days at a time before he'd drag them home.
+	E8D92BB3	GCK2_TOUGH_BP
+	ED564EAC	GCK2_THERAPY_GN
+	F5FF4983	GCK2_TOUGH_BS
+	F49DCA1C	GCK2_TOUGH_BL
+	F2F000F5	GCK2_HIGHWAYMAN_CI
+	CCA3CE81	GCK2_THERAPY_GH
+	CA9D4D27	GCK2_TOUGH_BA
+	C8F4C040	GCK2_PREACH_DJ
+	CD2B4BBD	~z~My aunt, Roman's mother,
+	CF047771	GCK2_STUPID_FI
+	CDCC8E0E	~z~Sorry, Niko. Talk about armchair psychology. I'm boring you.
+	CD41B019	GCK2_HIGHWAYMAN_CB
+	C2333C3B	~z~To live a normal life, I mean - get married, have kids, not steal, rob, kill.
+	C06C7269	GCK2_THERAPY_GL
+	C02941EC	~z~It taught me how to get by, how to detach myself from people who upset me. Therapy works... it sort of works.
+	C2B29218	~z~Actually, I wish to forget some of the things that happened to me here, in Liberty City as well.
+	C68CA368	GCK2_PREACH_DR
+	C492E6FE	~z~How is your Mother?
+	C2EBC241	GCK2_FAMILY_EO
+	D86BE3B6	GCK2_PREACH_DF
+	D6A9A4E4	~z~So, are you another one?
+	D600E641	GCK2_NICE_AE
+	D8B5A3E0	~z~Not at all, friend. Families are strange things.
+	DB87E876	~z~No. It was seeing your home destroyed, seeing members of your family die.
+	DB1E941D	~z~What did your brothers think?
+	D8CD492D	GCK2_PREACH_DS
+	D13B8338	GCK2_TOUGH_BR
+	D11B4C6B	~z~I know - look at the company I keep.
+	D0CCF0AE	GCK2_TOUGH_BB
+	D1FCE593	~z~I was in therapy for a long time, Niko. It helped me a lot.
+	D4DB618B	~z~It can't be easier, than having a job I mean?
+	D3A8C5E7	GCK2_HIGHWAYMAN_CJ
+	D3931F95	~z~Yes. Our fathers were brothers.
+	85F77B6C	GCK2_THERAPY_GJ
+	255F940D	GCK2_NICE_AG
+	2485631F	GCK2_HIGHWAYMAN_CF
+	24752426	GCK2_TOUGH_BQ
+	257AA704	GCK2_STUPID_FJ
+	2E4A5502	~z~Same as always - trying to deal with the reality of my awful family.
+	27389019	~z~Everyone needs a way to cope with his or her pain.
+	2640A978	GCK2_STUPID_FL
+	204C3DB1	~z~It's nice to have a friend who understands the madness that I've lived through.
+	201571C0	GCK2_PREACH_DC
+	1D97EE04	GCK2_THERAPY_GF
+	2076ADED	GCK2_NICE_AM
+	22ACB905	GCK2_FAMILY_EH
+	21FCEC97	GCK2_PREACH_DK
+	21D2FB7D	~z~Thank you.
+	3FE696A1	GCK2_HIGHWAYMAN_CE
+	3F572C9A	GCK2_FAMILY_EP
+	3CE1F231	~z~Tell me about your family. Roman - he's your cousin...
+	4061E472	~z~This is nice, isn't it?
+	42B5121B	~z~Thanks, Niko. I needed this.
+	42834D66	GCK2_THERAPY_GC
+	408FB8F2	~z~Why don't you want to live?
+	3728A6F8	GCK2_STUPID_FR
+	3007B60A	GCK2_TOUGH_BD
+	2FCA9768	~z~What's wrong with me? Quite a lot, I'm sure.
+	372BA722	GCK2_TOUGH_BE
+	3C8B2341	~z~I was mostly raised by Roman's mother. She was great. An amazing person.
+	3C7EF616	~z~I do, but I don't think that any life is not mad. You were here in America.
+	3C62D8A0	GCK2_STUPID_FO
+	0AAA8DC3	~z~Ha ha - I know all about that.
+	0A9B886D	~z~Lord above - you don't even enjoy it? Then why do it?
+	0A78A1A7	~z~I too have things I wish to forget. The things that happened to me back home, the war...
+	0C7EDA96	~z~I do not need some quack trying to get inside my head.
+	0D9112B6	~z~How annoying. What is wrong with you people? You men.
+	0D73FE93	~z~I don't know... getting out, doing stuff, not working or fighting with my family. Getting to know you.
+	0D64F8A9	~z~My dad was a drinker and he sure had a temper, but I believe in my heart of hearts that he was a good man.
+	03BC5E59	GCK2_TOUGH_BK
+	039C4E43	GCK2_NICE_AI
+	02B3C1DE	GCK2_NICE_AC
+	06346B0D	GCK2_TOUGH_BM
+	0A038483	GCK2_NICE_AL
+	091F07F4	GCK2_NICE_AB
+	077204BC	GCK2_FAMILY_EF
+	1951E364	GCK2_FAMILY_em
+	188B2984	~z~Thank you. How are you?
+	1818ED78	GCK2_NICE_AD
+	1955A5E1	~z~Not really.
+	1D637C5F	~z~I just hope that the way you choose to deal with yours is productive, not destructive.
+	1A3B756E	GCK2_TOUGH_BH
+	1975A74D	~z~Me too.
+	0EA300F5	~z~What's nice?
+	0E2B9970	~z~You have had opportunities that most of the world could not imagine.
+	0DC8342E	GCK2_PREACH_DP
+	1004D7E1	~z~Well, for a murdering, thieving idiot who can't talk about things, you're kind of nice.
+	154A0963	GCK2_STUPID_FN
+	128C82F0	GCK2_STUPID_FM
+	125F829A	~z~What was different about you and him?
+	4326FAAF	~z~That's it. But it's nice. I'm enjoying myself.
+	737BDA2C	~z~Can you do me a favor, and stop preaching? I'm fine.
+	717FD572	~z~I was his princess, I was the little girl. And I didn't give him a reason to discipline me.
+	71159393	~z~The war taught me a lot of bad things, but it also taught me to enjoy life.
+	73ED6047	~z~They were identical. But did they get along? No. they hated each other. They were both assholes, you see.
+	7733A63D	~z~Sounds like you still are.
+	76A4B368	GCK2_THERAPY_GE
+	7549E7AB	~z~You should see him around me, if a man even looks in my direction, he threatens to rip his heart out.
+	66B4053E	~z~I don't know. I have lived a complicated life. I was in a war.
+	662FC4CC	~z~We grew up the next house to each other. So physically yes. And temperamentally, yes.
+	63764404	~z~I don't know if I'd agree that Packie was a moralist. He seems like a highwayman through and through.
+	6A0BC792	GCK2_NICE_AO
+	6F6BD052	GCK2_FAMILY_EJ
+	6CD6F1B9	GCK2_HIGHWAYMAN_CD
+	6C737643	GCK2_PREACH_DU
+	7D689B49	GCK2_PREACH_DL
+	7C44EAFC	~z~I guess I played up to it even more because my relationship with him was something I had that the boys didn't.
+	7C2C1450	GCK2_PREACH_DO
+	7F817695	~z~So.
+	84C3C471	GCK2_STUPID_FB
+	8193A5AF	100010100010100100010010100100010100100010100100100
+	816CF60E	~z~Forgive me... I'm sorry if this is a weird question - what was the war like?
+	793316D0	GCK2_FAMILY_EG
+	78B6B107	GCK2_TOUGH_BG
+	77C719C4	~z~They were wife beating alcoholics, who, luckily, were both what they deserved to be.
+	795B0D8E	GCK2_PREACH_DN
+	7C04F140	GCK2_FAMILY_EE
+	7A6C818D	~z~My whole life has been learning to cope. I sort of can,
+	7973568C	~z~No comment.
+	4C274D65	GCK2_STUPID_FF
+	4B4E4801	~z~I like that.
+	4A528C03	GCK2_THERAPY_GO
+	4DF20E57	~z~Dad drove my brothers mad. I sometimes think that the reason they act the way they do is rebelling against him.
+	4F7CBC15	100100010010100100010100010100
+	4EEFB1E8	GCK2_PREACH_DE
+	4E0FB5D0	GCK2_PREACH_DQ
+	465B432D	GCK2_STUPID_FE
+	448140C1	GCK2_STUPID_FD
+	444876B8	GCK2_NICE_AN
+	47218B5B	~z~An Irish family manages to make it the eighteenth century when or wherever they are.
+	49B587CC	~z~You don't normally take the guys you date back to meet the family?
+	492A8AB7	GCK2_STUPID_FK
+	48A14BDC	GCK2_NICE_AF
+	5C3FEEDF	GCK2_THERAPY_GG
+	5C07AC70	~z~Date? This isn't a date, Niko. We're just getting to know each other. We might be friends and that's all.
+	58CC2EB0	~z~The men in my family are just highwaymen and moralists, usually both in equal measure.
+	5F57685D	GCK2_STUPID_FA
+	62FB77F2	GCK2_FAMILY_EL
+	61F49F3F	GCK2_HIGHWAYMAN_CK
+	5FEBB30C	~z~What have you been up to? Actually, I don't think I want to know. I'm sure it made you feel big and strong.
+	53A89FBE	~z~Were they close?
+	50EF7422	GCK2_TOUGH_BN
+	5033139B	~z~Fair enough. A life time of trying to sort my brothers out has left me a little sanctimonious.
+	54881DEB	GCK2_FAMILY_EI
+	579E4DB9	GCK2_PREACH_DM
+	55C5A3B6	GCK2_FAMILY_ED
+	54A6D834	100010100010100010100010100010100100100010100010100010100

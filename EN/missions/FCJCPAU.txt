@@ -1,0 +1,242 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B5F3293A	~z~Whappen rasta?
+	B5E3E762	FCJ_ACT_GETCALL_LIFT_HOME
+	B5512A9D	~z~Yo, thanks, me breda.
+	B62D21A5	010
+	B76FFE01	~z~Star, yeah, me down Firefly Projects, man, link up star, me need a ride.
+	B72704E1	FCJ_ACT_GETCALL_LIFT_DOWNTOWN
+	B679615F	~z~You wan' go see a show?
+	B2B4A6CC	~z~Yo, star, me down East Hook, man. Link up, star, me need a ride.
+	B0E4496C	~z~You got time for some food?
+	AFD95EAD	FCJ_ACT_GETCALL_LIFT_MEADOWS_PARK
+	B2C2243F	100
+	B4E66A9C	100
+	B4075FCF	010
+	B3831D7B	100
+	B7749D8B	~z~Whappen to you, rasta? Are we spar today?
+	C595AB16	~z~I can't just now.
+	C34A2D71	090
+	C310C355	FCJ_ACT_GETCALL_LIFT_CERVESA_HEIGHTS
+	C63A878A	FCJ_ACT_CALL_HOSP_CANCEL_MEDLIKE
+	C717CE2A	~z~One love, rasta.
+	C6EA19E6	~z~Sure Jacob - I'm on my way - be there in an hour.
+	C68DAEA4	FCJ_ACT_GETCALL_STRIP
+	BA5EB18E	FCJ_ACT_PLJ_GETCALL_SHOW_NO
+	B8F99802	FCJ_ACT_GETCALL_DARTS_FIRST
+	B89AD041	FCJ_ACT_PLJ_GETCALL_EAT_NO
+	BB28F0CC	FCJ_ACT_GETCALL_LIFT_FIREFLY_PROJECTS
+	C0B196AD	~z~Yo, me down at Beechwood, man. Link up, star, me need a ride.
+	BD0E5E24	~z~Yo star, wha'gwan? Yeah, me down South Slopes man, yo, link up star, me need a ride.
+	BB950BAA	~z~Yo, me down at Cerveza Heights man, link me up.
+	AF200746	100
+	988CA77B	100
+	95DF4529	~z~Yo, Niko. Them have let me out of the hospital. Can you pick me up?
+	9505EE10	010
+	98C4AE03	FCJ_ACT_GETCALL_ACCEPT
+	9CBCF12F	010
+	99FA9A38	~z~Let's have a drink now, star.
+	993E494D	FCJ_ACT_PLJ_GETCALL_SHOW_YES
+	8B92CA10	~z~Sorry, Jacob - I'm busy right now. I can't at the moment.
+	8B5DC58D	FCJ_ACT_GETCALL_DRINK_FIRST
+	8A6CB65C	100
+	8BB8E123	~z~No Jacob, I can't just now.
+	94E1B711	~z~What? You too busy to help a friend?
+	94BEAA9B	~z~Why not? I'm bored as hell. I'll come over in the next hour.
+	8F7E7216	~z~Yeah sure - I'll pick you up in the next sixty minutes.
+	9CE6734F	010
+	AC393EB5	~z~Let's go for a drink.
+	AB79DBDE	100
+	AB74984C	~z~Me down at East Hook, star, me need a ride, man. Can ya link me up?
+	ACDD9104	FCJ_ACT_GETCALL_DARTS
+	AE57BE7D	FCJ_ACT_GETCALL_EAT
+	AD9909E0	~z~Yo, Niko, me vexed when me nuh hear from you.
+	AD3E0D7C	~z~Niko, can you pick me up a' me house man, me need a lift?
+	9E096EFD	~z~Sorry, man - I can't do that just now.
+	9DFDB7F5	010
+	9DCE6D86	FCJ_ACT_GETCALL_GREET
+	A1CD4781	FCJ_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	A6A74E6C	~z~Sure - I'll come over in the next hour.
+	A423E1B2	~z~Yo, Niko, I'm coming out today, man. Can you pick me up at the hospital?
+	A2FB5393	~z~A show? Yeah, why not? I'll come over and pick you up within the hour.
+	F0F20564	FCJ_ACT_GETCALL_LIFT_WILLIS
+	F0E7CA00	~z~Sure man - I'm on my way.
+	EE83AD2E	~z~Me down Willis, come pick me up.
+	F1A90947	FCJ_ACT_GETCALL_LIFT_ROTTERDAM_HILL
+	F3DB22A9	FCJ_ACT_GETCALL_LIFT_BEACHWOOD_HILL
+	F2536E25	~z~Ah gwan about your bloodclot business then, boy.
+	F1A957C2	~z~Yes, me good friend, lets go a show.
+	E9619016	~z~Wha'gwan, me breda? It's me, Jacob.
+	E45B72BF	~z~Yo, I'm at Meadow Hills, me need a link man, ride up.
+	E43A4FC9	010
+	E97CB9AF	010
+	EE2B1599	~z~What mek it so long me no hear from you?
+	EA8878C3	100
+	EA7E7725	FCJ_ACT_GETCALL_LIFT_STEINWAY
+	F64DB603	~z~Yo. Whappen to my friend, Niko?
+	FC602BE3	~z~Star, me down a' Hove Beach man, link up man, me need a ride man, link up.
+	FA8037A6	FCJ_ACT_GETCALL_HOSP_ACCEPT
+	F96E861B	100
+	FCA2122B	~z~Yo, I need a lift from the airport.
+	FE554DA3	FCJ_ACT_PLJ_GETCALL_DRINK_YES
+	FE33FA03	100
+	FD8B383A	100
+	F718C89F	~z~No problem, man. Me find another way.
+	F6B6A06C	~z~Niko, me breda, me need a favor man, can you pick me up a' me house?
+	F67693DA	~z~Yo, star. You wanna play some darts or something?
+	F76DB3DC	010
+	F91AB87A	100
+	F7F0AB76	100
+	F7A35730	~z~Star, me down Steinway man, me need a ride man, link up.
+	E3B54BA1	~z~Me down a' East Island City man, just pick me up, seen?
+	D169DB0C	100
+	D11F2675	~z~Me down a' East Island City star, link up right pronto.
+	D02B61D4	~z~Yo star, me Downtown star, me need a ride.
+	D1B0FDD0	~z~No problem, man. Me find someone else.
+	D67912D6	FCJ_ACT_GETCALL_POOL_FIRST
+	D52BD460	~z~Me need a lift from Meadow Hills, come pick me up.
+	D2DF77CB	~z~No problems, man. Me mek meself get home.
+	C90CD246	~z~Sorry man, I can't do a show right now - I've got a problem I've got to deal with.
+	C893C427	~z~Niko, can you pick me up in my yard man? Me need a lift.
+	C7387614	~z~Yo, you want get some food?
+	CBA644F5	100
+	CF61E1EE	FCJ_ACT_PLJ_GETCALL_EAT_YES
+	CE963276	~z~Yo me down a' Beechwood City, man, come pick me up.
+	CD4CB564	FCJ_ACT_PLJ_GETCALL_LIFT_NO
+	D736201B	100
+	DDE5EECB	~z~Niko, me breda, me need a lift man, can you pick me up a' me house?
+	DDA0569E	FCJ_ACT_GETCALL_LIFT_EAST_HOOK
+	DD7D148B	~z~Yo, wa mek you such a selfish bloodclot, Niko?
+	DDF25FC5	~z~Yo, me need a lift from Meadows Park.
+	DF306A25	FCJ_ACT_GETCALL_DRINK
+	DEFE2577	~z~Yeah man, no problem, man - just call me when you're free.
+	DEF9F778	~z~Yo star, wha'gwan, man? Me there at Outlook Park, man. Me need a ride yo.
+	D88FCCE8	FCJ_ACT_GETCALL_HOSP_ASK
+	D842BE25	~z~Sure I'll come over and pick you up.
+	D7F94FDD	~z~I'd enjoy that but I'm in the middle of something.
+	D89BBD49	~z~Okay, no problem. I'll be there in an hour.
+	DCAA0C70	~z~Darts? Sure. I'll pick you up in the next hour.
+	DC32B86B	FCJ_ACT_GETCALL_LIFT_OUTLOOK_PARK
+	DB4F76CB	~z~No, Jacob, I can't do a show just now.
+	2990AA4C	~z~Great Niko - see you soon.
+	24B8C0ED	100
+	2427BD92	100
+	2BB6933F	FCJ_ACT_GETCALL_LIFT_BOABO
+	2FADDC5F	100
+	2F8C0E46	~z~I'd love to, but I'm in the middle of something.
+	2E41BB8F	FCJ_ACT_GETCALL_STRIP_FIRST
+	1F65780D	~z~Niko, it's a long time since when I hear from you.
+	1F494FEE	FCJ_ACT_PLJ_GETCALL_HOSP_NO
+	1E9D7E4A	010
+	1FCBFF82	010
+	235E44FF	FCJ_ACT_CALL_SHOW
+	22FB22DE	100
+	20B3A31B	FCJ_ACT_PLJ_GETCALL_DRINK_NO
+	30651907	100
+	3BDADBBB	~z~Star, me down at South Slopes man, yo link up star. Me need a ride man, me need a ride.
+	39F312F2	~z~Me need some transportation from Rotterdam Hill, can you pick me up?
+	39D4BCA3	~z~Sorry, I've got some serious shit on just now, Jacob. I can't help just now.
+	3C61E03D	~z~No problem, man. Hit me up when you're free.
+	402DC49B	~z~Yo, me need a lift from BOABO.
+	3D4EA4D9	100
+	3D4BCF04	100
+	342F7CDD	~z~Me down at Cerveza Heights man, link me up.
+	3317921E	100
+	32ECCD53	~z~Okay, bad boy - just call me when you have some time.
+	3680C42C	~z~Yeah, man. Me see you here soon.
+	395FA85A	100
+	37F2C10A	~z~Me down at Firefly Island man, link up man, me need a ride, man.
+	37BE2430	~z~Wanna play a lickle bit o' pool or something, me breda?
+	1DF6CD9D	100
+	0B2C80D0	FCJ_ACT_PLJ_GETCALL_STRIP_YES
+	0AF95A23	~z~Yo, me at BOABO man, come pick me up.
+	09527A8E	~z~Yo me need a lift man, can you pick me up a' Steinway?
+	0B6C3AC0	~z~Star, me down Meadows Park man, gimme a ride now star, link up.
+	0D5CD44C	FCJ_ACT_GETCALL_LIFT_AIRPORT
+	0D28B075	~z~No, Jacob - I can't get food just now.
+	0D0CD76C	~z~Rasta, it's me.
+	040DAB0A	FCJ_ACT_CALL_HOSP_CANCEL_LOLIKE
+	0093E44A	100
+	0048D0B8	~z~Me down Willis, link me up.
+	05AAC113	FCJ_ACT_CALL_HOSP_CANCEL_HILIKE
+	07A02D91	~z~Yo, mek we go a' the strip club, yo?
+	066263A1	100
+	05BB3FD7	~z~Sure - I'd like a drink. I'll be there in the hour.
+	0E837858	~z~Yo, me breda. Long time we had no business, man. Mek we play some pool or someting.
+	1AC072D3	~z~Niko, it's me, Jacob.
+	19E7CC6E	FCJ_ACT_GETCALL_EAT_FIRST
+	176045A7	FCJ_ACT_GETCALL_REJECT
+	1B5FCCE3	~z~No - I can't at the moment.
+	1D6E67D4	~z~Yes, I'm hungry too. I'll come over in the next hour.
+	1BE40EF3	~z~Respect, me see ya soon.
+	1B6571B2	~z~A long time we're at work me good friend, me could go watch a show or something.
+	104BBF9C	~z~Yo, me need some transportation from Rotterdam Hill man, can you pick me up?
+	0F55CE69	FCJ_ACT_PLJ_GETCALL_LIFT_YES
+	0EA72C72	~z~Me down Firefly Projects star, just link up man, me need a ride man, pronto.
+	1117D152	~z~No, I can't go drinking just now.
+	13CC8F92	FCJ_ACT_GETCALL_POOL
+	11F69CA5	100
+	1171251D	010
+	6FECE1A3	010
+	6FBDED4C	100
+	6DC614D6	FCJ_ACT_PLJ_GETCALL_HOSP_YES
+	7302E2C1	FCJ_ACT_GETCALL_LIFT_HOVE_BEACH
+	767A3865	100
+	7435F8CE	~z~Mek we go play some darts?
+	7369A852	~z~Yo star, me Downtown man, can come pick me up.
+	6BF370CC	~z~Yo, can you pick me up from the airport?
+	688A5F41	FCJ_ACT_PLJ_GETCALL_STRIP_NO
+	666F22F0	100
+	6C22F69D	~z~Yo, you wanna go down the strip club, Mr. Mention?
+	6DB449B7	100
+	6D5303A3	100
+	6CF1E3AD	~z~Star, me bored y'know. You wanna go for a drink?
+	76B34ABB	010
+	83820E38	010
+	833231E6	~z~Jacob, sorry, man, something serious has come up. I can't make it to the hospital.
+	831EBAAC	~z~Yes, definitely. I will be there in the next hour.
+	86C1C709	~z~Yo star, me there at Outlook Park man, can you link me up man? Me need a ride.
+	89BEA086	FCJ_ACT_GETCALL_VERYIRATE
+	880EF796	~z~It's alright, man. Just hit me up when you're free.
+	87D5737F	~z~Niko, me hungry, man. You wanna get something fe eat?
+	7AE19851	FCJ_ACT_PLJ_GETCALL_DARTS_YES
+	7866EEA9	FCJ_ACT_GETCALL_LIFT_MEADOWS_HILLS
+	77E71482	FCJ_ACT_PLJ_GETCALL_POOL_NO
+	7B3B5CCA	100
+	81678783	FCJ_ACT_GETCALL_IRATE
+	8105CBBD	~z~I can't play pool just now, man - I got some shit to deal with.
+	7ECDAA91	~z~Absolutely. I'm on my way.
+	666DCF0B	100
+	4C4139C1	FCJ_ACT_GETCALL_LIFT_SOUTH_SLOPES
+	4B0CBA23	100
+	4A4965B7	~z~Star, me down Firefly Island man, link up man, me need a ride man, link up star, link up.
+	4CC85E6E	~z~No. I can't do darts just now.
+	4EBD3B1D	FCJ_ACT_GETCALL_HOSP_REJ_LOLIKE
+	4DBB552E	FCJ_ACT_GETCALL_SHOW_FIRST
+	4D858342	~z~Yeah, I'll be there within the hour, Jacob.
+	46628A54	100
+	46266377	~z~Me check the man here.
+	43885C47	010
+	46B106BA	FCJ_ACT_GETCALL_LIFT_FIREFLY_ISLANDS
+	4A0148B6	~z~You wanna play some pool?
+	48DCC228	FCJ_ACT_PLJ_GETCALL_DARTS_NO
+	479B5830	~z~Sorry, Jacob - I'm kind of busy - you'll have to make your own way home.
+	4ECC15A7	~z~Pool? Yeah, sounds good. And i've got nothing serious going on - I'll head over to your place.
+	601E384B	~z~Yes, why not - I'm on my way over.
+	5EC99AD4	FCJ_ACT_PLJ_CALL_HOSP_CANCEL
+	5E52EF77	~z~Yo, star, me down Hove Beach man, me need a ride man, link up star, link up.
+	610A033F	FCJ_ACT_PLJ_GETCALL_POOL_YES
+	65E75C31	~z~Let's go play some darts.
+	62E6910E	100
+	628E7F03	100
+	544F9E0B	100
+	52E41E00	FCJ_ACT_GETCALL_LIFT_EAST_ISLAND_CITY
+	4ECF1421	100
+	55694118	100
+	5C9B0B20	~z~Yo, all we do is business, yo? Mek we just go a the strip club or something.
+	5A8ECD0C	FCJ_ACT_GETCALL_HOSP_REJ_HILIKE
+	59A2F823	~z~Not right now, Jacob.

@@ -1,0 +1,202 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD0C720C	FCJ2_JACOB_CONVERSATION_8_HC
+	AC16FB9D	~z~Same shit, cops still chasing me, still getting into fights.
+	AB881DB2	~z~Well, stop smoking it.
+	AFC6100E	~z~What?
+	AF3E95C1	~z~Okay.
+	AD4417C6	FCJ2_JACOB_CONVERSATION_5_EH
+	A8102143	~z~Yeah - this city has some incredible music.
+	A7FFF950	~z~You uphill you know, Niko? Even for a shotta.
+	A7B0B4C0	FCJ2_JACOB_CONVERSATION_2_BL
+	A9878736	FCJ2_JACOB_CONVERSATION_7_GF
+	A8997C15	~z~I am amazed he managed to save enough money to be able to afford the cab depot in the first place.
+	A89907A5	FCJ2_JACOB_CONVERSATION_7_GH
+	BB4CB630	FCJ2_JACOB_CONVERSATION_2_BA
+	BA48C5B4	~z~Respect.
+	B713A20E	FCJ2_JACOB_CONVERSATION_8_HH
+	BC7FE96A	FCJ2_JACOB_CONVERSATION_2_BN
+	BC3AF3BF	~z~Yeah, it's cool.
+	BBE7BE71	~z~I trying, star. I trying.
+	B19A9480	FCJ2_JACOB_CONVERSATION_8_HF
+	B14D27D7	FCJ2_JACOB_CONVERSATION_3_CG
+	AFDD5B0C	~z~Hey man - how you doing?
+	B423324C	FCJ2_JACOB_CONVERSATION_5_EB
+	B20D7D1C	FCJ2_JACOB_CONVERSATION_6_FK
+	B1CBDEE1	~z~Him are de real selector man. It's an incredeble sound system.
+	A7ABE4EF	~z~Boy, him back a Jam Dung. Cotching a de sun, man. Couldn't take de city no more.
+	9488D9A0	~z~Why not?
+	9327E513	~z~The world can mess you up, y know?
+	915AB84D	~z~I don't blame him, maybe Badman should go to Jamaica too?
+	9A3DEDEB	~z~Shit, I wouldn't want to see the fight if you two went against each other.
+	9A2C0045	FCJ2_JACOB_CONVERSATION_3_CA
+	9762D9A8	~z~Seen, seen. There's always people around fe lend de money to a man, especially if de man have a habit like Roman.
+	8DF8173A	~z~Respect due. Bobby Konders is hard man, you know. De sound is raw!
+	8CC4EE4D	FCJ2_JACOB_CONVERSATION_7_GB
+	8BB5F160	~z~Something made everything fucked up, man. I'll tell you that.
+	9152C615	~z~Alright me man, Niko, is good to see de I. What's happening with you?
+	8FD51D97	100010100010100010100100100010100
+	8F7EDE89	~z~You think Roman's addicted to gambling, you tink him have a real problem?
+	A4EA0897	~z~Make you tink that tings matter, when all that matter is that the sun come up and we have good time and laughter and ting, seen?
+	9EBB7D02	~z~Jah know him, he can throw his money to dem con men, you know, star. Him a real idiot, you know?
+	9E818E2A	FCJ2_JACOB_CONVERSATION_7_GA
+	A715718E	~z~You don't got nothing unless you got people paying you no mind, you know?
+	A7008548	FCJ2_JACOB_CONVERSATION_8_HG
+	A66DFD6A	~z~The herb is gonna kill me up, here.
+	9CCE5D00	~z~Don't nobody treat you wit de respect you know you deserve, you know, Niko. All of life be about is respect, sight?
+	9CC15BE7	FCJ2_JACOB_CONVERSATION_1_AF
+	9B67D40A	FCJ2_JACOB_CONVERSATION_4_DF
+	9E5D2321	FCJ2_JACOB_CONVERSATION_2_BM
+	9DEA3C82	FCJ2_JACOB_CONVERSATION_7_GK
+	9DC436DA	~z~One love, Niko. Wha'gwan?
+	E8B166ED	FCJ2_JACOB_CONVERSATION_8_HA
+	E7FA8082	~z~Okay, rasta, but, you know, not great, you know?
+	E7F40359	~z~Blacking up don't affect I and I de same way, you know. I an' I a chill dread. I don't like that kass kass in the way Badman do.
+	EBB98254	~z~Mallorie a fine daughta, an him lucky fe have her, you know? Hopefully he won't gamble her away as well.
+	EB2B842C	~z~It's his paranoia, man. He's smoking too much of that shit. You got to tell him to calm it down.
+	EAD38F15	~z~The herb make Badman's head work in all type of ways it shouldn't be working. He think his friends are after him.
+	E6988D62	FCJ2_JACOB_CONVERSATION_5_EC
+	E1CD7D11	FCJ2_JACOB_CONVERSATION_2_BE
+	E09F56FD	FCJ2_JACOB_CONVERSATION_4_DK
+	E7DCDDF0	FCJ2_JACOB_CONVERSATION_4_DL
+	E7BE08FD	FCJ2_JACOB_CONVERSATION_5_EE
+	E79E067F	~z~Sure. How you doing?
+	FE1D9F3F	FCJ2_JACOB_CONVERSATION_6_FL
+	FDD76FBE	FCJ2_JACOB_CONVERSATION_5_EJ
+	FB673B28	FCJ2_JACOB_CONVERSATION_8_HJ
+	FFE1BE85	~z~Yes.
+	FE72860A	010100010100010100010100100010100
+	FE25272B	~z~Hopefully Mallorie will be able to straighten him out one day.
+	F24B92E7	010100010100100010100100010100100100190010
+	EE2B1B18	~z~Boy, it's good fe spend some quality time wit de I, seen?
+	ECD99801	FCJ2_JACOB_CONVERSATION_2_BH
+	F90D2B88	~z~He ain't turned on me yet, but one day. You know, one day...
+	F4678978	FCJ2_JACOB_CONVERSATION_4_DC
+	F33D43A5	FCJ2_JACOB_CONVERSATION_6_FD
+	DDEB6C64	~z~How you doing, Jacob?
+	C5D5E9BF	FCJ2_JACOB_CONVERSATION_6_FE
+	C56CB5C7	~z~Sure.
+	C2DD338C	~z~Where is this Granddad now?
+	CA0A52D7	~z~Not all work, work, work, y'know? We got to ease up from time to time, to see how the world turns, you know what I'm saying?
+	C897C873	~z~Yes I, in spirit and love, you know. Seen?
+	C797C299	~z~Irie, man. How's it going?
+	C0C0A4F0	~z~Jacob, is good to see you.
+	C04E35A3	FCJ2_JACOB_CONVERSATION_8_HE
+	BD074420	100010010100010010100100010100100010010100
+	C217FF81	~z~Good man, good. I was just enjoying some Massive B dancehall pon de radio.
+	C1FFB481	~z~The herb! It's bad for the head. The stuff here.
+	C1A9BB9A	FCJ2_JACOB_CONVERSATION_4_DB
+	D9945789	FCJ2_JACOB_CONVERSATION_6_FN
+	D973F1AA	~z~I think so.
+	D3110019	~z~Babylon a try hold rastas down, but Jah, him hold we up.
+	DD5D9C62	FCJ2_JACOB_CONVERSATION_6_FH
+	DC3E7B53	FCJ2_JACOB_CONVERSATION_2_BD
+	D9A066AA	~z~Same old, you know, getting by. How's Badman?
+	CFC5603D	FCJ2_JACOB_CONVERSATION_2_BB
+	CD117A6A	FCJ2_JACOB_CONVERSATION_6_FG
+	CC444ADC	FCJ2_JACOB_CONVERSATION_1_AI
+	D256EFAA	FCJ2_JACOB_CONVERSATION_3_CI
+	D1DCD900	FCJ2_JACOB_CONVERSATION_7_GG
+	D00266E3	FCJ2_JACOB_CONVERSATION_8_HL
+	31064506	FCJ2_JACOB_CONVERSATION_6_FI
+	2FF34872	010100010100100010100100010100010100
+	2FD7735A	FCJ2_JACOB_CONVERSATION_6_FM
+	36719ABB	~z~Grandad was here back inna the days. Him tell Badman, no badda bawl, don't be feisty.
+	35D80F1D	~z~Okay.
+	312F15D2	~z~You seem to be okay, and you smoke a lot.
+	2752A194	FCJ2_JACOB_CONVERSATION_3_CH
+	262CC1D8	FCJ2_JACOB_CONVERSATION_5_EK
+	2300EE80	FCJ2_JACOB_CONVERSATION_1_AB
+	2B549AD4	FCJ2_JACOB_CONVERSATION_3_CF
+	297D8A8C	FCJ2_JACOB_CONVERSATION_7_GI
+	27A688AE	~z~Nuh I, rasta, nuh I.
+	4517C175	~z~Really? You know him?
+	4509499F	~z~Any money I get I, you know me spend upon sisters or sensemillia. I don't throw my money away, you know.
+	43DAA169	FCJ2_JACOB_CONVERSATION_4_DI
+	47BF685B	FCJ2_JACOB_CONVERSATION_2_BI
+	457464DE	~z~Problem be when man no pay another man no respect, you know? Each rasta be vital.
+	452D353E	~z~Seen?
+	3FC2141D	FCJ2_JACOB_CONVERSATION_8_HD
+	38948D1D	FCJ2_JACOB_CONVERSATION_4_DG
+	388AA43E	FCJ2_JACOB_CONVERSATION_7_GE
+	433005D3	FCJ2_JACOB_CONVERSATION_7_GJ
+	42AAB32D	~z~Boy, me vex rasta! Badman outta him mind, man. Him lose it.
+	41E848D3	FCJ2_JACOB_CONVERSATION_3_CE
+	222F67D5	FCJ2_JACOB_CONVERSATION_1_AE
+	0BC3F25A	FCJ2_JACOB_CONVERSATION_6_FB
+	0BBC6137	FCJ2_JACOB_CONVERSATION_6_FC
+	0B68CA42	~z~it's all dem spliff he been smoking, man. It don't do him head no good.
+	0FE36673	FCJ2_JACOB_CONVERSATION_5_EA
+	0EC2B952	FCJ2_JACOB_CONVERSATION_4_DH
+	0CBB72E9	FCJ2_JACOB_CONVERSATION_6_FA
+	05B5D5F3	FCJ2_JACOB_CONVERSATION_3_CB
+	053D3D1C	100010100010100010100100010100
+	01A73A91	~z~You all good, Niko, man?
+	0B51E063	FCJ2_JACOB_CONVERSATION_3_CC
+	0A00D2C3	~z~Wha'gwan rasta?
+	0880F06C	FCJ2_JACOB_CONVERSATION_6_FF
+	1E19F376	~z~Him speak de truth, man, him know de way, him understand tings properly, you know?
+	1BDE767E	~z~What's up Jacob?
+	1844E9EB	FCJ2_JACOB_CONVERSATION_4_DA
+	220026E9	FCJ2_JACOB_CONVERSATION_2_BJ
+	1EE9EBA8	~z~I ain't saying nothing to him face. You no call no alligator long mouth til you pass him, bredren.
+	1ECFFE2C	FCJ2_JACOB_CONVERSATION_5_EI
+	126FC99A	FCJ2_JACOB_CONVERSATION_1_AH
+	1106932D	100010100010100010100010100
+	104B4E6B	~z~Jacob, what's going on man? You seem down.
+	15FAD4BC	FCJ2_JACOB_CONVERSATION_1_AD
+	154ECA06	FCJ2_JACOB_CONVERSATION_4_DD
+	12D3DCEA	~z~He plays good music.
+	6A1887A4	~z~Won't leave him place unless him packing more heat dan de sun. Getting all paranoid and shit.
+	6A00F271	FCJ2_JACOB_CONVERSATION_4_DE
+	69D51336	~z~Maybe is problem, maybe he just need to get something out of his system.
+	7053A237	FCJ2_JACOB_CONVERSATION_2_BC
+	6CB717B1	FCJ2_JACOB_CONVERSATION_5_EG
+	6ADD009D	~z~Sometimes I think he would put her on the table if he had the chance. He doesn't hold onto much for long.
+	689C7ADE	FCJ2_JACOB_CONVERSATION_1_AA
+	68337E3E	~z~He bring him right down. Grandad a hortical don, you know?
+	66D1FFAC	FCJ2_JACOB_CONVERSATION_7_GD
+	698000D7	~z~This must have happened before, how'd you calm Badman then?
+	692482D8	~z~Man, it's wrong!
+	690EA5CD	FCJ2_JACOB_CONVERSATION_7_GC
+	86EE4B04	FCJ2_JACOB_CONVERSATION_2_BG
+	84AABCC8	~z~Badman vexing me someting wicked at de moment, you know, star.
+	80E3DBBC	~z~Babylon downpressors is where we get de problem in society from. Make everyting crash.
+	89642BE0	FCJ2_JACOB_CONVERSATION_4_DJ
+	88FDAA1D	FCJ2_JACOB_CONVERSATION_6_FJ
+	8792C666	~z~Raas, him play de best music, man. Him play from de heart, you know.
+	73359727	FCJ2_JACOB_CONVERSATION_8_HI
+	73013FF7	~z~We say I an' I need dat respect, you know, star?
+	72C360D1	~z~Only in Liberty City, yo. Man, music from de whole world come a here for massive sound clash, you know.
+	80163FB8	~z~He don't like the cars and the guns as much as you and me do.
+	79623188	~z~I hope so, man, I do.
+	786B943B	~z~Sure, man. I don't let nobody talk down to me.
+	649EECAA	~z~Rastas weren't getting no respect, we follow Jah till we get respect, sight?
+	5422CC75	100010100100010100100010100100100010100
+	54185DFD	FCJ2_JACOB_CONVERSATION_8_HB
+	526D4847	~z~Being a dread, being a rasta, is all about getting respect and ting, you know?
+	574965D8	~z~Usual a whole heap of trouble, but, me nah complain, you know. Me learn from me Uncle Bradshaw, you know.
+	56E54197	FCJ2_JACOB_CONVERSATION_4_DM
+	54A86400	FCJ2_JACOB_CONVERSATION_5_ED
+	4D83CB97	~z~Really?
+	4BF1AD78	~z~That could be de best ting, you know, Niko. Best ting for all of us, seen?
+	4B6352F7	FCJ2_JACOB_CONVERSATION_2_BF
+	514DCD7F	~z~I am afraid that that is what Roman will do with any money he gets.
+	4FFE1B47	~z~And Massive B are de top notch, man. Top notch.
+	4E9A50A8	~z~If you ask him, every dread pon de corner is out to get him, but...
+	62006EE4	~z~Niko, Niko, how's me main man Roman? Him still gambling all his money away?
+	61F66522	FCJ2_JACOB_CONVERSATION_1_AC
+	6127F5C3	~z~Yeah? Is someone out to get him?
+	645A2CB8	FCJ2_JACOB_CONVERSATION_2_BK
+	639E042F	FCJ2_JACOB_CONVERSATION_5_EF
+	62DA7482	FCJ2_JACOB_CONVERSATION_1_AG
+	593D4BD0	FCJ2_JACOB_CONVERSATION_1_AJ
+	57B6DD45	~z~If me tell Badman fe calm down, him a pull out de ratchet and cut I good.
+	57717B37	FCJ2_JACOB_CONVERSATION_8_HK
+	5F666F5C	~z~The hydroponic and artificial and made with chemicals and produced with chemicals. Covered with pesticides... it's wrong.
+	5F04B954	~z~Yeah.
+	5D71C045	FCJ2_JACOB_CONVERSATION_3_CD

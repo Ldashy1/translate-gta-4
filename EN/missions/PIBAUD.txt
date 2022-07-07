@@ -1,0 +1,217 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9F75375B	PIB_RF
+	9E3826AE	PIB_CH
+	A3470433	PIB_CB
+	AA10A155	010100100100100010
+	A81EAAFF	210190
+	9D64420A	~z~This suspense is killing me.
+	9800ABE6	~z~my problem hurt a lot of people.
+	9775405F	PIB_QF
+	98722562	~z~This your place?
+	9BAEA751	~z~So, what are you showing me?
+	9A2AD97B	PIB_GG
+	ABF10C51	PIB_KD
+	B27C60DD	~z~Could be.
+	B12EEDBF	PIB_FF
+	B4AD01F0	~z~I don't know.
+	B995E26B	PIB_NA
+	B605902C	PIB_BE
+	B12A26B7	~z~If you know what's good for you, you will get out of here.
+	AD740C8D	PIB_BA
+	AC67C8C3	~z~Dude, this is meant to be the biggest rock in the world.
+	ADA91264	PIB_HA
+	AF24BA4B	~z~Thanks, dude. I'm glad you were here for me.
+	AF12E567	~z~You are about to see the biggest rock of crack
+	7F17633C	100100010100010100100
+	7EFDD176	PIB_DA
+	80D788F1	~z~known to man, this thing is meant to be so fucking big,
+	86279C51	PIB_FA
+	8561E9DE	PIB_JA
+	7C8BE804	~z~I like your style, dude. I like your fucking style.
+	75678A64	PIB_MB
+	74A412F6	PIB_GC
+	7796F680	~z~I reckon every rock of crack has a gravitational pull for you, buddy.
+	7AF81C06	PIB_GB
+	7A762B6B	100100
+	869D25D1	~z~Did you get it?
+	91A76B27	~z~That's them. Do you mind waiting here?
+	8EE18CB3	~z~Or you could just smoke it all at once?
+	928D2C5C	~z~it has its own gravitational pull - no fucking shit!
+	95CD6825	J4_JA
+	957AFE17	~z~You've got a second chance here.
+	8E5ACDC7	PIB_CF
+	87C3916E	010100100010100100
+	878F1A63	PIB_TD
+	882B9B07	100
+	8C74FB60	PIB_JD
+	8BD60BD1	~z~I've got enough friends.
+	E8DE87EF	PIB_KC
+	E8A8424D	010100010100100100010
+	E9CED9AD	PIB_TA
+	EB324553	~z~I could chisel off a bit of this every day for a month and it would still be huge.
+	EA70F6C2	PIB_BC
+	E6A441C5	~z~Yeah sorta... no. It doesn't matter. Here's some dolla. Appreciate the ride.
+	E33D4E46	PIB_TC
+	E093E458	PIB_BD
+	E42C3C80	~z~You here to make friends too?
+	E58F7D4D	PIB_KF
+	E458B8A8	~z~Sure it will.
+	EC213A11	~z~That is a healthy attitude.
+	FC956819	~z~Worth every fucking penny.
+	FAE35795	~z~I mean that makes sense, I just can't always live it...
+	FE4840F2	~z~I don't want to hurt you, so go. Get lost. Okay?
+	FFD12706	PIB_GA
+	FED2912F	010100100100010100100
+	FA495669	~z~Are you upset that you couldn't make amends?
+	EF9C8E0D	PIB_CD
+	ED133BFD	~z~Step nine's a tough one. Not everyone wants you to get better. I'll talk about it in group.
+	F2076852	PIB_RC
+	F6BC8762	~z~Addiction stole everything I had from me, it was a wild ride.
+	F61C5C2F	~z~Bidding war was fierce dude. Like being on the trading floor... yeah! Hah!
+	C6BAF974	010100
+	C67FFBEF	~z~Excess is never excessive.
+	C79F95C4	PIB_FB
+	CE07B9BF	PIB_QE
+	CC05ECB9	PIB_DB
+	C4E3A25D	~z~Shit dude, I should remember this.
+	BAE5C38C	010100100100010010100
+	BA15CAD1	PIB_JG
+	C0623F49	PIB_CA
+	C40E293B	~z~Thanks for everything, here's a token of my gratitude. Stay safe.
+	C06902D6	PIB_RA
+	D0165B04	PIB_QB
+	DBBB716E	PIB_QC
+	D9E9A2C2	~z~You negotiate a good deal on that thing?
+	DD2AC31D	PIB_RG
+	E07C3BD6	~z~Yo, Mr. Banker-man.
+	DECD9F72	~z~You have to have the serenity to accept the things you cannot change,
+	D98E8782	PIB_JE
+	D31779F8	~z~Dude, take me over to Wappinger and Hardin.
+	D179CCE8	PIB_BB
+	D4759D12	010100100100100100010100
+	D7AF9E4E	~z~Fuck yeah, invested my whole severance pay in this baby.
+	D74361D5	PIB_KE
+	73F698AC	100
+	2AD4F6A0	PIB_MA
+	2AAA1523	PIB_CE
+	2D6C4ACA	~z~These guys are fucking scientists.
+	30D5FB98	~z~It's amazing how low you can get without realizing that you actually have a problem.
+	2E05AF32	~z~I mean I'm clean, but I'm still an addict and I can never let my guard down.
+	2A70ED76	~z~What's that film where that guy is on a mountain and he gets chased by that huge boulder?
+	21255C37	~z~Finally, you hit rock bottom and you get help.
+	2091837D	100
+	266ACD2F	PIB_KB
+	2A20FA1D	~z~Wait here while I make the deal, dude.
+	29778805	PIB_LA
+	3190FD0A	~z~You were hitting the rocks alright.
+	3CC4917C	PIB_HB
+	3CC2D9BD	PIB_JB
+	3D418035	PIB_RB
+	3F61EEB5	~z~Thing's meant to be bigger than my fist.
+	3E7BC591	PIB_AA
+	3C872C4A	~z~You pretty dumb for a banker. You forgot about interest, bitch.
+	367EF95F	PIB_PA
+	3656EFCA	100
+	376F6AC9	~z~Thanks for helping me, dude.
+	3BE80093	PIB_FD
+	37A33596	100
+	09CC3680	PIB_GE
+	0958E5D9	~z~Are you okay?
+	0BCB0C88	PIB_NB
+	0E8613A6	200020
+	0C8F42D1	100
+	09308E4C	~z~I asked my sponsor to come along but he says this is something I got to do without him.
+	00EE0863	PIB_RE
+	001180D0	100100010100100100
+	050323EF	~z~The irony is not lost on me, friend.
+	077BF0C6	~z~the courage to change the things you can, and the wisdom to know the difference. Right, dude?
+	06E9358E	PIB_BH
+	11BC1417	100
+	19AD8463	PIB_JF
+	18F42DD3	~z~This is step number nine in the program. I'm making amends to all those I harmed. Expensive process.
+	19D4DC11	PIB_GD
+	1C625EA0	~z~Let's hope this thing isn't too heavy for me to carry by myself. Sick.
+	1BA5795F	030
+	17DAE2EC	PIB_QA
+	11E61EA9	~z~This a real sound investment you making.
+	11CA1770	PIB_OA
+	131EC7C5	PIB_GF
+	17C3481B	~z~Yeah, but this ain't no rock - it's a fucking boulder. This shit's gonna blast me to the moon.
+	149D6D9C	~z~Go for a walk. If anyone asks, you didn't see my face.
+	5D635035	PIB_FE
+	5BA3BE8A	~z~Something your eyes will never believe. The ninth wonder of the modern world, my friend.
+	5E957066	~z~Trust the higher power... trust the HP.
+	603CBC5F	~z~That said, it's a lot harder to ask people to write off the emotional debts than the financial ones...
+	5EF8F5CA	PIB_KA
+	59944CED	PIB_SA
+	51A72CBC	PIB_TB
+	4F5626DA	PIB_RD
+	52D24C07	PIB_BG
+	58DB134D	PIB_JC
+	58C2C3E5	200200200200
+	60CFB190	~z~Gonna last me weeks.
+	685A6AA4	~z~I'm out of the tunnel now though.
+	6641D69E	PIB_FC
+	6ABDD165	~z~Do not mention it.
+	73A2170A	PIB_CG
+	72133748	~z~At least I won't have to put myself in that position again.
+	656445A4	~z~Mos def.
+	60F77001	PIB_BF
+	60DE2595	PIB_EA
+	63BF1AA0	~z~I do, dude. I do.
+	65243FA1	~z~Take me back to my place on Wappinger.
+	6436CF63	~z~They're over on Onion, just off Asparagus Avenue.
+	4E8DF042	~z~These injuries are only physical, at least I didn't feel the hunger again.
+	46B32602	~z~Anyway, that's how I gonna feel when this shit's chasing me round my head.
+	45413828	~z~Take me over to Masterson Street.
+	48558436	PIB_IA
+	4A121B67	~z~What am I seeing, funny guy?
+	4E078C00	~z~Bigger than a melon, fucking genius!
+	406253EB	~z~Stay with your fiancée and keep away from those scumbags, man.
+	3FAFFA3C	~z~A good use of your assets and shit.
+	439EA5CB	PIB_QD
+PIB_CUT1_1	E4B74505	~z~How you doing?
+PIB_CUT1_10	3EA0C8CD	~z~This coke is okay.
+PIB_CUT1_2	D70929A1	~z~Good. Thank you very much.
+PIB_CUT1_3	C39A02C3	~z~Good! Yes comrade, I am doing good. There is no "I", there is only "we" - it is a glorious system, comrade.
+PIB_CUT1_4	F283E096	~z~Excuse me?
+PIB_CUT1_5	E53545F9	~z~You're excused, comrade. You're excused, now go and mine salt for fifty years...
+PIB_CUT1_6	91C59F1B	~z~You're a dick.
+PIB_CUT1_7	BA94F0B9	~z~I'm a rich dick, friend. I'm young, and rich and loaded.
+PIB_CUT1_8	AD6A5664	~z~Tell you what, have a hundred bucks.
+PIB_CUT1_9	574FAA30	~z~On Uncle Sam. Benjamin motherfucking Franklin. Freedom.
+PIB_CUT2_1	32DD7C85	~z~How you doing?
+PIB_CUT2_2	20AED828	~z~Okay.
+PIB_CUT2_3	C87E27C8	~z~That's nice. That's real nice.
+PIB_CUT2_4	B64C8365	~z~Hey, I remember you. You're the comrade guy. The guy with all the jokes?
+PIB_CUT2_5	C839273A	~z~Oh, yeah... how time flies... when you're having fun...
+PIB_CUT2_6	B5C78257	~z~Right. And you're definitely having a lot of fun.
+PIB_CUT2_7	EBEAEE9D	~z~No doubt.
+PIB_CUT2_8	D9CC4A60	~z~Listen, dude, you wanna make a quick buck?
+PIB_CUT2_9	A17A59B9	~z~Come with me, I got something to show you.
+PIB_CUT3_1	EAE00C9D	~z~Hey, man! Remember me?
+PIB_CUT3_10	EEB36EA9	~z~Jesus. What a disgrace.
+PIB_CUT3_11	D8694215	~z~But I'm over that now. I'm engaged!
+PIB_CUT3_12	46B69EAE	~z~Hey. Congratulations.
+PIB_CUT3_13	30F4732A	~z~Hey, I owe you, man!
+PIB_CUT3_14	2321D785	~z~I mean, I was a dick. But I'm making up for it.
+PIB_CUT3_15	FB9A8877	~z~I was a loud mouthed dick and I apologize.
+PIB_CUT3_16	7DDA0CF8	~z~Hey, apology accepted. Don't worry about it.
+PIB_CUT3_17	680DE15C	~z~Listen... I gotta go pay off one of my dealers. Make things right.
+PIB_CUT3_18	6477DA30	~z~Would you come with me? I hate to ask, but I'm afraid the temptation might get to me.
+PIB_CUT3_19	56A23E85	~z~Please?
+PIB_CUT3_2	7E213321	~z~Sure - the crack smoking American dream.
+PIB_CUT3_20	25345C72	~z~Sure.
+PIB_CUT3_21	38CC83A2	~z~Awesome.
+PIB_CUT3_3	9052D784	~z~I'm clean, man... what a ride.
+PIB_CUT3_4	A20FFAFE	~z~Yeah. You look good.
+PIB_CUT3_5	3135994B	~z~I feel good.
+PIB_CUT3_6	D38D5DF8	~z~Good.
+PIB_CUT3_7	D49C6016	~z~I sank as far as a man can sink...
+PIB_CUT3_8	66F904CD	~z~when you're giving blowjobs at ten bucks a pop, so you can score your next rock.
+PIB_CUT3_9	7A6B2BB1	~z~And I have an Ivy League education...

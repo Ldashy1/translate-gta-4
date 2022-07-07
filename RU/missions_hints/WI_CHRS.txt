@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E05DAE1B	~r~Шериз погибла.
+	C80ACEEA	~r~Друг Шериз погиб.
+	E362189A	Поговорите с ~b~Шериз.
+	FFE5D1A1	Поговорите с ~r~дружком Шериз.
+	F1FF9EB7	~r~Вы ранили Шериз.
+	2497FBC3	~r~Вы не поговорили с другом Шериз.
+	0E3CEE4F	Подождите Шериз.
+	32519896	Подберите ~b~Шериз.
+	BCAB4B2D	Найдите транспортное средство.
+	AE38AE48	Отвезите Шериз на ~y~Франкфорт-авеню.

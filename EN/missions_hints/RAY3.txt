@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9BFBF309	~s~Go to ~y~Castle Garden City.
+	8D6255D6	~s~Find a car to drive.~s~
+	82BCC0EB	~s~Luca is hiding in the ~y~toilets.~s~ Flush him out.~s~
+	CEDD95BB	~r~Luca is dead. The diamonds were lost.
+	FBBE32F0	~s~Pick up the ~g~diamonds.
+	E35CD66A	~s~You did it Niko, you got rid of the mouchers, just me and you now, I have the ice on me, 50 / 50.
+	E02AB855	~r~Luca got away.
+	3C8FF11E	~r~Luca's gang got away.
+	38762C5F	~s~Luca is hiding in the toilets. Flush him out.~s~
+	26C68900	~s~Take out ~r~Luca.
+	3EA7B862	~s~The ~r~gang~s~ have escaped into the park. Take them down.
+	78BCAC8B	~s~Chase after ~r~Luca's gang.~s~ You need Luca alive to get the diamonds back.
+	693D66E8	~s~Shoot the doors to break them open.
+	4D87D682	~s~Go meet Ray on the ~y~bridge.

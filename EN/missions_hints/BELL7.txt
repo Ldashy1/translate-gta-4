@@ -1,0 +1,43 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+BL6_M01	5280F486	~s~Pick up Bell in ~y~Leftwood.
+BL6_M02	16C37D0C	~s~Take Bell to the ~y~old mansion~s~ in Westdyke.
+BL6_M03	2B8CA69E	You need a car.
+BL6_M04	F25AB43B	~s~You've left ~b~Bell~s~ behind, go back and get him.
+BL6_M05	009450AE	~s~You've left ~b~someone~s~ behind, go and get him.
+BL6_M06	CFE7EF52	~s~Follow ~b~Bell.~s~ Don't let him get busted by the feds.
+BL6_M07	DE088B97	~s~Follow ~b~Bell.
+BL6_M08	AB55262D	~s~Get the H from the car.
+BL6_M09	B99AC2B8	Bag
+BL6_M10	677C1D78	~r~Bell is dead.
+BL6_M11	7823BEC7	~s~Take Bell to the ~y~safe house.~s~
+BL6_M12	2AD0241D	~s~There is too much heat. Follow ~b~Bell~s~ and ~b~Frankie~s~. ~s~Take out anyone who gets in your way.
+BL6_M13	3C14C6A6	~s~PLACEHOLDER!~n~Mocap cutscene will play here.
+BL6_M14	0E466B0A	~s~PLACEHOLDER!~n~Scripted cutscene will play here.
+BL6_M15	20A00FBD	~r~The car with the H was destroyed.
+BL6_M16	F0FAB073	~r~Bell got busted.
+BL6_M17	032954D0	~r~Frankie is dead.
+BL6_M18	D1B171DD	~r~The get away car was destroyed.
+BL6_M19	E32614CA	~s~Take out the ~r~helicopter.~s~ There is too much heat with it following you.
+BL6_M20	8F546C00	~s~Stay close to ~b~Bell~s~ and ~b~Frankie.
+BL6_M21	7D0A476C	~s~You've left ~b~Bell~s~ behind, go back and get him.
+BL6_M22	6E872A66	~s~You've left ~b~Frankie~s~ behind, go back and get him.
+BL6_M23	60E18F1B	~s~Lose your wanted level.
+BL6_M24	21F71143	H
+BL6_M25	5440F5D6	~s~Go to the ~y~escape van.
+BL6_M26	FA0CC16F	~s~Frankie is down. Get the ~g~H~s~ and leave him behind.
+BL6_M27	2C3AA5CA	~s~Stay close to ~b~Bell.
+BL6_M28	DD8F0874	~s~Get back in the ~b~car~s~ and follow Bell.
+BL6_M29	0FC5ECE1	~s~Find a vehicle with more seats.
+BL6_M30	360EB85A	~s~You've left ~b~Bell~s~ and ~b~Frankie~s~ behind, go back and get them.
+BL6_M31	23CB13D3	~s~Take Bell and Frankie to the ~y~safe house.~s~
+BL6_M32	190CFE57	~r~Frankie got busted.
+BL6_M33	074D5AD8	~s~Lose the cops.
+BL6_M34	C0EC4E13	~s~Get to the ~y~escape van~s~ and lose the cops.
+BL6_M35	EF512AE0	~s~Get in the van with ~b~Bell~s~.
+BL6_M36	A269910E	~s~Get in the van with ~b~Bell~s~ and ~b~Frankie~s~.
+BL6M12B	49BDE68D	~s~There is too much heat. Follow ~b~Bell~s~.~s~ Take out anyone who get in your way.

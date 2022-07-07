@@ -1,0 +1,223 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A45BA267	100
+	A170F46A	~z~I'd love for you to tell me stuff about yourself while we bowl.
+	9FAC3814	~z~Pool? what a great idea...
+	A95DAF26	100
+	A7555B75	~z~Are those shoes new? They're great, they really suit you.
+	A54CF23B	~z~This isn't what we agreed at all.
+	9DE855E3	GCM_ACT_BORED_TAKEHOME
+	964CE842	~z~I've read all about this place - supposed to be great.
+	95D95570	100
+	94D0129A	~z~I love that hat.
+	9C48C6C5	GCM_ACT_PMI_NOGLASS_GOOD
+	9BF6329E	~z~They have watches in your country? I'm sorry. I'm just crabby. Let's go.
+	9697DFBD	~z~Darts? I haven't done that for the longest time.
+	AC4C0120	GCM_ACT_PMI_FEET_GOOD
+	B57BF63A	~z~You look much better without those glasses.
+	B55265F6	GCM_ACT_DIFF_ACTIVITY_NO
+	B50776D9	~z~New shoes, nice.
+	B785388E	100
+	B75C2139	~z~Okay - I haven't played darts for ages.
+	B59C2E3D	~z~It's a shame you're not wearing that hat I liked.
+	B4805F31	100
+	AEEB7147	~z~Okay, next time you buy glasses, you should take a girl with you to check they look okay.
+	AE8C44DF	~z~This sure is a nice car, is it new?
+	AD3589C2	100
+	B312DEE1	~z~Pool? Cool. Haven't played for ages.
+	B22D2516	100
+	AF5B5CAE	~z~Darts? Again? Okay. But we should do something else sometime.
+	7F9D4DB4	~z~Those pants are criminal, pardon the pun...
+	7D8930BA	100
+	7B1A0C6E	100
+	81F6261D	~z~I have to be honest, I preferred the other car.
+	81EE6C00	~z~Nice bike, Niko.
+	813095D2	~z~Those glasses look kind of silly.
+	7AD7E831	100
+	788C1004	GCM_ACT_CAR_NEW_GOOD
+	74670AFF	~z~A new car? Why?
+	72F204BB	~z~Hey, you want to bowl again? You must really like it?
+	79CB611E	100
+	79C1097C	GCM_ACT_ARRIVE_DARTS_NOT
+	792B9583	100
+	82B637F6	GCM_ACT_PMI_TORSO_BAD
+	912BD07A	100
+	911F9025	GCM_ACT_BORED_LEAVING
+	90D3067D	100
+	93C1ED06	100
+	9343F377	GCM_ACT_ARRIVem_NOTLATE
+	92F81429	~z~I guess we're playing darts again, then?
+	8FAB871C	100
+	8768843E	~z~How are we going to travel?
+	8657CBDB	~z~I like that top - is it new?
+	84B3E2A3	~z~We're back at Memory Lanes, eh?
+	8D289503	~z~You're late, by the way. Let's go.
+	88BA098E	~z~Interesting place, I think - I hope we have fun.
+	88136368	GCM_ACT_PMI_NOHAT_BAD
+	EBE2CD35	~z~Are we going to walk or get a taxi?
+	E6E157C4	100
+	E448E351	100
+	EDE417A5	~z~Those shoes are pretty weird.
+	ED8CC4B7	100
+	ECE21FE2	100
+	E17C02BE	~z~What the hell are you wearing, the same clothes?
+	D749D61C	GCM_ACT_ARRIVE_SHOW_COMEDY
+	D5EDE5B5	~z~Pool? Again... okay.
+	D52DD913	GCM_ACT_ARRIVE_BOWL_LAST
+	DE4277DC	~z~Classy.
+	DAFA5469	GCM_ACT_ARRIVEF_NOTLATE
+	D8E33D45	~z~Hey there, handsome - come on, let's get going.
+	EF0B8647	~z~What's this? This isn't what we said. I don't want to do this just now.
+	FA1C69A8	~z~Shall we go by taxi, or walk or...?
+	F8B6B471	~z~Where's the hat? It really suited you.
+	F675427D	GCM_ACT_ARRIVE_PUB_FAVORITE
+	FD454653	~z~Those glasses kind of suited you, Niko. I miss them.
+	FD2075C6	~z~Cabaret - I wonder what's on? The crowd always scares me at this place.
+	FCDD4247	~z~Is that new, that top? You should have checked the mirror before you bought it.
+	F6218E76	~z~Why did you change cars?
+	F1ABDE08	~z~Hey - you know you're late, don't you? Let's go.
+	F0B70AD4	100
+	EF4A2A69	~z~I tell you what I miss you in those glasses.
+	F4F8E20A	~z~Yeah, I think we'll have some fun here.
+	F3D9FFBC	GCM_ACT_ARRIVE_HIGHEND
+	F32DA621	~z~Can't you afford any new clothes?
+	C04B48AB	GCM_ACT_PMI_GLASSHAT_GOOD
+	C03E3309	~z~I'd enjoy darts - it'll make a change.
+	C03CFE71	~z~Darts? Again? Well, I do enjoy it.
+	C304D46E	~z~What were you thinking when you put on those pants?
+	C1D66B73	~z~Hey, I really like the new car, Niko.
+	C196CD4D	~z~Pool? Again? There are other ways to spend your time, Niko.
+	BFC4979C	~z~Hey Niko, you look well, let's find a car.
+	B929F939	~z~I think you look good in that outfit - I liked it last time.
+	B7F0452E	100
+	B79F0CBB	100
+	BEED3637	GCM_ACT_PMI_TORSO_GOOD
+	BDBDA080	~z~Hey - you're late... let's go find a car or something.
+	B97450DD	GCM_ACT_CAR_NONE
+	C69C98B8	~z~Hey Niko, let's go.
+	D2786F10	~z~Pool's quite fun, but there are other pastimes.
+	D22A7E8C	100
+	D0AB42E5	100
+	D42BF8E5	~z~Thanks - we're late - what a great date. Genius.
+	D3C38ADE	~z~Those glasses really suit you.
+	D2EC1E50	GCM_ACT_ARRIVE_SHOW_CABARET
+	CFB2DF2C	~z~You're not wearing the same clothes are you?
+	CB3BE3BC	100
+	CAE69153	~z~I wonder what'll be on? Sometimes it's awful.
+	CAA0F899	~z~What a great pair of glasses - they really suit you.
+	CEE50E62	100
+	CE30C740	100
+	CB52D1FD	~z~This is going to be great, thanks Niko.
+	72446B6F	~z~You're wearing that? Good, you look good.
+	28619749	~z~I like this place - it's full of such weird characters.
+	280E65A3	100
+	2677F543	100
+	29C7F5C2	~z~Did you sell the old car? I miss it.
+	29BD9087	~z~I still cannot bear this car.
+	298D0EA8	~z~Okay, I've had enough of this bullshit. I guess I'll find my own way home.
+	24A3502E	~z~You're wearing my favorite outfit.
+	1E1F5F4B	100
+	1D832B7A	GCM_ACT_PMI_SAME_BAD
+	1CFC2460	~z~I still love this car.
+	239ED27F	~z~Okay, let's get going.
+	1F5A1B1C	GCM_ACT_ARRIVE_DARTS_BEFORE
+	1E8EFBAA	~z~New pants - very nice.
+	2BDDD63D	~z~I love simple, homely places like this.
+	36EEF4C5	~z~I love that outfit. I remember it.
+	36419496	~z~Great - I could do with some cheering up.
+	335871F2	~z~Nice to see you. Come on, let's go.
+	38B54A8F	~z~Do you know that some criminals meet at bowling alleys because the ambient sound drowns out bugs?
+	37E3075B	100
+	37D2AB33	~z~What's wrong with you? I guess I'll make my own way home, you freak.
+	32EA6C62	GCM_ACT_ARRIVE_LATE
+	2D1998BF	~z~Hey, nice pants.
+	2CDB6CA6	GCM_ACT_ARRIVE_SHOW_LATE
+	2C3114C9	GCM_ACT_PMI_LEGS_GOOD
+	31486069	GCM_ACT_CAR_NEW_BAD
+	30CD5709	~z~Shall we get a taxi, or walk?
+	2D5352C2	~z~Mmm, okay - this place looks like it might be fun.
+	0AE12DD4	~z~Hey there, you look good. Let's find a car.
+	0ABF032E	100
+	0693761F	~z~I like your hat - really suits you.
+	0BF706B3	GCM_ACT_ARRIVEF_LATE
+	0B4E8E5F	100
+	0B13808F	~z~I still really like this car.
+	061EF044	100
+	02BEC0D4	~z~Place looks great!
+	02A27FF5	~z~Why are you late? Don't tell me... something came up. Let's go.
+	0154AAD9	~z~Where is this? Not what we agreed at all.
+	05B8CAC9	GCM_ACT_ARRIVE_STANDARD
+	02FE5689	~z~I can't believe we're late - all of your stupid messing around ruined everything.
+	02BF4544	~z~You're wearing the same clothes. What's wrong with you?
+	0C177A65	~z~I'm so glad you've taken off that silly hat.
+	15206597	~z~Oooh, expensive - where do you get the money for this kind of place?
+	14A7D17F	~z~I'm really not in the mood for this, Niko.
+	14329086	~z~Hey, nice bike, by the way.
+	1C4EC7C9	GCM_ACT_ARRIVE_DARTS_LAST
+	1B9DD96E	~z~I preferred the old car.
+	1B99F310	~z~Did you bring those shoes with you from Europe? They don't really work.
+	134E0CE2	100
+	0D60B2DB	GCM_ACT_PMI_NOGLASS_BAD
+	0D58A35B	100
+	0CDB6326	GCM_ACT_PMI_GLASSHAT_BAD
+	13454C06	~z~Let's go find a car or something.
+	0F1EE6CA	~z~Is that top new? Sorry, but what were you thinking?
+	0E58FB21	100
+	621A604F	GCM_ACT_CAR_SAME_BAD
+	61813E86	100
+	60F4E3C8	GCM_ACT_CAR_SAME_GOOD
+	63AB8132	~z~You must really love pool.
+	63960231	GCM_ACT_PMI_FEET_BAD
+	6247CB76	~z~Oh, you are wearing that again, good.
+	60AFA97D	~z~That hat - it doesn't really work for you.
+	5A02FA8B	~z~I like this place - it's so exotic.
+	59D1E531	~z~Bowling, this could be interesting.
+	59361A38	~z~I like the new car.
+	5E243AC9	~z~I love places like this.
+	5B39E526	GCM_ACT_ARRIVE_CLUB_GENERIC
+	5ACD9490	GCM_ACT_ARRIVE_POOL_NOT
+	64528E13	GCM_ACT_PMI_HAT_GOOD
+	6E026D67	100
+	6D6479FE	GCM_ACT_ARRIVE_BOWL_BEFORE
+	6CA694F6	~z~I hope the food's as nice as the reputation says it is.
+	6FE38DB8	GCM_ACT_ARRIVE_BOWL_NOT
+	6FB39CAD	GCM_ACT_PMI_HAT_BAD
+	6F64ADDB	~z~Niko, no offense, but this is really boring - can you take me home?
+	6B2B6300	100
+	67FB388D	GCM_ACT_PMI_SAME_GOOD
+	67BDBE78	GCM_ACT_ARRIVE_POOL_LAST
+	659732F6	~z~I didn't know you had a new car, I like it.
+	6A172640	GCM_ACT_PMI_NOHAT_GOOD
+	68FCB9C5	~z~This new car is certainly an improvement.
+	686A276D	GCM_ACT_ARRIVE_PUB_GENERIC
+	438C1F07	100
+	41AFF851	GCM_ACT_ARRIVE_POOL_BEFORE
+	400A1F18	~z~This place looks okay.
+	459433D1	100
+	44A7A857	~z~This bar looks okay.
+	43B969A8	~z~Thank God you're not wearing that stupid hat.
+	40065151	100
+	3DC3026D	~z~Good for you to wear the same outfit - I like it.
+	3B6033CC	~z~Surely you can get a nicer car than this?
+	3A293417	~z~Isn't that the same thing you wore last time?
+	3FB6FDEF	~z~These kind of places remind me of where I grew up.
+	3F99F74F	~z~This place looks okay.
+	3E0CF1B8	GCM_ACT_ARRIVEC_NOTLATE
+	480BB82A	~z~Great - I could do with forgetting my troubles for a bit.
+	52E2E5BC	GCM_ACT_PMI_LEGS_BAD
+	51590AD0	~z~I don't really like that hat, Niko.
+	513D7199	~z~I'm bored, can you take me home, please? NOW.
+	56ED5103	100
+	542BA1B4	100
+	53500E68	~z~This is a nice car, I haven't seen it before.
+	505A9F36	~z~I like simple places like this.
+	4B5A55E1	~z~Is that a new top? Very nice.
+	4A3302A0	~z~Darts again? Okay.
+	48341BAC	~z~Thank God you took off those silly glasses.
+	4F134058	~z~You seem to swap cars a lot - I liked the other one.
+	4DF75BB3	~z~What is that? Haven't you got any new clothes?
+	4DBEBA55	~z~Memory Lanes, again, ooh. Bowling's a real thing for you, huh?

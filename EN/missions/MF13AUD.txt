@@ -1,0 +1,290 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B1AD9090	~z~Yeah, is a real shame. Probably ran off with some woman.
+	B1B7F466	MF6_QF
+	AE541C29	MF6_ZD
+	AF6C322E	MF6_EA
+	B2E6D09B	~z~Nah, man. Dere ain't nothing going on at the moment, ya know.
+	B34CAB19	~z~Wha'gwan me bredren? You been chilling wit Elizabeta Torres?
+	B283A1BE	MF6_CB
+	B2ACE3EE	MF6_A_EC
+	AE225FBB	~z~It is very important that you be there. Goodbye.
+	A627A355	MF6_QC
+	A6F9BCCF	MF6_A_BE
+	A51B0EB6	~z~She pays good, man. You know her?
+	A5E33C23	~z~Goodbye, Niko. Look after yourself.
+	ACA8ABBD	MF6_SC
+	AD709093	~z~Freak coincidence Michelle. This is only explanation for it. Is a real tragedy.
+	A9892996	MF6_DE
+	AB2826A4	MF6_A_CA
+	B4283A5F	MF6_CC
+	BF46343E	~z~If you guys need anything, just ask. If you guys had got caught up with some bad people, you'd tell me right?
+	BFCFC41B	~z~Later on. Me call ya.
+	BD446654	~z~Do you two know each other? Elizabeta seems to have a lot of friends.
+	BE221FAD	MF6_VC
+	C076224A	MF6_EJ
+	C0D79E80	~z~Sure, I was looking to branch out a bit anyway. I'll see you soon.
+	C01ECED3	MF6_XD
+	C02F86EC	100100100100010100100100100100
+	BCC564B4	MF6_EF
+	B8B2BF7F	~z~Please call when I can make myself available for all business or personal arrangements.
+	B9BA3C09	MF6_A_EA
+	B48D6C3C	~z~Surely a man like you knows how to source some white?
+	B71B2FA5	010100010100
+	BBDAE5B0	MF6_A_AA
+	BBED0B31	~z~You're not making this easy for me, are you? I'm asking you out on a date.
+	BA255D20	MF6_ED
+	BB6E877E	100010100010
+	A4FAAD42	~z~Yeah, beggers can't be choosers, man.
+	883FFC48	~z~I'm trying to avoid it, Michelle.
+	8855E0A8	MF6_SE
+	879A6C17	MF6_EI
+	87A1F18A	~z~Rhaatid. She be in dere wit a Babylon agent. A least dem don't send you back home, Niko.
+	8D532DF0	~z~The responsibility is on his shoulders. Do not listen to Dimitri's paranoia.
+	8D8188CF	MF6_DB
+	89066033	~z~As an alternative, leave me a message.
+	8CA3ADC7	100010100100
+	83D48A48	MF6_TK
+	7D49BB81	MF6_ZA
+	7DAC08A0	MF6_WC
+	7C48E7C2	MF6_DC
+	7C5E9FD6	~z~I'm a big boy and I must make my own decisions. See you soon.
+	817F74C1	~z~But if you did, Niko.
+	82728807	~z~Sorry, my friend. I ain't got nothing.
+	7DF7DE36	~z~I don't know who this guy was. I think he's government deal or something. They're making me work for them.
+	8034DC9F	SFX_MACHINE_BEEP
+	90030BD2	~z~Hey, Niko. Mallorie tells me that you are working with Elizabeta Torres now.
+	9D78E87A	MF6_BA
+	9DBB74C6	MF6_CA
+	9A2AAD3D	MF6_WA
+	9A691FA0	~z~Roman's my cousin, I get sick of him but I'm stuck with him.
+	9E512E68	~z~I think I make myself clear.
+	9F01D14D	~z~His son is dead.
+	9DC9B208	MF6_A_EB
+	9E31023F	~z~You know, on a date?
+	9A2A0A08	MF6_DD
+	93D62DAB	MF6_TJ
+	943E903B	MF6_EC
+	9078114D	~z~I will try.
+	907B745B	MF6_SF
+	99D11F51	MF6_UA
+	9A0FD621	100010100010
+	94CE5892	MF6_VD_QQQ1
+	9758748E	~z~Hey, Michelle, it's Niko. Roman's cousin.
+	E776E4DC	~z~Jacob, hey, it's Niko, Roman's cousin.
+	E8731D8D	MF6_SD
+	E62D3825	~z~If you want to get something off your chest... I'm a good listener, you know?
+	E6DDC046	MF6_DF
+	ED59E32F	MF6_TF
+	EDCCCBF9	~z~Michelle is dead, she only existed to serve a certain purpose.
+	E94530F2	MF6_AB
+	E9F6E736	~z~He is just another shit from the Old Country, running around with his boys.
+	E4B48046	~z~Boy, he's done a lot of growing up, ya know. He's a wise dread now.
+	DF2851A7	~z~That sounds good. See you soon.
+	DF7F2F5E	~z~Now that I've blown my cover, she has to die.
+	DD7F94E5	MF6_YD
+	DDD362C6	~z~Yeah, Niko. See you soon.
+	E3CAE466	~z~Yo, me need your help with something, y'know. Will you come to my place on Dillon Street?
+	E4A17027	MF6_VE
+	E15DB480	~z~No, no, of course not. This was test.
+	E1914009	MF6_A_BA
+	EDED06A6	MF6_ZF
+	F700C162	~z~Don't forget that. Me. Remember that.
+	F70824ED	~z~It is, man. I'm real happy for them.
+	F5AE9E26	~z~Let's hang out soon, seen? Hit me up. One love.
+	F60CEB40	MF6_A_BC
+	FBB0DD19	100010010100100
+	FD4B487C	~z~Niko, you are my employee, you must answer my questions.
+	F8615A9F	MF6_EE
+	F8C93006	~z~Did she kick your ass, man?
+	F5249FA1	MF6_ZC
+	F091E499	~z~Hey, Niko, it's me.
+	F198767D	~z~Niko, do not let Dimitri worry you about Kenny Petrovic.
+	EF0010B5	~z~Yeah, he's a friend of yours so I looked after him.
+	EFB2340D	MF6_QE
+	F46654C7	MF6_DH
+	F4C834D7	MF6_SA
+	F2BE10EF	MF6_BC
+	F2FB57BB	~z~I have no involvement with your daughter.
+	DD697084	~z~Nobody will bully me, Michelle. Do not worry.
+	CA36178D	~z~Niko... friend, listen you got any toot? I need some fucking powder.
+	CAB3A8BE	~z~I am sorry, I am still not used to how things work here in America. A date would be good.
+	C7485CAA	~z~Hello, this is Mikhail Faustin.
+	C7BCFA47	~z~I was thinking you might get turned off with us and just wanna hang with your cousin.
+	CE3C60F4	~z~Nah, man. She's a real good business woman, ya know star. Just don't get pon her wrong side. Seen?
+	D06DE6B8	~z~Yeah, sure. That could be fun. Yeah, I'd like to get to know you, Niko.
+	CADB992D	~z~Yeah, who are you? Can you remind me?
+	CE25CE6C	100010100010100
+	C6F7E702	MF6_YC
+	C2F4331D	~z~Hey, Niko. Did you hear that Vlad has gone missing?
+	C3271C41	~z~Alright man, getting used to a new place, you know. You need any work done?
+	C209D7B9	MF6_QB
+	C2A1CB20	~z~Oh, hi. How's it going?
+	C40B4420	100100010010100100100100
+	C608FDD7	~z~I do not take kindly to threats or false accusations.
+	C32E2268	MF6_TG
+	C37C9A42	~z~He only tries to prove he is the man with biggest dick.
+	D09FFD01	MF6_EH
+	D720E272	MF6_RD
+	D8337F3A	MF6_SB
+	D639C944	~z~Alright, you know, getting by.
+	D6702377	MF6_A_BF
+	DBA12E5B	MF6_AAA_FD
+	DC353BE0	~z~That doesn't matter. You need to meet me outside the United Liberty Paper building in Algonquin.
+	D8A8385C	MF6_TC
+	D9E35C80	100010010100100010
+	D5D741A1	~z~Yo Niko me boy, wha'gwan man? Hows tings going?
+	D1A9126C	MF6_UB
+	D36D98A0	~z~She is too good for you. I will fucking castrate you.
+	D0C08C4E	~z~Yo, Niko. How's tings?
+	D174B8DC	~z~There's always something needs doing y'know. Just come to my place, man on Dillon Street. One love.
+	D51E7682	MF6_XB
+	D5C33ECF	~z~We have no worries about him.
+	D40E213D	MF6_AAA_FB
+	D41B5DE8	~z~Don't let anyone bully you because you're an immigrant.
+	235EB287	~z~That's because she's a dealer, Niko. Junkies like the people who supply them with drugs.
+	2450C618	MF6_A_ED
+	21F42172	MF6_A_CE
+	222934B1	~z~Niko, I thought I'd call you one last time to apologize. I used you.
+	2567F4BB	MF6_ZE
+	265CF3DD	100010090100
+	24F76981	MF6_TA
+	251A15DC	MF6_XA
+	213D32B9	MF6_PG
+	1BA49E96	MF6_A_AC
+	1D6CA69F	~z~I know Michelle, I really appreciate your concern but I can look after myself.
+	1B0A9861	~z~Thanks, man. I just hope they don't try to get you into the same shit. Later on.
+	1B412EF2	~z~You haven't been taking another girl there have you?
+	207C9FE3	MF6_A_CD
+	20BEF432	~z~Seen, me bredren. Ya righteous. Badman ain't vexed as he usually is right now.
+	1F84FD44	100010100010100100
+	200FDE62	MF6_TI
+	269C6CA3	MF6_BD
+	319595AD	MF6_A_DD
+	31D3C5F3	~z~Ya need any help, me dere for ya.
+	2D16D684	MF6_A_EE
+	2F2AB1AF	MF6_A_CB
+	35654E7D	~z~That's the impression I'm beginning to get.
+	36AEA038	MF6_VG
+	33028127	MF6_TH
+	33D40F77	MF6_VF
+	2C4EAB17	MF6_A_CC
+	282302FE	~z~Niko man, Badman tell I ya help him wit some Russian bumba clots.
+	28628F38	~z~Yo, me tink she kicked every ass inna South Bohan, ya know star.
+	26D09B82	~z~Dimitri is not rat like Vlad, but no one can be trusted. No one.
+	273F8F7D	MF6_A_DC
+	2903CA77	~z~I never took you for the jealous type, Michelle. I was just there on business. Do not worry.
+	294165C7	MF6_QD
+	28A5C07C	MF6_A_AB
+	28E76520	~z~Hey Niko, it's Michelle. We met with Mallorie, Roman's girlfriend.
+	1A8326CE	~z~So you get rid of my daughter's biker boyfriend and now you think you can, how you say, ball her?
+	096A7B16	MF6_A_AD
+	09DDBB56	MF6_TB
+	066B1158	MF6_A_BB
+	07FE547B	~z~Should I not be doing business with her?
+	0BCE6582	~z~Is Dimitri giving it to my wife, Ilyena?
+	0BF8ACA7	100010100100010010100100010010100
+	0A1E4B19	~z~Niko me man, Roman and Mallorie a get married. Big tings!
+	0B3ED4F1	~z~Liz is a bad gal fo' real, ya know?
+	0604A8E1	~z~Yo Niko, wha'gwan?
+	01D1F403	~z~The person you are speaking to is very different from her.
+	02F57A92	MF6_PC
+	01C186A3	~z~My man is down in Vice fucking City. Shit, you fucking incompetent.
+	01C5D16D	~z~All I know is that Dimitri is your friend, I do not think he would betray you like this.
+	056744AD	MF6_A_DA
+	057E036C	~z~I would not know. Just making a delivery.
+	03211994	~z~I remember, what's up Michelle?
+	0538C96E	MF6_AAA_FF
+	0C8AF9D5	SFX_MACHINE_BEEP
+	15C8F010	~z~Yeah man, me know her, Niko. Even Badman's scared of that girl there.
+	15CFEA13	~z~Tell me about it. For now we should just worry about keeping out of prison. Speak to you soon, man.
+	1481BC55	~z~I am getting sick of hanging out with Roman all the time. How about I pick you up from your apartment?
+	159D5872	~z~I hear he was actually successful with ladies even though he was such pig.
+	182FC3B1	~z~You do not normally do what?
+	1A3927A4	MF6_DG
+	1613B262	MF6_TD
+	16E0E372	~z~Was it arson? Is Roman caught up with some gangsters or something?
+	1431ADD7	100100010100010010
+	0F7E221C	~z~What fucking good are you if you don't got some shit for me?
+	0FB0D15D	MF6_VF_QQQ1
+	0D16CFDE	~z~Niko, I am so sorry to hear about those fires. Roman's two places burning down at once.
+	0E4BC6AE	MF6_BB
+	1176F2F7	MF6_CE
+	130111CC	~z~You aren't getting involved in that world, are you?
+	102890B0	~z~She doesn't exist anymore. The apartment has been cleared out, the phone is about to be cut off.
+	1089EEF5	~z~You see anything, you will say.
+	681FE38E	~z~I am in charge, Niko. Not Dimitri.
+	683EABE3	MF6_PE
+	657F349D	100010100010010
+	67DA959F	~z~Why don't you come over to my place whenever? See you soon!
+	6C3F025C	MF6_VA
+	6E994080	~z~Niko, how's it going? Me hear ya be working for de Alderney boys, de Pegorinos.
+	6872B790	MF6_EB
+	69A57760	MF6_TE
+	654C1CC5	MF6_DA
+	60411FC4	MF6_AC
+	62D2681F	100100010100100010
+	5F161A72	MF6_PF
+	603BA429	~z~Call me soon, Niko. I and I should link up sometime, seen?
+	64862B53	~z~Jacob, Michelle was into some strange shit. I got called to an office in Algonquin.
+	64F83C66	MF6_PA
+	63807DE0	~z~I do not know if Roman is wise...
+	63D6B280	~z~Okay, what's up man? You and Badman got some work for me?
+	6EE55120	MF6_PB
+	79EB023E	MF6_WB
+	7A095EE1	~z~Seen, me bredren. Roman's a good man as any man to be stuck with ya know, star.
+	776F8F08	MF6_BE
+	77C567F9	~z~Business? Isn't it owned by some Russian gangster?
+	7BBD6249	~z~Gimme a call if you want hang with Jacob sometime, seen? One love.
+	7C195317	MF6_YF
+	7A0FD21A	100010100100010100100
+	7B02894F	~z~He will mourn for a time and then move on, he has chosen this life for his family.
+	767F58C7	~z~Maybe I do a few errands for Elizabeta. Nothing serious though. I am no dealer.
+	70864798	100100100100100
+	725986C9	MF6_VB
+	6F7FAC15	MF6_RB
+	7044C48D	MF6_YE
+	7490C637	MF6_AA
+	74EAAFB3	~z~Good, I was wondering if you wanted to go out with me sometime?
+	72E45E2B	~z~Niko, a friend of mine saw you coming out of Perestroika the other day.
+	737E58BF	~z~If you even think about her in that way while you jerking off, remind yourself of what I am saying.
+	5D13FBF6	MF6_ZB
+	454BFAF6	~z~There seems to be a pattern emerging, doesn't there Michelle?
+	4B020E07	MF6_AAA_FC
+	43FD522E	100010100100
+	4457B5E6	~z~Yeah, maybe that is what happened. See you soon then.
+	4D919200	100100010100100
+	4F6E6AA7	MF6_RA
+	4D691341	~z~See you soon Michelle, don't get so paranoid, yeah?
+	4D6D2E2B	~z~I don't normally do this, but I thought you'd probably be pretty lonely having just moved to Liberty City and all.
+	4387EAC2	~z~Seen, Niko. De mafia dons are in Algonquin. Dem mascots over dere in Alderney.
+	3BAE571D	MF6_YA
+	3BC5AFC2	010100010010100100
+	3774E008	MF6_PH
+	38745CAE	~z~If you need help with anything, Niko. Just speak to me.
+	41AE5B59	MF6_YB
+	423F7C2F	MF6_QA
+	3D1BF273	100010010100100100100100010
+	4153BFF9	MF6_A_DB
+	511F55B1	MF6_RC
+	58DAFE22	MF6_CD
+	59CC3169	MF6_A_BD
+	5721687F	100010100010100010010100
+	57C5A582	MF6_AAA_FE
+	5C34AE23	MF6_PD
+	5C5A24F7	MF6_EG
+	5A921D68	MF6_UD
+	5AC317CD	~z~Niko, you hear anything about dat gal Michelle? She put a lot of pressure pon ya me bredren?
+	5672A730	MF6_AAA_FA
+	541B9627	MF6_UC
+	545598ED	~z~You did, and now some guy in a suit is using me instead.
+	5388809A	MF6_YG
+	53D7DE8F	~z~I see you at the wedding, Jacob.
+	55635851	MF6_VD
+	565AC004	~z~The only time he's calm is when he's taking his pills.
+	5494F691	MF6_XC
+	54D2B17A	MF6_WD

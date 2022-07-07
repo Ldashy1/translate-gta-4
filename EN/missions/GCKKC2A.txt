@@ -1,0 +1,184 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A5075FF4	~z~Good. I am glad I make you happy.
+	A416823D	~z~Uh, nothing.
+	A81D44DB	~z~I'll bear that in mind next time I marry you.
+	AD8CE141	~z~There's something special going on here. Can't you feel it? When you're inside me, Niko.
+	A98C2B6C	GCKC_STALKER_BE
+	A0B1DB4F	~z~Don't you find that when you're getting close to someone you just want to be with them the whole time?
+	9F69F1E8	GCKC_COMMITMENT_AC
+	9EF4B28A	~z~Well, you better not cheat, because if a man cheats on a woman, he is cheating on life.
+	9FAC22FD	~z~I don't know. We have a nice time, usually. When you're not feeling too guilty.
+	9FCD41BC	~z~Yeah, but if you had to choose - liberal or conservative?
+	9FBE4B07	100100010100010100100100010100100
+	BB95D6BA	GCKC_FRENCH_EF
+	B8EDA86F	GCKC_COMMITMENT_AD
+	C02D0685	~z~Niko.
+	C32B0877	~z~I guess I'm a liberal. I mean I believe in the welfare state and the green energy movement.
+	C31F4F5A	GCKC_COMMITMENT_AL
+	B897D607	GCKC_FRENCH_EO
+	B2A8FB37	~z~I love our time together, I really do.
+	AF8A5121	GCKC_CHEATERS_CC
+	B549539C	GCKC_SPECIAL_FB
+	B58684F8	~z~No, this was my professor at law school. He had the gall to accuse me of stalking him.
+	B56EDF8A	~z~Nothing.
+	7561CE69	~z~I don't need a commitment right now, I just need to know it's not impossible. Is it impossible?
+	71BB45FB	GCKC_FRENCH_em
+	77153847	GCKC_COMMITMENT_AK
+	7960E9D3	~z~People who jeopardize family with adultery and internet porn and homosexuality and...
+	781DEED5	GCKC_LIBERAL_DH
+	711F4387	GCKC_CHEATERS_CP
+	6E2DAAE0	GCKC_STALKER_BF
+	6D9A4935	GCKC_LIBERAL_DL
+	6E6BAC70	GCKC_CHEATERS_CL
+	6F60C265	GCKC_FRENCH_EB
+	6EAC705D	GCKC_SPECIAL_FK
+	8E1BAEA1	100010100010100010100010100010100010100010100
+	86EF5943	GCKC_STALKER_BI
+	8F4269E5	GCKC_COMMITMENT_AN
+	9343212A	GCKC_LIBERAL_DK
+	92C2F9BE	GCKC_STALKER_BA
+	83C86B36	~z~No, not really. I just lead an unconventional life.
+	7A65F6EE	~z~This nation was built upon a belief in the family unit and the strength of the nuclear family.
+	7A42E927	~z~So he deserves to suffer. All cheaters do.
+	7AEB7BFF	~z~Kiki?
+	836D40FF	~z~I don't know about that... I err...
+	7D265631	GCKC_STALKER_BB
+	C4754D27	100010100010100010100010100010100010100100100010100010
+	F18AEFF4	GCKC_SPECIAL_FL
+	F09F9B66	~z~Is what impossible?
+	F262A634	GCKC_COMMITMENT_AG
+	F5B8E0F9	GCKC_CHEATERS_CB
+	F413DE34	GCKC_FRENCH_EJ
+	F079319C	~z~I don't know. These days, I think I'm just a whore, running around working for the highest bidder.
+	ED87D23F	~z~There's always a way to make it work. Always.
+	EB753AD1	GCKC_FRENCH_EL
+	EDFFA086	GCKC_COMMITMENT_AH
+	F005C7F4	GCKC_SPECIAL_FA
+	EF2651A4	GCKC_CHEATERS_CD
+	FC6E5420	GCKC_CHEATERS_CG
+	FB2FACBD	GCKC_SPECIAL_FJ
+	FC8D6B32	GCKC_LIBERAL_DE
+	FF47B8C2	GCKC_COMMITMENT_AA
+	FDEF714D	GCKC_LIBERAL_DN
+	FA33690A	~z~You're not in court now, Kiki. Give me a break.
+	F6D9EFD4	~z~But it's not perfect, you know. I'm conservative when it comes to family.
+	F6B80756	~z~Ummm, not really.
+	F736BF43	~z~I try not to lie to women.
+	F9FB89E3	~z~Nice? I'm talking about love, about passion, about the important stuff, not nice!
+	F8106963	GCKC_LIBERAL_DJ
+	D673E29B	GCKC_COMMITMENT_AE
+	D6311140	GCKC_FRENCH_EA
+	D72D0D5C	GCKC_COMMITMENT_AO
+	D8F482BF	~z~What does that mean?
+	D87520BA	GCKC_CHEATERS_CE
+	D407993F	GCKC_LIBERAL_DD
+	D0A97AAE	GCKC_STALKER_BD
+	C8FDD443	GCKC_COMMITMENT_AF
+	D175250B	~z~I don't see a difference.
+	D2AD8731	GCKC_FRENCH_ED
+	D21A12FC	GCKC_CHEATERS_CH
+	E63AC53D	GCKC_LIBERAL_DG
+	E5E01FEB	~z~That made him think twice about taking advantage of his students and jumping to ridiculous conclusions.
+	E6D21E4E	~z~Yes, but are you a cheater?
+	EAFD900A	~z~and when times are tough, I carry you on my shoulders.
+	E9EDB0CD	GCKC_COMMITMENT_AQ
+	E5C07FD0	GCKC_COMMITMENT_AB
+	DA4C34DF	GCKC_STALKER_BK
+	D9DC99F0	GCKC_FRENCH_EN
+	DFBD36AA	~z~People get married and it doesn't always work out.
+	E2BAA37F	GCKC_COMMITMENT_AR
+	E1AA3A81	GCKC_FRENCH_EK
+	1F69A27A	~z~Where's this relationship going? I mean, seriously?
+	1EC6A0DD	GCKC_SPECIAL_FE
+	2012C245	~z~They're out for themselves, no matter what party they are a member of or what they claim to believe in.
+	2098057A	GCKC_CHEATERS_CJ
+	2017561A	~z~You know, the French have it right. Crimes of passions are not real crimes.
+	1DDDA084	~z~Sometimes I think you should be committed.
+	19909852	~z~What are they, then?
+	197AB515	~z~Do you think about politics much, Niko?
+	19A4CD33	~z~For someone to want to know where their boyfriend is.
+	1DB7757D	~z~I hope you work out. I'm pretty heavy.
+	1D280AF9	~z~Not really. In my line of work, honesty is not always the best quality.
+	2BFDA8A4	~z~Are you an honest person?
+	2BCF3CCF	~z~They are an essential part of the human psyche. And I say that as a committed liberal.
+	2E1E3F39	GCKC_FRENCH_EC
+	3006BC32	GCKC_FRENCH_EI
+	2EAEC52D	~z~We have a special understanding, haven't we? This is so real.
+	2BBC6D64	~z~Okay, I'm sorry.
+	27C509B0	~z~Sometimes, late at night, I imagine us as two souls meeting on a beach...
+	24A44F72	~z~Oh Niko.
+	27E269AE	~z~I mean I was just checking up on him. That's okay isn't it?
+	2BB47E22	GCKC_STALKER_BJ
+	2AFCA23F	GCKC_STALKER_BH
+	0A0929FE	~z~But I thought you had a nice time?
+	09338996	~z~it's just disgusting. Marriage is sacred.
+	0BB4B153	~z~So, I guess things cooled off between you when he made that accusation.
+	0BEC5D7B	GCKC_CHEATERS_CK
+	0BBC9999	~z~When you have seen what I have seen, you realize that most leaders are after the same thing.
+	0810964B	~z~Niko?
+	03A3CAEE	GCKC_COMMITMENT_AI
+	035FD769	~z~But you have a value system, don't you?
+	03E573BE	GCKC_LIBERAL_DC
+	04E1A3A9	~z~Or if not, at least know where they are all the time?
+	04C6ED35	~z~Can I ask you a question?
+	13DC136F	GCKC_CHEATERS_CI
+	12F6AC17	~z~Yes, what is it?
+	164FFF62	GCKC_CHEATERS_CO
+	19658701	~z~Things cooled off alright, I sued him for slander.
+	1848114D	GCKC_FRENCH_EE
+	12B219EC	100010010100010100100100100100100010100100
+	0FD80479	~z~What?
+	0C677734	GCKC_FRENCH_EG
+	0FF159F1	~z~What did you say?
+	121007C7	~z~Sure.
+	11548179	GCKC_SPECIAL_FI
+	316BE901	~z~Yes?
+	59DAA4DB	GCKC_CHEATERS_CF
+	59A1CD28	~z~Is this another one of your clients?
+	5C1C3E61	~z~I don't know.
+	5D421CC3	GCKC_SPECIAL_FH
+	5C9D2DF0	GCKC_CHEATERS_CA
+	591EEC63	~z~I think we could have something really special.
+	569A7F56	100010100010100010100010100010100010100010100010
+	55CD203C	~z~What?
+	5720C42C	~z~By not making a proper commitment to me, by not telling me you love me. By not being there for me.
+	588514B0	~z~I mean, I'm not looking for a commitment. But where is it going?
+	5884808E	GCKC_COMMITMENT_AJ
+	689E409D	GCKC_LIBERAL_DM
+	686EEAC2	~z~This ex of mine, he...
+	6A4DDAC4	~z~I like saying your name, Niko. You're amazing. This is just so so nice, isn't it?
+	6D04B496	GCKC_STALKER_BC
+	6BEEDA00	~z~If we don't hold onto that, then we won't have anything.
+	6862389B	~z~It's like I'm complete. It's like the world makes sense.
+	6262BBE7	GCKC_LIBERAL_DA
+	5DF333D0	GCKC_LIBERAL_DF
+	63252769	GCKC_SPECIAL_FG
+	67DEB363	~z~I don't know. I mean, it seems a bit soon to be worrying about that.
+	65536091	~z~How?
+	399EC3E6	~z~Okay, ask away.
+	38377069	GCKC_LIBERAL_DI
+	3A15D454	GCKC_COMMITMENT_AP
+	3DDB7310	100010100010100010100010100100100010
+	3B84619B	GCKC_LIBERAL_DB
+	37EFCD3C	GCKC_FRENCH_EH
+	3343B875	GCKC_CHEATERS_CN
+	328532B0	GCKC_STALKER_BG
+	33F2CCAE	~z~Thank you.
+	34992358	~z~This. Us. You and me.
+	3410CC91	GCKC_SPECIAL_FF
+	4D8300C9	GCKC_SPECIAL_FC
+	4C890DB4	~z~So?
+	52210B25	GCKC_SPECIAL_FD
+	54933F11	~z~You don't make me happy. You're breaking my heart.
+	5331775C	GCKC_CHEATERS_CM
+	4859615B	~z~Let me ask you a question, Niko.
+	40D7E97F	~z~Sure, Kiki, sure.
+	3E105FC7	~z~Are you the casual encounter kind of guy, is that it? The use them and lose them guy? Fuck 'em and sling them?
+	419D6803	~z~Nothing, Kiki. Nothing. I admire your passion.
+	47975B70	GCKC_COMMITMENT_AM
+	444B7FC5	~z~Perseverance is the key. The key to everything.

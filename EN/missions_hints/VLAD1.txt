@@ -1,0 +1,54 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B83683CC	~s~Take the money back to ~y~Vlad.
+	A5783C40	~s~Use ~INPUT_AIM~ to enter free aim. Use ~PAD_RSTICK_ALL~ to aim at targets.
+	A3071520	~s~Press ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+	D2910471	~s~Take the money back to ~y~Vlad.
+	C8945F9A	~s~Convince the ~b~owner~s~ to pay.
+	BD9559A3	~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+	7F8DB7CE	~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to free aim.
+	76A4BA89	~s~You can get a cab to take you around the city.
+	7285C385	~s~Press ~INPUT_PICKUP~ to pick up an object. Only small objects can be picked up.
+	98D166BC	~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~vases.
+	92EB044F	~s~Hold ~INPUT_AIM~ to target the ~r~son.
+	8460673A	~s~Throw the object through the ~r~window~s~ to show the owner you're serious.
+	EEB56FB5	~s~Go to the ~y~shop.
+	EBAA37C5	~r~The shop owner is dead.
+	EA9FE89E	~s~Make peace with the ~b~owner.
+	FF3391C5	~s~Get the money from the ~b~owner.
+	F7C6CE0D	~s~Find ~g~something~s~ to throw through the shop window.
+	F552C818	~r~The shop owner is dead.
+	DC0B958A	~r~The shop owner's son is dead.
+	DBBA4AD3	~s~Now smash the other ~r~window.
+	D57D0B6B	~r~Vlad is dead.
+	E4788C00	~s~Use ~INPUT_AIM~ to aim.
+	E4485E3A	~s~Make peace with the ~b~owner.
+	DF0687EA	~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+	1AE504EA	~s~Hold ~INPUT_AIM~ to auto aim and use ~PAD_RSTICK_ALL~ to change targets.
+	1A8F635C	~s~Press R3 to look behind.
+	19FC0135	~s~When on foot press ~INPUT_PICKUP~ to hail a cab.
+	3176301D	~s~Hold ~INPUT_ENTER~ to enter a cab as a passenger.
+	22B058BE	~s~Beat up the ~r~son.
+	2279732C	~s~Press and hold ~INPUT_AIM~ to target the ~r~vases.
+	116C3636	~s~Throw something through the ~r~window~s~ to show the owner you're serious.
+	0D68F848	~r~Vlad is dead.
+	0CB2C7A3	~s~Press ~INPUT_MELEE_ATTACK2~ or ~INPUT_MELEE_ATTACK3~ to perform a melee attack.
+	16E71E7F	~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to aim.
+	14E2D7FF	~s~Smash the ~r~vases.
+	13046B31	~s~Get to the ~b~owner.
+	5980033B	~s~Press and release ~INPUT_ATTACK~ to throw. The longer you hold ~INPUT_ATTACK~ the further you will throw.
+	58337DA3	~s~A cab's been hailed.
+	538EB402	~s~Get the cash from the ~b~owner.
+	6E016F5F	~s~Go to the ~y~shop.
+	5F721D62	~s~The open palm icon shows that you have an object in your hand that can be thrown.
+	5BB9CAD0	~s~The shop is locked.
+	34CBB377	~s~Hold ~INPUT_AIM~ to auto aim. Half hold ~INPUT_AIM~ to free aim. Use ~PAD_RSTICK_ALL~ to aim.
+	3451FC01	~s~Convince the ~b~owner~s~ to pay.
+	317BF759	~s~Collect the ~b~money~s~ and take it back to Vlad.
+	473EDEB9	~s~Hold ~INPUT_AIM~ and use ~PAD_RSTICK_ALL~ to free aim.
+	4728BC8E	~s~Press ~INPUT_NEXT_WEAPON~ cycle through available weapons. Equip your baseball bat.
+	3CADCCCC	~s~Use ~INPUT_AIM~ and ~PAD_RSTICK_ALL~ to target the ~r~son.

@@ -1,0 +1,165 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	DCBFB466	PIMA_DE
+	6F1926E9	PIMA_DJ
+	DC5CA9BD	PIMA_DI
+	6B07AEE6	PIMA_CM
+	DFF819E9	PIMA_CL
+	6A0F6B0F	PIMA_CT
+	6A8093A8	~z~When my habit was five bags a day, I could survive off panhandling.
+	7D834525	PIMA_DL
+	D8D549FE	~z~Urgh.
+	84117E2F	~z~The gift that keeps on giving. Best thing that ever happened to me.
+	DB783198	~z~Don't think anyone's given me anything for free since I got to this city.
+	70F35A6F	PIMA_DC
+	73C5E1F9	PIMA_CA
+	DBCC2EF3	~z~That ain't survival. It's a slow death.
+	5449A2F5	~z~I can get the money together, it just takes a little improvisation.
+	565022AD	~z~Best feeling in the world. Better than anything, better than love.
+	5660C28A	PIMA_CW
+	54327E98	PIMA_EB
+	505E9706	PIMA_DA
+	50B1E703	PIMA_DO
+	539914C8	~z~Turn into some methadone zombie? I don't think so. I quit, I do it cold turkey and by myself.
+	E812E27B	010010100100100010100100010100100010100010100100010100100100010100100010
+	5DBD2910	~z~This shit is in control of you. Think about going to a clinic.
+	E689477A	~z~You do, most guys would have fucked me and left me by the side of the road already.
+	5C4AF73D	~z~Yeah, well, I'm happy where I am. I was, at least.
+	56E52573	PIMA_DB
+	57F0DE9E	~z~Hey, this is it. You got the cash?
+	58A41191	PIMA_DQ_QQQ1
+	8A140E91	~z~Niko Bellic.
+	C9AB761C	PIMA_DJ_QQQ1
+	C791CDC9	~z~You don't want a substance controlling your life.
+	B360D9C6	PIMA_CC
+	B16BA17D	~z~Why don't you ease up on this stuff? Go to a center, get yourself clean.
+	AB519A75	PIMA_CR
+	AD6E33A8	~z~He's over on Koresh Square in Alderney City.
+	AE4FCEC4	PIMA_CF
+	B5CD65FB	~z~How's that?
+	B7BBE587	~z~Wasn't your first bag of junk free? That's how they get you hooked, right?
+	BAB86319	PIMA_CB
+	C4D5F990	PIMA_CD
+	B44880E5	~z~Anyone got a dime bag?
+	B45125C0	PIMA_CP
+	B49A55DD	PIMA_CE
+	D0C01BE8	~z~You're nice. What's your name?
+	98F2B56E	PIMA_CJ
+	9A0791B3	PIMA_DR
+	94C7FB3A	PIMA_DP
+	D229EF95	PIMA_DK
+	912A9865	~z~Actually, when I got the clap, that was for free.
+	93E2222D	~z~Nice to meet you, Niko. I'm Marnie.
+	CA9AAD89	~z~Man, oh man.
+	A9270B5B	190
+	A936C87D	~z~You know the names of the people who gave them to you?
+	CE9E97E5	~z~Apart from you, that is. This is still free, right? You don't want me to fuck you?
+	9A372957	PIMA_CI
+	9B742CF8	~z~I don't, Niko. I ain't got a clue. Anyway, I'm Marnie.
+	9F7C3959	~z~Like finding you in the park, I knew you'd help me.
+	F23F5EFE	~z~I don't know about that.
+	2609E466	~z~I ain't going to a clinic. Not again.
+	26BC0C20	~z~If you can't get the money together, then maybe you should cut back on your habit.
+	24B94538	PIMA_DF
+	F4F70234	100010100
+	1F453498	~z~Especially if love means fucking some guy on the park bench for five dollars.
+	243B7734	~z~Here you go. Good luck to you, kid. You need it.
+	30181ED4	~z~What the fuck? People just try to tell me what to do.
+	30B3DC0E	~z~Sometimes he lets me pay for a bag without using money, if that's what you mean.
+	30C34F21	~z~You seem to be having a great time.
+	2FFC586B	PIMA_CH
+	0C8D57BF	~z~I hate everyone. Just, just leave me the fuck alone.
+	08A459E8	010100010100100100010100010100100010100100010100100010100100010010
+	2E10537E	~z~I bet you done things you ain't proud of?
+	FB51328F	PIMA_CS
+	1132E9DE	PIMA_DQ
+	127B1B04	~z~No need to be mean, man. We all do what we gotta do to survive.
+	107D1A80	PIMA_DD
+	0F749990	~z~I don't have a pimp. I'm freelance. I look after myself.
+	0F7B9D62	PIMA_AA
+	10468539	PIMA_EC
+	19C6F232	~z~Leave you alone so you can sell your ass for some junk?
+	1C7F056E	PIMA_DM
+	1D2C350F	~z~What's your name then? I should know the name of the one guy who's given me anything for free.
+	F8835677	PIMA_CN
+	13C3A22E	~z~This guy who sells you the junk, he's your pimp as well?
+	156608E6	PIMA_DS
+	FAEB9C3C	PIMA_CS_QQQ1
+	3F91F681	~z~I have. But I did those things so I could survive. This shit you do, it's for junk.
+	41567D53	~z~He a john then?
+	42A61D81	PIMA_CU
+	FB897192	~z~I dunno, something in your eyes. You look like you've got a good heart.
+	3B70F148	~z~Man, I'm jonesing, hard.
+	3B793B72	PIMA_DL_QQQ1
+	EF08EF08	PIMA_CS_QQQ2
+	44956D42	PIMA_CO
+	E838CB19	~z~No, I don't want you to fuck me. I don't want you to fuck your dealer either.
+	011A4061	PIMA_CQ
+	FCA5CFE0	PIMA_CK
+	4B0FAAD0	PIMA_CV
+	45928132	~z~Shit, I'm jonesing real bad now.
+	491EF3F1	PIMA_EA
+	4AE2583E	100
+	027B7292	~z~It's been too long. Fuck.
+	332F7F0D	~z~Just one more hit.
+	335B255A	~z~Go to school, read this, practice that, suck these.
+	327213A1	~z~Thanks, Niko. You're real sweet.
+	F193FE77	PIMA_BA
+	32D32C02	PIMA_DN
+	32D562D4	PIMA_DG
+	3982609F	~z~Not that I wanna quit. I'm having too much fun.
+	33DB9E99	PIMA_DH
+	0370FCF0	~z~Herpes too. I did not pay for that.
+	37E46A7F	~z~Niko Bellic.
+PIM1_CUT2_1	9689CEC2	~z~Hey, Niko
+PIM1_CUT2_10	A76D7EB8	~z~Fuck you!
+PIM1_CUT2_11	941ED81B	~z~What's wrong?
+PIM1_CUT2_12	850839EE	~z~I can't do it any more...
+PIM1_CUT2_13	72511480	~z~I can't do it!
+PIM1_CUT2_14	5F29EE26	~z~I've really fucked up this time.
+PIM1_CUT2_15	4D5D4A8D	~z~I screwed over a john. I'm gonna get killed!
+PIM1_CUT2_16	5DC8EB70	~z~And I'm not really like this...
+PIM1_CUT2_17	4B7FC6DE	~z~No? What kind of heroin addicted prostitute are you like?
+PIM1_CUT2_18	3816200B	~z~I've got a nice family... I'm just fucked up.
+PIM1_CUT2_19	280BFFF7	~z~I've got to go home.
+PIM1_CUT2_2	844C2A47	~z~Hey.
+PIM1_CUT2_20	5C23E97E	~z~Can you take me to the station?
+PIM1_CUT2_21	6E608DEB	~z~I've got a mom and a dad... and they're not so bad.
+PIM1_CUT2_22	7EEF2F08	~z~I've got to go home.
+PIM1_CUT2_23	A138739A	~z~Where's home?
+PIM1_CUT2_24	B272160D	~z~The Midwest... I mean it's pretty boring... but this is no life.
+PIM1_CUT2_25	C4C43AB1	~z~I mean, look at me. I was a fucking cheerleader once!
+PIM1_CUT2_26	B5229B7A	~z~Hey, come on, let's go.
+PIM1_CUT2_3	B2FD87A9	~z~Niko, it's Marnie!
+PIM1_CUT2_4	A0B6E31C	~z~Hey! How are you?
+PIM1_CUT2_5	5D825CB4	~z~Are you off the heroin?
+PIM1_CUT2_6	4B40B831	~z~Mostly...
+PIM1_CUT2_7	74668A7C	~z~Right... okay.
+PIM1_CUT2_8	681D71EA	~z~It is okay... fucking dick!
+PIM1_CUT2_9	00D72357	~z~Calm down! I'll see you later.
+PIMA_CUT1_1	9815FD93	~z~Hey, mister.
+PIMA_CUT1_10	8AA5A983	~z~Ain't you got a home or something?
+PIMA_CUT1_11	7802843D	~z~Ain't you got a life, or do you have to always interfere in other people's?
+PIMA_CUT1_12	EC696D09	~z~I'm sorry. See you later.
+PIMA_CUT1_13	DAADC992	~z~Hey mister, come back here!
+PIMA_CUT1_14	D31F3A75	~z~I'll fuck you for five bucks.
+PIMA_CUT1_15	C12A168B	~z~No! What's wrong with you?
+PIMA_CUT1_16	F5987F6F	~z~I need junk... I need money...
+PIMA_CUT1_17	E39EDB7C	~z~You shouldn't be fucking strange men for money.
+PIMA_CUT1_18	183E44B6	~z~I'll give you some money.
+PIMA_CUT1_19	C6112061	~z~I need junk... more than money...
+PIMA_CUT1_2	662819B8	~z~Yes?
+PIMA_CUT1_20	109C341A	~z~I know a place where we can get some.
+PIMA_CUT1_21	E27C57DF	~z~Will you take me there, mister, please?
+PIMA_CUT1_22	1D7CCDDB	~z~Come on, then.
+PIMA_CUT1_3	70C7AEF7	~z~Hey, mister... you got... got some junk?
+PIMA_CUT1_4	3E25C9B0	~z~No.
+PIMA_CUT1_5	254697F2	~z~Shit. I'm... I'm really starting to jones pretty bad.
+PIMA_CUT1_6	32A232A9	~z~How old are you?
+PIMA_CUT1_7	01CB50FC	~z~Old enough...
+PIMA_CUT1_8	16EE7B42	~z~No! I didn't mean like that.
+PIMA_CUT1_9	E6109987	~z~Hah!

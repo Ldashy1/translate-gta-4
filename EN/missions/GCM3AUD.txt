@@ -1,0 +1,295 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD323A6D	MI1_RA
+	AD68A32F	~z~Why don't you give me a lift home?
+	AB31B3A5	~z~Hmm, this sure is a long trip...
+	AC147495	100
+	ADC1D625	~z~It's been okay, Niko, but I'm beat.
+	AEF75579	~z~Don't you think this is funny, Niko?
+	AF251CA2	~z~I'm beat Niko, I guess having fun does that to you.
+	AE64E2A9	010
+	AEE58659	GCM_ACT_LEAVE_CLUB_FAVOURITE
+	9FB6C554	~z~Great - we'll have fun.
+	A57A6F4A	~z~I am so full.
+	9B9668EC	100
+	9D658BDF	090
+	A688171A	~z~You seem to like hanging out in Irish bars. Why?
+	A8233EDD	~z~I haven't really thought about it.
+	A833404F	MI1_SA
+	A6DCD366	GCM_ACT_SHOW_REACT_POS
+	A6F85ED1	GCM_ACT_PMI_END_RESPONSE
+	BDC70AAA	100
+	BFD79000	100
+	BCABF0E2	~z~This is hysterical!
+	BD80A572	MI1_TA
+	C0C0DFD0	~z~I don't know. It's the Eastern Bloc thing, I suppose.
+	C3A76BEA	100
+	C3AECFBB	~z~Won't you take me home now?
+	C1C25838	100
+	C21D8CA6	~z~You're not shy are you?
+	B0CBA9D7	100
+	B2CDACCE	GCM_ACT_PMI_LEAVE_IRISH_FIRST
+	AFED6C80	~z~Interesting bar - do you think those guys were crooks?
+	AFF05557	GCM_ACT_PMI_END_NO
+	B448110E	~z~No, no idea.
+	BA5EA9B8	010
+	BB560EFC	100
+	B590D9B8	~z~Doesn't everyone like them?
+	B5A6B557	~z~What is it with you and the Irish?
+	85D13FBF	~z~Liberty City is an amazing place, isn't it? That's probably why it attracts so many crooks, don't you think, Niko?
+	861D8070	~z~Why'd you quit bowling, Niko? It's almost like you don't want me to find out about your life.
+	81ED9907	100
+	841FE410	~z~This is funny - just not as they intended.
+	86A4DA73	~z~Weird crowd in that place - packed with criminals.
+	89AA86D8	100
+	8B68C94B	GCM_ACT_LEAVE_FAUSTINS_AGAIN
+	88BD59D5	~z~Will you take me home?
+	89168E60	100
+	775D5796	MI1_A_MA
+	7878A451	~z~You really like that place, don't you?
+	76696F32	100
+	766CF30C	GCM_ACT_LEAVE_FAUSTINS_FIRST
+	7A8ABD70	~z~Can you drop me back at my place?
+	8162FB20	GCM_ACT_POOL_LEAVE_WON
+	81826EA7	~z~You think I'm that easy?
+	7C802638	GCM_ACT_PMI_END_YES
+	7DCF58E1	~z~I'm getting a little antsy Niko, I hope we're gonna be there soon?
+	944BFAC8	~z~Well, now that you've lost to me at bowling you've got nothing to hide from me.
+	96681205	GCM_ACT_LEAVE_STANDARD
+	927F101F	~z~Can I come in?
+	929330CF	GCM_ACT_PMI_END_KISS_RESPONSE
+	97DD23EF	~z~Okay, I guess you've got something important to do. What is it?
+	99B210A6	~z~Are we gonna do something or what Niko?
+	99CBC712	100
+	98653779	~z~Hey, we tied. I like you, Niko. I'd like you even more if you were more honest about what you do for a living.
+	9905FA66	~z~Are you gonna escort me to my apartment?
+	8CAB261C	~z~This is a great spot, Niko, I can't remember when I last came here. Why don't we have a look around?
+	8E26B014	GCM_ACT_PMI_LEAVE_IRISH_REPLY
+	8C33B03F	GCM_ACT_LEAVE_SHOW_CABARET
+	8CA8FF73	~z~I shouldn't, but I like you.
+	8EA5FA8E	~z~Jeez Niko, you sure do pick your date locations, this is a long trip.
+	91DF85FE	~z~I've never been there before. But I think some of the guys in there might have been gangsters.
+	92138152	MI1_YA
+	8F5E52D9	~z~Most of the time, I'm kind of depressed, but there are moments when I'm happy to be in Liberty City.
+	8FD043F6	~z~I must have gained fifty pounds.
+	E98C1635	100
+	E9DC42B6	100
+	E7B3AEA1	100
+	E9268205	100
+	EA01293D	100
+	F0503CAE	~z~I think I'm funnier than that guy.
+	F121B3F4	~z~That was fun.
+	EC118F49	~z~For coffee or something? I don't want to get burned Niko.
+	EE80CB01	~z~Alright, Niko...
+	E2CBF0E8	~z~Why did you stop? We weren't finished yet.
+	E354483E	~z~That was fun - you did well.
+	E1409D4F	~z~We should have stayed to the end.
+	E2ABD522	~z~I told you I was great at pool.
+	E3A3DA7E	010
+	E6B855DB	~z~Anything for my country.
+	E765B4F7	100
+	E50239BB	~z~Umm, I don't know about that kind of thing.
+	E5575E31	~z~Nice seeing you.
+	FA0D6022	GCM_ACT_LEAVE_SHOW_COMEDY
+	FB2065F7	~z~Maybe!
+	F70FEFB5	~z~Well played, you're great at pool.
+	F9F3FDD2	~z~I don't know about that kind of thing.
+	FB238A05	~z~That was fun, see you soon.
+	FDFE2E85	100
+	FEDF6C40	~z~It's fun, you know?
+	FB826C94	~z~That was fun, is there something else you want to do?
+	FC66E6CD	~z~I dunno, Niko...
+	F47406E4	~z~Interesting place - seems like the kind of place Irish mobsters would like to hang out, don't you think?
+	F4F1F9AE	~z~Unlucky Niko.
+	F127CD73	~z~You going to invite me upstairs, for coffee or something?
+	F1666676	GCM_ACT_PMI_END_KISS
+	F58849AA	~z~Uh, it's just the first place I went to.
+	F6278CFF	GCM_ACT_POOL_LEAVE_ABANDON
+	F70122D7	100
+	F59A26FC	100
+	F5B70146	100
+	CFE96830	~z~I need to get back to my place, will you take me?
+	D00A9CBC	010
+	CF99C519	100
+	CFD0280B	~z~Sure.
+	D089AA93	GCM_ACT_LEAVE_SHOW_EARLY
+	D3307389	~z~That was weird.
+	D4744AB9	GCM_ACT_PMI_LEAVE_FAUSTINS_PLAYER
+	D20D82B5	~z~It just reminds me of home, I guess.
+	D3103E83	010
+	C76CFE91	~z~I don't know.
+	C8CD815C	100
+	C5B80100	~z~I don't think I'm ready to go home yet, you wanna do something else?
+	C5C7A6C0	~z~That was fun.
+	C9DF3C3C	~z~Well, I don't know.
+	CCD804D4	~z~You going to invite me in?
+	CD5E520F	~z~I'd invite you in for some coffee, but it'd cost at least, say... $20m
+	CAA30346	~z~Yeah, well, not what I expected.
+	CC40F5C3	~z~What's taking so long?
+	DBD31C1F	~z~You did well, Niko.
+	DD455C6F	MI1_WA
+	D9A77E18	~z~Okay, call me.
+	DB90A245	~z~Are you going to invite me in? For a coffee, I mean?
+	DD6CCE98	~z~Bye.
+	DFD3D6AB	GCM_ACT_PMI_LEAVE_VLADS_DENY
+	E1300D29	~z~Call me. Goodnight.
+	DDDA08E0	~z~What a strange crowd - they all belonged in jail.
+	DE219851	~z~That wasn't very good.
+	D751E950	~z~I told you I was good at darts, Niko.
+	D78A2BAE	GCM_ACT_DARTS_LEAVE_WON
+	D55F9A76	~z~Well I don't know about that.
+	D6CC3A14	~z~That was naughty - I can't believe we ate all that crap!
+	D7D9ED2D	010
+	D9223845	GCM_ACT_SHOW_REACT_NEG
+	D9317C6C	~z~What do you like about those Irish places?
+	D8125CB6	100
+	D815D8A9	~z~Irish mobsters? I have no idea about that.
+	751A6C6C	GCM_ACT_LEAVE_PUB_GENERIC
+	1F4D7B35	~z~No problem - I respect you - maybe we can kiss?
+	1F6D41B2	~z~Oh, Niko, this is our special place, let's go for a walk...
+	1D70CE9F	~z~So, err, see you soon.
+	1E5BDA5D	100
+	20039BD9	~z~This is terrible.
+	24D7085C	~z~That was great Niko but I think I'm all worn out.
+	265B0950	~z~No problem - I understand. I respect you. How about a kiss?
+	20B5368D	MI1_QA
+	20F3AFE6	~z~Hmm, I'm tired...
+	1BDAA50C	GCM_ACT_PMI_END_BONK
+	1C4FD291	GCM_ACT_PMI_END_NO_RESPONSE
+	1B4A952E	~z~I'm new here. It's the only place I know, really.
+	1B9E22E0	~z~You think I'm a whore, is that it? I bet this'll end up on the internet. Fuck you.
+	1C5BC532	~z~I hope I don't have my cholesterol checked any time soon.
+	1D320C18	~z~That was fun, but to me those girls looked like they were on drugs.
+	1D6E7151	100
+	1C9273DC	100
+	1CBAE389	GCM_ACT_PMI_LEAVE_IRISH_DENY
+	3179C777	~z~Interesting place.
+	31DF1A4F	~z~Okay, lady.
+	2FBF186C	GCM_ACT_PMI_LEAVE_VLADS_PLAYER
+	306C8530	~z~That food was fantastic.
+	32E2DB54	~z~Hey, Niko, let's find something else to do, we can't go back yet!
+	377E551F	~z~Sure, why not?
+	382F2205	100
+	33289999	100
+	3379EF61	~z~Why not?
+	2810B644	~z~After today, sure, but if this ends up on the internet, I'll kill you.
+	2A6FBCCF	010
+	266D315E	~z~Thanks Niko - that was a lot of fun.
+	270F769B	~z~Maybe. It's not my area of expertise.
+	2CE0D9D0	100
+	2E739796	~z~Sorry, Niko.
+	2F3426C4	~z~How about you take me home?
+	2D11669D	~z~I really overdid it.
+	2D616E80	~z~See you soon, Michelle
+	07553946	100
+	07964652	~z~I don't think you can afford me just yet, Niko.
+	04F203F3	~z~Here again Niko? Let's go for a stroll.
+	063670E5	~z~Well played, Niko.
+	07E1237C	~z~Thank you - for a fun time.
+	09B65710	GCM_ACT_LEAVE_VLADS_FIRST
+	0B55D24A	100
+	088E340A	GCM_ACT_DARTS_LEAVE_LOST
+	09501889	~z~Great.
+	01CEBA9D	GCM_ACT_PMI_LEAVE_FAUSTINS_DENY
+	01E0405B	~z~Yes, I don't want anyone to get burnt - how about a kiss?
+	00176B52	~z~Can I come in?
+	00270CC9	~z~Man, it's good to be bad sometimes.
+	01F08DA2	100
+	0367BD65	~z~Whatever you like, lady.
+	0390F164	~z~I always think that place is full of crooks - what do you like about it?
+	02FBB51F	MI1_XA
+	03473D4E	100
+	15DB96DA	~z~Can I come in?
+	15FA77A3	~z~I really don't know about that sort of thing, Michelle.
+	14F52A12	~z~A tie is the best result, really.
+	1564E1EF	~z~Niko are you aware of the consequences of that kind of thing? People get hurt, end up in court, you know.
+	17C427B8	MI1_A_LA
+	19C9980F	~z~Fun place, but I think it was full of gangsters!
+	1AE09BE4	~z~Sure, I like you, but let's be careful. Make sure no one gets burnt.
+	180D1B9B	GCM_ACT_PMI_END_REJECT_RESPONSE
+	19C49DCB	~z~That place is crawling with gangsters - what's the appeal to you?
+	0E520B25	~z~I don't know, drinking maybe?
+	0EBBB135	~z~Good night - that was fun.
+	0BDEBC15	~z~The food was too good - I can't believe I ate all that.
+	0C1B6562	~z~That was really odd - and that place was full of crooks.
+	0F172A57	GCM_ACT_DARTS_LEAVE_ABANDON
+	1322D6EE	MI1_ZA
+	13E6C305	~z~Thanks - I love bars like that.
+	118CC4C7	010
+	122D5AF0	~z~Okay, have fun on your own.
+	5E1EBF14	~z~Niko, you remembered, this is our place!
+	5E9AD388	GCM_ACT_POOL_LEAVE_LOST
+	5B8AEB33	~z~This really is a beautiful city, isn't it? Sometimes you can just forget about all the crime and stuff here, can't you?
+	5BAE1F5F	010
+	604B7F44	~z~God, Niko, I'm exhausted, you've tired me out.
+	6130B9ED	~z~Oh my God - I can't believe this!
+	662BFFB4	~z~You seem to like going to Perestroika. Why is that?
+	60F86647	~z~I am such a pig.
+	612D948C	~z~Hey, I won. As a reward can you tell me some stuff about what you did before you got here?
+	53D65B09	~z~Why do you like that place so much?
+	556C157D	GCM_ACT_PMI_LEAVE_IRISH_PLAYER
+	534DBCAE	GCM_ACT_LEAVE_CLUB_GENERIC
+	53CD3069	~z~Hey, you beat me. Now you've got to tell me a secret about yourself.
+	559A7600	~z~Call me soon.
+	5A54E741	GCM_ACT_LEAVE_VLADS_AGAIN
+	5B0342C9	~z~This is a great idea, Niko, I love seeing a bit of the city, we should go for a walk...
+	56D98984	~z~I can't believe they call this shit entertainment.
+	594DC215	100
+	6F96F960	100
+	718BCEBA	~z~No you can't, I don't know you that well.
+	6F0240B0	MI1_A_NA
+	6F878B99	GCM_ACT_LEAVE_FASTFOOD
+	722BE551	100
+	73729B02	~z~It's amazing that this city can be so pretty but so dangerous too, don't you think?
+	74BDE42F	MI1_A_AA
+	727540BB	~z~I don't find this exactly funny.
+	728E6DEB	~z~Okay, you beat me at bowling. Now the least you can do is open up to me a little.
+	67F7C7CD	100
+	681FBB61	~z~Can I come up for a nice hot coffee?
+	669EB887	GCM_ACT_POOL_LEAVE_DRAW
+	67B84FB1	100
+	69A34DE9	~z~Well, it's been fun, but I can't stay out any longer.
+	6D6E862F	~z~Next time, we should play a proper game and finish it.
+	6E0A1AC1	~z~I'm really enjoying myself Niko, but I'm real tired.
+	69BD8655	GCM_ACT_DARTS_LEAVE_DRAW
+	6BA24D52	GCM_ACT_PMI_END_REJECT
+	42677F72	~z~Okay, Niko, I'm real tired now.
+	43DFD28B	~z~Err, bye then. Call me.
+	4113267D	~z~That was great.
+	422791CB	~z~I'd love to finish pool one time.
+	452D7FE9	~z~I think we should stay out and have some more fun - you got any ideas?
+	4786794E	~z~Why do we go to Comrades so often - seems full of criminals to me?
+	47A7230B	~z~So, err, goodnight Michelle.
+	45C03733	GCM_ACT_PMI_END_KISS_AGREE
+	4648C0AF	~z~It's really good to experience Liberty City with someone else who isn't from here.
+	38B1ADFD	~z~Okay, no problem - how about a kiss?
+	39EEAA21	010
+	3841925B	GCM_ACT_PMI_LEAVE_IRISH_AGAIN
+	389827C1	~z~Your loss.
+	3A53535F	MI1_A_KA
+	4047DC3A	~z~Are you gonna take me back or what?
+	40CE23CD	MI1_VA
+	3B91FD0C	~z~Great, but I hope you don't kiss and tell.
+	3BF5AC09	~z~I guess we're both tourists in this city, aren't we?
+	4E9578D5	~z~Most American guys race a girl back to her place at the end of a date - what gives, Niko?
+	4F24BA83	100
+	4BBD1188	~z~Oh, you wanna go for a walk here again? Niko, you old romantic.
+	4D471352	~z~Irish mobsters? I'd have no idea about that.
+	4F3E8A20	~z~Is that all I am, a cheap fuck?
+	51431A12	~z~This is genius!
+	522531C6	~z~Next time, can we finish a game?
+	506CA6C1	~z~Great - hey, listen, I respect you.
+	50A8E9B1	~z~Can you take me home?
+	482A0AF7	~z~It's been interesting I guess, time to call it a night though.
+	4882CC57	MI1_UA
+	481DEB08	~z~We left too early - I was sort of enjoying that in a weird way.
+	48295029	100
+	4924FD6C	~z~Can I come into your flat?
+	4B32FAE9	~z~Strange crowd in that place.
+	4BBC7996	010
+	4A77D0BD	~z~A tie is the most fun - let's play pool again soon.
+	4AA32CF0	100

@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A49F20B4	FCJ2_JACOB_DRUNK_2_BD
+	A2A3E8B5	FCJ2_JACOB_DRUNK_1_AD
+	A879ACF1	~z~No problem.
+	A4F813F5	~z~Mek we shut up now, Niko, and man, me wonder in peace why you have three heads all of a sudden.
+	8FFAFD28	FCJ2_JACOB_DRUNK_2_BC
+	8D8663AD	100010100010100
+	963F087C	~z~Me all mud up, me back to front, de world is turning, gwan wrong way.
+	9341FCF2	FCJ2_JACOB_DRUNK_2_BE
+	A8D03891	100010100
+	D63861FE	FCJ2_JACOB_DRUNK_2_BA
+	CFCEF869	FCJ2_JACOB_DRUNK_3_CB
+	FB79D2F0	~z~So it is man. You know, say me are mash up man, me mash up, just mek me cry in peace, man.
+	E8182C35	~z~Sorry, Niko, me can't... take de drink so good.
+	B9A6A213	FCJ2_JACOB_DRUNK_4_DA
+	A8F0BFA0	~z~Shut up and mek me dee in peace, man.
+	C1B4907F	100010100010100
+	BC2CC276	~z~I remember - I didn't realize you couldn't handle a drink.
+	2FC34D43	~z~Okay, okay, take it easy.
+	2C76FB69	FCJ2_JACOB_DRUNK_1_AA
+	4AF50E1F	FCJ2_JACOB_DRUNK_3_CC
+	32AA0667	FCJ2_JACOB_DRUNK_1_AB
+	15485170	FCJ2_JACOB_DRUNK_1_AE
+	0CC8758D	~z~So you say.
+	20D06640	FCJ2_JACOB_DRUNK_1_AC
+	1F9C9D79	FCJ2_JACOB_DRUNK_2_BB
+	4E248A09	~z~Sorry.
+	7E08A0A8	FCJ2_JACOB_DRUNK_4_DB
+	78486EA5	~z~Now, let me sit in peace, Niko. You know me get funny when me drink and you make de world spin funny, man.
+	86260A60	~z~Sure. Hang in there.
+	8497F6EF	~z~Me head spinning, me stomach turning, me all pyoua pyoua, me can't take it easy.
+	667B2973	FCJ2_JACOB_DRUNK_3_CA
+	5E0B29D6	~z~Boy, me drink too much, you know, rasta.
+	6F755977	100010
+	6ED9A7D1	~z~You know me man, me hate de car, and de... and de drinking, and de driving ting man.

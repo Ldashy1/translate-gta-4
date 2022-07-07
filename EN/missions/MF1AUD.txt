@@ -1,0 +1,226 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B10D9093	~z~Yeah.
+	B09AF006	~z~Fucking prison payphones. Niko?
+	B091E8FD	MF2_AD
+	B79C1FEB	MF2_FB
+	B70B5665	010100100010
+	B3F8D1C5	~z~What about finding Darko Brevic?
+	AFD95D0F	MF2_EE
+	A7667D41	~z~You, what happened, Florian, Darko - everything.
+	A5B63540	~z~He can't worry about losing me as well.
+	A4E0FDAE	MF2_A_GA
+	AF3F8886	MF2_FC
+	AB9E79C4	MF2_ED
+	A81296AC	MF2_QB
+	B902857F	~z~Cryptic, Derrick. The suspense is killing me. Thanks.
+	C3B9CCCE	MF2_GF_QQQ1
+	C27C93CD	~z~Niko, Niko. You there? You there? Bet there are about a hundred cops listening to this shit and you can't even hear me.
+	C242EE59	~z~We are friends from the Old Country, nothing more. ~c~Can't he understand that?
+	C51CAE0C	MF2_EF
+	C4B88DA9	MF2_CG
+	C48C16F8	~z~I'm sorry, Niko.
+	C215758F	100010100010
+	BE6C31A0	SFX_MACHINE_BEEP
+	BA47BD42	MF2_GC
+	B9E7A203	~z~Niko, I've got some good news. I told Bryce about everything.
+	C194658E	~z~I don't think I've ever played peacemaker, but I'll be there in a bit.
+	C16F356F	MF2_BB
+	BF33B5FA	~z~What's up, Bernie?
+	A14C42C2	~z~Thanks for coming to the funeral, Niko. And for looking after me family. I was in no state to do nothing.
+	92CC2C99	~z~I don't know if you'd heard Niko, but Kim, the Korean kid we brought into the country, got taken down.
+	92BBEA17	MF2_QD
+	928054FC	MF2_EG
+	9691DB98	~z~we hugged, we laughed.
+	962EA4F6	MF2_EA
+	930AFDE8	100100010100
+	9272307A	MF2_VB
+	907EA127	~z~Honest truth is, I've been dosed since that meeting in the park.
+	8EF1E463	MF2_DG
+	8ED62706	MF2_AC
+	926C5832	MF2_SD
+	92683FF7	MF2_DI
+	90AE58F0	~z~What is it?
+	99123CE3	MF2_RC
+	A0AD231D	~z~Shut the fuck up, Jacob. Niko, I hear you can understand this rasta shit.
+	A085C80C	~z~Really?
+	A054CC43	MF2_AA
+	A10A4FF1	~z~See you around. You're a great guy. I hope you find what you're looking for.
+	A0FD4EF0	MF2_VA
+	A0B1C97C	MF2_UH
+	9FFA3E11	MF2_EB
+	9DA3863A	MF2_GD_QQQ1
+	9A74BCA8	MF2_DB
+	9A676FAB	100100010100100100100010
+	9FEF9A96	MF2_TA
+	9E3F82ED	~z~It's Bryce, he's broken my heart.
+	9DD204FE	~z~Florian, I thought I should let you know, I found Darko.
+	ED5DFC1A	010100100010100100010100
+	E9B4DA89	~z~Yeah, I guess every immigrant's story, ain't the fairytale yours is.
+	E83A5B11	MF2_AB
+	F1FB6A6C	~z~Oh I know. I'm just really heartbroken.
+	F1AF0378	MF2_EB
+	F0862B95	~z~That's not my name.
+	E7E1D2E9	MF2_DE_QQQ1
+	E69B9690	~z~I know how much it hurt you, and you walked away.
+	E5FFC59C	~z~What is it?
+	E4D7101B	~z~I pinned my hopes on this guy, and he left me. Said I was an embarrassment.
+	E7B755E4	~z~Come on, Bernie. Don't be such a drama quee... a drama... a drama person.
+	E7935DFA	~z~I'm here, Elizabeta. I was sorry to hear you got in trouble. I hope I wasn't something to do with it?
+	E70F6198	~z~Niko, my boy, I left you something at your house. A token of me gratitude, should come in handy with your line of work.
+	F2070F1E	MF2_BC_QQQ1
+	FA007606	MF2_DE
+	F9DB0195	~z~I don't know. I think he's tried everything he could.
+	F77E1C28	MF2_BA_QQQ1
+	FFCC8EAD	SFX_MACHINE_BEEP
+	FC0F42A7	~z~Bernie, what can I do for you?
+	FAE1F5EC	~z~Nothing's gonna get rid of the truth, I may as well be wandering with a mark on me head. Later on, Niko.
+	F71BB4A4	~z~Said he'd found religion.
+	F53FF953	~z~Anyways, the can ain't so bad. I got a nice little cellmate.
+	F45D3213	~z~After what we've had to live with these last twelve or thirteen years,
+	F3F3FC01	~z~If this is a business call then use the right fucking number. Adios.
+	F702F525	~z~Yeah, mine's a real fairytale, Derrick. I wouldn't wish it on my worst enemy. Later on, man.
+	F6537FB8	MF2_DH
+	F63E7A5C	~z~I have to make things work with him. He's my life.
+	E499774B	MF2_BD
+	D0D0974D	100100010100100100100100
+	CF8F2A97	MF2_AE
+	CD7F7CC1	~z~Get over here before I run out of patience and start shooting.
+	D43429C8	MF2_UD
+	D42B68CD	~z~This is Elizabeta. Sorry, I'm away from the phone at the moment. Try me again in twenty five years or so.
+	D3B3BAE1	~z~Don't mention it.
+	CB1410A8	MF2_TA
+	C957D91D	~z~How?
+	C8301D5E	MF2_RA
+	C7C415FE	~z~It was all a lie! I see that now. I've been an idiot all along.
+	CA0E60DA	~z~My husband is dead. Show Anna and I respect by leaving us be.
+	C9730C83	~z~I wanted to give you something to say thank you from me and Bryce.
+	C96D364F	100010100100100010100100010100100100100
+	D51CB90D	~z~You? Those bastards were after me long before you showed up. Too many parties, too much coke,
+	E2478F18	~z~Florian?
+	E241589C	~z~This is Elizabeta's personal answer phone, please leave a message.
+	DE311E24	~z~I don't think I've ever played peacemaker, but I'll be there in a bit.
+	E3157DBD	~z~Well he doesn't know I'm giving you this but he gave it to me so it's technically from him.
+	E2D0659E	MF2_DM
+	E2B3EE5E	MF2_FB_QQQ1
+	DBCE3D1A	MF2_DD
+	D91455C0	MF2_CC
+	D57DB171	~z~I'm a walking cliché, Niko. An embarrassment, to him and to everyone.
+	D56631F0	MF2_UE
+	DB72B12F	100100100
+	DA6DAE78	~z~His car... enjoy.
+	DA0F7A8C	~z~Niko, Niko, I'm sorry, I just needed to speak to a friend.
+	30F56511	MF2_CD
+	300CA975	~z~You really did. We've got to celebrate.
+	2EB7DC6C	MF2_TC
+	35DB29DB	MF2_GA
+	3573715B	~z~I'm sorry about that Bernie. You seemed so happy.
+	316FCF10	MF2_DF
+	2E47542A	010010100100100100100100010
+	25D28336	~z~Thanks, man. I appreciate that.
+	24F21470	~z~This is a voice from your past Niko. Can you guess who it is?
+	2460457B	MF2_TC
+	2E2F8AD5	~z~That's great news. Thank you, Bernie.
+	2C31F35A	SFX_MACHINE_BEEP
+	278638DE	~z~It's Bryce, I told him about the car and he changed.
+	368D27CD	MF2_CI_QQQ1
+	41476E05	MF2_CI
+	3DD87FE9	MF2_DC
+	3D4D8001	MF2_CF
+	481C31EA	SFX_MACHINE_BEEP
+	475F9271	MF2_UB
+	46E53BBF	MF2_EE_QQQ1
+	3C25AFDC	~z~I only power walk or take cabs so I figured I should pass this on to my savior.
+	395DF56A	MF2_UA
+	37BD6916	~z~Well he doesn't know I'm giving you this but he gave it to me so it's technically from him.
+	36986C97	MF2_EC
+	3B65257D	MF2_BC
+	39FCE361	100100010
+	39C67A39	MF2_A_XA
+	23424CF5	MF2_DA
+	0CC1F7F1	~z~You have a new life in America, forget the past.
+	0C4853E8	MF2_SC
+	0B3F5FD7	~z~You know what, I'm really proud of you, Niko Bellic.
+	11516D2B	~z~I need you to come around to my place Niko. Please, come soon.
+	100B1BF1	MF2_ED
+	0D45A894	MF2_RB
+	09F3A2BA	~z~Have fun on the outside, Niko! Look after your cousin and Mallorie.
+	077E9DD0	~z~too many assholes, that was my problem. I got what I deserved.
+	02ACCBC6	~z~We've broken up. I've been dumped. I'm finished.
+	0115A7D5	MF2_EA
+	09BDD9E0	~z~I think he is worried I'm too much of a skeleton in his closet if he chooses to run for mayor.
+	098FBEB8	100010100010100
+	0858DCBB	MF2_GE
+	13F86E5D	~z~I'm an old queen nobody loves anymore.
+	2104E9EF	MF2_EC
+	1E924ABB	MF2_UF
+	1C42F569	MF2_CJ
+	23160F88	~z~You're free now... maybe a spa day?
+	225FF451	MF2_FA
+	220A2DE2	~z~Niko, Niko, this is terrible.
+	1C1D470D	~z~She's in on a trafficking beef. We'll keep each other company for the next five years.
+	18E7FB28	~z~The guilt has destroyed him. I don't know. Somehow it was better to walk away.
+	162E0AC9	~z~Sometimes I think my past is all I got. So long. You look after yourself.
+	1555CC49	MF2_EE
+	1B69B06F	~z~What's up, Bernie?
+	19409C53	~z~What's happened?
+	1900B9A8	MF2_CG_QQQ1
+	7A3234D9	MF2_A_GB
+	79A146E5	100010100010100100100100100010100100010100010
+	795A1B3E	MF2_BC_QQQ2
+	7D5530D7	SFX_MACHINE_BEEP
+	7CA17A28	MF2_CB
+	7C24F874	~z~Must be hard, Derrick. But you didn't have a choice.
+	78F1D047	~z~Florian, I thought you should know, Darko is dead. He's finally paid for his crimes.
+	72E78434	MF2_WA
+	7157620A	MF2_DF_QQQ1
+	71347CB4	MF2_DJ
+	74B86F4A	MF2_UG
+	740CD55B	MF2_CI_QQQ2
+	730EA4B7	MF2_SB
+	80A34486	MF2_QA
+	8B01FFD4	~z~It was horrible. He says we can't see each other anymore.
+	894CDF54	~z~This is Ilyena Faustin. If you are looking for Mikhail, or wanting to collect on a debt, then please look elsewhere.
+	8937D6A3	MF2_GF
+	8EAFC4EF	MF2_BA
+	8B5FE01A	~z~Sure, whatever... I'll speak to you soon, Bernie.
+	8B2A74B8	~z~That's good to know, Niks. You should let go of it now.
+	86D11662	~z~Thank you, Bryce Dawkins. I hope the cash for this didn't come out of city funds.
+	824BEEB7	100010100
+	812CA5FD	100100010
+	80B647E0	MF2_GG
+	857F4A4A	MF2_GB
+	84190EA9	~z~You'll be okay. Go get a face pack, and stay in touch. I've got to go, see you later.
+	8261BC57	~z~His car... enjoy.
+	712A2C30	MF2_GD
+	57421400	100100100100
+	568A3686	MF2_UC
+	55CCF4F5	~z~I know this must be hard for you, but you won, Niko.
+	5CC2A356	~z~He got the jealous face. The green eyed monster, jealous face just took over.
+	5C6DE751	~z~Being Deputy Mayor has to have some use, doesn't it?
+	5937CA7B	MF2_DL
+	50BEBA91	MF2_DK
+	4A7E4372	~z~He told me he'd do everything he could to find Darko for us.
+	49C81C9B	SFX_MACHINE_BEEP
+	489DEF4C	MF2_TB
+	508D8AEC	~z~He says that this Dimitri guy blackmailing him is stressful enough.
+	4F0FC8E2	MF2_BE
+	4E6F2B08	MF2_CA
+	5DE21E23	~z~Shut the fuck up, Jacob. Niko, I hear you can understand this rasta shit.
+	6CBD5FD8	MF2_CH
+	6B36D1C7	MF2_TB
+	6AE18438	~z~We got angry, we got sad, we yelled, we cried,
+	704301DB	010
+	70391806	~z~I wanted to give you something to say thank you from me and Bryce.
+	6D76BD4C	~z~Get over here before I run out of patience and start shooting.
+	66FE0BB6	MF2_SA
+	60551C0D	010100100010100
+	5FC4C167	MF2_CD_QQQ1
+	5EE87561	~z~Don't mention it. What we've got is worth more than money.
+	64D39016	~z~Bernie - how are you?
+	615D7BFA	100100100100
+	60DE8BD9	MF2_QC

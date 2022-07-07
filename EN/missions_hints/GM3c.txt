@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	79ADE30A	~s~Take a photo then send it to Packie.
+	7229EC48	~s~Press ~INPUT_PICKUP~ to get her to look at you.
+	6DBFD75B	~s~Take the photo now.
+	E13F6B09	~s~Lose your wanted level.
+	D342332E	~r~Gordon is dead.~s~
+	CD4F06F1	Send the photo to Packie.
+	130E2310	Take a photo of ~b~Gracie.
+	0FADCB8F	Get out of the building.
+	0E96A3AD	~r~Gracie is dead.~s~
+	51721D51	~s~Go upstairs to the safehouse.
+	4C3ED4E6	~s~Go downstairs to the safehouse.
+	4184A990	~s~Get Gracie's face in the shot.

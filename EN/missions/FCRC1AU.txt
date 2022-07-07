@@ -1,0 +1,306 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9BC0C44C	FCR3_CONV8_NH
+	9C2D2FA8	FCR3_RELATIONSHIPS_DN
+	99D6CE35	~z~And you? How are you?
+	9ADB7151	~z~And hot tubs and fast cars and the chance to do what the hell you want.
+	9D0FAF4D	~z~Good. listen, Niko. I received an email from your mother.
+	9DFDD185	~z~Man, I love this country. It's fucking amazing.
+	9EF44021	FCR3_RELATIONSHIPS_DB
+	9D663E31	FCR3_RELATIONSHIPS_DC
+	9DA8E479	~z~I'm sorry, but listen, man, you have to lighten up. Enjoy yourself.
+	9122AEBD	~z~She's the love of my life, the woman of my dreams... she's amazing.
+	94A835CC	~z~It is impossible sometimes.
+	8EAE37E4	~z~You're always waiting for tomorrow.
+	8F6647F4	~z~Enjoy what?
+	953D3C1A	FCR3_CONV2_KI
+	98573E91	FCR3_AMERICA_CC
+	99033591	~z~Is that how you see yourself?
+	9825F605	FCR3_CONV8_NQ
+	98318C63	~z~Here, anything is possible. It's the land of opportunity.
+	9F5C7DAA	FCR3_CONV8_NK
+	A673C215	~z~Yes?
+	A6BF6806	~z~Me? I'm always the same. You know me. I'm an optimist. Life is always great.
+	A49A14DB	FCR3_REVENGE_AL
+	A544C17A	FCR3_OPTIMISM_BS
+	AB187164	FCR3_CONV2_KQ
+	ABFDB3FB	~z~They must put something into the water, man, because all I'm feeling is pure optimism.
+	AD03DF4C	~z~They can't resist, can they?
+	AB23CB11	FCR3_REVENGE_AG
+	ABDD9325	FCR3_CONV8_NA
+	A20E8D84	FCR3_REVENGE_AN
+	A2722743	FCR3_CONV4_LJ
+	A0FAC992	~z~Very funny.
+	A139BA02	~z~Okay, things aren't easy for us here. But together, we are doing alright.
+	A28582C4	FCR3_CONV6_ME
+	A416C549	100010010100100010100010100100010100010100010100
+	A41883CB	~z~That's better. Grow some fucking balls.
+	A35C46E9	FCR3_RELATIONSHIPS_DD
+	A3A5C852	FCR3_CONV2_KD
+	8EACA29E	~z~I'll just have to learn to live with the temptation.
+	7E6F8B6B	FCR3_CONV2_KU
+	7E77B88A	~z~Oh, stop complaining. You're pathetic. The one thing this country has taught you is how to whine.
+	7E28EF52	FCR3_OPTIMISM_BF
+	7E31F7FF	FCR3_CONV2_KV
+	7F6AF400	~z~How are you, cousin?
+	81E71941	~z~But you can't, or at least you can't teach everyone. Really, you don't like it?
+	842F0825	FCR3_CONV2_KA
+	7FC25B75	FCR3_OPTIMISM_BA
+	806D8822	FCR3_CONV8_NC
+	794FCE9C	~z~They stay on the highway like every other chump. I'm an innovator, Niko.
+	79B67360	~z~Now - now I live here. And life is good.
+	792A8040	FCR3_CONV8_NI
+	792FFA5F	FCR3_CONV2_KF
+	7AB90AFC	~z~It must be pretty strong because I can't see what you're so happy about.
+	7CB77CFA	~z~Fuck you. I'm an individual, my friend. One of a kind.
+	7E1208A0	~z~But you love her, don't you?
+	7C566D8C	FCR3_CONV2_KW
+	7C6F8557	~z~It's just tough.
+	849A8269	FCR3_OPTIMISM_BI
+	8B191B77	~z~Good luck with that, Roman.
+	8B5C3FE0	~z~Enjoy this. Us hanging out, living in this lunatic asylum, meeting freaks.
+	8A1C8F8B	~z~You have to move on from the things that happened to you and think about all the opportunities in this country.
+	8A72F0E2	~z~I drive off the highway. Off road baby! Every move I make is a gamble.
+	8BA0D2DC	~z~Maybe. Sometimes it feels like I do what the hell others want.
+	8D309832	FCR3_RELATIONSHIPS_DF
+	8E9D8FA3	FCR3_OPTIMISM_BG
+	8BFFF293	100100010010100100100010010010100010010010100100010
+	8D16AFB7	~z~Life is shit.
+	86458B89	FCR3_CONV6_MH
+	865987E0	FCR3_OPTIMISM_BO
+	857FFF18	FCR3_OPTIMISM_BC
+	85A10698	~z~Stop being so dramatic, Niko. Time is a healer. We live and we forget the past.
+	87574D3A	FCR3_REVENGE_AO
+	88E082BE	100010100010100010100010010100010010010010100100010100010100
+	89CA08C2	~z~Good.
+	87D44FCA	FCR3_CONV8_NR
+	88B526DD	~z~I bet you would like to teach them, wouldn't you cousin?
+	EAE9D48F	FCR3_OPTIMISM_BJ
+	EAF3D294	FCR3_RELATIONSHIPS_DK
+	E599E0BC	~z~It's the fast-food, the cheap gas, the fake titties - there's a short cut for everything here.
+	EAC3F00E	~z~I guess.
+	EC0B18EE	~z~Okay. Thank you. I will lighten up, learn how to juggle, maybe get work in a dance troupe?
+	EE0953C4	~z~Before you arrived in Liberty City, things were terrible.
+	EE47B88E	~z~If you're lucky I might take you there with me.
+	EC0CCE0A	FCR3_REVENGE_AH
+	ECD73D20	FCR3_CONV2_KH
+	DE0BC15B	~z~I guess it's stupid to wish for the impossible.
+	DFD2B757	~z~Niko, you do not know how great it is to have you here with me.
+	DC8E951C	~z~But one day I'll find that short cut to the top.
+	DD0E54A3	~z~Maybe. It feels better than always mourning yesterday.
+	E113421C	~z~I just did. It's good to have you here. Whatever shit we get into, man... it's good.
+	E35D00C7	FCR3_AMERICA_CN
+	E58F4B9B	FCR3_CONV6_MG
+	E2080B21	FCR3_AMERICA_CJ
+	E2B23FA0	FCR3_OPTIMISM_BN
+	EF4527F7	FCR3_AMERICA_CL
+	F97BF93F	~z~I know. I think it's pretty funny.
+	F9CCEBD8	100010100010100010100010100010010010100010100010100010
+	F8861A32	~z~I have stumbled from one disaster to another, and now I am here, and it is another disaster.
+	F89778D2	FCR3_OPTIMISM_BR
+	FA553582	~z~Not 'maybe' - yes - definitely true.
+	FD72834A	FCR3_CONV8_ND
+	FF43BDCC	FCR3_AMERICA_CQ
+	FAE9E870	FCR3_REVENGE_AI
+	FD5FE9E5	FCR3_CONV2_KR
+	F1977348	~z~until you're sweating out all the chemicals in it and the hormones are making your balls feel funny.
+	F2A3D772	FCR3_OPTIMISM_BE
+	EF9FD482	FCR3_OPTIMISM_BD
+	F0311B7A	FCR3_CONV6_MD
+	F35D6A58	FCR3_CONV2_KB
+	F8466335	FCR3_RELATIONSHIPS_DJ
+	F8666E38	FCR3_OPTIMISM_BQ
+	F5CFEA80	FCR3_RELATIONSHIPS_DQ
+	F6E8DE1A	FCR3_REVENGE_AC
+	DC57C45D	FCR3_CONV8_NG
+	B8B46696	~z~She said she'd sent you an email.
+	B98724B4	FCR3_OPTIMISM_BT
+	B799346C	FCR3_CONV6_MN
+	B7E36B18	~z~Chances to make lots of money, chances to get college girls into bed.
+	BA00F8B0	FCR3_CONV2_KE
+	BCA03C55	FCR3_CONV6_MC
+	BF3CDBE4	FCR3_CONV4_LS
+	BBBF8D08	~z~You just need to know where it is.
+	BC5CBFCC	FCR3_CONV4_LR
+	AFD799C6	FCR3_REVENGE_AK
+	B0CB6189	~z~And here, it is okay to be an eccentric go-getter businessman with a taste for fine women, wine and song.
+	ADB567E2	~z~Maybe it'd be easy if I was not an attractive man, but, sadly, I was not blessed with plain features.
+	AFC0750A	~z~I want some of what you're on.
+	B1D9A49C	~z~Don't mention it.
+	B4F3EC56	FCR3_CONV2_KT
+	B6BC6507	~z~America is an opportunity for a new beginning. You were in need of one.
+	B38CE26F	~z~Nothing helps a man forget like ripe, round American titties.
+	B428FDC4	~z~The lights, the titties, the food, the opportunities. Come on, Niko. It's kind of incredible.
+	BFFA9A7C	~z~But what a yesterday! Man, this has been a crazy time. We've had some insane adventures.
+	D2E23414	FCR3_RELATIONSHIPS_DI
+	D52AE6DF	FCR3_CONV8_NB
+	CF4B0FF7	FCR3_REVENGE_AD
+	CFEB60BC	FCR3_CONV6_MJ
+	D5DA674E	~z~I will, when you grow a brain.
+	DAC24603	FCR3_CONV2_KJ
+	DC0D4DA8	~z~People don't know how to shut up here.
+	D6D54333	~z~I'm high on life, man. American life.
+	DA0F6920	FCR3_CONV6_MO
+	C4AAD3E3	FCR3_AMERICA_CK
+	C5711DF5	FCR3_CONV2_KL
+	C3C10D4C	FCR3_CONV2_KG
+	C3E641D9	FCR3_CONV4_LH
+	C5F8A17A	~z~Yeah, but most people don't know where it is so they stay at the bottom of the food chain.
+	CBA53201	~z~How you doing, cousin?
+	CEF7AE7F	FCR3_RELATIONSHIPS_DG
+	C7A5E636	FCR3_CONV4_LP
+	C9E99B6F	~z~It was just an idea. I thought maybe she'd find America exciting.
+	27E01F49	100010100010100100100010100100010100010100100100010100100010010100010
+	28716B13	FCR3_AMERICA_CI
+	276E8A79	~z~And look what freedom was. War, killing, and not even knowing what to hate anymore.
+	2788AB0F	~z~That's because most people are too foolish to look for the shortcuts.
+	28BC6191	~z~The titties aren't real and the opportunities aren't opportunities at all.
+	2D5B7043	~z~It's stupid. Everything is just advertising with nothing to back it up.
+	300B093B	~z~Thanks, man.
+	2B2F117A	FCR3_AMERICA_CM
+	2BD6D7A2	~z~I miss the good times we had as children, when our fathers were too drunk to beat us,
+	23295BDF	~z~They tell you you're eating the best burger ever and you believe it
+	24E80AA7	~z~You dancing? Now that I would like to see. Like the death throes of an elephant.
+	22947782	FCR3_REVENGE_AJ
+	22E3CF4C	FCR3_CONV8_NE
+	2532D200	~z~Don't you remember?
+	26B1A7E0	FCR3_CONV4_LO
+	2729499A	FCR3_REVENGE_AA
+	25C79D19	~z~Niko B in the house... man, sometimes, I cannot believe you are here with me, really I can't.
+	268D5D2F	FCR3_AMERICA_CA
+	3258E519	FCR3_OPTIMISM_BK
+	3C13F81C	~z~Yes. I know what you mean.
+	3D8F531F	FCR3_CONV4_LM
+	3A930542	~z~To seize them you end up in so much debt that you'll be a slave for the rest of your life.
+	3C0DC9A5	~z~and we are making trouble for any fools who get in our way.
+	3DA5B6E7	~z~For you too, but in a different way. We grew up wanting to be free.
+	3FA8F546	FCR3_CONV2_KS
+	3FE00E16	100010010010100100100010010100100100100100100010100100100010
+	3E801274	~z~You love it, no?
+	3F3203AE	FCR3_RELATIONSHIPS_DA
+	34C97ACF	FCR3_AMERICA_CB
+	35B16EEF	~z~Or to put it another way, a freak.
+	3296795A	FCR3_CONV2_KK
+	3296B6B7	~z~It's hardly been a lot of fun since I turned up, cousin.
+	35C13D6E	FCR3_CONV6_MI
+	3987B76A	FCR3_CONV8_NN
+	3A750260	FCR3_RELATIONSHIPS_DH
+	36ECB474	FCR3_CONV8_NP
+	38C26A4B	FCR3_CONV4_LF
+	2277DFA5	~z~Okay.
+	0BAC93D8	FCR3_OPTIMISM_BP
+	0BD202E7	FCR3_CONV4_LI
+	097EED8C	FCR3_OPTIMISM_BB
+	0AA5BE71	~z~Fantastic! Look at my life.
+	0CF0C307	~z~It's good to hang out again, Niko. How you doing man?
+	1093223A	FCR3_RELATIONSHIPS_DO
+	14AB3C64	100010100100100010100100100100100010100100100100010
+	0DD1DA3F	FCR3_CONV6_MF
+	0ED19530	~z~There is no such thing as a new beginning, Roman.
+	02A64780	FCR3_CONV6_MB
+	036A16ED	~z~My balls feel fine, but I did notice my man tits getting larger when I was eating at Cluckin' Bell every day.
+	011F09D9	~z~She would love it here!
+	016300DE	FCR3_OPTIMISM_BM
+	05125BB3	~z~Correct - it has been a fucking nightmare. But that's not that point.
+	07830EFB	~z~Sure. I miss things about home, but I, I... I think things are ruined now.
+	093C5699	FCR3_CONV6_MM
+	0633A250	FCR3_AMERICA_CE
+	06479426	FCR3_CONV4_LA
+	15153A43	~z~Everything else is fake too.
+	1BB243DE	~z~Avoid it as long as you can, cousin. That's my advice to you.
+	1D1931BF	~z~With every day we live we pick up new baggage, baggage that we must carry with us for the rest of our lives.
+	19A3333B	~z~Thanks. Don't you miss home? You've been here a long time. You never get home sick?
+	1B02B02C	FCR3_CONV4_LE
+	1FFA815C	FCR3_CONV4_LT
+	208E4BC1	FCR3_CONV8_NF
+	210EC764	~z~No matter where I go, the ladies love me. It's that Bellic blood.
+	20110369	FCR3_CONV8_NO
+	207758A8	FCR3_CONV2_KN
+	1588BFDA	FCR3_AMERICA_CD
+	169D6E12	~z~Thanks cousin. You really know how to make me feel good about myself.
+	1536866B	~z~In the Old Country, the only thing you could count on was a bomb landing on your bedroom roof in the night.
+	1586BF7B	FCR3_CONV2_KO
+	16C4FF18	~z~No?
+	177D6B9E	FCR3_CONV8_NJ
+	18C1C70F	~z~They stay there until they're burnt out or dead.
+	16C70237	FCR3_CONV4_LN
+	17753685	~z~Yes - she loves crack dealers.
+	66224C38	~z~when there was food and the sun was shining, but...
+	662B13D1	FCR3_CONV6_ML
+	63885389	~z~I love Mallorie but come on. A man has his urges.
+	64E0BED8	~z~Yes - maybe she get heavily involved in car jacking and spend some time doing hits for the mob?
+	6640F5A6	~z~Yeah, good point.
+	693C2401	~z~The Bellic cousins are here in the land of opportunity
+	6954CA39	~z~There's no dropping it and pretending we are fresh and clean just because we get off a boat in a new place.
+	66DCA856	~z~I'm going to start drinking from the tap then.
+	67F7D6A5	FCR3_CONV4_LB
+	5E1ECC59	~z~Do you seriously mean that you don't like fake titties, cousin?
+	5F0C3F96	FCR3_RELATIONSHIPS_DE
+	5CA240DE	~z~One terrible black mark against her.
+	5D00B34C	FCR3_RELATIONSHIPS_DL
+	605F9240	~z~I do say so, man. I do.
+	62D2A9F1	FCR3_CONV4_LL
+	632810E0	FCR3_REVENGE_AM
+	618E03F2	~z~It is fun, I think... and if it isn't fun, it's all we can do anyway.
+	61F5C931	~z~They make this hard for me, if only I was unattractive.
+	6A08AA0D	FCR3_CONV4_LK
+	70A0F369	FCR3_AMERICA_CF
+	70BEF6F1	~z~I don't know, Roman. It is the same as any other place only louder.
+	6F81C927	100100010010100100010010010100100100100010100
+	70361C07	~z~Fuck you.
+	70FE5E6B	FCR3_REVENGE_AB
+	77F17C5B	~z~The old ball and chain, the chastity belt they call a serious relationship.
+	7879BA3B	FCR3_CONV4_LQ
+	72696C6C	~z~How she couldn't move back on our farm because of all of the heroin dealers and the coke whores and the arms smugglers?
+	72E1DDE8	FCR3_OPTIMISM_BH
+	6D23554C	FCR3_CONV4_LD
+	6DC2D09C	~z~Look at how we live here, what we have done. Where exactly would your aunt fit into this lifestyle?
+	6B95D196	FCR3_RELATIONSHIPS_DM
+	6C346884	~z~Seriously...
+	6E30518B	~z~Good.
+	6EE2202A	FCR3_CONV8_NL
+	6F791B2D	FCR3_AMERICA_CP
+	6E3BEFBF	FCR3_AMERICA_CG
+	6E8C5AA0	FCR3_CONV2_KC
+	5C7BB44A	~z~Chances to turn into an asshole.
+	482E95A3	~z~If women weren't throwing themselves at me, life would be easier.
+	487F4D49	FCR3_CONV6_MP
+	45C88AB8	FCR3_OPTIMISM_BL
+	45CB8327	~z~I still remember the emails you sent me, cousin.
+	49C91B2C	~z~You know, I love your mother - there is just one thing I could never figure out about her.
+	4AA75655	FCR3_CONV8_NM
+	4B5111F5	~z~I heard that. I haven't forgotten our language completely.
+	4A2B9222	FCR3_RELATIONSHIPS_DP
+	4A71986F	~z~My God, you are deranged, cousin. This place has made you sick!
+	430F621C	~z~Tell me, Roman, why weren't you such an optimist back home?
+	43A0482B	FCR3_CONV6_MA
+	4248ADB6	~z~My God. For a sociopathic killer, you're also a really miserable bastard.
+	426984C7	~z~Is it?
+	43C34322	~z~Yes - it's been crazy for me for seventeen years.
+	44AE1EE9	FCR3_CONV2_KP
+	4560925F	~z~What?
+	44471F1F	FCR3_CONV2_KM
+	44582331	~z~Good.
+	4C388667	FCR3_CONV4_LG
+	55713028	~z~Maybe you have different Bellic blood than me.
+	57B280EE	~z~No. the point is, fuck it.
+	553B3FEA	~z~What do you think about America, Niko? Tell me straight.
+	5546189B	FCR3_REVENGE_AE
+	583676C0	FCR3_CONV6_MK
+	5C1CD159	FCR3_AMERICA_CH
+	5C341465	~z~I'm going to get knocked back a few times, sure.
+	5B84AE99	~z~You should have told me how bad things were in this country before I got here.
+	5C12BFC3	~z~How she raised such a prick of a son.
+	4D802779	~z~Avoid what?
+	4E166DB6	~z~If you say so.
+	4C5128BE	~z~I cannot believe what you are saying.
+	4D635822	FCR3_AMERICA_CO
+	50141C92	FCR3_CONV4_LC
+	53286727	~z~Maybe.
+	5462A8B9	~z~Yes, cousin. It is. Sure, this place is crazy, but so was home.
+	507A9010	FCR3_REVENGE_AF
+	52A81A67	~z~You know, I'm worried about her, all alone. Maybe... maybe she should move here, be with us?

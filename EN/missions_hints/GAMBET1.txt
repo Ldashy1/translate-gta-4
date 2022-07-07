@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	E5104C15	~r~The car got trashed.
+	E7406828	~s~Get Bobby Jefferson to ~y~safety.
+	D7CE3191	~r~You scared off Bobby Jefferson.
+	87E961BC	~s~Lose your wanted level.
+	AE36DE63	~r~You have abandoned the car.~s~
+	F6ABEF4C	~r~The convoy was abandoned.
+	FE487AF9	~s~Get in the ~b~car.
+	F540FB06	~s~You lost ~b~Bobby Jefferson,~s~ go back and get him.
+	F0FCD07B	~s~Lose the ~r~pursuers.
+	F1EBC072	~s~Get back behind the ~b~lead car~s~ in the convoy.
+	4A0A1607	~r~Bobby Jefferson is dead.
+	52F29092	~s~Go to ~b~Grand Easton Terminal.
+	362D8359	Follow the ~b~convoy car.
+	04E58BBF	~r~Bobby Jefferson was abandoned.
+	13DA1213	~s~Get into the ~b~car.
+	80F683E3	~r~You acted unprofessionally.
+	87696EF2	~s~Go to ~y~Bobby Jefferson's location.
+	79CF0D23	~s~Go out there and deal with ~r~them.
+	64C131BC	~s~Pick up ~b~Bobby Jefferson.
+	71A4A47D	Get back into the ~b~car.

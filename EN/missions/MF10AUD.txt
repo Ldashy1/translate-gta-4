@@ -1,0 +1,219 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A60F091E	MF5_WH
+	A557A186	MF5_FA
+	A25C40FF	~z~You love to disappoint me, Niko Bellic. You really do.
+	AA27740B	MF5_QB
+	A8B66F1A	MF5_VF
+	A7A6F474	100010100100
+	A2406846	MF5_RA
+	9EECB8A8	MF5_DA
+	9E44E10B	MF5_VE
+	9E0FE019	~z~I will smoke you out of any other hiding place you have in this city. See you soon, Niko.
+	A01979EB	MF5_WI
+	A0106CF6	~z~Then why are you calling me? Goodbye, Niko.
+	9F251649	MF5_FB
+	B80E6C63	~z~Are you disappointed that I have not found and killed you yet, Dimitri Rascalov?
+	B7E9B4C5	~z~I'll be on the Firefly Island boardwalk from 8pm until 1am.
+	B79112D5	MF5_FF
+	BB8E3B31	100010100
+	BA565574	~z~~c~Hello, this is Dimitri Rascalov's phone. I cannot answer right now.
+	B93C9ABE	~z~I will find you, Niko. I have burnt you and your cousin out of Hove Beach.
+	B52C0EFB	MF5_WK
+	AF165A77	~z~I went to the sewage works on Charge Island.
+	ACB339A9	~z~I can barely walk or think, let alone drive.
+	AC3FD1AB	~z~And the only thing I owe you is a bullet through the temple.
+	B23DFD79	MF5_TC
+	B1101CD2	MF5_SA
+	B0E10014	MF5_BB
+	9DA96824	~z~You have good news?
+	8D55227A	MF5_A_DB
+	8D036F25	100010100010100
+	8C885580	MF5_EC
+	9063CD99	~z~Only if no news is good news.
+	8FD0E631	~z~Stop blackmailing my friends, Dimitri. You do not want to anger me more.
+	8E5F4504	~z~Mr. Bulgarin and I were very disappointed.
+	8B903A64	MF5_CC
+	88FDD88B	~z~What do you want, Dimitri?
+	87C07F2F	SFX_MACHINE_BEEP
+	87307205	~z~You might want to check in jail or hospital. This city is full of crazy people.
+	8B6B7B64	SFX_MACHINE_BEEP
+	8A040F0D	~z~How was I to know?
+	89D78CDB	~z~I have no debts to Bulgarin, Dimitri.
+	9A4659B2	MF5_RB
+	985850EC	SFX_MACHINE_BEEP
+	984D0235	MF5_RA
+	9CCC7581	MF5_WG
+	9C88E157	~z~I was loyal to you, Dimitri. Why did you turn on me?
+	9BD17D5F	~z~I hope to see you there.
+	980A3C2B	090
+	93E741D1	MF5_GB
+	935444E4	MF5_A_CB
+	92E340BD	MF5_GH
+	9558D598	MF5_BC
+	94F724F3	~z~You weren't. This is Mikhail's craziness.
+	94D1C706	MF5_GD
+	F12DA74C	~z~I hope to see you there.
+	EDBD60D2	100010100100010010100
+	ED963636	MF5_EF
+	F4DD8891	SFX_MACHINE_BEEP
+	F4A29201	~z~You think I could survive in a cesspit of a city like this by aligning myself
+	F1816D1E	~z~Niko, I heard you got the money. This is great. Everything turned out perfectly.
+	EB430A93	MF5_SC
+	E45FE8E2	MF5_WO
+	E3AB1161	100100100100
+	E1A003A3	MF5_WC
+	EA3AFFC4	MF5_WM
+	E9D05A0F	MF5_A_DA
+	E637C8B9	~z~First in Europe and then these diamonds in Liberty City.
+	FD8DF765	~z~I picked through the bodies and yours was not amongst them. Very disappointing.
+	FCA739E4	~z~Not as much fun as I would have had with Roman, believe me.
+	FC5537E9	MF5_WF
+	FF3B5754	MF5_ED
+	FF07B18F	MF5_VJ
+	FDB575FC	100010100100010100
+	FBF91DCA	MF5_VC
+	F8B737F0	~z~I made the mistake of working with you before. It's not one I'll repeat. Goodbye.
+	F7201B75	MF5_BE
+	F652F1F0	SFX_MACHINE_BEEP
+	FB843C78	MF5_UC
+	FA9E559A	~z~I don't feel so hot, I shouldn't get behind the wheel.
+	F9EDFCD2	SFX_MACHINE_BEEP
+	DED439F2	~z~Do not worry, your time will soon come.
+	C810F0E9	~z~~c~Please leave me a message and I will get back to you.
+	C6464D23	~z~I wish you had been there. We could have had some fun.
+	C3367742	MF5_XXA
+	CBBB13C0	~z~I am sorry. Or maybe the thugs who failed to kill me should be blamed though.
+	CB9078ED	MF5_AB
+	C81C631C	100090100
+	C204644B	~z~Driving in this state - not a good idea.
+	BE85BE1A	MF5_WJ
+	BE29E037	100100
+	BD5D73E6	~z~You will be paid in full, fear not.
+	C1AF8331	MF5_DD
+	C1999C41	~z~Not everyone gets lucky.
+	BFBF899B	~z~No thanks to you, you piece of shit. You fucked me and Phil with that stunt.
+	DD47EEFC	MF5_VD
+	DB12C02D	~z~You should have thought of that earlier.
+	D9A8D642	~z~This is Niko Bellic.
+	DE5CBC90	MF5_A_BA
+	DE515F35	MF5_FH
+	DD66DB85	100090090100
+	D8C4C7FF	MF5_GA
+	CFFB608D	~z~The party got busted up though before I got there.
+	CDFC961C	MF5_WB
+	CC72BBD6	~z~I'm kind of busy right now. Liberty City's an interesting place.
+	D7B43970	~z~Yeah, you should give people the heads up before you gamble with their lives.
+	D6BC7407	~z~Niko Bellic.
+	D0E11AED	~z~Goodbye.
+	86A031C3	MF5_GK
+	292E9023	MF5_WE
+	286F5AE5	~z~They might want to make different decisions. Enjoy your life, I don't want nothing more to do with you.
+	27FA50D9	MF5_DC
+	2AF0FE29	~z~You know why I killed Faustin. It was not my choice.
+	2A9A33E7	~z~Mr. Faustin, does not like to be bothered with trivialities. Goodbye.
+	29CB1896	~z~Alright, discuss it.
+	23E86F92	MF5_CG
+	2248A837	~z~Hey friend, there's no one's here right now.
+	21B427C4	SFX_MACHINE_BEEP
+	2189A23A	MF5_UB
+	23DE7426	MF5_WN
+	2384C03B	~z~Why don't you just pay him what you owe and we can all get along?
+	224C454C	100010100100010100100
+	36CC779F	~z~Come on, I put you in a position to make a lot of money.
+	34ACAFDA	~z~I will cut you in Niko. Let's be friends.
+	34856553	~z~You are in debt to him, Niko.
+	3D2D3AF4	MF5_A_EA
+	3BC731AF	MF5_EA
+	380D351A	~z~Niko, it is Dimitri. We have something to discuss.
+	33E6DE8E	~z~So, this is what the dream feels like, this is the victory we longed for.
+	2DFCC699	100100
+	2D86B126	100100
+	2B3FAE50	MF5_EE
+	3261D90D	010
+	3093A1BC	~z~I nearly ran into your cousin the other day. My friends were hanging out with him.
+	2FEBF8E4	~z~You're right. You are lucky now though. This is a good partnership.
+	217C6690	MF5_VA
+	0C89321F	~z~I don't know, I'm just surprised you have not found more success with your... talents.
+	0944F2E7	~z~I'm not exactly sober, I better not be driving.
+	091CB09A	MF5_GI
+	1255D9C0	MF5_SB
+	11E3BE97	MF5_VG
+	111BE294	MF5_SD
+	0659356E	~z~with a bottom feeder like you?
+	04BBE82B	~z~Don't call when you have nothing.
+	0489931A	~z~It was a gamble and it paid off.
+	0482EC21	MF5_AA
+	064EA4CF	MF5_A_CA
+	05BFC850	MF5_TB
+	05AFD050	~z~We need to talk in person.
+	1BC787A9	100010100100
+	192B15AF	~z~We need to talk in person.
+	1801AC4C	~z~I cannot believe that you would steal from my friend Ray Bulgarin twice.
+	1F408502	~z~Now that I hear you are friends with Bryce Dawkins and Bernie Crane, I know what it is.
+	1E3ED58A	~z~How can you be too good?
+	1C0EFDD8	~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
+	17DF8DD8	MF5_VH
+	1319025D	100090090100
+	12DD8382	MF5_UA
+	128C459D	~z~Goodbye.
+	158BA61E	~z~The boy you killed was the son of Kenny Petrovic.
+	140EE8B3	~z~Niko, it's Dimitri.
+	13AD2054	MF5_WA
+	6B6F7C96	100010010100100010100100100100010010010100100
+	6B6D3F68	SFX_MACHINE_BEEP
+	6B51773E	~z~Is it done yet?
+	6F1A9845	MF5_FG
+	6E6E9661	100010100100010100100010
+	6D3D9817	MF5_EB
+	69E37C81	~z~You robbed Bulgarin, you killed Mikhail. You know no more of loyalty than I do.
+	645BC3BD	~z~This is a very dangerous man. He will not take kindly to this.
+	62E6871E	MF5_WD
+	62DCE64B	MF5_QA
+	658C741F	MF5_VB
+	64F1AA27	~z~You, if you drink and drive, Niko, you're a bloody idiot.
+	64E8C058	~z~We need to talk in person. I'll be on the Firefly Island boardwalk from 5pm to 3am.
+	7B3E3D0C	~z~I always thought that there was something not quite right about you, Niko.
+	7B36D6B1	~z~I'm wasted. Maybe I better not drive
+	7B3046FC	MF5_RB
+	84C06832	~z~Nothing yet.
+	8178FDF7	~z~Niko, do you know what you have done?
+	7CD8EFF0	100010100100100
+	7AAEEBE4	~z~I hope to see you there.
+	75DD8F3F	MF5_WL
+	75A0B1EF	MF5_UD
+	750A0BDB	MF5_GJ
+	7A788893	100100010100100100100010100100
+	7943F4A3	MF5_DB
+	7705CCBD	~z~What have you got for Mr. Faustin?
+	5BA15036	~z~Niko, you are doing very well for us. You are good, almost too good.
+	464A6CF1	~z~Oh boy, I definitely should be walking home.
+	45344628	MF5_TA
+	4245451F	~z~I have nothing to say to you.
+	4A47F7E8	~z~I'll be on the Firefly Island boardwalk all evening. I hope to see you there.
+	47E8B6CA	MF5_CB
+	46DAB799	MF5_BD
+	41EE4A5D	~z~Persuade them to give up the contracts. We can work together.
+	3E5C1D54	~z~No, I'm doing my best though.
+	3DA0FFBC	~z~There ain't no one here right now. Please leave a message.
+	3D6BA4F8	MF5_CA
+	4092B264	MF5_VI
+	3FFF24BF	MF5_FE
+	3F6AA790	~z~Niko Bellic, we did not find your body with the others in the warehouse.
+	54B009A4	~z~I'm not in position to make good decisions right now.
+	5416D332	MF5_CF
+	53222500	MF5_DE
+	5AA13048	~z~I will speak to people and see what I can do.
+	5817D8EA	~z~You, who has so many enemies?
+	54FACA89	MF5_GE
+	5206C381	MF5_BA
+	4F16BEC9	~z~Mr. Faustin does not care about how hard you are trying, he cares about this getting done.
+	4C6841C5	MF5_CD
+	4BE34633	MF5_CE
+	512F483F	MF5_FC
+	4FCB98C4	~z~You have a sharp tongue, Niko. It is only a matter of time before it is cut out of your mouth.
+	4F1D1940	~z~I have followed Mr. Faustin's orders, not much more.

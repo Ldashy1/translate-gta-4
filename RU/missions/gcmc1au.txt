@@ -1,0 +1,166 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A495B2C3	GCM2_MICHELLE_CONVERSATIONS6_EI
+	A18119E0	GCM2_MICHELLE_CONVERSATIONS7_FK
+	A5879ADB	GCM2_MICHELLE_CONVERSATIONS2_AQ
+	A83F205A	GCM2_MICHELLE_CONVERSATIONS3_BF
+	A71F40A5	GCM2_MICHELLE_CONVERSATIONS2_AC
+	9C8D65E6	~z~Как там Мэллори? Мы давненько с ней не общались.
+	9BEF7A91	~z~Медленно. У вас очень странная страна, а этот город сводит людей с ума.
+	9D53A567	~z~Понятно.
+	9E44C775	GCM2_MICHELLE_CONVERSATIONS4_CJ
+	9DF61355	~z~Да нет... Он правда хочет достать немного кокса для мальчишника.
+	B33A2D37	~z~Мне тоже. Возможно, здесь все будет по-другому.
+	B2FF92CA	~z~Хорошо. Она отличная девчонка. Мне она очень нравится.
+	B4A0588F	~z~Ты нашел работу? Отлично. И что ты будешь делать.
+	B8D3DC67	~z~Ну, а в Европе ты что делал?
+	B64D4920	GCM2_MICHELLE_CONVERSATIONS7_FJ
+	ABB32A9E	GCM2_MICHELLE_CONVERSATIONS6_EE
+	A9DA2728	GCM2_MICHELLE_CONVERSATIONS2_AP
+	AE132AB6	~z~Уверен.
+	B25DB4A7	GCM2_MICHELLE_CONVERSATIONS6_EB
+	B1B3AC35	~z~скрывал свою неадекватность под маской агрессии? Больше я его не встречал. А что?
+	7F686E1C	~z~Это сложно объяснить. Да и неважно это. Я просто устал.
+	7F405992	GCM2_MICHELLE_CONVERSATIONS5_DG
+	7FE96F22	~z~Сомневаюсь, что ты можешь мне чем-то помочь. Забудь.
+	86EF4553	GCM2_MICHELLE_CONVERSATIONS5_DN
+	858C53E7	~z~Конечно.
+	7C7C9C0F	GCM2_MICHELLE_CONVERSATIONS3_BJ
+	79B7BA1F	GCM2_MICHELLE_CONVERSATIONS2_AA
+	7C833FCA	~z~А как ты думаешь? Каково смотреть на смерть друзей?
+	7E45434E	~z~Ну, и как это было?
+	7E35C9E0	GCM2_MICHELLE_CONVERSATIONS2_AO
+	912580F5	100010100010100010100010100010
+	90D97D87	GCM2_MICHELLE_CONVERSATIONS4_CD
+	92CFED54	GCM2_MICHELLE_CONVERSATIONS3_BE
+	9A6D2429	~z~Да ничего постоянного.
+	93F08C0B	GCM2_MICHELLE_CONVERSATIONS7_FH
+	8BA95FE7	GCM2_MICHELLE_CONVERSATIONS3_BD
+	8A238396	~z~Может, я смогу помочь? Расскажи, что там у тебя стряслось?
+	8C9E0973	GCM2_MICHELLE_CONVERSATIONS2_AE
+	8F09E4D7	~z~Мне очень жаль.
+	8E0D06DA	~z~Да, до этого я никогда не встречалась с парнями не отсюда - ну, то есть, с других планет попадались, а вот из других ~n~стран - никогда.
+	E6E7253A	~z~Ну конечно. Все так говорят.
+	E4B9763D	~z~Думаю, у нее все в порядке.
+	E8F0E697	GCM2_MICHELLE_CONVERSATIONS6_EJ
+	EB88C1D0	~z~Расскажи мне о себе. Расскажи мне о Нико Беллике.
+	EA88AE2E	GCM2_MICHELLE_CONVERSATIONS7_FI
+	DCFB82C4	~z~Что ты знаешь об этом Владе?
+	DC603624	GCM2_MICHELLE_CONVERSATIONS2_AK
+	E0130B9B	GCM2_MICHELLE_CONVERSATIONS7_FM
+	E2CB9A4C	~z~Ты и не обидела.
+	E06D7F36	GCM2_MICHELLE_CONVERSATIONS7_FP
+	F6604175	~z~Нет. Роман, конечно, плотно подсел, но не на кокаин. Его бич - азартные игры.
+	F4E04557	GCM2_MICHELLE_CONVERSATIONS4_CH
+	F811F32A	GCM2_MICHELLE_CONVERSATIONS4_CE
+	FED547A5	~z~Да уж, вряд ли... Удивительная погода, не правда ли?
+	FA27BD1C	~z~Да ничего. Он друг Романа.
+	EF0C2813	~z~Не думаю, что из Романа получится толковый преступник.
+	ED0ADC30	GCM2_MICHELLE_CONVERSATIONS4_CF
+	F22E5B96	GCM2_MICHELLE_CONVERSATIONS2_AF
+	F435A866	GCM2_MICHELLE_CONVERSATIONS7_FO
+	F2B558FC	GCM2_MICHELLE_CONVERSATIONS2_AB
+	C6E2FD14	~z~У меня тут кое-какие проблемы на работе.
+	C01FA9E7	GCM2_MICHELLE_CONVERSATIONS5_DL
+	C6FD57FA	~z~Меня тоже.
+	C9051991	GCM2_MICHELLE_CONVERSATIONS4_CM
+	C8017AC2	~z~Да нет проблем.
+	BBCABE68	~z~Конечно.
+	BA294BBB	~z~Что достать?
+	BBCBF160	GCM2_MICHELLE_CONVERSATIONS2_AL
+	C00848DE	~z~Да просто Мэллори как-то упоминала его, вот и все.
+	BDBEC250	~z~Ты воевал?
+	D3A9F3BF	GCM2_MICHELLE_CONVERSATIONS2_AN
+	D11B1180	~z~Ты выглядишь таким взволнованным, Нико. Что-то не так?
+	D4B0F361	~z~Думаешь, они постараются втянуть Романа в свои делишки?
+	DB9C79EE	~z~Это очень меня пугает. Я имею в виду организованную преступность.
+	D7855BD5	~z~Да, она молодец. Она ведь родом из очень бедной семьи.
+	CBDBEF20	~z~Слушай, у меня довольно необычный вопрос: может, ты знаешь, где можно достать... Достать...
+	C9F8BC39	GCM2_MICHELLE_CONVERSATIONS5_DB
+	CC8F5F23	100010100010100010100010100010100010100010010100010
+	CE0DF095	GCM2_MICHELLE_CONVERSATIONS7_FF
+	CD2EDD13	~z~Нет.
+	1FBA8CD3	GCM2_MICHELLE_CONVERSATIONS6_ED
+	1FA90BAC	GCM2_MICHELLE_CONVERSATIONS3_BI
+	219009E5	~z~Видеть людей, которым оторвало ноги? Это... Это... Уничтожило меня.
+	22941B92	~z~У меня и правда нет ни малейшего понятия.
+	2283B2DB	100010100010100010100010100010100010
+	1B92F9DA	~z~Он, вроде, любитель азартных игр, да?
+	1958848F	GCM2_MICHELLE_CONVERSATIONS2_AM
+	1CBFAAAC	GCM2_MICHELLE_CONVERSATIONS2_AD
+	1EBDF060	100010100010100010010100010100010100
+	1E4C96F1	GCM2_MICHELLE_CONVERSATIONS7_FL
+	306544A4	GCM2_MICHELLE_CONVERSATIONS6_EH
+	2D0E2FB4	GCM2_MICHELLE_CONVERSATIONS7_FE
+	315BBC7A	GCM2_MICHELLE_CONVERSATIONS5_DF
+	37881BE1	~z~Да уж, абсолютно.
+	3469BF3D	~z~Ладно.
+	24A93319	GCM2_MICHELLE_CONVERSATIONS5_DH
+	23C19679	GCM2_MICHELLE_CONVERSATIONS3_BG
+	291A14E8	~z~Ничего об этом не слышал.
+	2B2BCC04	GCM2_MICHELLE_CONVERSATIONS2_AH
+	2A219592	GCM2_MICHELLE_CONVERSATIONS3_BL
+	09545B75	~z~А, ну ладно.
+	09103EF6	~z~Мне тоже. Милая она.
+	0979E7A8	~z~Ну да. Прости, что завела этот разговор. Я не хотела тебя обидеть.
+	0D360593	GCM2_MICHELLE_CONVERSATIONS5_DI
+	0B86E108	~z~И не говори.
+	01A450CF	GCM2_MICHELLE_CONVERSATIONS3_BH
+	00A358B2	~z~Да нет, нет. Это для моего двоюродного брата.
+	046544EE	~z~Не за что! Ты довольно симпатичный.
+	076DE522	GCM2_MICHELLE_CONVERSATIONS4_CC
+	06E2E434	~z~Как думаешь, он из русской мафии? Он говорил, как негодяй.
+	13225316	~z~Эй, прости, я сужу по нашим понятиям. Так вот, по ним она - выходец из проблемных кварталов Южного Бохана.
+	125E0D9B	GCM2_MICHELLE_CONVERSATIONS5_DK
+	1330775B	GCM2_MICHELLE_CONVERSATIONS6_EG
+	180EF6EF	~z~Работал, в сфере туризма. Занимался путешествиями.
+	143BFFE3	~z~Все ясно. Ну, да это его дело. Только вот я не наркодилер. С чего ты решила ко мне обратиться?
+	0F4A23D6	GCM2_MICHELLE_CONVERSATIONS4_CI
+	0D595D67	~z~Ничего.
+	0FFBDC1F	~z~Мне она очень нравится. А еще мне кажется, что мне нравишься ты.
+	1158E1A5	GCM2_MICHELLE_CONVERSATIONS4_CN
+	1044DE1D	GCM2_MICHELLE_CONVERSATIONS4_CK
+	6328359C	~z~Ладно, раз ты в этом уверен...
+	62BC71D4	100010100010100010100010100010100010100010
+	647A33B1	~z~Я пока не нашел себе постоянной работы.
+	6542A1EF	~z~Ну, наркотики?
+	6516063A	GCM2_MICHELLE_CONVERSATIONS5_DC
+	5CB8942A	GCM2_MICHELLE_CONVERSATIONS4_CG
+	57252302	GCM2_MICHELLE_CONVERSATIONS2_AI
+	5CDAF9E4	GCM2_MICHELLE_CONVERSATIONS3_BO
+	612A0507	~z~Как Роман?
+	5DA0813B	GCM2_MICHELLE_CONVERSATIONS4_CL
+	6EF5C8A8	~z~Да особо и рассказывать-то нечего. Я только что переехал сюда.
+	6E11D3CD	GCM2_MICHELLE_CONVERSATIONS2_AJ
+	73E0B090	~z~Можно задать тебе вопрос?
+	799F33D3	GCM2_MICHELLE_CONVERSATIONS7_FN
+	7675A55D	GCM2_MICHELLE_CONVERSATIONS5_DD
+	67356577	100010100010100010100100010100010100
+	65C73005	GCM2_MICHELLE_CONVERSATIONS7_FG
+	683CFD4A	~z~Там полным-полно мошенников и убийц. Могу себе представить, какие опасные люди ее окружали, и, тем не менее, она абсолютно нормальна.
+	6D68CA21	~z~Я хочу, чтобы ты доверял мне. Поговори со мной о работе - я отлично умею слушать.
+	6BFFAC0C	GCM2_MICHELLE_CONVERSATIONS6_EF
+	42A74630	GCM2_MICHELLE_CONVERSATIONS3_BK
+	406DC9AB	~z~Серьезно?
+	42C8704A	~z~Что ж, спасибо, что пригласил меня на свидание еще раз.
+	467E4FB0	~z~Как проходит твое обустройство?
+	457037B1	~z~Нет, это я родом из очень бедной семьи. Вы тут и понятия не имеете, что такое бедность.
+	3970CA4C	~z~Просто я подумала, что у тебя могут быть кое-какие знакомые. Или у Романа...
+	381F2AF9	GCM2_MICHELLE_CONVERSATIONS3_BN
+	3A60B775	~z~Мэллори сказала, что он задолжал каким-то бандитам. Ты знаешь об этом?
+	3FA4B914	GCM2_MICHELLE_CONVERSATIONS5_DE
+	3FA1BB6A	~z~Спасибо.
+	53ADF1D1	GCM2_MICHELLE_CONVERSATIONS3_BC
+	5207E5D9	GCM2_MICHELLE_CONVERSATIONS3_BP
+	5547954C	~z~Я знаю. И живешь ты у своего двоюродного брата. А чем вы, парни, занимаетесь?
+	5713505D	GCM2_MICHELLE_CONVERSATIONS3_BM
+	55730250	~z~Нет. А я и не знал, что ты любишь подобные забавы.
+	487D78F1	GCM2_MICHELLE_CONVERSATIONS5_DJ
+	48075C60	GCM2_MICHELLE_CONVERSATIONS6_EC
+	49E009B0	GCM2_MICHELLE_CONVERSATIONS2_AG
+	502B6EE8	GCM2_MICHELLE_CONVERSATIONS6_EA
+	4DA2E415	~z~Я как-то видел его. Он был зол... как ты там говоришь...

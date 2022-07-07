@@ -1,0 +1,21 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	801209E8	~s~Wait for ~b~Roman~s~
+	756EDE56	~s~Follow ~b~Roman.
+	6BB4E29E	~s~Use Free-Aim to take out the kidnapper and free Roman.
+	8DA92516	~s~You left ~b~Roman~s~ behind.
+	F08A6BF7	~s~Take Roman back to the ~y~Bohan safehouse.
+	EE90072D	~r~Roman is dead.
+	96003080	~b~Roman~s~ is on the top floor. Rescue him.
+	5E58BFC4	~s~Use higher levels of zoom to increase accuracy.
+	10A2B21F	~r~Roman has been executed.
+	09BD17BC	~s~Go to the ~y~warehouse~s~ where Roman is being held.
+	024887CD	~s~Press ~PAD_RSTICK_NONE~ when aiming to switch between differing levels of zoom.
+	16F3F2FB	~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ when aiming to switch between differing levels of zoom.
+	5C0544A4	~r~Roman has been abandoned.
+	3525100F	~s~Aim carefully to take out the kidnapper and free Roman.
+	182F9DBF	~s~Hold ~INPUT_ATTACK~ halfway before firing to increase accuracy.

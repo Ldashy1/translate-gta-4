@@ -1,0 +1,242 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A5CE79DB	FIN1D_YF
+	A4D23739	506
+	A35F5013	~z~Hold on, Jacob. We're going down!
+	A64F36CA	FIN1D_OB
+	A9C4071F	~z~I an' I is too low. Get me some height.
+	A6C60633	FIN1D_A_DB
+	A662892C	~z~I'm gwan find Dimitri and Pegorino. We gwan make 'em pay for Roman.
+	9BC43279	FIN1D_HA
+	9BC32B8F	FIN1D_HC
+	9B63FF4C	~z~I'll fucking get you. Mark my words.
+	9E643FA1	FIN1D_A_MA
+	A2952F62	~z~Jacob, I lost Dimitri. He's still out there.
+	A2284AE4	~z~Me get de dogheart. Dimitri's chopper gwan down pon the island.
+	A0E7BDC9	FIN1D_A_FC
+	AABC0409	~z~Something ain't right about these commies. Why ain't they killed him yet?
+	B809DA4B	~z~Don't worry, rasta. Dere's gonna be another opportunity, and I gwan get him for Roman.
+	B7FDA392	~z~Get up so me can get some shots in, Niko.
+	B6DB865C	~z~Me think his next stop is with Pegorino and Dimitri. We follow him there, seen?
+	B920ADBC	~z~There be nuff blood clots inna de place ya know, that's suicide.
+	BB8585D4	500
+	BAD9ADF5	FIN1D_A_GA
+	BA5A88D5	FIN1D_DA
+	AE047FDB	500500500500500500
+	AD482F38	FIN1D_RA
+	AC39E920	FIN1D_A_LA
+	AEC89910	506
+	B42CFBE7	FIN1D_BA
+	B361485A	492
+	B032AD32	~z~Roman was a good man.
+	9951DF9E	500050500
+	820B2651	FIN1D_EA
+	817A3186	~z~I never thought I'd be working with the reds.
+	7F218FA0	FIN1D_OF
+	82827A16	FIN1D_HB
+	8A19F9B2	~z~These Ruskies better not try and screw the Peg.
+	899F5BC3	~z~You snake, Dimitri...
+	88EA4114	~z~He getting away!
+	7A4BA26D	~z~Get under me chopper, Niko.
+	79373F3C	~z~Dimitri Rascalov, I'm coming for you!
+	770B7F0B	FIN1D_GA
+	7C4DAFF1	FIN1D_WA
+	7E9383BB	~z~Land pon de island, make sure him dead.
+	7E73C9B5	~z~This is for Roman.
+	7E533E95	~z~Get me in closer fe shoot di ras clot.
+	8B06232E	FIN1D_CF
+	97675D60	~z~I hope you ain't killing this guy because he sounds funny too.
+	972BCFF2	FIN1D_YC
+	96BE590F	~z~Mek we finish him.
+	97B3A710	FIN1D_HD
+	9941BE54	090
+	984467AC	500050500050050500
+	97CB329A	500050
+	8D4E4E34	~z~We need to have some height so me can shoot him, Niko.
+	8D05E6D9	~z~I don't care how many of your men I have to kill, I'm finding you, Dimitri.
+	8C18BF64	FIN1D_YD
+	93EEAE71	~z~Good shooting Jacob.
+	954B1B7E	500050500050
+	947B8171	502
+	9442C71D	FIN1D_GE
+	EDD72AC6	500050050
+	ED7C739D	~z~Rhaatid, there's Pegorino's boy. You have fe stick to him, bredren.
+	ED206459	~z~I didn't work this hard to share the spoils of a victory. Goodbye.
+	EE54AEC5	500
+	F03C9BF3	~z~Roman was my cousin and I cannot put anyone else at risk.
+	F033E673	120210020
+	EE770ABA	~z~Get closer to me chopper Niko. You need fe grab on.
+	E8B4128E	FIN1D_A_HA
+	E5F77715	~z~I thought you were big bad Mafia, why do you need our help to kill this Slav?
+	E2EBD62B	100100100010100
+	E932E6FC	~z~Dammit.
+	ECCF8AAE	~z~Get lower so I and I can punish him raas!
+	EC6478BF	FIN1D_A_NA
+	EA51624E	~z~I can't catch a ras clot if we crash, ya know, Niko.
+	F0406E82	~z~You going down, Dimitri.
+	F97699C1	FIN1D_VA
+	F838B197	FIN1D_A_AA
+	F7E79314	FIN1D_FA
+	FC3323BC	~z~You stupid Americans better not get us killed.
+	FEB98171	~z~I knew you were nothing from the moment I saw you.
+	FE4DBE7C	~z~Me need fe take out him engine, get close.
+	FD9B0937	~z~Roman dead because of you!
+	F3739802	~z~We got too much altitude, Niko. Get lower.
+	F205AEB6	~z~Stop fucking around out there, Niko. Get in.
+	F061A39C	~z~Dat's what friends are for ya know, rasta.
+	F4D26DA3	~z~You will fall too. Someone will take you down.
+	F78985D7	FIN1D_CA
+	F6808C07	500
+	F57737BE	~z~Why do I have to keep killing?
+	E29E5DE1	~z~Roman was my boy ya know? I doin' this for him.
+	CD13219A	~z~I am not waiting to find him as long as I waited for Darko Brevic.
+	CC7B26E9	500
+	CB9552A5	~z~Alright, dis be de place, ya know, me bredren. What's de plan?
+	CE741923	~z~I laughed when I heard that Roman was dead.
+	D1E1F090	~z~You fucking killed Roman on his wedding day. It's over for you.
+	D0CB0E12	050500
+	CFEEB882	~z~Thank you, Jacob. I know you cared for Roman, but he was my family. You do not have to do this.
+	C0812C29	~z~He is only one Slav, you powerful Americans must be able to kill him.
+	BE5BBF8A	010
+	BB9C8152	~z~Dimitri, what's the problem? Me and you is partners now. We're back on top.
+	C3AF542B	~z~If you guys give up Dimitri, you might survive. Otherwise you're dead men.
+	C5B336B1	~z~We will show these Americans how real men fight.
+	C42E4923	FIN1D_SC
+	C3D10A38	~z~~c~Get the Balkan swine.
+	D300F968	FIN1D_A_IB
+	DEDDC52F	~z~We need to get him soon. Goodbye, Jacob.
+	DB8481B4	~z~What you doing? Get in.
+	DA63EE02	692
+	E046C323	~z~~c~What are you waiting for? Kill him.
+	E2818D86	~z~You'll stop running one day, Dimitri.
+	E24D75B6	~z~I can't be doing no shooting from above. Get down.
+	E130465F	~z~I do not regret sending that man for you.
+	D70E1692	FIN1D_XA
+	D530BB81	FIN1D_AB
+	D3F2B5E7	~z~Dis is for Roman.
+	D843DA07	FIN1D_ZA
+	D93DB67A	~z~I wish you had died along with your cousin.
+	D91862DE	~z~Cha, Dimitri lose us and ting.
+	D8B16DC9	~z~I hope so, I see you later.
+	211112D4	~z~We must still be able to find him.
+	2021EE0F	~z~Get closer to di chopper so I and I can get to dis ras clot.
+	1EC0127C	FIN1D_A_KA
+	2245C84D	~z~You're a piece of Balkan shit.
+	25C337EC	FIN1D_OD
+	23BC78FA	FIN1D_A_AC
+	231DE1C7	FIN1D_CE
+	19F61970	~z~Come on, how's this guy still alive? Kill him.
+	1784FFC0	~z~If I had got onto the chopper, shit. Dimitri must still be in Liberty City.
+	14B754C4	~z~Make sure it is Russian bullet that kill this idiot.
+	1A05C20C	~z~Ya ain't going anywhere, ya ras clot.
+	1EB1262C	FIN1D_OC
+	1C59519C	500
+	1AB37747	~z~I ain't close enough fe take out di bumba clot down, yet.
+	262FE50B	~z~Alright, me breda. That blood clot is inna the place right now. I been following him for some time.
+	3168B69B	FIN1D_A_JA
+	2E1926EC	~z~Climb in, Niko.
+	2D30D531	FIN1D_A_FB
+	31FFF21C	~z~Feel me teeth, Dimitri.
+	35466E4E	~z~You and your stupid cousin is always going to be bums.
+	333E043E	FIN1D_PA
+	320C8DA1	FIN1D_YB
+	27A4E9A5	FIN1D_CB
+	27861FA4	100100100100100100
+	2763174C	~z~Fight me like a man. Come on.
+	280ADDC0	~z~Keep your eyes dem open, Niko.
+	2BC5BD0F	~z~The Russians pissed this guy off, they should kill him.
+	29A9E5ED	FIN1D_GC
+	28BA1364	~z~Get we in closer so we can kill di bumb clot.
+	14B5107A	500500050500500
+	07D46291	500
+	079B12F8	~z~If only I'd let Faustin kill you.
+	06AB5801	~z~Get into the chopper, Niko.
+	0962D5FF	~z~Jump up, me breda. Do it.
+	0AC468BD	~z~Niko, mek we get dis ras clot. Get under me chopper and jump on.
+	0A541B3A	~z~Ya see, after dat heroin deal, Dimitri's hangin out wit Pegorino now.
+	0A0E20C0	500
+	0348143B	~z~Cha, dat are some dangerous shit.
+	02AA40CE	~z~I have to do this alone, Jacob.
+	01E80665	~z~Kill him. Kill him. Kill him.
+	040658C3	~z~Rhaatid, we nearly had him.
+	06719321	~z~We do not want to take any chances.
+	05EBCD71	FIN1D_A_HB
+	05C13C9D	~z~Me can't shoot at Dimitri from up here. Bring it down.
+	0B30477B	~z~You too high, rasta. Bring it down.
+	12F8F7EC	FIN1D_SA
+	1290A7B6	~z~~c~Kill this piece of shit.
+	107724EC	~z~You're a Balkan peasant. You're worth nothing.
+	1434BD6D	500
+	14816740	FIN1D_A_HC
+	147EE477	~z~If you want to help me, find a way for us to make a swift exit when these men are dead. Goodbye Jacob.
+	14519F16	FIN1D_HE
+	0D71658D	~z~Get up inna here.
+	0CB42769	~z~Dis over for ya, ya bumba clot.
+	0C755ACB	~z~Me can't shoot di bumba clot from back here, ya know.
+	0E7BD410	010
+	0F8E19B4	FIN1D_QA
+	0F54D21F	~z~I need fe get up fe shoot him, come on.
+	0EDD48DC	~z~These idiot gangsters are gonna lose this fight for us.
+	5D950F3C	010
+	5D557DE3	~z~Come on, Niko. Grab on.
+	5C5A813A	~z~My cousin was all I had in this city. Shit!
+	5DCD221F	FIN1D_OA
+	616F82EB	FIN1D_A_AB
+	605DC09A	FIN1D_A_BB
+	5EA822CF	~z~Hey Russians. Fucking whack this guy already.
+	5892B7B6	~z~I tink dis boy gonna lead me to right where Jimmy and Dimitri are.
+	57B12E21	FIN1D_A_BA
+	55C4B937	~z~Niko, watch where you flying.
+	58E23458	~z~How is he still alive? Kill him.
+	5B91D4A6	FIN1D_CC
+	5AEA02A2	~z~Your hitman didn't kill me, Dimitri!
+	5ACA3D6F	FIN1D_A_FA
+	64B75B83	FIN1D_GB
+	6EF0ED08	FIN1D_CD
+	6ED15E0A	FIN1D_A_AD
+	6E1624B1	~z~You're going to wish your pussy hitman killed me and not Roman.
+	72556C1C	~z~Dimitri still out dere, ya know. We can get him still, ya know.
+	750BF0A8	~z~Niko, I found one of Jimmy Pegorino's boys inna some building in Koresh Square.
+	74E5BA5C	FIN1D_SB
+	72FA8E50	FIN1D_YE
+	6702D538	500050
+	66B0E844	010
+	65D05231	~z~Wait for me, I'm on my way. We will do this for Roman.
+	67CF898F	FIN1D_A_DA
+	6C8D06F0	~z~Come on, Niko. You need fe get under me chopper. Grab on!
+	6B980E2D	FIN1D_AA
+	68CB7F61	~z~Rasta, you need fe get closer.
+	552FF551	~z~Cha, him always get away from us.
+	3D9F7DD3	~z~~c~Why is this man still breathing?
+	3C3931FD	392
+	3AA2387D	~z~You need fe grab on to me chopper, Niko.
+	3DB68202	~z~Seen. One love, Niko.
+	411D4AC0	~z~You're going to have to land sometime, Dimitri.
+	400936A1	FIN1D_A_CA
+	3EA906A8	~z~I think we're in trouble. Hold onto something.
+	36B85876	FIN1D_OE
+	35DA0F90	FIN1D_YA
+	354DFE55	FIN1D_GD
+	3817050C	500050050
+	39077FB9	~z~Rhaatid, dat was close.
+	38D3FBC3	~z~Dimitri, you and me is gonna end this.
+	38C1AABD	FIN1D_AC
+	43F71F35	FIN1D_A_PA
+	500A4EAB	~z~I don't trust these fucking Russian crooks. They're all gangsters.
+	4F8F9B64	102
+	4F73E1AB	~z~Thanks for coming to get me, Jacob. I thought he was getting away.
+	504A8614	~z~There's something up with that Dimitri guy.
+	53C696A3	FIN1D_A_EA
+	52F5EE71	~z~Roman, man, I'll get him for you.
+	520C27D9	~z~I should have killed you in Hove Beach.
+	47733A7A	~z~Let me go alone. I want some personal time with Dimitri.
+	46403FF5	~z~Dis ras clot be too high fe shoot from down here.
+	44423ECD	~z~You're not getting away, Dimitri!
+	479ADF52	FIN1D_A_IA
+	4DB8DE35	~z~Ya a mafia don, ya know, Niko. Take control of this ting. You got de flying skills.
+	4C57A205	~z~We're gonna crash, Jacob. Hold on!
+	4B9FD2B8	~z~One love, rasta.

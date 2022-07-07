@@ -1,0 +1,244 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ABA75C00	100
+	AAAD4B61	FCP_ACT_CALL_REQ_SPEC_COLONY_ISLAND
+	AAAA7311	~z~Packie, man. I don't need that bomb no more.
+	ABA83E62	FCP_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND
+	AF0444D0	FCP_ACT_PPK_CALL_CANCEL_SPEC
+	AE41B81C	100
+	AC2C9025	100
+	A79CC7E6	~z~I'm fresh out, Niko. Try me again in a little while.
+	A5A6DB88	~z~Fine, if you rather go kill people than help your sick friend, that's your business.
+	A4B61E93	~z~Okay Niko, I've left some in Leftwood.
+	A81DA56C	FCP_ACT_CALL_REQ_SPEC_NORMANDY
+	AA9393B4	~z~Sure Niko, I've left some over in Outlook Park.
+	A91C2989	~z~Great, man. I thought I was gonna have to call my ma. See you soon.
+	A89D1E34	100
+	B0668E4B	~z~Hey, Packie. I need a bomb. That cool?
+	BB9FB337	FCP_ACT_GETCALL_HOSP_ACCEPT
+	BB99F5F3	~z~Okay man, they're in East Island City.
+	BB5708ED	~z~Okay man, they're in Cerveza Heights.
+	BBB8A6F2	100
+	BF3272BB	100
+	BE932AA4	~z~Hey man, I need to make shit explode. Can you sort me out?
+	BBBFDC65	~z~Okay man, they're in Steinway.
+	B1F132A0	FCP_ACT_CALL_HOSP_CANCEL_HILIKE
+	B10B73FB	~z~Got it Niko. I've put some for you in the Boulevard.
+	B0D21798	100
+	B31C1675	FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK
+	B40CF815	100
+	B3FC3A0B	~z~Sure, man. You'll find some in Lancaster.
+	B320B5DE	FCP_ACT_CALL_REQ_SPEC_CASTLE_GARDENS
+	A3BF5196	100
+	93D32053	~z~You caught me at a bad time Niko. Call again later.
+	93A93758	FCP_ACT_PPK_GETCALL_SPEC_END
+	90F10712	FCP_ACT_CALL_SPEC_END
+	94B88B17	FCP_ACT_CALL_REQ_SPEC_CHARGE_ISLAND
+	95743B1F	~z~Fine Niko. You ain't got much of the good Samaritan in you, do ya?
+	9507B50F	~z~Sure Niko, I left some over by the airport.
+	94C01A60	100
+	89424CAE	100
+	8811CFE6	~z~Alright, man. Cool.
+	87B6F5A7	FCP_ACT_CALL_REQ_RANDOM
+	8CA343CB	100
+	8E774A61	~z~Alright. I feel like watching stuff blow up. You got a bomb for me?
+	8E224921	~z~Alright Niko. I've ditched some for you in Easton.
+	8CA3F3F1	~z~Niko man, I've left them in Berchem for ya.
+	959045C8	~z~Okay Niko, I've left some in Star Junction.
+	9E200661	~z~Okay man, they're in Willis.
+	9D633160	~z~Sure thing man.
+	9C971F30	100
+	9FAE130A	FCP_ACT_CALL_REQ_SPEC_MEADOW_HILLS
+	A2D04ADD	FCP_ACT_CALL_REQ_SPEC_SCHOTTLER
+	A20778E2	FCP_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL
+	A0A6C9C8	~z~You'll find some I stashed for you in Purgatory.
+	9953F26A	~z~Fine man, if you got other shit to do.
+	98344FC6	100
+	974DCD64	100
+	99E86C8A	100
+	9C6D757B	FCP_ACT_CALL_REQ_SPEC_WILLIS
+	9B80F7C2	~z~Okay Niko, I've left some in East Holland.
+	9B7B9CD4	FCP_ACT_CALL_REQ_SPEC_INDUSTRIAL
+	BF58FB13	100
+	E4337053	~z~Hey Niko, I got a line on this guy who can set me up with bombs.
+	E29276DA	FCP_ACT_CALL_REQ_SPEC_TUDOR
+	E1FD50AE	FCP_ACT_CALL_REQ_SPEC_HOVE_BEACH
+	E4685F0E	100
+	E8271149	~z~Sure, man. You'll find some in Middle Park West.
+	E7223775	100
+	E6C8DA2F	~z~Niko man, I left them in Suffolk for you.
+	DCD03878	100
+	DC2F954E	100
+	DB7C90E1	100
+	DE301E05	100
+	DFB2C507	~z~Okay Niko, I've left some in Normandy.
+	DF25F1DF	010
+	DEFED50B	FCP_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS
+	EC5E4C31	FCP_ACT_CALL_REQ_SPEC_SOUTH_BOHAN
+	F7550768	100
+	F7499C75	100
+	F747F0DC	100
+	F7CC9343	100
+	FFBD7445	FCP_ACT_CALL_REQ_SPEC_BERCHAMN
+	F8F48F52	100
+	F83E9C35	FCP_ACT_PPK_GETCALL_HOSP_NO
+	F027417F	~z~Sure thing man, I've hidden some in Lower Easton.
+	EEC32982	100
+	EE1E90C5	FCP_ACT_CALL_REQ_SPEC_NO
+	F318D929	100
+	F71F7B39	100
+	F6D3CF4F	FCP_ACT_GETCALL_HOSP_ASK
+	F3BC3545	100
+	DA540FCD	100
+	C30C935D	100
+	C2D6BA30	FCP_ACT_CALL_REQ_SPEC_FORTSIDE
+	C2B5AC62	~z~Okay man, they're in Meadows Park.
+	C5513BA0	FCP_ACT_GETCALL_HOSP_REJ_LOLIKE
+	C9F8B30D	~z~You'll find some I stashed for you in Hatton Gardens.
+	C9E928B0	FCP_ACT_CALL_REQ_SPEC_CHINATOWN
+	C8DD1C73	FCP_ACT_PPK_CALL_REQ_SPEC
+	BFC3AA84	FCP_ACT_CALL_REQ_SPEC_LEFTWOOD
+	BF6E2C2C	100
+	BF60A57B	FCP_ACT_CALL_REQ_SPEC_LANCASTER
+	C0F9D91B	FCP_ACT_CALL_REQ_SPEC_NORTH_GARDENS
+	C25C4FE4	FCP_ACT_CALL_REQ_SPEC_TRIANGLE
+	C1BC7944	FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST
+	C1946244	~z~Okay man, they're in Meadow Hills.
+	CB99F9EC	FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST2
+	D3660F3E	FCP_ACT_CALL_REQ_SPEC_EAST_ISLAND_CITY
+	D2F5DB20	FCP_ACT_GETCALL_HOSP_REJ_HILIKE
+	D1EFF896	~z~Sure, man. You'll find some in Charge Island.
+	D452FBD1	FCP_ACT_CALL_REQ_SPEC_PORT_TUDOR
+	D8484A05	FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST
+	D5F51CC2	FCP_ACT_CALL_REQ_SPEC_EAST_HOLLAND
+	D55FD6E1	~z~Sure, man. You'll find some in Industiral.
+	D0359FD3	100100
+	CE3030F4	100
+	CC18A63A	100
+	D0676CFE	100
+	D1D2CEBE	~z~This is banked. When you ask me for help I'm gonna remind your Slavic ass of this.
+	D0BA8914	~z~You'll find some I stashed for you in City Hall.
+	D0A3863E	100
+	2AECDBCB	FCP_ACT_CALL_REQ_SPEC_MEADOWS_PARK
+	29CAA9AB	FCP_ACT_CALL_HOSP_CANCEL_LOLIKE
+	29BBFE93	~z~You motherfucker. I'll remember this.
+	2B00087B	~z~Sure, man. You'll find some in Fortside.
+	2C624859	100
+	2C0B940D	FCP_ACT_CALL_REQ_SPEC_AIRPORT
+	2B6BFCEB	~z~Sure thing man, I've hidden some in The Exchange.
+	22E44324	~z~Okay man. I should be there in the next hour.
+	22759646	FCP_ACT_CALL_REQ_SPEC_EASTON
+	1FA80AF1	FCP_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY
+	23C93857	~z~Alright Niko. I ditched some for you in The Triangle.
+	2807C803	~z~Niko man, I left them in Tudor for ya.
+	26850C24	~z~Okay Niko, I've left some in North Holland.
+	2550960E	FCP_ACT_CALL_REQ_SPEC_NORTHWOOD
+	2D4DEF0D	100
+	353AB7AE	~z~Fuck me, Niko. You really are cold. Someone else might give me a lift I guess.
+	33BF6E53	~z~You'll find some I stashed for you in Middle Park East.
+	331451B8	~z~You'll find some I stashed for you in Middle Park West.
+	35D4FF2B	~z~You'll find some I stashed for you on Colony Island.
+	39748F8D	FCP_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS
+	37656C26	~z~Sure Packie, I'll pick you up in the next hour.
+	37367137	FCP_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH
+	311BA507	~z~Okay Niko, I've left some in Port Tudor.
+	2EF265C1	FCP_ACT_CALL_REQ_SPEC_NORTH_HOLLAND
+	2E3EEB98	100
+	31EB8A49	FCP_ACT_CALL_REQ_SPEC_CHASE_POINT
+	3297A514	~z~Niko man, I left them in Acter Industrial for ya.
+	326B9B4C	100
+	323FBFBC	100
+	1D46A3D3	~z~Alright Niko. I've ditched some for you in Hove Beach.
+	0C0DF82D	~z~Sure thing man, I've hidden some in Fishmarket South.
+	0B8F68A5	010
+	0B73236F	100
+	0C48053C	~z~You'll find some I stashed for you in Presidents City.
+	0D799D58	FCP_ACT_GETCALL_SPEC
+	0D33FF80	010
+	0CEC5328	100
+	01C41B57	FCP_ACT_CALL_REQ_SPEC_EXCHANGE
+	00F178FA	~z~Sure, man. You'll find some in Varsity Heights.
+	005590A2	010
+	05D37FBB	~z~Niko man, I left them in Acter for ya.
+	08DCA6DE	100
+	08C9B427	100
+	070E3C9F	FCP_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY
+	0ED9D9D4	FCP_ACT_CALL_REQ_SPEC_DOWNTOWN
+	1AE65BCC	FCP_ACT_CALL_REQ_SPEC_STAR_JUNCTION
+	1A9B5177	100
+	1882B412	FCP_ACT_CALL_REQ_SPEC_LITTLE_ITALY
+	1B9AC9F5	100
+	1CFBDD7B	~z~You're a piece of shit, Niko. You really are.
+	1CCF70A7	~z~Alright man, I'll try to get a nurse to give me a lift. Might even get some action.
+	1B9C74FE	FCP_ACT_CALL_REQ_SPEC_OUTLOOK_PARK
+	11BDB8C4	~z~Hey man, I'm discharging me self from hospital. Can you give me a lift?
+	10B34C91	~z~Packie, man. I can't make it to the hospital no more.
+	102A8F89	FCP_ACT_CALL_REQ_SPEC_LITTLE_BAY
+	11E884B8	100
+	1858D626	100
+	174EE3BB	100
+	145FDCBB	FCP_ACT_PPK_GETCALL_HOSP_YES
+	3D61CDE1	~z~Alright Niko. I've ditched some for you on Firefly Island.
+	7238A93F	100
+	70D1247A	100
+	708C9C56	~z~Okay Niko, I've left some in Westdyke.
+	726ED15C	~z~Sure, man. You'll find some in South Bohan.
+	767D14E8	~z~I'm thinking you're the kind of guy who might need one every now and then. Call me if you want me to hook you up.
+	75417718	FCP_ACT_CALL_REQ_SPEC_LOWER_EASTON
+	742D15CD	~z~Packie, you got some explosives? I'm in need.
+	6BC0D0E0	FCP_ACT_CALL_HOSP_CANCEL_MEDLIKE
+	69DDF0EF	~z~Sure Niko, I left some over in Schottler.
+	69DC54DD	~z~Got it Niko. I left some for you in Little Bay.
+	6CF82AFE	~z~Sorry man, I got other shit to do. Call your mother or something.
+	6F3B180B	~z~Alright Niko. I've ditched some for you in the Firefly Projects.
+	6ED010CD	~z~Cool, Niko. I'm sure it'll get put to good use.
+	6D73A7F7	100
+	77C0F581	FCP_ACT_CALL_REQ_SPEC_HATTON_GARDENS
+	80FD3F14	~z~Got it Niko. I left some for you on Chase Point.
+	80FB16E1	100
+	80469048	100
+	81A1458B	FCP_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	86BA4662	~z~You'll find some I stashed for you in Little Italy.
+	84F6AC62	~z~Sure, man. You'll find some in Middle Park East.
+	83DC446F	FCP_ACT_CALL_REQ_SPEC_SUFFOLK
+	7C4020BC	~z~Sure thing man, I've hidden some in Chinatown.
+	7C332F25	FCP_ACT_CALL_REQ_SPEC_CITY_HALL
+	7A99AC8E	100
+	7D802629	~z~Sure thing man, I've hidden some in Fishmarket North.
+	7F8E5FC9	100
+	7E3ECD8B	~z~Can't do it just now Packie. You're going to have to make your own way home.
+	7DAA0535	FCP_ACT_PPK_CALL_HOSP_CANCEL
+	69C42CB3	FCP_ACT_CALL_REQ_SPEC_BOULEVARD
+	4F9B8D9C	100
+	4F467D5E	FCP_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS
+	4EC034F1	FCP_ACT_CALL_REQ_SPEC_WESTDYKE
+	4FA6FE89	~z~Got it Niko. I've left some for you in North Gardens.
+	539F3EC4	~z~Sure Niko, I've left some over in Beechwood City.
+	52708B1C	100
+	5134C947	010
+	421462CD	FCP_ACT_CALL_REQ_SPEC_STEINWAY
+	415874B3	~z~Okay Niko, I've left some in Northwood.
+	3DBC6CAC	FCP_ACT_CALL_REQ_SPEC_SOUTH_SLOPES
+	449FE5C8	100
+	4A70B300	100
+	49CD473F	~z~Thanks, Packie. That could be real useful. I'll call you if something comes up.
+	46CEDB35	~z~Sure Niko, I've left some over in South Slopes.
+	53F88DC7	FCP_ACT_CALL_REQ_SPEC_ACTER
+	6471CF0E	FCP_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST2
+	61C84FE4	FCP_ACT_CALL_REQ_SPEC_PURGATORY
+	613DE8AA	100
+	66AB9166	~z~Sure Niko, I left some over Downtown.
+	69A1FF35	~z~You'll find some I stashed for you in Middle Park.
+	68446D89	010
+	6739628D	100
+	5935C7B7	~z~Niko, they're letting me out of hospital. Will you pick me up?
+	56BF1B85	100
+	56828457	~z~Thanks Niko, you're a saviour, I'll wait.
+	5B56B440	~z~Sure thing man, I've hidden some in Castle Gardens.
+	60DB5F2E	FCP_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH
+	600AC3A5	FCP_ACT_GETCALL_SPEC_QQQ1
+	5F5D79D8	100

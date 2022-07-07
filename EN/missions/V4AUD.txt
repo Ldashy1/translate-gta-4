@@ -1,0 +1,146 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	91681FDD	V4_DA
+	940EA24D	V4_HA
+	97C4CA94	V4_FA
+	88C667D3	010100100100010
+	88FD8E23	V4_LC
+	8FE73C56	V4_OA
+	9ACA32B0	~z~~s~
+	A038D53B	~z~Hey, you and your cousin's girlfriend should get together. She likes sticky finishes as well.
+	A64A8A79	~z~You're a fast one, aren't you?
+	A6F258DE	V4_CA
+	9C7316C2	V4_KE
+	9C9305AB	010100
+	9D9D5295	V4_FD
+	82F7EAB8	100
+	62B84ADC	~z~Thank you. You won't regret this, man. I am outta here!
+	66067A6C	~z~Fuck you. Say this to my face and I will break you.
+	69302F51	V4_KB
+	5B054448	~z~Vlad ain't nobody, you going to see that.
+	5FF6B48B	010100010
+	629F27B8	~z~Move it, asshole.
+	74E50A87	100100100100100
+	7EF96143	~z~I wasn't sure about killing you when Vlad asked. Now I'm coming around to the idea.
+	80416A5F	~z~So you're the guy I'm meant to kill?
+	812112CA	V4_EA
+	76DD50F3	~z~I'm going to catch you, asshole.
+	76F4FB1D	V4_FA_QQQ1
+	FF77E16F	~z~Get out my way.
+	A727A10F	V4_KC
+	DB50BC0F	~z~I owe you my life, man. You're a good man, you're a good man, thank you.
+	DFE7F723	~z~Get up.
+	E7ECEA5C	~z~No one's going to know that I'm alive. Not even my mother.
+	D422197D	~z~I promised to deal with you. I don't break promises.
+	D85C6E9C	~z~I thought everyone in this country was fat and slow.
+	DAC74A57	~z~Ivan is dead. He came to a sticky end.
+	EA9BAD08	V4_IB
+	FA6CC276	090
+	FABB4EBD	V4_KA
+	FBA2A7BF	100
+	EAB86CD6	090
+	EB31F9C4	010
+	F7D37514	~z~Wanted to leave anyway, get away from all these people from back home.
+	D38EC1A0	~z~I wasn't stealing nothing from your cousin's place!
+	AEF672B6	~z~Fuck you. Say that to my face and I will break you.
+	B04EB2C7	V4_IC
+	B68741ED	~z~Slow the fuck up, asshole.
+	A8903460	~z~Shit, you're starting to annoy me.
+	AC9BDEDD	010
+	AD3A4E80	V4_LD
+	B8BDEF2E	~z~Vlad's a bum, he set me up.
+	C98C10CA	~z~You trying to rob my cousin?
+	C9905104	~z~Man, I'm starting to sweat. Shit.
+	CD291447	~z~You've run out of roof, dickhead.
+	C17AC42A	V4_BA
+	C578CAC6	V4_BB
+	C63991E1	~z~Get into the real America. You never gonna see me around here again.
+	5AD1B692	V4_QA
+	2C539A82	010100
+	303D5237	V4_NA
+	313490C5	~z~You won't be seeing your boyfriend Ivan no more. You going to miss him?
+	276D7D33	~z~No I'm not. I'm getting enough pussy at the moment.
+	16FD1800	010
+	2BF7931D	V4_JA
+	325C9D21	V4_GA
+	1CA92330	~z~That prick Vlad making me kill this guy. Man!
+	167081BA	~z~Slippery bastard.
+	78C51FE9	~z~Because you don't have to deal with all their shit all day. Take Mallorie, for example...
+	317BB09E	010100
+	31C871CB	~z~Vlad's a bum, don't kill me for him.
+	1EBE57FE	~z~Please. Vlad told you to kill me, right?
+	1B815ADA	V4_AA
+	1B3118DD	~z~You got eyes?
+	1CD4B55A	010
+	09F52C3F	V4_FC
+	063626EE	~z~I'll stay out of Hove Beach. I'll be a ghost. I promise. Please!
+	18790E51	~z~He's nothing in this town, don't do this for him.
+	05528E8B	V4_LB
+	27627397	010
+	21EAA5AD	V4_AB
+	223DD2B6	~z~Stay the fuck away from me, I was set up!
+	25082942	V4_KD
+	342DBD34	~z~Where you going to?
+	4F7F2B2A	V4_FB
+	524119E3	V4_LE
+	14662E39	~z~If Vlad wants you dead, you can't be all bad. Stay out of Hove Beach.
+	159AD98E	~z~I tell you, is so much better if woman already have a man.
+	4F5A1BB9	V4_EB
+	10CCF5AE	V4_IA
+	58466F17	~z~Hey, Vlad. I lost your boyfriend. He got away from me.
+	5ACD6F57	V4_PA
+	0DDF859D	~z~Alright, Ivan, let's do this.
+	5475436B	~z~Vlad told me to go there. Let me go and I'll lay low.
+	5485643E	V4_MA
+	486D93B4	V4_LA
+	4BC7FA0A	~z~I'm running here.
+	3F14F81D	~z~There ain't nowhere left for you to run.
+	42BB62D5	~z~Vlad don't like you no more, man.
+	4692CBB4	~z~I should have known you would screw this up. You are born loser, just like your cousin. Come see me sometime.
+	3F8A8D53	~z~Shit. Shit. Shit.
+	4C50A6DF	~z~I don't want no trouble with you!
+	4C7F92A0	190
+	41B18F97	010100100100100
+V4_CUT1_1	66701976	~z~Hey, how ya doing?
+V4_CUT1_10	3F6B5E90	~z~You remember Ivan?
+V4_CUT1_11	4DE0FB7B	~z~No.
+V4_CUT1_12	D42107FD	~z~Guy you saw me talking to. This guy.
+V4_CUT1_13	E06BA092	~z~Er... this guy?
+V4_CUT1_14	F6A5CD06	~z~Oh, yes. You guys had a little kiss.
+V4_CUT1_15	04BD6935	~z~Very funny... what would you say if I told you he was going to rob your cousin?
+V4_CUT1_16	9B7196A3	~z~I'd say... what problem has he got with my cousin?
+V4_CUT1_17	A92E321C	~z~Hold on. Hey, hey, hey gorgeous...
+V4_CUT1_18	BE4C5C58	~z~no, I can't talk right now... what are you wearing?
+V4_CUT1_19	CE01FBC3	~z~No, I mean underneath it... great... listen, I'll call you back, eh? Sorry.
+V4_CUT1_2	E7659B5F	~z~Hey, Mickey.
+V4_CUT1_20	06056D85	~z~Who was that?
+V4_CUT1_21	13CB0910	~z~Never you mind.
+V4_CUT1_22	AA463608	~z~Was it Ivan?
+V4_CUT1_23	BE185DAC	~z~Ooh, that's funny. You know, for a dumb yokel, you're a very funny guy.
+V4_CUT1_24	CF3BFFF3	~z~Yes, and for an annoying dick, you're really an annoying dick.
+V4_CUT1_25	DC859A86	~z~Well, it's a real shame, then, that I'm the guy with the powerful friends, and you're the little punk
+V4_CUT1_26	4F4E8012	~z~whose only friend is some fat weasel who drives a fucking cab...
+V4_CUT1_27	661CADAE	~z~So... why is Ivan going to rob my cousin?
+V4_CUT1_28	753A4BE9	~z~Because I want you to kill him.
+V4_CUT1_29	9B07978B	~z~What?
+V4_CUT1_3	0CCBE62B	~z~What'll you have?
+V4_CUT1_30	64282AF1	~z~He's angered Mikhail... Mr. Faustin. Offended him.
+V4_CUT1_31	55B68E0E	~z~He think he's stealing some paperwork from Roman.
+V4_CUT1_32	D0A183E6	~z~You catch him, and kill him...
+V4_CUT1_33	02696775	~z~then we say it was just a robbery that failed.
+V4_CUT1_34	FD4C5D3B	~z~And what if I say I don't want to be your hitman?
+V4_CUT1_35	270DB0BD	~z~Then Mr. Faustin will be very angry with you... and your cousin.
+V4_CUT1_36	A9D83654	~z~Hmm, okay.
+V4_CUT1_37	C3E26A68	~z~I knew we would understand each other, once I put it in this simple way.
+V4_CUT1_38	B628CEF5	~z~Now, go wait for him by the car depot!
+V4_CUT1_39	E0702383	~z~Hey gorgeous, yeah where were we? Okay now listen, let's talk about tonight...
+V4_CUT1_4	F9E94066	~z~Glass of water.
+V4_CUT1_5	3148AF24	~z~Glass of water.
+V4_CUT1_6	AE5E294D	~z~Bang, bang, you are dead.
+V4_CUT1_7	D43674FD	~z~Wake up, you moron.
+V4_CUT1_8	C4CFD630	~z~You got me.
+V4_CUT1_9	F2DBB24B	~z~Come over here. Sit down.

@@ -1,0 +1,136 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6804BAC8	F3_CF
+	6E68F89C	~z~You and Faustin have gotta be crazy.
+	5AE65197	~z~This isn't meant to be happening.
+	CDA82ABF	~z~My dad pays you to ice crazy bitches like this guy.
+	720AC2A3	F3_GC
+	C7993F78	100
+	77E68B97	~z~Faustin's out of control.
+	C9ED4293	100010
+	76239356	100010
+	D827B3A1	010100
+	50A43D13	~z~Haven't you heard of my father, Kenny Petrovic?
+	D865B921	~z~The decision has been made.
+	4EDDC5B9	120
+	51F7B4DF	~z~You let him go? You disobeyed me? Maybe it is you I should have killed. You and Dimitri.
+	55E2FE6A	010
+	CE2799D2	F3_AD
+	D4229B32	F3_EA
+	D0AE0D4F	010
+	B6C75CF7	F3_DA
+	B2DDF52B	~z~Hold on a second.
+	8A59B07D	~z~Stay away from me.
+	8ABDA5E6	F3_HA
+	94630CE3	F3_GB
+	AF77B5C2	~z~Lenny, the boy, he's dead.
+	A59DE705	~z~You shouldn't be fucking with my father.
+	9CD81083	~z~I'm sorry Niko. Thank you. At least you are loyal. We will work together again, come to see me at my house.
+	A04CB49A	F3_CA
+	7B3D79AF	F3_DC
+	7EF98A40	010100100
+	79DE75A9	~z~Mr. Faustin, do you want to call this off?
+	7AB76A0B	F3_DD
+	7F45069F	~z~Dimitri, should I do this? Should I kill this boy for Mr. Faustin?
+	BDDA6D68	F3_DE
+	8740106C	~z~No, I never change my mind. I've heard he's at the Guantanamo Avenue station.
+	C1C2DA58	~z~Shut up Dimitri, I don't care who he is. It is too late anyway. Niko has killed him. Stop your whining.
+	C0E256B8	010100100100
+	4D7CFD10	F3_GD
+	1D9EC9D6	~z~He's enough of a somebody to get you killed.
+	F0030836	~z~You're signing your death warrant, asshole.
+	16153617	F3_HC
+	F55A60C5	~z~Hey, Lenny. Mr. Faustin thinks you're a rat. He ain't taking no risks.
+	EEBB5055	120200
+	26185485	~z~I'm into more shit than Mikhail could even imagine. Why would I rat?
+	26DAD5CC	~z~Just one second, Mikhail. It's nobody.
+	ED59DC9E	~z~Go to the platform and get rid of that rat.
+	24C02A4B	F3_GA
+	FA8BF702	~z~Shut up Dimitri, for the last time...
+	0B308195	F3_CC
+	FB7FC5E4	010
+	FA92CC03	~z~You would still be in a fucking Gulag if it wasn't for me. You'd be drilling for oil in the tundra.
+	0F552D43	~z~Faustin ain't nobody. Fuck off.
+	F667889B	~z~Kenny Petrovic - don't that mean anything to you?
+	148C312F	~z~I cannot talk just now. Do what you have to do.
+	112418B2	~z~Do what my papa pays you to do. Shit.
+	12B21C46	F3_AB
+	4BDB8A7A	F3_CD
+	3F709AAC	~z~You and Mikhail will be killed if anything happens to me.
+	3B1A7F01	F3_HB
+	EADBB5E2	F3_FB
+	43B19853	~z~Ah... Lenny, got away. Maybe this is a sign?
+	DAC59E45	~z~Hey, Lenny.
+	E7CF4C41	F3_AC
+	DC68D49A	~z~My father's Kenny Petrovic.
+	3702F6CB	F3_DB
+	2DE2C809	F3_CB
+	31F442B6	F3_FA
+	EBF2D9B4	~z~Mikhail Faustin don't like you no more. It's nothing personal.
+	39D7E931	F3_AA
+	3F3B89D1	010100100100
+F3_CUT1_A_1	9C986F33	~z~Hi, Dimitri.
+F3_CUT1_A_2	9197D932	~z~Hey, Dimitri, I took care of that thing for you.
+F3_CUT1_A_3	832A3C57	~z~Very good. I'm proud of you. Good.
+F3_CUT1_A_4	D638E277	~z~Dimitri, thank you for take care of that thing for me.
+F3_CUT1_A_5	C86A46DA	~z~No problem.
+F3_CUT1_A_6	B8F1A7E9	~z~Dimitri, Dimitri, hey, hey, uh... meet my girl, Natasha.
+F3_CUT1_A_7	AA1F8A45	~z~-So nice to meet you.~n~-Oh, my pleasure.
+F3_CUT1_B_1	2EEBF8A4	~z~Little delicious, my little knish...
+F3_CUT1_B_10	7267FCED	~z~-Please?~n~-Okay.
+F3_CUT1_B_11	079F275D	~z~Get out of here.
+F3_CUT1_B_12	19054A29	~z~Keep it warm. I won't be too long.
+F3_CUT1_B_13	3F15969D	~z~So.
+F3_CUT1_B_14	A8D56A1B	~z~What is it?
+F3_CUT1_B_15	9891C994	~z~We've got police trouble.
+F3_CUT1_B_16	8A582D21	~z~The feds, or someone are all over us.
+F3_CUT1_B_17	047DA16E	~z~Sergei told me that a friend of his in the courts told him
+F3_CUT1_B_18	F6B805E3	~z~they've been authorized to tap our phones and they know about the pot we stole.
+F3_CUT1_B_19	6308DE83	~z~Shit.
+F3_CUT1_B_2	593CCD2D	~z~Mikhail.
+F3_CUT1_B_20	53C6C567	~z~Who is the rat?
+F3_CUT1_B_21	856528A3	~z~It's no one. It's just the way we have been behaving.
+F3_CUT1_B_22	77738CC0	~z~Making too much noise. This was inevitable.
+F3_CUT1_B_23	1D125803	~z~We're going to have to calm things right down for a while.
+F3_CUT1_B_24	4F533C84	~z~It's that fucking guy, yeah, I know it is.
+F3_CUT1_B_25	40A59F29	~z~I saw it in his eyes... you know?
+F3_CUT1_B_26	530FC3FD	~z~That guy.
+F3_CUT1_B_27	D46A46B4	~z~That guy, who bought the coke...
+F3_CUT1_B_28	0679AAD2	~z~-but he didn't buy the pot.~n~-That's Lenny.
+F3_CUT1_B_29	F7F00DBF	~z~He's my cousin's boyfriend. It's not him. Yes, he's a moron, yes, but he's okay.
+F3_CUT1_B_3	06462759	~z~Hey! My brother, and Niko. Good.
+F3_CUT1_B_30	A187622F	~z~I don't trust him.
+F3_CUT1_B_31	BF879E37	~z~What? I just told you...
+F3_CUT1_B_32	CDC93ABA	~z~He knows too much.
+F3_CUT1_B_33	77790E17	~z~You, kill him.
+F3_CUT1_B_34	85BAAA9A	~z~Are you sure?
+F3_CUT1_B_35	9421C768	~z~Sure? No, I am not.
+F3_CUT1_B_36	A26063E5	~z~Right now, I am wondering if it's him or you.
+F3_CUT1_B_37	209BE05E	~z~It could be you.
+F3_CUT1_B_38	3EE11CE8	~z~Think for a second. This has been going on for months.
+F3_CUT1_B_39	4DD2BACB	~z~Think? Look where your thinking has got us.
+F3_CUT1_B_4	BB8311D4	~z~-Have a drink.~n~-Oh, baby...
+F3_CUT1_B_40	EEE4F965	~z~You were in charge of security. Good job. Well done, Dimitri.
+F3_CUT1_B_41	29A9EEEE	~z~You pathetic idiot.
+F3_CUT1_B_42	1362C260	~z~You,
+F3_CUT1_B_43	D9544E48	~z~prove you're loyal. Go, and kill the guy.
+F3_CUT1_B_44	8354A242	~z~Don't question my loyalty.
+F3_CUT1_B_45	BA6E907D	~z~Then don't question my orders.
+F3_CUT1_B_46	EC9574CA	~z~He lives on Guantanamo Avenue in Bohan.
+F3_CUT1_B_47	4EE8396A	~z~Head up there, and call me, me personally, when you get there.
+F3_CUT1_B_48	410B9DB1	~z~-Mikhail, please, don't do this.~n~-Shut up.
+F3_CUT1_B_49	7369026B	~z~-I...~n~-Shut the fuck up.
+F3_CUT1_B_5	D9C44E56	~z~Move up ladies. Move up.
+F3_CUT1_B_50	A20C69E9	~z~-I... I'm begging you... please,~n~-I said shut the fuck up.
+F3_CUT1_B_51	93CACD66	~z~-don't do this. ~n~-Go.
+F3_CUT1_B_52	457730C0	~z~-Why don't you listen?~n~-You want to play games?
+F3_CUT1_B_53	B2F00C0C	~z~-This is not a game.~n~-Hey, give me break.
+F3_CUT1_B_54	24A76F79	~z~-You have to play by the rules.~n~-Stop. I said stop.
+F3_CUT1_B_6	1FEB5AA3	~z~Um.... Mikhail, we've got something we need to talk about.
+F3_CUT1_B_7	CD9CB607	~z~Okay, you can have Vera, I take Katerina,
+F3_CUT1_B_8	A8A66C37	~z~-come on, no big deal.~n~-Not that, in private?
+F3_CUT1_B_9	8C5D33A5	~z~Girls, can you give us a minute, huh?

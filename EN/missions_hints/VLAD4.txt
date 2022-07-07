@@ -1,0 +1,21 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	956CD959	~r~Ivan~s~ is escaping into the construction site. Chase him.
+	77E42A44	~s~Use the ladders to chase Ivan through the building site.
+	6E2716CA	~s~Press ~INPUT_ENTER~ to mount the ladder. Use ~PAD_LSTICK_UPDOWN~ to move up and down on the ladder.
+	AD66EF29	~s~Choose ~r~Ivan's~s~ fate.
+	ED7B9571	~s~Press ~INPUT_PICKUP~ to help Ivan up. Press ~INPUT_MELEE_KICK~ to kick Ivan off the edge.
+	E9965FD5	~s~Use ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+	BF2438C3	~s~Press ~INPUT_JUMP~ to climb over objects or walls.
+	4116DB10	~s~Choose ~b~Ivan's~s~ fate.
+	1A17D265	~s~When an enemy's icon flashes between blue and red you have the choice between killing them and letting them live. Your decision could have repercussions.
+	1113AE6A	~r~Ivan got away.
+	10E65C46	~s~Hold ~INPUT_SPRINT~ while climbing a ladder to climb faster.
+	1BBD71F4	~s~Press ~INPUT_JUMP~ while running to jump between buildings.
+	3D7FAEE8	~s~Chase ~r~Ivan.
+	2AD70997	~r~Ivan~s~ is already making an escape. Chase him.
+	21EBF7C1	~s~Go to ~y~Roman's garage.

@@ -1,0 +1,95 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A3EAD9B8	100100010100100100100010100100100100
+	ADAE59D8	GCC2_DRUNK2_PK
+	9DCC1B0F	~z~Shit, Carmen. I'm not the one they're fucking paying.
+	9D17850B	~z~You a cheapskate or something, Niko? You don't want to spend no money on Carmen?
+	9D8ED5D1	100010100100010100100010100010
+	AFD99746	~z~Don't do that again.
+	BB2ED5D4	~z~Shit, can't someone else look after them? You fucking do it.
+	BF21AA03	GCC2_DRUNK3_QD
+	B6424B7B	GCC2_DRUNK2_PA
+	AFE6FBBF	GCC2_DRUNK1_OB
+	B4312ADE	~z~Fuck you, Niko. You think you better than Carmen? You ain't. You ain't fucking shit.
+	86544F25	~z~This is good. I'm enjoying myself.
+	86BFC513	~z~We're having fun.
+	858D305A	~z~No problem.
+	81B88515	SFX_PAUSE_2000
+	857A24FF	GCC2_DRUNK4_RI
+	89C05D5D	SFX_PAUSE_2000
+	908DE368	~z~Screw you, asshole.
+	9A71B5EA	GCC2_DRUNK3_QI
+	8EBD9E13	GCC2_DRUNK2_PM
+	89F4F889	GCC2_DRUNK2_PE
+	8D8319AD	GCC2_DRUNK3_QK
+	F1130EC5	GCC2_DRUNK3_QC
+	F127B3F0	GCC2_DRUNK4_RC
+	EE563835	GCC2_DRUNK4_RF
+	E2366F0C	~z~Screw you, Niko.
+	E361FE56	~z~I got to deal with stupid fucking sick children all day long.
+	F1C3DEE5	SFX_PAUSE_2000
+	F72EC55E	GCC2_DRUNK4_RB
+	F91D130B	SFX_PAUSE_2000
+	F5DED00C	GCC2_DRUNK1_OK
+	F20A40BD	GCC2_DRUNK4_RE
+	F39B3211	~z~she was saying something with her eyes and with her hips and with her whole body language.
+	CA3997B7	GCC2_DRUNK1_OG
+	CB94769F	~z~Carmen don't know how she cope neither, baby.
+	C55D8D1F	GCC2_DRUNK1_OH
+	BF499E25	GCC2_DRUNK4_RH
+	C4D07701	010100100010100100100010100100010
+	CC4182D9	GCC2_DRUNK2_PF
+	DFC571CE	GCC2_DRUNK3_QB
+	E0A4797C	GCC2_DRUNK4_RJ
+	D8F7572D	~z~Man I am drunk as shit.
+	CE34D3FC	~z~I don't need to deal with you here as well.
+	D84388C0	~z~Great!
+	7AAF40B3	~z~I guess so.
+	2A219F21	~z~You only buy her the happy hour drinks not them high price ones.
+	2E229E93	~z~You lucky Carmen's hanging out with you, baby. She's so out your league.
+	240AF738	GCC2_DRUNK3_QE
+	2127284F	GCC2_DRUNK2_PC
+	23FEED3B	~z~Ouch.
+	2E3C5923	GCC2_DRUNK1_OE
+	3070AC37	~z~but you too up your own fucking ass to give a shit about the Carmen.
+	3880B34F	~z~Okay, thanks for the vote of confidence.
+	30678608	~z~Issues? Fuck you.
+	2E767754	GCC2_DRUNK1_OA
+	30392810	GCC2_DRUNK3_QL
+	07DFE621	GCC2_DRUNK2_PI
+	0FDA0326	SFX_PAUSE_2000
+	06887082	SFX_PAUSE_2000
+	04464022	~z~Shit, your life sounds real tough, Carmen.
+	04B0D258	GCC2_DRUNK3_QF
+	10EB5968	~z~You have it hard. I don't know how you cope.
+	1A556C40	~z~Fucking whiney sick bitches. I hate all the patients.
+	1F03095C	~z~If you cared you would have picked up on it,
+	1A002F4B	GCC2_DRUNK1_OF
+	10FD06DB	GCC2_DRUNK2_PB
+	12B55009	~z~Guess where Carmen going to hit you fucking next?
+	61515D29	~z~Watch it, Carmen.
+	6178053D	~z~Sure, I am. I really appreciate that.
+	5ED062D9	~z~No problem? I gotta be at work soon. I gotta save lives, man.
+	5D1C5F71	~z~And I'm drunk! What is wrong with me?
+	5E2E8CE4	GCC2_DRUNK4_RD
+	6B41FBC0	~z~I'll give you fucking issues, I'll put you in the fucking hospital myself.
+	764FCF47	GCC2_DRUNK2_PL
+	77FD6EAC	SFX_PAUSE_2000
+	720DBC46	GCC2_DRUNK4_RA
+	6DE95924	GCC2_DRUNK1_OD
+	71AF9AF3	~z~You like a child, Niko. You simple like a fucking child. Shit.
+	45D45686	~z~Carmen was saying something,
+	4BAFD9AD	~z~Every time Carmen agrees to go out with you, you getting real lucky.
+	45C2BF2E	010100100100100010100010010100100100010
+	403725A7	~z~I don't know, maybe you've got issues.
+	40462ADE	GCC2_DRUNK3_QA
+	50A0EC47	GCC2_DRUNK3_QG
+	58369BBD	GCC2_DRUNK2_PG
+	5BE17A10	~z~She should be going out with rap stars and football players, not hoods like you.
+	581E7B1A	~z~I thought you liked the drinks I was buying you. Why didn't you say anything at the time?
+	50E62302	GCC2_DRUNK1_OI
+	52DEA9B2	GCC2_DRUNK2_PH

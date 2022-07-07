@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C8D85399	Take Marnie to her ~y~dealer's place.
+	E0DDAB0C	~r~Marnie is dead.
+	E9FBBF74	~r~Marnie was abandoned.
+	8FE9E1BD	Get a vehicle.
+	000D780F	Get Marnie to the ~y~dealer's.
+	03E4F66E	Pick up ~b~Marnie.
+	47C0FC21	Wait for ~b~Marnie.

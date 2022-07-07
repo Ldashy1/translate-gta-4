@@ -1,0 +1,80 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	98ECF630	~z~I don't want to think what would happen if the 'roid rage took hold of me too.
+	9DB1E885	FCBD_DRUNKEN_CONVERSATION_2_BC
+	97949EFE	FCBD_DRUNKEN_CONVERSATION_4_DE
+	97E1705D	~z~Winners are never negative.
+	9DE156E6	~z~No one could touch our bods. We're fucking pimps. We are the money.
+	A4EEFD15	FCBD_DRUNKEN_CONVERSATION_3_CG
+	AB8CF23D	~z~Did you see the way those bitches was scoping me? They love my shit. Yeah, that's right.
+	A372E20D	~z~Oh, you must have been in the can or something.
+	A4CF815E	FCBD_DRUNKEN_CONVERSATION_3_CC
+	832BCAAE	~z~That was just an offer man. Alright?
+	895BADDB	~z~Nobody can touch our shit. I mean no one else
+	7EB64FE1	~z~You see how I went in there and I got the most expensive shit they had.
+	82A080EB	FCBD_DRUNKEN_CONVERSATION_4_DC
+	8D6DED50	~z~Man, I love drinking champagne. It's the fucking best bro, fucking best.
+	95C30356	FCBD_DRUNKEN_CONVERSATION_2_BI
+	95C546B2	~z~I missed that Brucie.
+	8E4C5D33	~z~I'm a positive person. I'm the best. I'm unstoppable. I'm genetically different, man.
+	8F46E2E0	~z~I got a good line on juice if you want some.
+	ABAF17F8	~z~Ah man, shut up, just shut up... why you always so negative bro?
+	E67B62A3	FCBD_DRUNKEN_CONVERSATION_1_AD
+	EFC07AAD	FCBD_DRUNKEN_CONVERSATION_1_AB
+	DE4C8F04	~z~They might have thought we was drinking some sparkling wine... shit or something.
+	E484E42C	~z~That was fun.
+	F8016DDF	FCBD_DRUNKEN_CONVERSATION_4_DA
+	FC10F856	FCBD_DRUNKEN_CONVERSATION_4_DF
+	FE5D9A2F	FCBD_DRUNKEN_CONVERSATION_1_AH
+	F84134D7	~z~I'm going to have to hit the cardio hard tomorrow. There were some serious carbs in those drinks bro.
+	FABAAAB7	FCBD_DRUNKEN_CONVERSATION_3_CE
+	B3EED6BE	FCBD_DRUNKEN_CONVERSATION_4_DH
+	B7012005	FCBD_DRUNKEN_CONVERSATION_3_CH
+	ABD12A1A	~z~It's okay.
+	B2720007	~z~Yeah, man. We're the fucking best bro.
+	BC1E7B76	FCBD_DRUNKEN_CONVERSATION_1_AG
+	D3C628A9	FCBD_DRUNKEN_CONVERSATION_4_DG
+	D70CC93C	~z~was flashing the cash that we were, right? Nobody was rocking bling like ours.
+	C0649756	FCBD_DRUNKEN_CONVERSATION_1_AE
+	CF6F5117	FCBD_DRUNKEN_CONVERSATION_2_BF
+	31A29502	010100100100100100010100
+	35862BA8	~z~Vain, drug addled, full of plastic?
+	309D258E	~z~Yeah? I didn't notice.
+	315C1243	~z~You should ask them next time.
+	3FFFD695	FCBD_DRUNKEN_CONVERSATION_2_BJ
+	474F4753	FCBD_DRUNKEN_CONVERSATION_3_CB
+	48223FCF	~z~You'd think the barman could put a price tag on the glasses. Fucking asshole! Everyone would know then.
+	44953739	FCBD_DRUNKEN_CONVERSATION_2_BD
+	4718CECD	~z~They were hellcats, hunters, cougars, baby just like me.
+	153EE0E7	FCBD_DRUNKEN_CONVERSATION_3_CD
+	19968E21	100010100100010010100100
+	06E7BD5F	FCBD_DRUNKEN_CONVERSATION_2_BA
+	0F789BB9	FCBD_DRUNKEN_CONVERSATION_4_DD
+	22A8DF29	FCBD_DRUNKEN_CONVERSATION_1_AA
+	2880896C	FCBD_DRUNKEN_CONVERSATION_2_BH
+	307B336C	~z~I don't mind laying down the readies. I just wish more people saw me man.
+	252E1CD2	~z~That's how I roll, okay?
+	27D60ACA	100100010100100100010100100100010
+	50DBE253	~z~No.
+	6CA519E5	~z~Did you see how those women were looking at me, man?
+	6E849263	FCBD_DRUNKEN_CONVERSATION_2_BK
+	6AABD91E	FCBD_DRUNKEN_CONVERSATION_1_AF
+	6AC089FB	FCBD_DRUNKEN_CONVERSATION_2_BE
+	75AC0772	FCBD_DRUNKEN_CONVERSATION_1_AC
+	7CE83E27	~z~An offer to a friend. I fucking love you man.
+	7E65411D	~z~I got enough of a temper, thanks Brucie.
+	79D5F2B2	FCBD_DRUNKEN_CONVERSATION_4_DB
+	7C75B986	~z~That's my vibe. And I'm sticking to it. I fucking love you man.
+	59E4781C	~z~You should start looking after yourself more. Start counting carbs bro, hitting the weights.
+	5A3086D6	~z~That's why it costs the most, because it's the shit.
+	52CEF813	~z~Yeah, but that don't mean they knew how much it cost.
+	543558B5	FCBD_DRUNKEN_CONVERSATION_2_BB
+	6188FD6E	FCBD_DRUNKEN_CONVERSATION_3_CA
+	670B826F	FCBD_DRUNKEN_CONVERSATION_3_CF
+	69B125D7	~z~They saw you drinking the champagne.
+	654D7DC1	FCBD_DRUNKEN_CONVERSATION_2_BG
+	661F41B6	100010100010100100100100

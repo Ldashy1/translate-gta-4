@@ -1,0 +1,32 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	943CA520	~r~Michelle and Mallorie are dead.
+	B2CF3FBD	~s~Go to the ~y~subway station.
+	B8DA6E5B	~r~The car was trashed.
+	7A6749B5	~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ again to switch the radio back on.
+	7FDEFC65	~r~Mallorie was injured.
+	82B30221	~r~The shop assistant has been injured.
+	B9656F85	~r~You have abandoned the car.~s~
+	E3E159D4	~s~You left ~b~Mallorie ~s~and~b~ Michelle~s~ behind, go back and get them.
+	F05472BA	~s~You left ~b~Michelle~s~ behind, go back and get her.
+	FD5CE27D	~s~Use ~INPUT_VEH_NEXT_RADIO~ or ~INPUT_VEH_PREV_RADIO~ to cycle between radio stations when in a vehicle.
+	BC0F5239	~s~Get back in the ~b~car.
+	CA0610B2	~r~Mallorie is dead.
+	DA4F0948	Get to the clothes shop on Mohawk and buy some new clothes.
+	1C16105D	~s~Press ~INPUT_VEH_HORN~ to sound your horn to attract the girls' attention.
+	29C2EF9F	~s~Hold ~PAD_DPAD_DOWN~ to switch off the radio.
+	3329026B	~s~Use ~PAD_DPAD_LEFTRIGHT~ again to switch the radio back on.
+	008F55C8	~s~The ~BLIP_50~ icon represents a clothes shop, you can visit at any time to buy new clothes.
+	06649EDA	~s~Get in ~b~Roman's car.
+	17A34B60	~s~Use ~PAD_DPAD_LEFTRIGHT~ to cycle between radio stations when in a vehicle.
+	4A2C9101	~r~Michelle was injured.
+	65E5A07B	That should be enough to impress Michelle...
+	6F0F5AC6	~r~Michelle is dead.
+	6F57F0C3	~s~You left ~b~Mallorie~s~ behind, go back and get her.
+	4CE12BD6	~s~Take them back to ~y~Michelle's apartment.
+	538683BB	~s~Use ~INPUT_TURN_OFF_RADIO~ to switch off the radio.
+	5C008CB1	Buy some new clothes.

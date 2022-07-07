@@ -1,0 +1,94 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A44251BC	TWAT_GB
+	A527B248	100010
+	A3352943	TWAT_RA
+	9C21E1DD	100010
+	9F30B5B2	~z~Niko, you're back. I was thinking, you do not even know my name. I am Alejandra.
+	A7EAE46E	TWAT_HA
+	B1E34F7E	100
+	B4925AC1	TWAT_QA
+	B18366BB	~z~I'm not going anywhere, Niko. Come back soon.
+	AEA954BE	100
+	AEDEAA8C	~z~And then he was gone. Until we meet again, Niko.
+	8AAEF356	~z~Prince charming walks off into the distance. Goodbye.
+	8BDFCB90	TWAT_KB
+	880DE5DF	TWAT_DA
+	871C6C95	~z~Niko, I hope you've come back because of me, not just these stupid computers.
+	87CCD15C	~z~Thanks. Good to see you too.
+	8CF7113F	~z~That's good to know, Alejandra.
+	9548EECF	~z~Come back soon, Niko. I get lonely when you don't come to see me.
+	973DAFA3	TWAT_MA
+	952EEC20	~z~Niko, Roman's cousin. You've made my day.
+	8F1821E5	~z~Bye, Niko.
+	90236EAE	~z~Niko, I hope you're not going to start using another internet café.
+	E6A608B1	100
+	E77377C3	TWAT_IA
+	E44FC239	TWAT_BA
+	DF41AEA5	~z~Have I told you how handsome you are, Niko?
+	E0BEB840	100100010
+	ED673CB1	TWAT_EB
+	F9BC7E04	100010
+	FDA4190D	~z~My favorite customer, he is back.
+	F9215505	TWAT_EA
+	F08FD141	~z~Niko, the man of my dreams, good to see you again.
+	F1E9D48F	TWAT_QB
+	C17F50A6	~z~Yeah, good to see you. It's Niko, by the way.
+	C6246AFB	100
+	BF00FC41	100010
+	B864181C	TWAT_KA
+	BA93ADA7	TWAT_AA
+	CC411C36	~z~Bye, Niko.
+	D17E57D8	TWAT_AB
+	D396F4D5	~z~Roman's cousin, it's good to see you again.
+	D02CC0D4	TWAT_CA
+	CCFB0A18	~z~There he is, my favorite customer.
+	CFB3A8E1	~z~Come back soon, Niko.
+	2F51FC68	~z~My favorite internet café worker is still here. Good to see you.
+	2FE8A075	100
+	29748058	100010
+	20AB84CC	100010
+	28AC991F	100
+	3237B66C	TWAT_TA
+	3600EA82	TWAT_LA
+	365D9AC3	TWAT_OB
+	35528FB6	~z~And then he walked out of her life. So long, stranger.
+	3285B091	~z~Come back soon, okay?
+	34BF6990	TWAT_MB
+	0848BFCE	TWAT_OA
+	0CAE77AF	~z~It's great to see you Alejandra, but I have things to do online.
+	07604389	100010
+	02DD75DC	~z~I feel safe when you are in here, Niko.
+	055EB2B3	TWAT_MC
+	0EAE8DAE	~z~Because you're the best looking internet café girl in the whole town.
+	17D4D7ED	TWAT_IB
+	1C582901	~z~Niko. Why do we keep meeting like this?
+	164112ED	TWAT_SA
+	1223B9F1	TWAT_GA
+	13E0F717	TWAT_FA
+	7431B6CB	~z~No, Alejandra, it wouldn't be the same without you working here.
+	79BDD653	100
+	718C1334	~z~Niko, you are back to log on?
+	6A54FD2F	~z~Goodbye, Niko.
+	71422A35	~z~Don't stay away too long.
+	7DE2CA2D	~z~This place would not be the same without you coming here.
+	81E9F413	~z~Niko, you're back. You've made my week.
+	831FB65F	~z~That's right. Thank you.
+	80E3FDCB	100010
+	7E79A21B	TWAT_JA
+	7FC3833C	~z~Don't stay away too long, Niko.
+	496CC4B6	TWAT_CB
+	4B2EF536	TWAT_PA
+	46E01A75	~z~You don't need to wear makeup, Alejandra. You look great anyway.
+	39714469	100
+	44CD6C54	~z~Bye, Niko.
+	4EEE662B	TWAT_NA
+	6340CA37	~z~Come back to see me soon.
+	6A45EFE6	100
+	5EFD2F57	100
+	4F85657C	100
+	5919BEE8	~z~Oh, it's you. If I would have known you were coming I would have put some makeup on.

@@ -1,0 +1,18 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	D5085B24	~s~Watch out for ~r~Ray's~s~ bodyguards.
+	C2C936A6	~s~Exterminate ~r~Ray and his bodyguards.
+	A1067485	~s~You were spotted
+	FA26A550	~s~Press ~PAD_LB~ to raise the barrier.
+	EAE506CD	~s~Slow down to pay the toll, you don't want to attract attention.
+	E3A2F859	~s~Drive up to the pay kiosk. The toll is $5.
+	1E4E6DAF	~s~Head over to ~y~East Holland~s~ and look for Ray.
+	1DFA6CF7	~r~Ray was spooked.
+	0BABC85A	~r~Ray got away.
+	7EA1AFBC	~s~You need a car.
+	6BB409E1	~s~Don't get too close or you might be spotted.
+	484A430E	~s~Lose your wanted level.

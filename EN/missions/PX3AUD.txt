@@ -1,0 +1,342 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A8561EC8	~z~You the money, son. Yusuf's PA won't put me through to the cat.
+	A8A8FF32	~z~I'll tell you where the cats are at and who you need to look out for. I'm your eyes in the sky, money.
+	A7C7E5D9	PX3_GA
+	A7F4B9A3	PX3_VA
+	A97EEB9D	~z~I think our boy is making a run for it. Get him good.
+	AA256C82	100100100100100100
+	ABE76A8A	100010010100100100010100100100010100010010010100100100010100100100100100010100100
+	A9D867CC	~z~When you in there, I'll give you the lowdown on where these main cats is at.
+	AA0FACE9	~z~Three pointer at the buzzer.
+	A7660801	~z~Amongst other things. I don't know how good your plan is though, Playboy.
+	A2633CA9	PX3_A_TA
+	A2643E80	100
+	A129A276	290
+	A1788EE6	100100
+	A35D20B4	PX3_XB
+	A48513F5	PX3_YA
+	A6A13028	PX3_ZD
+	A3EAF8F6	PX3_KG
+	A4372218	100
+	B53F194E	PX3_KA
+	B54CAC16	PX3_JH
+	B3680B94	~z~So, these things don't half go slowly, eh?
+	B43FA1A0	~z~These cats is looking to squeeze our boy Amir for dollars just because he ain't from here.
+	B62A82EB	~z~Keep an eye on that wannabe asshole...
+	B7D0486A	~z~He shoots, he scores.
+	B85EA9F2	~z~I'll give you what you after. Cold hard cash. That what you chasing, right?
+	B6FE2438	PX3_JR
+	B77CE704	100
+	B2B0C1C5	PX3_JY_QQQ1
+	AD5A3B4A	100
+	AE6716E3	~z~Shit, Yusuf is from Dubai.
+	AC4F4848	~z~How's that mean you've made it?
+	ACFAECA4	~z~What have we here?
+	B00C29E3	PX3_YB
+	B0F1F174	PX3_WB
+	B248499E	PX3_ZB
+	B06C80B8	PX3_NC
+	B08EBD0B	390
+	9F0C4045	PX3_A_CA
+	89121BF5	~z~I'm going to call Mr. Yusuf Amir, tell him the good news.
+	89A2C38B	PX3_JI
+	FFC82BC9	~z~Don't worry, money. When I'm big time, I won't forget about cats like you.
+	88013EC3	~z~You're going to have to be a pretty persuasive guy.
+	89B68317	~z~This shit is Mafia run and they all over his construction site with guns and shit.
+	8D47D9CB	PX3_A_LA
+	8D50B3BB	~z~Damn, money. I thought you was gonna do this shit for sure.
+	8A4CFACC	~z~You ain't bringing in no immigrant scabs. We're gonna fight to keep this place closed.
+	8B605E8F	~z~We going to Castle Gardens. There's an alley we want to hit up just off the South Parkway.
+	83D7FD61	PX3_OA
+	7C060C28	~z~If you can take out the main cats then the rest of them shouldn't be a problem.
+	7C20E7F0	~z~Well, I heard on the grapevine that he's run into a heap of trouble with some union cats.
+	7AB7C388	~z~But when they hear about this shit they gonna start listening to Playboy.
+	7B05D555	~z~I don't know. I've heard a lot of names since I got here.
+	7DFA1924	~z~The last guy is to your east. Shit, money. You best watch yourself. There be more of these Mafia cats turning up.
+	818519A1	~z~What the fuck's he tryin' to prove?
+	8246326D	~z~Shit, you doing this for a paycheck.
+	7E1458BE	PX3_KO
+	7FC13D2C	PX3_JE
+	987BC513	~z~You best take them out with the rifle before you hit up the rest of them.
+	9B4316C7	PX3_KL
+	95CDE59D	PX3_JB
+	97E34866	~z~I'll do my best.
+	9B69828C	PX3_JO
+	9EA8ACFB	~z~They stopping Amir from sending in the scabs.
+	9EDE8DEA	~z~Yo, can you hear me, player? This thing best be working for your sake.
+	9CF84C9F	~z~Whooooa...
+	9E7053D1	100100
+	93EC386E	100
+	8F65C398	~z~Hmmm... okay... oh, I just want to get in there and make shit happen.
+	8FCBED4D	~z~Shit, I needed to find a cat like you.
+	8D6B4BCE	010
+	8E156986	PX3_YC
+	8FDE7FF5	PX3_JT_QQQ1
+	928C0A76	PX3_KT_QQQ1
+	92DF7E89	~z~That some crazy shit.
+	917A9666	PX3_OB
+	91800B35	PX3_KP_QQQ1
+	B90EB0A6	PX3_JF
+	E4B3190A	PX3_JK
+	E4CF7D1C	100
+	E3080024	~z~Me and him could be cousins, shit.
+	E390AA2A	PX3_KS
+	E4DA2900	~z~Meantime, I'm gonna tell Yusuf how good we been to him.
+	E5DD05D2	~z~Shit, it all the same. Africa, America, Dubai.
+	E801AE1F	PX3_KJ
+	E530AA04	PX3_JU
+	E5929653	~z~That fool got taken down.
+	E25AF56B	100
+	DBFBF29A	PX3_NF
+	DD1368EE	~z~There's all types a' scaffolding and shit in the construction yard.
+	D69951F6	~z~This is getting awkward. Talk about a slow lift.
+	D9DBBA12	100010
+	DEB0898E	~z~Damn, son.
+	E0E72377	PX3_ZA
+	E15DCE47	~z~That's gotta hurt.
+	DF855325	~z~You might be better seeing the lookouts from up here too, money.
+	E054ECE3	~z~What about that guy, Dwayne? You going to forget about him?
+	FD866F78	~z~I left some heat for you in that car, money. Pop the trunk and take what you need.
+	FDF36E0E	PX3_OA_QQQ1
+	F910728C	PX3_A_AC
+	FAB67F40	~z~Looks like that's the last of them. Now you just need to get the hell out of there, money.
+	FEACAFF4	PX3_JS
+	FFAD7117	PX3_KT
+	FFB78AFA	~z~Shit, you one hardcore motherfucker.
+	FED1AD6B	010
+	FF150EF4	100
+	F78E321F	~z~You scab.
+	EA2B7999	PX3_NB
+	EED30C6D	~z~I'm gonna get into a position where I can see everything goin' down.
+	E984960C	~z~Stupid immigrants. Trying to take American jobs.
+	E9906C39	~z~That cat going to be back. Hit me up later.
+	F06B2D03	~z~Don't go fucking up this site too bad, you hear?
+	F50DD084	PX3_KR
+	F6B662F6	~z~Yo, you definitely is from Eastern Europe. Driving this shit.
+	F2545DDF	100100010
+	F32BA06F	~z~It don't matter, we're brothers, spiritually I mean, and that's the important bit.
+	D52E768A	~z~Boom! You mean business, don't you, boy?
+	C23B9F81	PX3_MA
+	C2BE7526	~z~Because I'm a clever motherfucker. I'm using my God-given intellect.
+	C0B3262A	~z~Alright, can you make this thing go any quicker?
+	C1A729C9	PX3_NE
+	C3D8F0CD	PX3_A_UA
+	C60A4535	~z~When we fuck their people up they'll realize that he ain't a cat to be messed with and they'll back off.
+	C65DBC5F	100110010
+	C44DEE69	PX3_FA
+	C57032C0	PX3_A_FAA_HB
+	C09F5C4A	PX3_JY
+	BA6C2EED	~z~He's an African, an he's comin' to Liberty City to make it big.
+	BAD62390	~z~This sounds like a pretty bad deal for me, don't it, Playboy?
+	B9DD06DE	PX3_WA
+	BA266D1F	100
+	BD5E69EE	~z~Yeah, how's that?
+	BFA16574	~z~You ain't gonna be able to beat the union.
+	C06B4D04	~z~Shit, I can feel the heat from up here.
+	BF5D5BD6	PX3_JW
+	BF866460	010010100100
+	CD440750	PX3_UA
+	CD68BCEC	PX3_NA
+	CC66B898	~z~Alright, you in, money? The first guy is on the scaffolding in the building to the east of the yard.
+	CD265B96	PX3_LA
+	CE2627D8	~z~That shit looked bad.
+	D37C16A1	~z~Yusuf is in some problems. Playboy is going to come in there and help him out.
+	D3D54656	PX3_PC
+	D1924F5E	~z~The people who helped me get to the top.
+	D2729E41	PX3_A_AA
+	CC2FCA13	PX3_A_MA
+	C8A9A1FD	100
+	CA0FC8FB	PX3_JQ
+	C6666596	~z~Shit, you dangerous, boy.
+	C763A1CB	PX3_A_AB
+	CA214D77	~z~What's in it for me?
+	CABC64DA	100010100100100100010100100100010090100100100010100100100100010100100100010
+	CB9A206F	~z~I left some heat for you in that car, money. You going to be strapped - sniper rifles, grenades, all that shit.
+	CA8C844A	~z~This is my ticket to the big time, baby. I'm about to make it, for real.
+	CAA8E81A	PX3_JJ
+	40DEBCDF	PX3_TA
+	15B7E583	~z~My ancestors came from Africa, now he's coming out a bit later.
+	3E4CAAB2	PX3_A_KA
+	3E9DA04C	PX3_ND
+	1290846C	~z~You gonna go in there and get them Mafia types off the site.
+	41781E06	PX3_PB
+	416AA7A3	~z~Man, there better be a good view from the top.
+	12FADF29	~z~If it's a union problem, doesn't that make it bigger than a few guys with guns?
+	34E3C9A2	PX3_KN_QQQ1
+	368544C5	~z~There's a cat in the south west corner of the yard by the water. Get him.
+	33DF4C55	101
+	1754F9D7	~z~Damn, son. You got him good.
+	1658E5E5	~z~If I get rid of the guys on the site, then won't there be more?
+	1627F730	~z~That all them lookouts gone, money. Get in there and free up the site.
+	173F6BB7	~z~There's also a radio headset in there, so me and you can keep in communication.
+	169D68FA	PX3_JC
+	0DCE34BC	~z~I guess you can see that the guy got away.
+	4CBCCB7B	PX3_KF
+	0F51776B	~z~Make sure they dead.
+	0E6A5FD7	~z~We're gonna fight to keep these jobs in American hands.
+	4D42D1FE	PX3_SA
+	4DDF01F1	~z~If the union says this site is shut, it's shut. Capiche?
+	4CE8B9C6	~z~What you doing? Get that motherfucker, motherfucker.
+	4CED76E5	PX3_KP
+	45C4A803	PX3_PA
+	10CFF71C	~z~Show them punkass bitches they be fucking with a businessman.
+	4221185C	PX3_OC
+	42214DC4	~z~Later on. If you can't see anything else from up here, you'll see these grenades going off.
+	467EBBBF	~z~You goin' to go in there and clear out those motherfuckers.
+	47B82C99	~z~Thanks for the warning.
+	4636A086	~z~I'm gonna get into position where I can see all the shit going down.
+	0F8F0556	~z~This is a union matter. Get fucked.
+	33C3C6D2	~z~They all up in the place, strapped to their fronts with hardhats on and shit. Won't let nobody get near it.
+	2558260B	PX3_KQ
+	25ED7BCD	PX3_KD
+	22D0E732	~z~Shit, you a cold motherfucker. Next guy is south of your position, up a few stories in the next building.
+	2516190F	PX3_JN
+	2A75CBDE	100
+	2A8AE197	PX3_IA
+	26EC8256	202
+	27C5A746	~z~I knew you was the right Slavic killer for this job.
+	1F2C7788	~z~Okay?
+	1FC9572F	100100010100
+	1C8F10B3	PX3_CA
+	1DE1A1FB	~z~This ain't none of your business, shitbird.
+	21752235	~z~Some Italian dudes has shut down his building site on some union bullshit.
+	227840EB	100
+	2116F0F4	~z~No man. I'd just confuse shit if I went in with you.
+	1BD2FAA8	~z~You can't outsource this, you scab.
+	326077F6	100
+	32A9220D	PX3_JD
+	317A6E7F	~z~You just take that shit in your stride.
+	31E650AA	010100100
+	17AB7BEA	PX3_JP
+	33AD961D	~z~I saw you handle yourself for Elizabeta the other day.
+	17AC6970	~z~I think you might want to look at a map, Playboy. Dubai isn't in Africa.
+	32BFAF01	~z~See you soon, Playboy. I'll try to save a grenade so you can have fun with one, too.
+	2C073955	PX3_KM
+	2D6EEEBE	100
+	1A69405D	~z~You alright, money?
+	181E8A94	PX3_KN
+	2E29BBD2	PX3_KK
+	30AE40DC	PX3_XA
+	2D9CAA4D	302
+	2DD67F23	PX3_A_FAA_GA
+	6BD2F249	PX3_A_EA
+	6C52265A	~z~Yeah, well I need money so you're in luck.
+	6AEC0475	PX3_KE
+	6B653FEE	100
+	046DB672	PX3_KB
+	6E959E55	PX3_A_BA
+	6C8BDC23	PX3_HA
+	6CC092B7	~z~That cat and me is going to be tight as two cellmates on lockdown after this.
+	66241A42	PX3_JM
+	058F48A4	PX3_A_DA
+	6551BA52	~z~You know Yusuf Amir, the big real estate developer?
+	655ADE66	PX3_JX
+	69082029	~z~I got rid of all the union problems on this site.
+	696C3222	~z~Alright, you heard a Yusuf Amir? Big real estate developer.
+	6678A5BC	~z~You the right man for this job, money.
+	04DC3CD7	PX3_KI
+	75F39AA8	~z~Make the Mafia cats go away so the workers can come in and everything will be cool.
+	767EC135	PX3_DA
+	00188B9B	PX3_EA
+	757B972C	PX3_KC
+	78D631CA	PX3_JG
+	3B578F48	~z~Yo, money. There's a chopper turning up.
+	783798EE	~z~Nice ride, son. Let's roll.
+	784EE464	PX3_KU
+	705D0BB2	~z~What you doin', motherfucker? We need us a ride.
+	01B43C9C	~z~Shit, 'union' is just another word for Mafia.
+	6F42587E	100
+	02CF2054	PX3_A_FA
+	003EAF44	~z~You're not getting involved?
+	74579690	~z~I'm givin' you them dollar bills, and when Playboy pays, he pays big!
+	018E5BE5	~z~Punish them bitches, for real.
+	742E4127	~z~You one loco motherfucker.
+	56EE8E62	PX3_JV
+	5649FA46	~z~A badass ma'fucker who ain't afraid to take fools down.
+	56470BF9	PX3_ZC
+	56F96264	PX3_KH
+	5B4C84B2	~z~As you can see, this place is going to need a cleanup before any workers come in.
+	07DFD3BE	~z~The union won't bend over because of you.
+	4F0F7D69	~z~This guy's a big developer? Are you and him having meetings about how to run the city?
+	4FF8C4A7	PX3_A_FAA_HA
+	4FDBCD99	~z~Okay.
+	09746374	PX3_JL
+	08496FDE	~z~What are you suggesting we do about it?
+	5523E362	PX3_JA
+	542B0121	~z~I wouldn't want you after my ass.
+	51C2D247	~z~That's if you're hoping to talk a bunch of Mafia owned union officials off of a building site they've shut down.
+	5B768497	~z~You gonna kick some ass down there, boy. I'm backing you up.
+	6105A3EC	PX3_JT
+	6542D613	~z~Can't nobody fuck with your ass.
+	07B5C97F	~z~It's my duty to watch this cat's back.
+	63C7DBA8	~z~Yo, there's three lookout cats making sure no one makes move on the site.
+	64337728	~z~I don't gotta be the persuasive one, money. You do.
+	64CE3A03	PX3_KV
+	5B8B452D	~z~That all them lookouts gone, money. Get in there and free up the site.
+	5CE210C0	100
+	582528CD	~z~Not exactly going to be turning them heads, is it?
+	5F389DBB	~z~Not yet, but I got an idea about how me and him can get friendly.
+	5D916904	~z~You getting that mad money on this one.
+PX3_CUT1_1	6BFCBF2C	~z~Hey, wassup, money?
+PX3_CUT1_10	777D838C	~z~But, er, what about you?
+PX3_CUT1_11	F71702C5	~z~What motivates you?
+PX3_CUT1_12	0963A75E	~z~Well, I need money. This pays. I can do it...
+PX3_CUT1_13	625B5948	~z~I don't care if I live or die...
+PX3_CUT1_14	74D2FE37	~z~and I'm looking for someone.
+PX3_CUT1_15	F4137CBE	~z~Someone special?
+PX3_CUT1_16	BDCE1034	~z~Yeah. You could say that. So, why do you need me?
+PX3_CUT1_17	1B7FCB96	~z~Well I'm always looking for good guys. Build an army.
+PX3_CUT1_18	2D416F19	~z~But in my work... people change. Money changes people.
+PX3_CUT1_19	AD45EF20	~z~Not me. I'm still a hustler from these streets...
+PX3_CUT1_2	7A545BDB	~z~Hey.
+PX3_CUT1_20	4FDCB34F	~z~and I heard good things about you.
+PX3_CUT1_21	2B7C6AAF	~z~Okay. But... I'm warning you...
+PX3_CUT1_22	1D35CE22	~z~I'm not low budget.
+PX3_CUT1_23	46372020	~z~Do I look like I live low budget, dog?
+PX3_CUT1_24	39FD87AD	~z~Yo playa!
+PX3_CUT1_25	F2B0F919	~z~The fuck you want?
+PX3_CUT1_26	E46E5C94	~z~There's someone here for you. Dwayne or some shit. I don't know.
+PX3_CUT1_27	0E2BB00E	~z~Motherfucker got out. Damn!
+PX3_CUT1_28	006E1493	~z~My dude!
+PX3_CUT1_29	821197D8	~z~Wassup, son? What's going down?
+PX3_CUT1_3	87A27677	~z~Come on.
+PX3_CUT1_30	E060CE95	~z~You didn't tell me you was getting out!
+PX3_CUT1_31	3A9F8315	~z~Man, I would have laid on a party, got some freaks out... shit...
+PX3_CUT1_32	6CE667A2	~z~I called. A couple of times.
+PX3_CUT1_33	3772FCB8	~z~-Man... hey... Dwayne... This is Niko.~n~-Hey.
+PX3_CUT1_34	49C3215C	~z~Niko - Dwayne Forge. He taught me everything I know.
+PX3_CUT1_35	840715E3	~z~Not everything.
+PX3_CUT1_36	B6207A15	~z~So hey, man. Where you staying? D'you need some money? What's the plan?
+PX3_CUT1_37	606A4EAA	~z~What you mean, what's the plan? Pick up where we left off.
+PX3_CUT1_38	922EB232	~z~I'm out. I'm back. We keep on rollin'.
+PX3_CUT1_39	ED4C6870	~z~You say 'we'?
+PX3_CUT1_4	14EC110C	~z~Ladies, gimme a few minutes. Business calls.
+PX3_CUT1_40	B33BF340	~z~Yeah 'we'. Unless you too fine?
+PX3_CUT1_41	A56D57A3	~z~What? Your silk sheet, fancy dress wearing life too big for me now?
+PX3_CUT1_42	4F77ABE5	~z~Oh, hey, now I ain't saying that.
+PX3_CUT1_43	412A0F4A	~z~You know what's mine is yours.
+PX3_CUT1_44	2AADE24E	~z~You need help, just holla.
+PX3_CUT1_45	1A7941E5	~z~Hell, this Slavic motherfucker any good, he could help you.
+PX3_CUT1_46	84109516	~z~Now you know I'll do anything I can.
+PX3_CUT1_47	B5FDF8F0	~z~But right now, we gotta roll.
+PX3_CUT1_48	6FB2EC5B	~z~Gimme one second.
+PX3_CUT1_49	BFF78CE7	~z~Ain't folk quick to forget?
+PX3_CUT1_5	A3402DB2	~z~This is my town.
+PX3_CUT1_50	4BC36294	~z~Hmm. Some folk.
+PX3_CUT1_51	27021912	~z~Yeah... that's the truth.
+PX3_CUT1_52	C077CBFF	~z~Where did you get out from?
+PX3_CUT1_53	CD99E643	~z~Preschool.
+PX3_CUT1_54	9296F03A	~z~Okay... Dwayne, we gotta roll.
+PX3_CUT1_55	70CDACA8	~z~Please make yourself at home.
+PX3_CUT1_56	071D5949	~z~Hell. This is your home.
+PX3_CUT1_57	155375B5	~z~Let's jet, money.
+PX3_CUT1_58	9DA80660	~z~Motherfucker must think I'm a idiot.
+PX3_CUT1_6	B071C815	~z~Look at it.
+PX3_CUT1_7	BEDBE4E9	~z~All them tiny ants down there. Man, shit is crazy.
+PX3_CUT1_8	5023877A	~z~So I guess you do okay?
+PX3_CUT1_9	ED6F420B	~z~Yeah, okay.

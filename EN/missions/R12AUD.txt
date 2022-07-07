@@ -1,0 +1,280 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	952687D2	R12_SA
+	90543313	~z~I don't want to die, Niko.
+	8E21E6C1	~z~My shot is not so hard to miss.
+	954D7F13	~z~Hey Niko. You seen Roman?
+	96F52EB5	090090090090
+	96A79D55	~z~Shit, what the fuck is this?
+	95A48F34	R12_VA
+	8E183843	~z~I'm coming, cousin.
+	8A21CA23	~z~A friend of mine, Dimitri Rascalov, he would pay a lot of money for your cousin.
+	89B6F500	012
+	88D87701	R12_A_AB
+	8C32E669	212212122
+	8DF08B6F	~z~Cousin, I knew you'd come for me!
+	8D4474AB	~z~Take my cousin, will you?
+	8CDCA5E9	R12_YE
+	97F7E5CF	~z~I'll get you the money, just not that way.
+	A031F632	~z~Back off, Bellic. My finger is twitching.
+	9EF94D82	R12_YD
+	9E0088B0	R12_A_CA
+	A0652315	~z~Think you a big hero. This was a trap, asshole.
+	A917B8EF	R12_A_AA
+	A702852A	R12_FA
+	A6240A94	R12_CE
+	9CA128D0	~z~Make them suffer, cousin.
+	98E105DE	~z~If he calls you, tell him the woman he loves wants to see his ass at home.
+	98DC14B5	200
+	983D7477	R12_CA
+	9933CE7A	~z~Hang in there, Roman.
+	9C397A2F	R12_CC
+	9BD62191	R12_EB
+	9A0A7761	~z~You know how to hold a grudge as well, Niko. Don't forget about that.
+	885BEC8E	~z~I am sorry.
+	72B147AE	~z~You might not have come if we cut his head off.
+	7013271F	R12_HA
+	6F1737DA	200
+	72BA28C1	~z~Both he and Bulgarin know how to hold a grudge.
+	77A99621	100
+	762E4833	~z~Too late, what do you mean? Niko? Niko?
+	75E95F05	010100010
+	6EB5A39C	R12_YJ
+	6BF9A401	100
+	6B18C5C4	~z~Get up here, Niko! Quickly!
+	69BF0E12	R12_A_GA
+	6D5A4AF8	~z~A friend of mine saw him at that card club on Hunt Point.
+	6E1FBF7A	~z~~s~
+	6DFB6E07	R12_AB
+	6D81ED6F	~z~Can't we just all be friends?
+	77B9B334	R12_YL
+	841FF842	~z~Is not police.
+	82944E21	~z~Niko. I'm getting worried. Roman didn't get back at all last night.
+	819F18DB	~z~I'd go for anything as long as I could be guaranteed safety, that's all I want. Shit.
+	843CCFD1	200
+	87B571BA	~z~Dimitri was right. You come to collect your fat cousin right away.
+	86E5D118	~z~Dimitri Rascalov was on his way to that warehouse, they wanted me to give you up. I would never...
+	8626EDEA	R12_WA
+	80997176	~z~Niko, I think Roman has been kidnapped. I heard he owes some Russians money.
+	7A6D176E	100100010100010
+	78AF1E96	R12_OA
+	7866605F	~z~Up here, Niko! Up here!
+	7D425CD4	~z~Good thing we did not kill the fat cousin.
+	7F895935	~z~You will pay for what you've done.
+	7EAA0C19	R12_CA
+	7DCE17AF	~z~You'll be free soon, Roman.
+	A99F9F9F	~z~Fuck you, you are causing your cousin's death by being here.
+	E84C295F	200200200020
+	E7E7BB13	~z~There's a car. Take me home, cousin.
+	E5F61EC8	R12_A_BD
+	E9F46988	~z~Only for so long. We will be found eventually no matter where we go.
+	EF53AB06	~z~Step away or he will be slaughtered like a pig.
+	EE5E9414	R12_CB
+	EDF2C908	~z~There is a knife hanging over me. A clock is ticking.
+	E54766E2	R12_QA
+	DBBE1DD6	R12_VC
+	DA32802F	~z~I guess you did not care for him.
+	D9F7F462	~z~What happened, Roman? You have been gambling.
+	DEA59BA2	R12_WB
+	E43C91C5	200
+	E1503A2B	R12_YH
+	E0A50DA9	~z~Get back or I will cut his fucking head off.
+	F0568CFB	~z~I am not afraid of death. When she comes for me I shall embrace her.
+	F93CF94F	100100010100010
+	F89E40F0	R12_A_BC
+	F857040C	R12_AC
+	FA2A731F	200
+	FF932B74	~z~I hope that Roman has the same inner peace.
+	FC71756E	R12_GB
+	FAF9B03B	~z~That was the wrong choice, Slav.
+	F67EEF3F	~z~He owed them money?
+	F299BF54	~z~You will not harm my cousin.
+	F1D16E94	R12_TA
+	F065769E	R12_RA
+	F2DADD9E	R12_A_FB
+	F61F4272	~z~I told you I had boundary issues.
+	F3A6844B	~z~They told me you were cold...
+	F346C42F	R12_A_BM
+	D789B3EB	200
+	B9D2EA51	R12_YG
+	B8F4BAD2	R12_A_BI
+	B83716E4	R12_NA
+	BBB68D0D	~z~We have to get out of Bohan, maybe it is time to go to Algonquin. We can disappear in Algonquin.
+	C021438E	~z~I could never forget that, Roman.
+	BE0A17A0	R12_GD
+	BD3F3DCA	~z~I know you wouldn't, Roman. I thought we were done with Dimitri when we got out of Hove Beach.
+	B7EC7D28	R12_YB
+	B19B8C77	100010100
+	B075C970	R12_EC
+	ADAFE944	R12_CB
+	B1AA20C0	R12_CD
+	B619CA56	R12_A_BJ
+	B4EB75D7	R12_CC
+	B474FE25	R12_PA
+	C0B483AB	~z~A friend of mine saw him at that card club on Hunt Point.
+	D473DEC6	~z~If you want to walk out of here, Slav, you are going to have to think about how you will pay your debt.
+	D445F4EB	~z~You will get away or he will die.
+	D429C8B8	~z~You've crossed the line, Dimitri.
+	D579C55B	100010100
+	D773402D	R12_AA
+	D6E3917D	~z~Goodbye, friend.
+	D5A0476A	~z~Your pain is over, cousin. I'm coming.
+	D2D7B089	R12_A_EA
+	CBF695D9	R12_GC
+	C72EE279	~z~I thought he would be wining and dining the woman he loves?
+	C5105680	~z~Your cousin will die if you come close, I promise this.
+	D09299C0	R12_YI
+	D291DB12	~z~You waited too long, Slav.
+	D22B19A1	R12_YF
+	D1F868A5	R12_A_BE
+	2B62D906	~z~He never tells me anything. I heard they took him to a warehouse off Lompoc in Bohan Industrial.
+	2B57C82E	R12_BB
+	2B31E9DD	100010100
+	2C34E25B	R12_YC
+	2D75A3E5	~z~He likes to party. He stays out late the whole time. You know what he's like.
+	2CB4EC1C	~z~If he calls you, tell him the woman he loves wants to see his ass at home.
+	2C4992E2	R12_KA
+	2A7A708B	R12_CE
+	24B4A541	~z~Mallorie, they had Roman in the warehouse. I came too late.
+	23FE837E	~z~I haven't got all day. Leave here.
+	21F1A794	~z~Then I'm going to hang it on my wall to remind me what a lying, cheating, treacherous scumbag looks like.
+	26516AB1	~z~Time ran out for your cousin.
+	2A28749F	~z~You shouldn't have invaded my personal space.
+	2989C02D	100010
+	28D8170B	R12_A_BH
+	2F5D21C0	R12_YK
+	346904E6	~z~You won't need to wait much longer.
+	32D12617	~z~He wants you dead. Bohan is not safe. I'm going to get us a place in Algonquin.
+	00A71075	R12_AA
+	363CCEC2	~z~We were hoping you would come, Bellic. This party is for you.
+	3777AF60	~z~I give you money. How are you in debt?
+	3744F30C	R12_GA
+	36C93EFD	200
+	3224B547	200
+	31862FB8	R12_AB
+	2FEED01E	~z~I'll check it out.
+	2FCF2305	R12_A_BB
+	31932674	~z~You're right, at first it was just the debt then they found out my name.
+	32143B09	R12_A_BL
+	31E0C516	~z~Mr. Rascalov will be so happy when he sees your dead body, Bellic.
+	31AE3D80	~z~I am leaving here with Roman.
+	20DB8228	~z~Roman...
+	12FCE66B	~z~Come on. My cards were not good.
+	12D807F9	~z~You early, Bellic.
+	11F3947A	R12_BA
+	13CFD36D	~z~Let him go.
+	153052C2	200
+	141FEA73	R12_A_BG
+	13D649C9	502
+	11B33275	~z~We should get out of here.
+	0405971A	~z~Thank you, cousin. You saved my life.
+	03C34B8F	200
+	032383CF	R12_A_FA
+	0556EE5F	~z~I got your message Dimitri, you piece of shit. You're a dead man. A dead man.
+	0BFC1B6C	~z~Stay away or he is dead.
+	07A2F09B	~z~You think we care about stupid gambling debt? We care about killing you.
+	0770C88E	200
+	15DC16BF	340430
+	1C64B401	R12_A_FC
+	1AA0E18F	~z~You are Niko Bellic. Turn around and walk away or your cousin is dead.
+	1A2A15D9	R12_A_BK
+	1D6D1C2F	~z~It is you who is in danger, Bellic. Not your fat cousin.
+	1FA6829B	~z~They connected me to you and what happened at Hove Beach.
+	1F360766	~z~Not on my watch he don't. Something ain't right.
+	1ECA6184	R12_XA
+	191D44A3	~z~Shit, no. Please, no.
+	16CE49C9	~z~Cousin, they will pay for taking you.
+	1645B4CE	R12_LA
+	160479D9	R12_AC
+	16EAB016	~z~Niko, I think Roman has been kidnapped. I heard he owes some Russians money.
+	18450637	R12_A_BN
+	181D230D	R12_BC
+	1786C1C0	~z~I thought he would be wining and dining the woman he loves?
+	3875008B	200
+	4A32F816	~z~Before you die I'm going to cut your face off.
+	4A24A6D7	~z~Hey Niko. You seen Roman?
+	46C4299C	~z~These people will wish they did not take you, Roman.
+	4A429FBF	R12_CD
+	4D3787DA	R12_A_FD
+	4B76116D	R12_MA
+	4AAFEF87	~z~This is it for you.
+	5F522CEA	R12_EA
+	460DFC5C	~z~He never tells me anything. I heard they took him to a warehouse off Lompoc in Bohan Industrial.
+	6217E043	~z~I'm here for you.
+	460E21BA	~z~Confrontation and or peace will be our choices at some point.
+	466866F4	~z~Who do you people think you are?
+	5E462198	R12_VB
+	5E8C2CDD	R12_A_HA
+	574BEF0C	~z~That man knew Dimitri. He was trying to make me give you up to him. I would never...
+	5BA10113	R12_YM
+	557B40E4	R12_A_BA
+	57529E34	~z~Niko! Niko! I'm up here!
+	5A8CFD84	090
+	58F89ECA	R12_YA
+	58A38A06	R12_UA
+	5D80755B	102
+	5E37A94C	~z~I'll never marry Mallorie. I won't be able to sleep with another college girl.
+	4DCFFD04	090090
+	508A0DF1	~z~Wherever I go there are people who want to kill me. Men, who will kidnap me.
+	545298E9	~z~He owed them money?
+	53EE0A2C	~z~We have had to put up with your fat cousin's whining.
+	50DED550	R12_FB
+	45B34BD7	~z~There are cycles, cousin. You must lose a little to win a lot.
+	3C94410F	R12_A_BF
+	3B4C0C36	~z~I know the option I am leaning toward.
+	3B20D069	~z~No one fucks with my family.
+	3E908F8D	~z~This is not so good, cousin.
+	4163C33C	~z~Are you okay?
+	4091E36C	~z~Your death could have been so much more painful if you gave us some time.
+	6777124B	~z~Who were those men, what happened?
+	396CF914	090
+	69AA8576	~z~Time is ticking, get out of here.
+	389A4B58	~z~Come on. Test me! Test me!
+	3992E003	~z~I'm used to taking these beatings, Niko. I almost expect it now.
+	3AF6D929	~z~~s~
+	3AAED277	R12_A_DA
+	39A1029B	010010100100100010010100010100010010010100
+	658B8B8B	~z~Of course you would not. Dimitri has taken this too far.
+	42C18B30	200
+	65FBAE47	~z~Mr. Rascalov will be very pleased you have come, Bellic.
+	4356E9A7	R12_IA
+	622456B4	~z~Niko, please, help me.
+	63BBF10C	010010100100010100010100010100100100100
+	44394BC0	~z~That seemed like a lot of protection to be giving a man who ran up some gambling debts.
+	42920784	~z~I'll check it out.
+	6639EE10	R12_JA
+R12_CUT1_1	4898564E	~z~-Man, this is out of control.~n~-I know.
+R12_CUT1_10	A03784A1	~z~Oh! Isn't America great?
+R12_CUT1_11	88ACD570	~z~I get to sit in front of a computer and play Mr. Rich Man and get into debt with crooks.
+R12_CUT1_12	36EEB1F5	~z~Okay, I messed up... I know I did. I thought things would be different.
+R12_CUT1_13	6C3C1C8F	~z~I don't understand this place so good.
+R12_CUT1_14	9B91FB3A	~z~Oh, man. What are we going to do?
+R12_CUT1_15	41D747C6	~z~Stop sitting in front of the computer gambling our money?
+R12_CUT1_16	EFCD23A3	~z~Stop getting into illegal card games?
+R12_CUT1_17	22770906	~z~Stop spending all our money?
+R12_CUT1_18	07BDD384	~z~Yes...
+R12_CUT1_19	B5132E30	~z~Thank you.
+R12_CUT1_2	5B627BE2	~z~-What are we going to do?~n~-I don't know.
+R12_CUT1_20	BEA5C949	~z~And stop thinking about the Russians.
+R12_CUT1_21	D0F36DE4	~z~Man, we just need to disappear as far as they are concerned. Disappear!
+R12_CUT1_22	C7D85BB6	~z~Okay, okay. But I want Florian and Darko. I need to know what happened. Give me that.
+R12_CUT1_23	F55EB6C2	~z~Fine. But leave the Russians alone.
+R12_CUT1_24	AC54A4AF	~z~I was not the one gambling in their private club.
+R12_CUT1_25	D9E3FFCD	~z~I didn't know... give a guy a break.
+R12_CUT1_26	FE7DC900	~z~Okay! Okay.
+R12_CUT1_27	2C462494	~z~Okay.
+R12_CUT1_28	E3001205	~z~I'm going to clean up. I have a nasty feeling I had a bit of an accident back there.
+R12_CUT1_29	11476E93	~z~And, Niko...
+R12_CUT1_3	2CFB9F15	~z~We are going to die. I don't want to die, man. Not like this.
+R12_CUT1_30	A0290B38	~z~What?
+R12_CUT1_31	B25EAFA3	~z~Thanks.
+R12_CUT1_4	2D8EA03B	~z~How would you like to die?
+R12_CUT1_5	83624BE1	~z~Having a threesome on my hundredth birthday...
+R12_CUT1_6	91FFE91C	~z~I don't fucking know! I'm scared you cold bastard. What are we going to do?
+R12_CUT1_7	63BF0C9B	~z~I'm not cold.
+R12_CUT1_8	8C59DDC8	~z~You're cold... all you care about is revenge and getting your own way.
+R12_CUT1_9	8DB5E080	~z~And all you care about is money, and gambling it away on the internet.

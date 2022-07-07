@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C3C54A0B	~s~Question the ~b~manager~s~ to find Kim.
+	9F26FE4F	~r~Kim got away.
+	E4E68C5D	~s~You attacked the manager before he could talk. Check the ~y~Kitchen.
+	F6672F5E	~r~Kim~s~ is fleeing in a car. Chase him down and take him out.
+	F003A3EF	~s~Head over to the ~y~restaurant.
+	0C615CAA	~s~Go inside the ~y~restaurant.
+	0AC6D81D	~s~Target the Manager to get him to talk.
+	1D5BFE9F	~s~Don't let ~r~Kim ~s~escape.
+	9A9E7936	~s~Go to the ~y~kitchen.
+	881D5434	~s~Look for Kim in the ~b~Manager's~s~ office.

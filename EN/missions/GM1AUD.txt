@@ -1,0 +1,115 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A05F7E71	GM1_JA
+	A0F9B7E3	GM1_TC
+	A0447D8A	GM1_IA
+	9D633377	~z~I knew me brother wouldn't put his faith in a bum. They'll be at them Albos in no time.
+	9EC6135C	~z~Dammit, I wish there was an easier way. You meet me and we'll go over the plan.
+	A19F33A3	GM1_HJ
+	B3D038B2	GM1_XC
+	B60731B0	GM1_FB
+	B0182C40	010100
+	A68D3D1A	~z~Shit, Niko. We're gonna have to rethink this. Come see me.
+	ADD1BA2F	010010100100
+	80006817	~z~Niko, I wouldn't trust myself with this task. You ain't got a gallon of whiskey in your system, and besides, you're bein' paid, ain't ya?
+	8751BDA6	~z~Niko, if you're following some guys back to a meet you gotta keep a low profile. Christ!
+	7CFF227B	GM1_GC
+	79B4E6F7	GM1_HD
+	7BDC68BE	~z~Gerry, I didn't blow the bomb after Tony got back to his crew.
+	8993CE3D	~z~At least it's better than dealing with those fucking drunken Irish bastards though.
+	9666C38D	GM1_TA
+	98132192	GM1_HK
+	950F5921	~z~Come back to Ma's.
+	8F45656D	GM1_FA
+	90825C8F	~z~Shit, that's too bad. I trust you did all you could for them. Come back and see me.
+	B63460F0	GM1_TD
+	E3A139F6	GM1_HA
+	E98AC12D	GM1_HH
+	E19FFF68	GM1_IB
+	DC5679D3	GM1_MC
+	DEF61676	~z~Christ! Niko, they ain't gonna think the Albanians got beef with them if that car didn't blow.
+	EB43478E	~z~Come back to Ma's place.
+	F5EEC947	010010100100
+	F83C9B01	010100100
+	F5E10AB3	230320320320
+	EB9ACC1D	GM1_HC
+	F2406DA3	010100100
+	C0C80F14	GM1_CB
+	C657360E	GM1_GD
+	BB0A3115	~z~The Albanians know they got us over a barrel, Sal.
+	B7B36817	~z~That's step one of the plan complete. Come see me. We'll talk about step two.
+	B87B60F6	~z~Gerry, the car got screwed.
+	C87E9DB9	GM1_WA
+	D3E7527A	GM1_GA
+	D5BC4A33	GM1_TB
+	CF7FF4CF	~z~Gerald, it's Niko. This job is screwed. The bomb triggered before I could rig it to the car.
+	C953FAB9	~z~Now you put the bomb in the trunk, then follow the wiseguys from their meeting back to the rest of their crew,
+	CD3982F8	GM1_JC
+	10A8E05F	GM1_MA
+	3F682A5A	GM1_GB
+	3D75C3A4	GM1_MB
+	3EE9CB87	GM1_MB
+	436A5F5D	~z~Hey Gerry, I had to leave Tony Black and his boys for a while.
+	4A120CD6	~z~Gerry, I hit the Ancelottis crew real hard. Everyone got taken down.
+	4D1D72C3	~z~Come back to Ma's place.
+	467B0565	010100100
+	49047A20	~z~Tony's car is parked in an alleyway off of Feldspar Street.
+	12318BCB	GM1_JB
+	1A523055	~z~Get your ass back here.
+	2C44139F	~z~Forget about it.
+	25B3B37F	~z~So, Gerry. I got this bomb.
+	1E0D774E	GM1_IC
+	2FD7B838	~z~I don't know what's happened to that bomb.
+	37E957EA	~z~Alright listen, the Ancelottis and the Albanians are meeting in Little Italy.
+	12DCA645	GM1_HG
+	37BBEB28	~z~Gerry, I lost Tony's car. I couldn't blow the bomb when they were with their crew.
+	18ABEC67	~z~Hey, Big Tone, did you kick some ass or what?
+	04E271FD	~z~Call me when it's done.
+	0433835A	GM1_BA
+	3B14B1B5	~z~Tony Black and his boys didn't get back to the rest of his crew. I couldn't take them all out.
+	5A180423	GM1_XA
+	053F8851	010100
+	6EA7AC22	GM1_MC
+	6EE2C5DC	~z~So easy I don't see why you ain't doing this yourself.
+	6918C337	~z~Christ! Niko, they ain't gonna think the Albanians got beef with them if that car didn't blow.
+	6337C001	GM1_BB
+	0318B53E	~z~Hey man, the wiseguys got hip to me. I fucked things up.
+	0C9694DE	~z~That ain't gonna cut it, Niko. The rest of the Ancelottis won't get properly pissed unless everyone goes.
+	4F8CFF68	010100100100100010100100
+	52378FB0	010100
+	5C992149	~z~then you blow the bomb. Make sure no one walks away. It's easy, right?
+	5445213C	~z~The rest of them should think the Albanian muscle is making a play.
+	063F7B8E	GM1_HI
+GM1_CUT1_1	C725D71A	~z~No one's here. Just you and me.
+GM1_CUT1_10	815D0DB3	~z~Too much fun - that's always been this family's problem.
+GM1_CUT1_11	AF2EE956	~z~Fun, good causes, a good laugh, some stupid dream or some stupid distraction.
+GM1_CUT1_12	9C8DC414	~z~But never any fuckin' focus. Never!
+GM1_CUT1_13	4C3BA371	~z~Mmm, focus...
+GM1_CUT1_14	D7BEBA79	~z~All we've ever been is bitches. Working for guineas, working for niggers, any asshole with a buck.
+GM1_CUT1_15	C5F496E5	~z~The whole lot spent in the proper manner, oh yeah,
+GM1_CUT1_16	E102CD01	~z~wine and women, as quick as possible, and remain a slave forever.
+GM1_CUT1_17	8F45A984	~z~Very poetical.
+GM1_CUT1_18	0EAA284F	~z~Yeah, I know, national tragedy.
+GM1_CUT1_19	FCEC04D3	~z~But I got a plan. You down, friend?
+GM1_CUT1_2	B8A0BA10	~z~Come in, come in. Beer?
+GM1_CUT1_20	E4EAD5AD	~z~Maybe. What is it?
+GM1_CUT1_21	92D2B17A	~z~Well first up, we gotta create a little problem between the Ancelottis and their Albanian muscle, for Jimmy P.
+GM1_CUT1_22	81578E84	~z~You're gonna plant a bomb in Tony Black's car. It'll be rigged to a phone.
+GM1_CUT1_23	AF496A67	~z~Thing will go off with when you dial a number.
+GM1_CUT1_24	2DE4679F	~z~I want it to blow when they get back from their meeting.
+GM1_CUT1_25	1BACC330	~z~So the Ancelottis think the Albanians did it?
+GM1_CUT1_26	CA5EA095	~z~Exactly. Bomb's in an alley off of Inchon Avenue.
+GM1_CUT1_27	F870FCB9	~z~Get it, give me a call.
+GM1_CUT1_28	729BF111	~z~You know Packie was right for once.
+GM1_CUT1_29	6049CC6D	~z~I'm glad you're on board.
+GM1_CUT1_3	397E3BC9	~z~No, thank you.
+GM1_CUT1_4	2B3C9F46	~z~Oh, I agree...
+GM1_CUT1_5	8BE860A0	~z~let's have whiskey instead.
+GM1_CUT1_6	7DADC42B	~z~Packie swears by you, absolutely swears by you.
+GM1_CUT1_7	5511F2E4	~z~Yeah?
+GM1_CUT1_8	4455516B	~z~You handled yourself well on that bank job.
+GM1_CUT1_9	393F3B3F	~z~-It was fun.~n~-Fun?

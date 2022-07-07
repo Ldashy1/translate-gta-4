@@ -1,0 +1,267 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A991D517	100100100
+	ABBCF688	FCB3_GIRL_CONVERSATION_6_UD
+	A82A4D6C	100100100010
+	A9461E15	FCB3_GIRL_CONVERSATION_5_TH
+	AFA55FD0	~z~И главное, НБ, Брюси не связывается с настоящими женщинами.
+	B2622155	FCB3_GIRL_CONVERSATION_2_QN
+	AD25C70B	~z~А как же, мать твою!
+	AD8E61CA	~z~Да почему, мать твою? Викинги знали толк в такой хрени.
+	A2EB9A5C	~z~У меня мышцы ходят так, что вы об этом еще внукам будете рассказывать.
+	A46FA132	FCB3_ACT_GENERIC_INCAR_LB
+	A20830D0	~z~Ага.
+	A291F934	FCB3_ACT_GENERIC_INCAR_LL
+	A5BF1CCF	FCB3_GIRL_CONVERSATION_5_TB
+	A5FC5063	FCB3_ACT_GENERIC_INCAR_KH
+	A55425D7	~z~А они заметили, что я смотрю, и тоже все поняли. Верно?
+	A5918D2C	FCB3_GIRL_CONVERSATION_2_QE
+	B91472AE	~z~Брюси, остынь, какая разница... они настоящие женщины.
+	B99D869F	FCB3_GIRL_CONVERSATION_3_RI
+	B8C08171	FCB3_GIRL_CONVERSATION_1_PJ
+	B8E05E80	~z~А если они вызывают привыкание?
+	C188F0D8	~z~пробивная дамочка, рисковая, охотник, только помягче и поспокойнее.
+	C216836C	FCB3_GIRL_CONVERSATION_4_SM
+	BB644B78	FCB3_GIRL_CONVERSATION_6_UI
+	BF554526	FCB3_GIRL_CONVERSATION_2_QI
+	B5273ED3	~z~Вы намажете мне маслом руки и грудь, а потом увидите, как я тренируюсь.
+	B55234CF	FCB3_ACT_GENERIC_INCAR_LE
+	B307BCEA	~z~Нет.
+	B3CA555B	~z~И где ты надеешься такую найти?
+	B7588FC7	FCB3_GIRL_CONVERSATION_6_UB
+	B7FEB59C	FCB3_HELI_CONVERSATION_3_OC
+	B5C2E4C7	100100210100100010100100310100100010100100010
+	B64E4121	~z~Как-то не очень.
+	A1673782	~z~НБ, старичок, запомни это навсегда - мы чемпионы, братан.
+	8F8CE02B	FCB3_GIRL_CONVERSATION_2_QD
+	94B77A94	FCB3_GIRL_CONVERSATION_5_TC
+	8C6E9440	~z~А ты смог бы, если бы захотел?
+	8D8CE3A6	FCB3_GIRL_CONVERSATION_2_QJ
+	9696BBC7	~z~Ага.
+	97D91C72	~z~Тигры, тигры - понимаете?
+	959CF325	FCB3_ACT_GENERIC_INCAR_LD
+	9692FF65	~z~только сядешь, и сразу ясно, что ты зерно, а не шелуха.
+	87401D1A	~z~А-а, вот оно что, старик. Ну так это совсем другое дело.
+	885C7BC9	100100100010100100210100100100310010
+	82A76D5E	100100100
+	86C68E17	FCB3_GIRL_CONVERSATION_2_QA
+	8A7CF029	~z~Да нет же, старик, они охеренно клевые. Они супер. Мы познакомились в клубе, это было что-то. Так, детка?
+	8C251EF8	~z~Очень смешно, НБ,
+	89C8FB12	FCB3_GIRL_CONVERSATION_4_SN
+	8A1EFB37	~z~Хочу целую ораву маленьких Брюси. Врубаетесь, о чем я?
+	9D2BAE79	100010100100100100100010100100100010100100100
+	9D95BBB1	~z~Только не это. Брюси не любит целлюлит.
+	9BEE1C1C	~z~Нет, но я рад, что ты наконец слушаешь меня. Я про тайм-менеджмент.
+	9C9F5EAE	~z~Ладно, скажем иначе. У меня классный пресс, а еще большой член
+	A07BC7A5	~z~Но я вас всех переживу - я планирую до ста пятидесяти дотянуть. Без шуток.
+	A0BE1857	~z~На чтение книг, вот уж время, которое уходит псу под хвост, лучше долбаный ящик смотреть -
+	9F2B92E0	FCB3_GIRL_CONVERSATION_5_TA
+	9FBE8A84	FCB3_HELI_CONVERSATION_3_OB
+	99B7A02B	~z~Стало быть, Брюси, ты человек напористый.
+	9A845949	~z~Естессно.
+	97DC4B67	FCB3_GIRL_CONVERSATION_6_UH
+	9912B8D3	~z~Когда я с тобой, жизнь кажется длиннее...
+	9B8256D1	010100100100210100310100100100310100100100210310010
+	9BD78E58	FCB3_GIRL_CONVERSATION_5_TD
+	9AC4C423	~z~Да. Вот именно. Теперь ясно?
+	9AFC35EB	FCB3_ACT_GENERIC_INCAR_KE
+	EBCE551E	FCB3_ACT_GENERIC_INCAR_KC
+	EC0DBC56	~z~Ясно? У чемпионов время не пропадает зря.
+	E8C92CBC	~z~Эй, ты когда-нибудь видел таких же крутых телок?
+	EBA66645	FCB3_GIRL_CONVERSATION_3_RA
+	ED3E6912	~z~А что еще нужно?
+	ED6D3D85	~z~Знаешь, каждый раз, когда я сажусь в эту хрень, у меня встает.
+	EC3B463C	~z~Вот только подходящего человека пока не встретил.
+	EC69FD17	~z~Ну и какие у вас планы?
+	E31D9AC3	~z~Размечтался.
+	E3B7AE6B	~z~Ага.
+	E2289227	FCB3_ACT_GENERIC_INCAR_LG
+	E23CA728	~z~Да хватит уже.
+	E6E222C4	FCB3_GIRL_CONVERSATION_1_PH
+	E74749F0	~z~Пусть вызывают, мне плевать. Незачем завязывать.
+	E596B8EF	~z~Очень смешно, НБ. Я клонировал бы себя, если мог.
+	E5D33865	~z~Старик, когда стероиды у меня в жилах, кажется, что со мной ничего не случится. Хрен меня кто тронет, братан, я неуязвим.
+	F90E516F	FCB3_GIRL_CONVERSATION_5_TM
+	FB2FEB12	~z~Я теперь не какой-нибудь жирный лох, которому даже поцеловаться не с кем. Нет, я чемпион, который
+	F796F70A	FCB3_GIRL_CONVERSATION_3_RC
+	F88ABDC1	FCB3_GIRL_CONVERSATION_1_PA
+	FDA55804	FCB3_ACT_GENERIC_INCAR_KK
+	FE8F4F75	FCB3_GIRL_CONVERSATION_2_QM
+	FD0B50DC	~z~Вот это чемпионский подход.
+	FD9B53C9	FCB3_GIRL_CONVERSATION_5_TK
+	F037CD2E	~z~Еще они вызывают стероидную ярость. Но я не против, ага?
+	F31A4162	~z~А то.
+	EEEF8349	~z~Да я не хотел тебя обидеть, НБ.
+	EEF88234	~z~Да.
+	F5E7F27C	~z~Агр-р! О, боже мой, детка, что это? Неужто целлюлит?
+	F6A3D182	~z~Вот я, к пример, дроблю день на пятисекундные отрезки
+	F405A007	FCB3_GIRL_CONVERSATION_1_PF
+	F4E23E4C	~z~Они везучие девчонки, Брюси. Им очень повезло.
+	E1B941AD	FCB3_GIRL_CONVERSATION_4_SL
+	CB4A9D52	~z~Слушай, чего я тебе расскажу... про домашнюю кремацию.
+	CD005867	FCB3_ACT_GENERIC_INCAR_KI
+	CA55F8EB	~z~Сколько раз можешь отжаться? Сколько можешь прожить без мастурбации?
+	CABE278D	FCB3_HELI_CONVERSATION_1_AA
+	D2E471BD	FCB3_GIRL_CONVERSATION_1_PB
+	D3027C91	FCB3_GIRL_CONVERSATION_1_PL
+	CD67078D	~z~А нахрена? Лучше их ничего нет, с ними чувствуешь себя живым.
+	D197A9DC	~z~Ну чего ты ко мне прицепился?
+	C402FCB9	~z~может купить себе любую телку.
+	C6FBFAB7	~z~Отлично... хорошо, что мы встретились - эту ночь вы, девчонки, запомните навсегда. Мы с НБ - настоящие тигры.
+	C2FEBA45	FCB3_GIRL_CONVERSATION_6_UL
+	C357736E	~z~Да нет, что ты, старик.
+	C86EEC0C	~z~Значит, дамы, вас привлекли не деньги, которыми сорил Брюси?
+	C8B2E5EA	~z~И если это вас не заведет, тогда только в морг, потому что вы трупы. Ну что, хотите посмотреть?
+	C76BB12D	FCB3_GIRL_CONVERSATION_6_UC
+	C79295AE	FCB3_GIRL_CONVERSATION_3_RJ
+	DDF01E7B	FCB3_GIRL_CONVERSATION_5_TJ
+	DDF6EE5D	FCB3_GIRL_CONVERSATION_6_UN
+	DC4FA55E	~z~Ладно, будем тусоваться... оттянемся по полной... вы готовы потусить, крошки?
+	DDB348FF	FCB3_GIRL_CONVERSATION_3_RB
+	E0147E3D	FCB3_GIRL_CONVERSATION_2_QH
+	E06A51F8	FCB3_GIRL_CONVERSATION_3_RL
+	DF3A3DE9	FCB3_GIRL_CONVERSATION_3_RD
+	DF5C9C93	FCB3_ACT_GENERIC_INCAR_KJ
+	D6FD4784	FCB3_GIRL_CONVERSATION_4_SB
+	D7271C10	~z~Генетическая разница, старик - вот мой девиз.
+	D31C0D34	~z~Класс. Знаешь, когда ты улыбаешься, я вижу всякое хорошее - дома там деревенские, детишек и будущее.
+	D51125A0	~z~Идеальный пресс. Без стероидов такой не получится, братан.
+	DA251885	~z~То есть умение распоряжаться своим временем...
+	DA8441AA	FCB3_ACT_GENERIC_INCAR_KF
+	D78611B7	~z~И серьезно так встает, можешь мне поверить.
+	D842252C	100210100100210100100100310100100100010100100010
+	81655750	~z~Ну как вам?
+	29669D70	~z~Не-а.
+	29C35752	FCB3_GIRL_CONVERSATION_3_RH
+	2814DED6	~z~Я охочусь на антилоп-гну и трахаю всех баб в прайде. Улавливаешь?
+	28675F63	~z~Вот я - чемпион. У меня успешный бизнес, у меня наличка, у меня роскошное тело.
+	2BFEA4F4	FCB3_GIRL_CONVERSATION_5_TE
+	2D665AEE	FCB3_GIRL_CONVERSATION_4_SK
+	2A717C60	100010100210100100100310010210100100
+	2B0005B2	FCB3_ACT_GENERIC_INCAR_LI
+	21A568C8	FCB3_GIRL_CONVERSATION_4_SA
+	21B09CAA	FCB3_ACT_GENERIC_INCAR_LC
+	1E72AAAA	~z~Мне нужена такая, которая понимает толк в элитном образе жизни,
+	213A26AE	~z~Класс! Практично звучит.
+	26A81D17	FCB3_GIRL_CONVERSATION_5_TQ
+	27F0A6A6	~z~И знаешь, какая пустая трата самая большая?
+	22094590	FCB3_GIRL_CONVERSATION_4_SO
+	234A293E	~z~Вот это транспорт, амиго.
+	31B1817F	FCB3_GIRL_CONVERSATION_4_SF
+	31ECBF02	~z~Я стоял у стойки, заказывал "магнум", ну, осматривался там,
+	30C8AC34	FCB3_GIRL_CONVERSATION_5_TG
+	314ECF5B	~z~Чего?
+	35C57246	~z~Вот как я хочу уйти - я прочитал про эту клевую штуку в сети. Что скажешь, детка?
+	36101062	~z~А потом мы поедем ко мне и найдем массажное масло.
+	34196AA3	FCB3_ACT_GENERIC_INCAR_KL
+	349A6F05	FCB3_ACT_GENERIC_INCAR_KG
+	2EB0445B	~z~Да.
+	2EE78D1A	FCB3_GIRL_CONVERSATION_3_RE
+	2E59D830	~z~Да на раз! Но с ними я живой и выгляжу живым. Я гребаный Адонис, братан, смотри.
+	2E9532B8	FCB3_GIRL_CONVERSATION_6_UJ
+	3013FE10	FCB3_GIRL_CONVERSATION_6_UP
+	30975727	FCB3_ACT_GENERIC_INCAR_KB
+	2F2832EB	~z~Ага, ага.
+	2FBBB3BA	FCB3_GIRL_CONVERSATION_1_PD
+	1D9DD38C	FCB3_GIRL_CONVERSATION_4_SC
+	06B45B34	FCB3_GIRL_CONVERSATION_5_TF
+	06CCBE3D	FCB3_GIRL_CONVERSATION_3_RF
+	05C3AFCA	~z~Хотите хорошо провести время, детки?
+	0676F3E9	~z~Ну что, дамы, развлекаемся? Я рад, что мы пересеклись, а вы, дорогуши?
+	0879752D	~z~и каждый такой кусочек расписываю заранее, да еще веду таблицы.
+	088CABC2	FCB3_GIRL_CONVERSATION_4_SI
+	06D05313	FCB3_GIRL_CONVERSATION_2_QO
+	085EA53C	FCB3_GIRL_CONVERSATION_3_RK
+	01C61AD5	FCB3_GIRL_CONVERSATION_4_SD
+	022A9A7E	FCB3_GIRL_CONVERSATION_4_SE
+	003F0F39	FCB3_GIRL_CONVERSATION_1_PI
+	01796731	~z~Сейчас я тебе объясню, НБ, что самое главное для чемпиона.
+	04F35AB2	FCB3_GIRL_CONVERSATION_1_PE
+	052DAFC5	~z~Заткнись уже, Брюси.
+	03BE1629	~z~Я чемпион, но у меня есть и духовная жизнь. Эту хрень я чувствую очень глубоко. Я слушаю ее, как транс и всякое такое дерьмо.
+	044A6927	FCB3_GIRL_CONVERSATION_5_TL
+	146B5A6E	FCB3_GIRL_CONVERSATION_3_RG
+	152116FC	~z~Ну да, болтают всякое насчет яиц, но это гребаный миф. Мои-то огромные.
+	11CAB242	~z~Нет.
+	122932E7	~z~Вокруг меня увиваются горячие девчонки вроде вас. Но знаете, это еще не все.
+	18C39882	~z~Но я не прочь остепениться.
+	1CF1A0DE	~z~Я казанова, охотник, фехтовальщик, пронзающий трусики рапирой.
+	16FB4877	FCB3_GIRL_CONVERSATION_6_UG
+	170D2DB2	FCB3_GIRL_CONVERSATION_2_QB
+	0C65CF42	FCB3_ACT_GENERIC_INCAR_LH
+	0DC8B75A	FCB3_GIRL_CONVERSATION_4_SH
+	09BF56E2	FCB3_GIRL_CONVERSATION_2_QF
+	0BA372A6	FCB3_GIRL_CONVERSATION_2_QC
+	1010F6F3	FCB3_ACT_GENERIC_INCAR_LA
+	10CC6B02	FCB3_ACT_GENERIC_INCAR_KM
+	0EBDF441	~z~и все органы чувств работают, и чувствуешь себя живым, ясно?
+	0ECAD114	FCB3_GIRL_CONVERSATION_6_UK
+	68FC99AE	FCB3_GIRL_CONVERSATION_2_QK
+	698939B3	FCB3_GIRL_CONVERSATION_4_SJ
+	67EE9C89	FCB3_ACT_GENERIC_INCAR_LF
+	67F6F42F	~z~Черт, Никки, мы, конечно, близкие друзья и все такое, но я не собирался делиться с тобой девчонками.
+	6E2BB048	FCB3_GIRL_CONVERSATION_2_QP
+	6EEE021D	~z~А ты, горячая штучка?
+	6C01C4BC	~z~А ты никогда не думал завязать со стероидами?
+	6D9FE9EF	~z~Я жгу палки-вонялки и слежу за своей энергией ци.
+	5EF5AAA8	~z~Ангелы вы или черти? Хорошие девочки или, как это, лисы в волчьей шкуре, - ну, вы меня поняли?
+	61F0E94A	~z~Нико попроще, такой неграненый алмаз, но все равно парень первый сорт.
+	5C3E13AC	~z~Ага.
+	5CA9049E	FCB3_ACT_GENERIC_INCAR_LN
+	66DC43A5	FCB3_HELI_CONVERSATION_2_ND
+	67AB6798	010010100100010100100100100100010100100
+	64A91B92	~z~Старик, я охренеть как люблю их.
+	6504ADFE	FCB3_GIRL_CONVERSATION_5_TI
+	7AF763B6	~z~Лучше не скажешь.
+	7C0CB26A	100210100100310100100100210100100100100010100
+	78489B11	FCB3_HELI_CONVERSATION_2_NC
+	784DD795	~z~Угу.
+	803180E9	~z~Не для того Брюси делает пятьсот отжиманий в день, чтобы обниматься с гребаным целлюлитом.
+	814BF968	FCB3_HELI_CONVERSATION_2_NA
+	7ECC7E98	FCB3_ACT_GENERIC_INCAR_KD
+	7FE3DAF7	~z~мышцами поигрывал, а потом увидел этих девчонок - и все.
+	71DC996E	FCB3_GIRL_CONVERSATION_6_UO
+	72F1CA1C	~z~А то. Практичные жертвы чемпионов! Это есть в книге, братан. Или будет в новой.
+	6F46E043	FCB3_ACT_GENERIC_INCAR_LO
+	6F994262	FCB3_GIRL_CONVERSATION_5_TP
+	752CB365	FCB3_ACT_GENERIC_INCAR_LM
+	754C5755	~z~Расскажите о себе, хочу узнать ваши тайны -
+	74B669EF	~z~Я живу мечтой, старик. Мечтой викинга. Черт! Вот уйду я, и вы все узнаете.
+	74BD7A74	FCB3_GIRL_CONVERSATION_1_PK
+	5B876DF8	FCB3_GIRL_CONVERSATION_6_UM
+	42CEF257	~z~Не то чтобы я не мог бросить, если захочу. Просто зачем?
+	42DF8C6E	~z~Ну уж нет.
+	41FE5639	~z~Держись, сейчас будет прикольно... ох и люблю же я летать на этих игрушках -
+	42162458	FCB3_GIRL_CONVERSATION_6_UE
+	45F0B14A	~z~и большой счет в банке. Полный комплект.
+	47565B09	FCB3_HELI_CONVERSATION_3_OA
+	43D4524B	~z~ну, и на брюлики и на наличку тоже, ясно? Давай-ка завязывай с этой философией, ты тоже чемпион, братан.
+	44FDA6F7	FCB3_GIRL_CONVERSATION_4_SG
+	36884839	~z~Нет, Брюси. Да, они ничего.
+	38354865	FCB3_GIRL_CONVERSATION_1_PC
+	3683FB9C	~z~Крошки, а вы когда-нибудь думали, ради чего живете?
+	36867BB9	~z~Ну, ты же понимаешь: я - альфа-самец. Я - охотник-собиратель, гроза гребаной саванны.
+	4078FC66	FCB3_ACT_GENERIC_INCAR_KA
+	415369A1	~z~Во мне есть поэтическая жилка, детка. Чувствуешь?
+	3934A2FF	FCB3_ACT_GENERIC_INCAR_LJ
+	39B6CA32	~z~Короче, все пустые траты времени надо вычеркивать из таблицы.
+	581CD754	FCB3_HELI_CONVERSATION_1_AB
+	5880E2F7	FCB3_ACT_GENERIC_INCAR_LK
+	549D1716	FCB3_GIRL_CONVERSATION_6_UA
+	564EF154	FCB3_GIRL_CONVERSATION_2_QG
+	5A683553	~z~Когда ты уйдешь, мне будет сто пятьдесят лет.
+	5B25EAA6	FCB3_GIRL_CONVERSATION_1_PG
+	5A217EE5	~z~Ты о чем, старик? Эти девчонки клюнули на мое шикарное тело...
+	5A3E5134	FCB3_GIRL_CONVERSATION_6_UF
+	4F9793C4	FCB3_HELI_CONVERSATION_2_NB
+	4F9C0BF5	~z~что держит вас на плаву и не пускает на дно - отжимания или липосакции?
+	4850EF1B	FCB3_GIRL_CONVERSATION_5_TN
+	4CCD3DDC	~z~У Брюси для вас всякой хрени навалом, крошки.
+	53674C37	~z~Он тигр, хотя выглядит, как... ну, как...
+	539ECB7F	~z~Наши планы - наше личное дело, братан.
+	50ED4C95	FCB3_HELI_CONVERSATION_1_AC
+	51BDFEFD	FCB3_GIRL_CONVERSATION_5_TO

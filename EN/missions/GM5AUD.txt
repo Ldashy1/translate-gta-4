@@ -1,0 +1,405 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AB2E9062	~z~The guy with the ice has got to be this way.
+	AB4D5DD2	GM5_WQ
+	AB2E8F95	~z~Shit, we got even more company.
+	A8ABBE07	~z~Some time ago, I worked for Mr. Bulgarin in Europe, smuggling people across the Adriatic.
+	AA550689	~z~Use the pipes for cover, come on man.
+	ACDE705D	GM5_OF
+	AEC50FB8	~z~At least you didn't get what you wanted.
+	B0C095ED	GM5_PD
+	AEA82CAF	GM5_HA
+	AD22B6C2	~z~We ain't exactly got much to exchange now, do we? Shit.
+	AE13AF59	~z~A lot of people are going to be upset about that.
+	A8201B0C	GM5_XM
+	A1044A29	~z~I had to leave Europe because of him.
+	A173D1F3	GM5_A_ZA
+	9E99521A	~z~An example to the rest of the world.
+	9D86068B	~z~That might be okay where you're from, Niko. But this is an enlightened society we live in.
+	9D9ED3F4	~z~I do give you the diamonds, Mr. Bulgarin kills me later.
+	A25853EC	GM5_WV
+	A63D57AF	~z~They were not Ray's, I can tell you this much.
+	A782F5F6	~z~This is not the first time he has assumed that I will be killed by some of his employees.
+	A60D9F51	~z~You're telling me. We woulda let him live.
+	A50BC426	~z~There's guys above us. Get them, Niko.
+	A52165D7	GM5_XJ
+	B164F1D2	~z~Motherfucker.
+	BCA4A21E	102
+	BCD5ABDB	GM5_PF
+	BC8985EF	GM5_XI
+	B9D126C6	~z~Enjoy that, you fucks.
+	BC65DC6B	GM5_DP
+	BD530443	~z~You fucking bastards.
+	C0D09DB6	~z~You know what, I'm still fucking scared.
+	C0F8AB53	GM5_BA
+	BFE16E52	GM5_A_ZE
+	BDF357A1	GM5_GA
+	BE1E1A54	GM5_OE
+	B9976350	~z~You selfish piece of cocksucking shit!
+	B4378976	~z~Good luck.
+	B4643BFE	~z~There's always one who ruins it for everybody else in the class.
+	B3F6F322	~z~Maybe they belong to this homosexual man, Gracie's friend. I don't know. Maybe to Bulgarin.
+	B34E60AB	~z~Fuck Niko, there's some guys up there.
+	B3938E1F	~z~And they were his diamonds?
+	B49BFF20	GM5_CC
+	B902A3E4	~z~Jesus, Niko. You're gonna get killed. Get some cover.
+	B96BACDC	~z~Let's split up. I'll take the high road and you take the low road.
+	B8D63D2B	~z~Maybe you should bind and gag all the girls you meet?
+	B6894048	~z~Jesus Christ, why did that moron have to throw the ice away? It was just plain selfish.
+	B73FF821	~z~Gracie, watch your mouth. Niko is good friend of mine. Don't say that about him.
+	9D57391A	GM5_DE
+	863D118D	020200
+	87398DEC	GM5_CG
+	8596F5E8	GM5_XT
+	839510C8	~z~Like a house on fire, ain't that right, Gracie?
+	8588A2AA	GM5_OG
+	87572AC4	~z~Story of my life.
+	8A672D1C	GM5_QB
+	8ABEBE0B	~z~Don't nobody having them. Screw all of you!
+	8A4A46BF	~z~Screw you, screw you all.
+	896DE612	~z~There ain't much that could cheer him up now that he thinks he's doing serious time,
+	8A39702A	GM5_OG
+	83914669	~z~Motherfuck. Packie... shit.
+	7B7DCA32	~z~He coulda walked away from there. Instead, he's fucked and the diamonds are who knows where.
+	7BCD013C	~z~Gracie, you're sweet.
+	78F60CAD	GM5_OB
+	77C6B281	GM5_WAA
+	77CCA0E7	~z~They ain't getting back up, Niko. We put the bastards down.
+	7C483D3D	100100
+	81C78BE2	GM5_RA
+	82C6C036	102
+	812B3FF5	102102
+	7CC501C3	GM5_XA
+	7DEFF8DB	020200100100010010100100010010120290010010100100010100290
+	8C1DAD23	~z~Is it finally beginning to sink in that my sister's chastity belt don't come off?
+	99A8425D	GM5_XK
+	9A800B0C	GM5_OE
+	97B11FB4	GM5_XX
+	9736C351	GM5_DA
+	978C5609	~z~We was outnumbered, Niko. I can see how he thought it was covered.
+	9AB2DAEE	GM5_XC
+	9C3ADC27	010120290120290120290120120120210120210
+	9C8FC448	GM5_CE
+	9C17EA0F	~z~Get in cover behind them pipes, Niko!
+	9ABE1934	020
+	9B77CA2C	GM5_OB
+	95A015B9	~z~Hey, man.
+	8E06D5DE	GM5_PE
+	8F01A7A5	~z~I fucking hate the both of you.
+	8D836370	390
+	8D012223	~z~Okay, so we exchanged Gracie for some diamonds that Ray used to have.
+	8D644327	GM5_BB
+	8F8A9428	102
+	91D315F4	GM5_XS
+	92864122	~z~At least I'm gonna be on the other side of some bulletproof glass to him.
+	91C01076	GM5_XV
+	8FD4B860	~z~I'm screwed either way. If I don't give you the diamonds, you kill me here and you take 'em.
+	8FF7E0D8	GM5_PG
+	EF204E2F	GM5_A_ZD
+	EF6C6D85	100100010100100100010010010010010100010010010010100010010100100010010010010100010010100100010
+	EEFEFB35	GM5_OD
+	ECED6585	GM5_WF
+	EEC3FF60	GM5_QE
+	F00E032D	102
+	F20BD2B2	GM5_WD
+	F2408B74	~z~Piece of shit does not even stay at a fight to see the outcome.
+	F184ECAA	~z~Fuck you, fuck you, fuck you, fuck you.
+	F1197E47	~z~It is the story of a lot of lives, Packie. I'm getting used to hearing it.
+	F14E0FE8	102
+	EBA55B2D	GM5_DB
+	E5E7ED3A	GM5_CK
+	E6F6E6DB	020200
+	E5D99725	~z~Hands off my woman, Bellic. Gracie and me is in love.
+	E4002BEA	~z~Here we are, the party is happening in the back. Gracie's friends should be waiting.
+	E5193142	100100
+	E7A0E428	~z~You normally just shove so much coke up a girl's nose she may as well be tied up.
+	E9755B0E	~z~There's nothing right about this situation, but that would be an accurate description of what went down.
+	E9825B07	GM5_WR
+	E9135BC3	~z~See, she was just telling me how much she loved me. What do ya think of Niko, Gracie?
+	E8283658	~z~Alright man, keep on me.
+	E8D62C54	~z~Well, Niko. That was a whole lot of effort for no fucking reward.
+	F3134C2E	~z~Stay close to me, Niko.
+	FC338D49	~z~Fuck you.
+	FC6500F1	~z~Fuck, he weren't too chipper the last time I spoke to him and he's gonna be a long way from chipper when I tell him what went down.
+	FC2FA9AB	~z~Nicely done, Niko. We fucking got 'em.
+	FBA770AC	GM5_FA
+	FBB6FF91	~z~If I can get what went on straight in my head in the first place, that is.
+	FCAA0697	GM5_XD
+	FF25E235	~z~Alright, we're meant to meet them around the back a this place. Keep an eye out.
+	FF74CB05	GM5_SA
+	FDE66121	GM5_XAC
+	FCD05FC0	~z~Come on, stay close.
+	FD5DE73A	GM5_WP
+	FAC18186	GM5_CH
+	F464BCF0	GM5_DJ
+	F4E3A172	GM5_PB
+	F3CBB052	GM5_XO
+	F368D380	~z~My cousin and I moved up to Bohan to get away from him and another man called Dimitri Rascalov.
+	F3C5A462	GM5_XQ
+	F5A42747	GM5_XAD
+	F9111328	~z~See you Niko, I've got to go break the news to Gerald.
+	F9D2FD42	~z~Packie, my man. How are you and Gracie getting on?
+	F84219AB	GM5_PB
+	F69AD5F8	100
+	F7CEDD48	GM5_A_ZC
+	DF59DAC8	~z~See you Niko, I've got to go break the news to Gerald.
+	CB5206C5	~z~~c~Fucked up, as usual!
+	CB6B17F2	~z~You selfish piece of cocksucking shit!
+	CB4FE21E	~z~U S of fucking A.
+	C8AA5299	100
+	CAB1A029	~z~Give us that fucking ice, you're trapped.
+	CB77D027	~z~Fuck me, a whole load of them are showing up.
+	CD5755C6	GM5_XR
+	CEC1B164	GM5_QF
+	CD42F5BD	GM5_DR
+	CC2CA848	102
+	CD210062	~z~Stay on me.
+	C7257FBC	GM5_XY
+	C268B8B0	GM5_DQ
+	C2D9F02C	~z~Alright, Niko. The exchange is over on Charge Island at the water treatment plant.
+	C218CFB0	~z~Real enlightened, real civilized. That's the impression I've got so far.
+	C1C24389	GM5_IA
+	C1C34408	GM5_PD
+	C31AD565	GM5_WN
+	C6E8FD99	~z~Probably a good thing you got out though. Wouldn't a met me if you'd stayed, would ya?
+	C703B0C8	GM5_QD
+	C5609FA8	~z~Maybe Gracie ain't so different.
+	C402F28A	GM5_KA
+	C4932A2D	~z~You know what, I'm still fucking scared.
+	CEFC2934	~z~Shit, these diamonds have been trouble since Ray first made me take them out of a trash can for him.
+	D9E6C8B4	~z~You're in a mood, ain't ya Niko?
+	DA2E3578	~z~~c~Fucked up, as usual!
+	D868F4D0	GM5_WZ
+	D7A35CA0	102
+	D833B88B	~z~Then some Russian turns up saying they're his. Then everything goes to shit. That's about right, isn't it?
+	DA971B36	~z~Keep close, Niko boy.
+	DE97E423	~z~That rule even works for wishes as cheerful as yours.
+	DF5070CE	~z~You don't get nothing now, you greedy fools.
+	DDFE7534	~z~Jesus, Niko. There's more of the bastards arriving.
+	DB8153B0	~z~Looks like our joyful time with her is coming to an end.
+	DDBE9E3C	GM5_DO
+	D6D0CEA8	~z~At least I'm gonna be on the other side of some bulletproof glass to him.
+	CFE83534	GM5_XE
+	D16306B0	~z~This is the place, the exchange is happening at the back. Get us in there.
+	CF7DF43B	GM5_DK
+	CF2D2D66	~z~That's right, he is definitely a bad influence on me.
+	CF60EA2C	~z~Gracie, it's been too long. We should hang out more often.
+	D199D561	~z~Nobody's having them. Nobody.
+	D68653F4	GM5_XB
+	D6AE3C1C	GM5_XG
+	D4E90BCF	GM5_XAA
+	D31F3722	GM5_XH
+	D3AAC0A4	100100
+	750C3D4F	~z~It's gonna be a nice thing to mull over. You know, while he's staring at them metal bars for the next decade or so.
+	2438B895	~z~Don't nobody having them. Screw all of you!
+	2444E798	GM5_OD
+	239CB013	GM5_WK
+	2179F43F	~z~You got 'em, my man. Good fucking work.
+	2271B23D	GM5_WO
+	24566559	~z~Niko, me and Gracie is waiting for you just off a Frankfort Avenue in Northwood.
+	28D13E50	~z~A ship sunk, the cargo sunk to the bottom of the sea, I had to swim for my life.
+	29AB4004	~z~And now he shows up claiming the ice belongs to him? What are the chances?
+	28BE3E26	~z~That's a real shame, I can see you fitting right in down in Hove Beach, Niko.
+	24EB58E1	~z~I'll give you some fucking uses.
+	265AE8D1	~z~Good luck.
+	211CC3EF	GM5_DD
+	1C91A2B7	GM5_XZ
+	1CE4C48E	~z~We'll let you go if you give 'em up.
+	1C87772E	~z~I've got a suspicion those were the ones Ray Boccino got me to handle a while back.
+	1B707E3B	GM5_XP
+	1C7D452C	GM5_A_BB
+	1D32C5A0	~z~Is good they are on their way to a landfill somewhere. Best place for them.
+	1FE247EB	~z~A guy like Gerry can still do stuff in the joint. He organized this kidnapping shit, didn't he?
+	20760BFD	GM5_WY
+	1F14D30B	~z~Fuck the both of you.
+	1E061812	GM5_DS
+	1EEBE061	GM5_CJ
+	2A4712AD	~z~They're bad luck.
+	0003934A	~z~Ahhhhhh.
+	39A0FE7C	~z~The population of Liberty City would have been higher if we had.
+	39381962	~z~Hopefully one day I will be able to teach him his lesson by putting a bullet through the back of his head.
+	37862D2B	~z~Kidnapping the bitch, holding onto her, fighting through them damn Russians... all of that for jack shit.
+	37DE5D2A	392
+	3A9C55EA	GM5_DM
+	3D440250	GM5_FB
+	3E784861	~z~I'd rather see you hanging from a fucking tree.
+	3C6DE589	~z~This was one of the reasons I leave Europe and come here to Liberty City.
+	3AD702EF	~z~It is the story of a lot of lives, Packie. I'm getting used to hearing it.
+	3C16EB01	~z~Alright, I think I know who's got the ice. Follow me.
+	36A9DD1D	GM5_WC
+	2F32A726	GM5_WW
+	2F792012	GM5_JA
+	2E4A59C4	100100300300390011131
+	2A5779C4	GM5_UA
+	2C493027	~z~A whole lot of trouble for jack fucking shit.
+	2FE4C5E8	~z~This way.
+	367A8989	~z~That's the plan. Hopefully someone might bring a big present for us to this shindig as well.
+	36A52050	GM5_PC
+	35EE5C00	~z~I do give you the diamonds, Mr. Bulgarin kills me later.
+	32B2746F	~z~He's got his uses.
+	340A0CF9	GM5_NA
+	08C65CFE	~z~Packie, this is great. You've finally found a woman who will sit down and listen to your shit.
+	0994D14D	~z~Fuck, fuck, fuck. All that trouble for nothing.
+	07DF1AF9	~z~You might be right, Niko. Whose fucking diamonds were they anyway?
+	07BA8183	GM5_WE
+	07C0F59D	GM5_MA
+	0A08609C	GM5_WAC
+	0BCC17FE	GM5_DC
+	0BD1D5C3	~z~Yeah, but there is no guarantee we woulda made any money out of those diamonds anyway.
+	0B2076FF	GM5_A_AA
+	0A2C293A	~z~Fuck you.
+	0AA1FB63	~z~Niko, my man, you gotta follow me.
+	0733A0BA	GM5_CB
+	0165CCB9	100100
+	0166F322	~z~Serves you right, you selfish cocksucking piece of shit.
+	00DEF1DE	~z~I'm screwed either way. If I don't give you the diamonds, you kill me here and you take 'em.
+	000ABE35	~z~Now we ain't getting shit.
+	00A0CE67	GM5_WS
+	039E2E2F	~z~Just leaves his boys to clear up.
+	04BF9992	GM5_CD
+	052F770D	~z~Our paths crossed back when I was living in Hove Beach as well.
+	049EEF45	~z~Follow me.
+	03B853AA	GM5_WT
+	03DC39E5	~z~You motherfuckers.
+	0D990788	GM5_WB
+	177578CD	GM5_XN
+	177740CD	GM5_OA
+	17179ADD	~z~Bulgarin lost a lot of money that night and he needed someone to blame.
+	13B716A2	GM5_XW
+	1690F60F	GM5_OF
+	1785F35A	GM5_WAD
+	1997AE6A	010100
+	19D11311	100100010100100100010
+	190E22AA	~z~Motherfuck. Packie... shit.
+	1827BB8A	~z~Me and some biker had to try to sell them to a diamond dealer and it turns into a blood bath.
+	18F38A69	GM5_DG
+	137A5A17	~z~Burn baby burn.
+	0F6DDA28	300300
+	0FA7AD92	GM5_CF
+	0EB3262D	GM5_XAB
+	0DD861DE	GM5_WAB
+	0DF58283	100010100100010100100100100010010100100100100010010010010100010010010010100010010100100
+	0FBBBC24	~z~That's a fucking tragedy. We should throw her a goodbye party.
+	12877080	~z~Gonna get hitched. White picket fence and all that shit.
+	1368C37E	~z~We're waiting for ya, man.
+	127B951B	~z~We'll let you go if you give 'em up.
+	11223587	~z~Go to your fucking family. I don't want nothing to do with you.
+	11FEB5C7	100100100010
+	3E8B480A	GM5_LA
+	6A2CDC83	~z~It can't be the only card he's got to play.
+	543B6B90	GM5_ZA
+	6A9BF861	GM5_PA
+	6B05C62E	~z~Give us that fucking ice, you're trapped.
+	533194D7	GM5_PG
+	552BBC3C	010
+	5628CF7F	GM5_OA
+	5522B07F	GM5_CI
+	54E1835C	GM5_DH
+	54E35B11	~z~Niko, they're done. Let's go.
+	4FC7011F	GM5_DN
+	506BCF09	GM5_PC
+	4F52F932	GM5_GB
+	4E1B08E3	~z~Bulgarin, he the motherfucker who busted up our peaceful hostage exchange?
+	4E1EF6E4	~z~Story of my life.
+	51EAAF13	~z~No, they stole them from the guys I sold them to.
+	6B31E59D	GM5_CA
+	50F92FEF	GM5_A_ZB
+	507DB5C6	GM5_QA
+	50ED36BF	~z~You know you love it, Niko. Doesn't he Gracie?
+	662FD54C	GM5_RA
+	6650563F	~z~I know I'm too good for him, but sometimes a guy has got to hang out with lowlifes like Niko here.
+	6598566E	~z~That was when those friends of Gracie's must have gotten them.
+	640DA499	~z~Gracie's dead.
+	654AEF8E	GM5_CL
+	69850458	~z~You're a prince, Niko. We got the fucks.
+	69A0203B	102
+	67D11FFF	GM5_PA
+	666C5C6E	GM5_XF
+	673F1960	GM5_SB
+	57D702E5	~z~Me brother, Gerald, is going to be one of them people.
+	592C4E6F	~z~Well, Niko. That was a whole lot of effort for no fucking reward.
+	57404DD9	GM5_NB
+	56DDB5DD	~z~I worked for him on the Adriatic, he thought I stole from him and he came after me.
+	572C397A	GM5_WA
+	61AE817B	~z~Maybe we was going to have to give up them diamonds to fucking Ray Boccino but we woulda got a payday.
+	627430CB	GM5_XU
+	606767C0	~z~The only thing that makes me smile about this shit is that Bulgarin does not have the ice.
+	5C3BD50B	~z~Maybe a big bag of diamonds will help us get over the pain of losing her.
+	5C62E4CF	GM5_TA
+	4DF3B9BD	GM5_OC
+	72B1F0A1	~z~Stole 'em from you, did they?
+	488AB4E6	GM5_CM
+	43261B31	~z~Motherfuckers.
+	43205DD5	~z~I hate that I'm the one that has to tell Gerald about this. Later on, man.
+	42D21D1F	GM5_QC
+	494DE22C	GM5_WU
+	48906762	GM5_DI
+	6E6439EA	~z~Shit, I don't wanna spend another minute in this crap-hole, let's get outta here.
+	448F1140	~z~The Russian is called Ray Bulgarin,
+	45C6C9AC	~z~Look on the bright side, at least you got to meet Gracie.
+	43DA935E	011131
+	40FD49B3	GM5_WX
+	725AA3FC	~z~Good riddance to the fucking asshole.
+	45DE3EE2	~z~Fire and fucking ice.
+	736B5383	~z~What in Christ's name went on back there anyways?
+	434A59CC	~z~but this is really gonna piss him off.
+	4B233280	GM5_OC
+	4B4CECFB	GM5_DL
+	4AFD05BF	~z~When you put it like this, I'm one lucky motherfucker, Packie.
+	41E48342	GM5_DF
+	4CC6C07F	~z~I don't know about that. They're nobody's now.
+	5328E470	~z~Screw that. I got close to knocking her teeth out. That was about it. We ain't got shit now.
+	4C917E3D	GM5_YA
+	4C91811C	GM5_WL
+	4217E4DE	~z~Over here, Niko boy.
+	394BE0E4	GM5_PE
+	49AE8D6D	~z~They're some more of them up there.
+	4979A177	100100010100100100
+	4A6C64E6	GM5_WM
+	3F5364C5	~z~You following me, man?
+	41016F53	GM5_PF
+	4A9FBC31	~z~You're not meant to say what you wish for out loud. It won't come true if you do.
+GM5_CUT1_1	8BB07D5C	~z~Hey.
+GM5_CUT1_10	6A0D2AD3	~z~No, I guess not.
+GM5_CUT1_11	8EE3747F	~z~Thanks.
+GM5_CUT1_12	C5E46284	~z~Packie will give you a call and explain.
+GM5_CUT1_13	5C248F02	~z~The ex-boyfriend of your girl, he's gonna to agree to the divorce terms.
+GM5_CUT1_14	434BDD51	~z~Unfortunately, it turns out he wasn't our only problem.
+GM5_CUT1_15	47A7E609	~z~Some other crap has turned up.
+GM5_CUT1_16	1ECA144E	~z~I don't think I'll be getting out anytime soon.
+GM5_CUT1_17	2D3BB131	~z~Been a great laugh.
+GM5_CUT1_18	5437FEF1	~z~Look after yourself.
+GM5_CUT1_19	E1E19A4A	~z~Yeah.
+GM5_CUT1_2	7C03DE03	~z~Yeah?
+GM5_CUT1_3	0EBE0371	~z~What's wrong?
+GM5_CUT1_4	42A76B43	~z~There's good news and there's bad news.
+GM5_CUT1_5	34ECCFCE	~z~The good news is everything is coming together.
+GM5_CUT1_6	E50A300A	~z~The bad news?
+GM5_CUT1_7	D7489487	~z~It ain't gonna to make a blind bit of difference to me.
+GM5_CUT1_8	E65D32B4	~z~Uh? What do you mean?
+GM5_CUT1_9	D8079609	~z~Do you want me to spell it out?
+GM5_SWAP_1	8EF2EE71	~z~Gracie, you alright?
+GM5_SWAP_10	D16E6E1E	~z~Then you send over the girl.
+GM5_SWAP_11	9B3C01BA	~z~We leave and you pick up the stuff. Entiende?
+GM5_SWAP_12	653415B7	~z~Sure, show us the goods.
+GM5_SWAP_13	BED1C8E5	~z~Come back to me, honey.
+GM5_SWAP_14	68809C44	~z~Let her go.
+GM5_SWAP_15	75F2B728	~z~Niko Bellic, how is it that whenever something is stolen from me you are not far away?
+GM5_SWAP_16	87E7DB12	~z~I have never stolen anything from you, Mr. Bulgarin.
+GM5_SWAP_17	99A67E8F	~z~These men, the big ~c~faggot~s~
+GM5_SWAP_18	1B9B827B	~z~and his Dominican bitch, they stole my diamonds.
+GM5_SWAP_19	2D4125C6	~z~And you have been trying to rob the thieves.
+GM5_SWAP_2	7CCB4A22	~z~The bastards didn't hurt you, did they?
+GM5_SWAP_20	B9AC3D86	~z~To rob me. ~c~Kill them all!~s~
+GM5_SWAP_21	079A5961	~z~I don't care what you did to that man, but we ain't leaving here without them diamonds.
+GM5_SWAP_3	6C7DA987	~z~She can't speak. We got a gag in her mouth.
+GM5_SWAP_4	523F7507	~z~Give her back, you animals. She's suffered enough.
+GM5_SWAP_5	4010D0AA	~z~Hand over the stuff.
+GM5_SWAP_6	37B7BFF8	~z~Hand over Gracie!
+GM5_SWAP_7	4093D1DC	~z~-I'm here for you, sweetie.~n~-Hand over the fucking stuff!
+GM5_SWAP_8	30BB322B	~z~Alright, calm down. Both of you.
+GM5_SWAP_9	27091EC7	~z~We put the ice in the middle, we walk back.

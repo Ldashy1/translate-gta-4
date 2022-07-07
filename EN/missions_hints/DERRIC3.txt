@@ -1,0 +1,38 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AA5F822C	~s~Move out of the Stockade's path.
+	A7E1FC1D	~s~Wait for the convoy.
+	B24BE60F	~r~Aiden is dead. His body will be found.
+	AD64DC41	~r~Packie is dead.
+	939BD391	~s~Shoot the ~g~logs~s~ off the flatbed.
+	83D8351E	~s~Wait for ~b~Packie.
+	A3D97520	~s~Kill ~r~Aiden.
+	983FB1F7	~r~The flatbed has been destroyed.
+	E6604E37	~r~The escape car has been destroyed.
+	DC2C65C5	~s~You are leaving ~b~Packie~s~ behind.
+	F3C1E8FA	~r~You have abandoned Packie.
+	F36C1338	~s~Pick up the ~g~rocket launcher.
+	C0BE82F4	~r~Aiden has escaped.
+	C098AE9E	~s~Drive through the park to reach the cliffs.
+	D5865879	~s~Go and talk to ~b~Packie.
+	C4A5CEE7	~s~Park the truck across the two markers to block the tunnel.
+	4057B69F	~s~Mission Passed.
+	37179B92	~s~Get back in the ~b~Stockade.
+	42FA076D	~r~Mission Failed.
+	4080AD60	~s~Get the ~b~truck.
+	1AD4371E	~r~The Stockade has been destroyed.
+	0E32C8C5	~s~Block off the ~y~Booth Tunnel.
+	34A7137D	~s~Ditch the truck in the ~y~quiet location.
+	2ED80A0F	~s~Blow up the ~r~Patriot.
+	67C97CF5	~s~Get back in the ~b~truck.
+	66E5F7FA	~s~Get to the ~y~escape car.
+	7D39A6CD	~s~Steal the ~b~Stockade.
+	720C9187	~s~Get ready to attack.
+	5195508D	~s~Lose your wanted level.
+	4B6CC338	~s~Take Aiden to the ~y~cliffs.
+	611DEE9A	~s~Take out the ~r~escorts.
+	57EBDA06	~s~Get back in the ~b~escape car.

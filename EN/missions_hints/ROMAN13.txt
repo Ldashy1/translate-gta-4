@@ -1,0 +1,41 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C9519445	~s~There are not enough seats for Talbot and Roman.
+	C84CF72B	~s~Put the phone away and listen to Talbot.
+	CD63CE00	~s~Wait for ~b~Roman.
+	CD4DAA50	~s~Are you Crazy!? You're going against the traffic!.
+	A61B0283	~s~Get a car.
+	A6077F48	~s~Go and see ~y~Talbot.
+	B96819EB	~s~Get a four door car.
+	A8B9111B	~s~When in a car, Talbot will give directions as you approach a junction.
+	DB32699D	~s~Wait for ~b~Talbot.
+	F0EADF34	~r~Talbot has been injured.~s~
+	EFBA12B0	~s~Get a car for you and Roman.
+	FA3CAC90	~s~Go back and get ~b~Roman.
+	F4315F8A	~s~Get in a car and follow Talbot's directions.
+	E1A6F99A	~s~Go and see ~b~Talbot.
+	DD2132B6	~s~Go back and get ~b~Roman~s~ and ~b~Talbot.
+	EEE29415	~s~Pick up ~b~Roman.
+	EE5C3E40	~r~Roman is dead.~s~
+	8F32D5FB	~s~Go back and get ~b~Talbot.
+	21E4F705	~s~Beat ~r~Talbot~s~ enough to make him talk.
+	1C89EF63	~s~Get a car and pick up ~b~Roman.
+	5D5BEDF2	~s~Wait for ~b~Talbot~s~ and ~b~Roman.
+	4CAF1217	~s~Niko, where you going?~s~
+	0728F232	~s~Lose your wanted level.
+	0589F840	~r~Talbot is dead, you are no closer to finding Florian Cravic.~s~
+	1C72FFD7	~s~Go and find ~y~Florian~s~.
+	0F463F58	~r~Talbot is lost.~s~
+	656B224B	~s~We're getting closer~s~
+	8723A6B7	~s~Go to ~y~Florian's apartment.
+	7FBC90FA	~r~Roman has been injured.~s~
+	8D7C6B54	~s~Follow Talbot's directions.
+	87B642A6	~s~Get in a car with 2 passenger seats.
+	6D7B71A1	~r~You lost him.~s~
+	69895894	~r~The car was destroyed.~s~
+	736D9D29	~s~Go to pick up ~y~Roman.
+	735DDDE5	~s~Pay attention to Talbot's directions.

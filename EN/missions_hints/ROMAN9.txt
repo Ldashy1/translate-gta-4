@@ -1,0 +1,51 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A730611E	~s~You can reply to certain emails using the icons on the right hand side.
+	9607C7FF	~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+	A76A8F72	~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+	C8715730	~s~Clicking this will send a "Negative" reply.
+	C298B24C	~s~From here you can access your email, view news, weather, dating websites, etc....
+	937CEBFD	~s~The flashing icon on the radar shows the location of the internet cafe.
+	7CDE0C7A	~s~Reply to this email and the account will be activated.
+	71B6FF56	~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
+	7FC76E76	~s~Press ~INPUT_FRONTEND_PAUSE~ to go back to the previous page or click the back arrow icon on the browser bar.
+	89D25442	~s~Clicking the home icon on the browser bar will take you back to the main homepage.
+	8676F633	~s~Use ~PAD_LSTICK_ALL~ to move the pointer.
+	E0C34740	~s~To logout of the computer press ~INPUT_PICKUP~, ~INPUT_FRONTEND_PAUSE~, or click the "LOGOUT" icon on the desktop.
+	E058EDCC	~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
+	F0001660	~s~Use ~PAD_RSTICK_ALL~ to move the pointer.
+	F498614E	~s~Go to the internet cafe.
+	F2F54823	~s~To open an email, move the pointer over the sender's name and click by pressing ~INPUT_MOUSE_LMB~.
+	DEFCAD6B	~s~Clicking the home icon on the browser bar will take you back to the main homepage.
+	CE0B4931	~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
+	C8A93A61	~s~From here you can access your email, view news, weather, dating websites, etc....
+	D27B2F77	~s~Go back to the internet cafe.
+	DB62DFD4	~s~Use ~PAD_RSTICK_UPDOWN~ to scroll up and down the web page.
+	D5BEF1BF	~s~Clicking this will send a "Positive" reply.
+	6DE684DD	~s~You're now online. This is the main homepage.
+	23274A32	~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+	1D0B4B21	~s~To open an email, move the pointer over the sender's name and click by pressing ~ACCEPT~.
+	2EF5FA0D	~s~Press ~INPUT_FRONTEND_PAUSE~ to go back to the previous page or click the back arrow icon on the browser bar.
+	34BE928A	~s~Click the "CHECK MAIL" link to view your mailbox or the envelope icon on the browser bar.
+	3050D780	~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll up and down the web page.
+	16B83154	~s~Press ~INPUT_PICKUP~ to go back to the desktop.
+	0933180F	~s~Press ~INPUT_MOUSE_LMB~ to click on the "WEB" icon.
+	04740CCC	~s~To logout of the computer press ~INPUT_PICKUP~, ~CANCEL~, or click the "LOGOUT" icon on the desktop.
+	0B3D2785	~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
+	147C9244	~s~Move the Pointer to the "WEB" icon, it will change to a Hand when over the icon.
+	0CF7D82E	~s~Go and use one of the computer terminals.
+	59CDE07C	~s~You're now online. This is the main homepage.
+	583BA7B4	~s~This is your Email Inbox. Your Inbox lists all the emails you have received.
+	5ECD2D12	~s~Press ~CANCEL~ to go back to the previous page or click the back arrow icon on the browser bar.
+	60365C55	~s~Press ~INPUT_PICKUP~ to go back to the desktop.
+	602FA9A5	~s~Clicking this icon will log you out of the computer.
+	578276EE	~s~Leave the internet cafe.
+	3534EE4D	~s~The account has been activated.
+	34CD1F84	~s~Go and speak to the ~b~assistant~s~ in the cafe.
+	438FA308	~s~The account has been activated.
+	51F40D2E	~s~Press ~ACCEPT~ to click on the "WEB" icon.
+	487D8838	~s~To open an email, move the pointer over the sender's name and click by pressing ~ACCEPT~.

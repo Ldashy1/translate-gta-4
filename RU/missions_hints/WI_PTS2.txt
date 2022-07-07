@@ -1,0 +1,13 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BE4803C1	Отвезите Пафоса в ~y~больницу,~s~ скорее!
+	DB2E3D8D	~r~Вы слишком долго искали транспортное средство.
+	FB257D7B	Убейте ~r~противников.
+	B4006F32	Найдите транспортное средство.
+	303A67A4	Подберите ~b~Пафоса.
+	895E19EE	~r~Пафос погиб.
+	96BF34B0	~r~Вы слишком долго ехали в больницу.

@@ -1,0 +1,369 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	ACAAA84F	~z~It woulda been an execution.
+	AD18FA04	010100100100
+	AC79BB82	~z~Niko, wait here.
+	AC15CCB6	~z~Yo, that's the guy with the cash.
+	AC785921	~z~Sometimes it ain't worth sacrificing a pay check for personal differences.
+	AF8C5735	~z~Alright, if we're fighting, we're fighting for the money.
+	AFEB625E	100
+	AF149891	FIN1A_A_BA
+	AD24219A	FIN1A_A_II
+	AE1603B2	FIN1A_A_IE
+	AB1FF7A2	FIN1A_A_HB
+	A747EB0E	100
+	A7B32186	~z~Alright, Niko. You go that way, I'll go this way. We'll close 'em in.
+	A65D9021	~z~I thought it'd be easier if I just killed those guys and kept it.
+	A4E27370	~z~Mr. Pegorino. Phil didn't make it. He's in a better place.
+	A6512223	FIN1A_KA
+	A95E9F99	~z~We got to get that money, Phil.
+	AAA46042	100010100100010100010010100
+	A9426777	100
+	A7ED1EDC	~z~You gonna kill him then?
+	A8B8090A	~z~We are getting the cash off him. Be sure of that.
+	B8713448	~z~I cannot say I have the same enthusiasm for this partnership. Have you given them the H?
+	B9C77FF7	100
+	B822CC47	FIN1A_A_KC
+	B5B7BA71	~z~Dimitri likes to set up executions. He set up his best friend Mikhail Faustin.
+	B7763BC8	~z~This is it, Phil. Let's get the cash.
+	BCE15DE8	FIN1A_A_MA
+	BD29B3A4	~z~He killed the guys instead of handing over the H. We should get out of here.
+	BB3F5FFE	100
+	BA070A5F	FIN1A_A_HH
+	BA54EAD5	FIN1A_BG
+	B3E18A33	FIN1A_CC
+	B20B2F74	FIN1A_WA
+	B237F789	FIN1A_YC
+	B15B6497	~z~Let's go then.
+	B02261A9	~z~Had you learnt that then you wouldn't be sitting pretty on a load of green right now, would you?
+	B03F26AC	FIN1A_A_IF
+	B2C01BAE	100010010100100010010100100
+	B2C705A8	100
+	B29BC321	100100100010010100010010100010010
+	B266C5A3	FIN1A_SA
+	B271C103	FIN1A_A_AA
+	88B1FBDC	FIN1A_CJ
+	88CCC920	FIN1A_MA
+	881A2D46	FIN1A_A_HF
+	86CB7445	100010100
+	87CE05FB	~z~This is just a straightforward money pickup. Dimitri is gonna hand over the H on his end.
+	8EFA8A09	FIN1A_BB
+	8F0AC1B8	FIN1A_A_HD
+	8A181595	~z~At least we got the cash. That's the one thing we can bring away from this fucked up situation.
+	890691B6	~z~Niko, I can't get in. You gotta give me some help.
+	898F4C70	~z~You think these fucking scumbags are gonna let us leave after this? Fuck.
+	860D58F3	~z~Okay, Phil. Come on.
+	7ADCAD54	~z~Where is he going with our money?
+	7E3F354C	~z~The whole operation isn't professional. He'll understand.
+	7A6A7B2D	FIN1A_BI
+	79F47426	FIN1A_CA
+	7A4A9CCD	100
+	8444FA6E	FIN1A_BC
+	85EFDC35	~z~We're going to Port Tudor. Let's move.
+	83A494B6	FIN1A_A_RA
+	8280FB97	~z~Yeah, I met him when Jimmy P set up the deal. There's something about him I don't trust.
+	82D026DC	~z~Let's get him.
+	9D0D1CCD	~z~Hey, wait right here.
+	9DECB3F6	~z~We got the jump on them right now. Follow me.
+	9C5CEF8F	~z~Come on, let me take the money or you will die.
+	9B8B8611	~z~Fucking Dimitri. I ain't never been put in a situation like that before.
+	9B9055B2	FIN1A_YA
+	A40449E9	~z~Alright, the money's in there. Once we're in, it's all or nothing.
+	A4DD9530	100
+	A386EF8F	100010010100
+	A0AB5D42	FIN1A_FA
+	A217ECFA	FIN1A_A_ID
+	9A85C001	010
+	94971C78	100
+	94B447FE	FIN1A_A_OB
+	92E2E92C	~z~I want to get this money and go home.
+	8F9BD6D2	~z~I just want to take the money and go home.
+	92BAEA7C	FIN1A_A_IG
+	983CBC72	100010
+	9A7ADBC0	FIN1A_A_IB
+	97BEFE84	~z~I guess you get used to it when you hang around him long enough.
+	94D8435C	FIN1A_FC
+	958BEE7A	~z~Niko Bellic, it's so good to be working with you again.
+	BD5A042D	FIN1A_MB
+	EBA54D8C	~z~They'll hand over the cash and we're out of there.
+	ECCB5651	100
+	EB8BB99C	~z~We need to catch this car, Niko. I been fucked around enough and I ain't walking away with nothing.
+	E9630968	~z~Get those guys.
+	EB39A157	FIN1A_A_QA
+	EE88F4C2	FIN1A_A_HI
+	EF1CD7BE	~z~We need a car if we're gonna chase that bastard.
+	EE6ADC07	FIN1A_A_NA
+	EDE42A61	FIN1A_IA
+	EE09531D	FIN1A_BH
+	E877C3E1	~z~I did not kill those men to have this stuff stop me getting the cash.
+	E245C49B	~z~I'm after the money not revenge.
+	E333675F	100
+	E210A5B9	~z~You just head into the compound and wait for us to give you the nod.
+	DFE8F4E2	010100
+	E13D05DF	~z~That way we all win. Good luck, Niko.
+	E69C4E9C	~z~If they going to fuck you over once they'll fuck you again. Wish I realized that before.
+	E7696AFB	FIN1A_A_HE
+	E696BC30	~z~Eyes up, Niko.
+	E3ACD796	FIN1A_QA
+	E69304BF	~z~I am going to think about Dimitri when we kill this man with our money.
+	F5DB18BF	~z~I need you to lay down some covering fire.
+	F62E9AD0	~z~I hate to think what's gone down on Dimitri's end. I'm calling Jimmy.
+	F50B0C73	100
+	F4E158C5	~z~Shit, they're up there.
+	F4EFA333	~z~Follow me.
+	FEA997C2	~z~Come after me...
+	FEE94CD3	~z~Good luck to you, man. I hope it works out.
+	F914D472	FIN1A_A_DA
+	F7C10EF9	~z~After you, Niko.
+	F8322C4D	FIN1A_A_PC
+	F4895624	~z~This way.
+	F1FFB369	FIN1A_ED
+	F22C4169	FIN1A_A_KB
+	F18CA67E	~z~Easier for who? What the fuck are you doing? Me and Phil are in their compound.
+	EF8D81B4	FIN1A_A_HA
+	F08F127C	100
+	F40C5EC8	~z~Sold me out to someone I had history with.
+	F434A002	~z~We are going to get that money, Phil.
+	F402E7F5	~z~Get after him. Come on, Niko. Get that motherfucker.
+	F27AD798	FIN1A_BD
+	F3C2BA6F	FIN1A_EI
+	C7C6C86A	~z~Hell, Niko. That just weren't professional. I gotta explain this to Jimmy.
+	CA1A0A76	~z~Especially when you've got a snake like Dimitri Rascalov working with you.
+	C795A600	FIN1A_OA
+	C5AC8CBD	~z~That's true Phil. It's never fucking easy, is it? You can't just walk in somewhere and get free money.
+	C5F98043	100
+	CC3B06CE	FIN1A_A_FA
+	CEA26953	FIN1A_EG
+	CBE85B36	~z~What's going to happen when they find out?
+	CA5C83BC	~z~They're up there.
+	CB48E36D	~z~I'm not leaving here without a payday, Phil.
+	C59EECCE	~z~That's right. Where is it?
+	BF385F11	092
+	C00676A1	~z~We'll get a call from him when they have the stuff, then the buyers will hand over the funds.
+	BEF84CEA	~z~If they'd gotten tipped off before Dimitri called us, we woulda been fucked.
+	BD6D3274	~z~He's not keeping that money.
+	BDC281D4	FIN1A_DA
+	C452D7A7	~z~Now I got the money and I'm going to forget all about this shit.
+	C56E3051	FIN1A_NC
+	C29F073C	100100
+	C1367A89	~z~Shit, we're screwed. They ain't gonna let us leave.
+	C21E920A	100
+	DA19A145	~z~Stick close to me, Niko.
+	DC3922F5	~z~Money makes people do the strangest things, don't it?
+	D992A967	~z~Then we're gonna get a call saying we're good to go.
+	D4B2E03A	~z~Where is the cash? Give it to us.
+	D7E49CDB	~z~We're in this together man, come on, come on.
+	DE94697A	FIN1A_A_IA
+	DFD578FB	~z~Fucking Dimitri, that spineless shit. He's fucked us.
+	DDF8FF57	~z~You know what? I thought, 'Why should we hand over the H for this price?'
+	DC44E2AA	FIN1A_A_MB
+	DD611D47	~z~I'll do my best, we'll try and catch him.
+	D4667388	FIN1A_A_CA
+	D0911A1D	FIN1A_CG
+	D0F24BE8	100010
+	D04F178D	FIN1A_CI
+	D00A2178	~z~I learnt a lesson. I learnt that people don't change.
+	D02001D8	~z~Hey, are you guys here to pick up the cash?
+	D34792B7	FIN1A_A_UA
+	D370DDB6	~z~Where is the money at?
+	D27ADE46	~z~How?
+	D15521A9	FIN1A_A_EA
+	D224734A	~z~No, it's over for me, I'm out. If I was going to kill him I would have done that instead of this deal.
+	79C8914F	FIN1A_A_OA
+	2CE14D20	FIN1A_CH
+	2D9C755C	~z~We need that money.
+	2C3ACF08	~z~He ain't someone I'd work with more than once, no matter how much he's earning us.
+	2AD0EBF7	FIN1A_FD
+	2B4687A1	FIN1A_RA
+	2EECDF3C	~z~You always have to work for it.
+	2F9BAD6D	FIN1A_A_GA
+	2E777588	FIN1A_FB
+	2DB9D40D	FIN1A_HA
+	2E6F9632	~z~His own mother won't be able to recognize him when I'm done with him.
+	264C3F89	~z~I don't care what falls in our path, we are getting the cash.
+	2691385C	FIN1A_BA
+	25CF5400	FIN1A_DC
+	23F5F40F	~z~We're going back to the site, Niko.
+	24C516CF	FIN1A_EF
+	2935D25A	~z~This ain't good. Don't lose him.
+	29C8A10D	FIN1A_IB
+	27D8EEBD	~z~We got it.
+	272D5CFE	FIN1A_XC
+	27BB934B	FIN1A_A_PB
+	3755DDB5	FIN1A_BE
+	38DBBC66	290120210210
+	358E8A28	~z~Thank fucking God. That certainly wasn't simple.
+	3463553C	FIN1A_A_JA
+	35250A6C	FIN1A_CE
+	3E05355D	~z~That motherfucking piece of shit.
+	3E36DBBC	100100100010010100100010010010100
+	3D177B91	~z~You think you can get in this work for an easy buck but you end up in deep shit every time.
+	3C60C59B	~z~Come on, Phil. Let's do this.
+	3CBD304D	~z~I should not have let you put me in the situation, Dimtri.
+	316F55CF	~z~He thinks this will hold us back.
+	319D97A7	FIN1A_A_PF
+	30F492A4	FIN1A_NA
+	3048C06D	~z~You didn't need to clip him, Niko. Shit.
+	30D9CC71	~z~I nearly got killed and I never thought I'd cooperate with him again.
+	33F61195	~z~Shit, Phil. Anywhere'd be a better place than being in my shoes right now.
+	34597805	100
+	32A4C7D5	~z~There ain't no try, we're getting him. Come on.
+	3282B352	FIN1A_EE
+	32977CA3	010
+	0CEC2BD2	100
+	0D28CB5E	~z~He's out of it. Let's finish this thing.
+	0C463783	FIN1A_CD
+	0A801663	~z~I'm out. This was the last one. I'm taking my money and staying out of this shit.
+	0B7657B9	FIN1A_A_PA
+	0F43E845	FIN1A_EB
+	0FDE0AEB	~z~Thanks, Niko. I can't think of anyone else I woulda preferred to have with me in a spot like that.
+	0EF9E158	~z~If I was you, I'd go and get the money off them. It has to be on the site.
+	0D868822	~z~Don't go too far, Niko. Follow me.
+	0EA6FEE5	~z~When we get word that the brown is good, we'll give up the cash.
+	052F92ED	FIN1A_TA
+	05BA0B63	~z~I ain't come this far to lose that cash. Come on, Niko.
+	050880A4	~z~Well, at least I don't have to see that weasel Dimitri in the flesh.
+	02525A70	FIN1A_LA
+	03F7D48B	FIN1A_ZA
+	08663F3F	~z~Dimitri can look after himself. See you later.
+	086AAAF9	~z~You're right on him.
+	083924A7	~z~Alright, let's go back to the club.
+	06040DE2	100100100
+	078CBC22	~z~Gimme some cover.
+	1E4802BB	010100010100100100100100
+	1F1127B0	FIN1A_CK
+	1E23F2E9	~z~Niko, they're over there.
+	18B5B2CE	~z~I heard that song before. Maybe it'll work out for you, good luck.
+	1AB74ACA	FIN1A_A_HG
+	23AD2305	100
+	23EA74DD	~z~Cover me, Niko.
+	21BBBEFA	~z~Hey, Phil. You excited about this deal?
+	1F4E58C0	~z~Get him, Niko.
+	203E8F1F	FIN1A_A_JB
+	133FAC3F	~z~Fuck, we gotta get him. I ain't going home empty handed from this. Dimitri would love that.
+	14119B14	~z~This is not going to stop us getting the money.
+	124BD1A0	~z~Shit, man. Cover me.
+	100C56BA	~z~Shit, Niko. Look over there.
+	11F69A32	~z~If you thought that Ray was slippery, Dimitri is a different level.
+	1635A2FE	~z~That's a smart move. I worked with him and he double crossed me.
+	1725D3EC	FIN1A_A_IC
+	15AC4F9A	~z~Shit. We were so close. We did all that shit for nothing. I'll see you around man.
+	149FC3C9	010100100
+	14B12E90	FIN1A_DD
+	3FEBF2A4	~z~This is not going to stop us.
+	5991FDEE	~z~The punk is getting away with the money. I ain't come this far to let it go. Come on.
+	704D6088	~z~Fuck, you're losing him.
+	729BDBCD	~z~Couldn't be simpler.
+	5940DF79	~z~Lay down some fire.
+	6FE8FFC8	FIN1A_YB
+	5C0F5794	~z~Niko, you go in front.
+	5C5BBE76	~z~Let's fucking disappoint him. We're coming back alive and with the money. Come on.
+	6FE86811	100
+	5B3C91B4	~z~Up on the roof, Niko. Let's see if we can figure out what's going on inside.
+	591F46DF	FIN1A_A_TA
+	5213522A	FIN1A_A_HC
+	53001E1E	~z~Fucking Dimitri, he's killed the guys collecting the stuff.
+	5048D760	~z~Dimtri did not give us a choice about this.
+	51E9DB6F	~z~Oh, he is not going anywhere. Not with our money.
+	5309FFDF	FIN1A_A_KA
+	5677A337	~z~So, why are you working with him again?
+	736E9C5C	FIN1A_A_PG
+	54D1E03B	FIN1A_A_PH
+	558FA31D	100010100
+	61B3D32E	FIN1A_XB
+	62A7FC1E	~z~I came here for that money, I am leaving with it.
+	617039D1	FIN1A_A_EB
+	6BA27B5C	FIN1A_A_IH
+	62DA3C4A	~z~How come everything we get into starts off simple and ends up real complicated?
+	68AF47A6	~z~Something didn't look right about him. I don't know, there was something in his eyes.
+	65CACEB2	FIN1A_DB
+	6501D8EA	FIN1A_XA
+	65C4825F	~z~Dimtri is snake.
+	6BF48B18	FIN1A_A_PE
+	5D7640AB	~z~Dimitri would love it if we didn't come back at all.
+	5E8F3D0C	~z~The money's getting away.
+	5C8CDBBD	FIN1A_BJ
+	6FDA00C1	FIN1A_CB
+	6FBBCAA1	~z~Keep safe and enjoy the money. Ciao.
+	5FCFE123	FIN1A_BK
+	5FFA3807	FIN1A_A_SA
+	6EFDD97D	~z~Alright there, Phil. Seen any choppers or submarines or anything?
+	5F57E2D2	FIN1A_VA
+	5022A619	~z~He's crashed. Go get the money, Niko.
+	7871EC89	~z~Big Phil, what's up?
+	77F7617C	100
+	48BB49E1	~z~I will not let you stand in my way.
+	788559C8	012
+	48B5B0E1	~z~I'll follow you.
+	4A18F01A	FIN1A_EA
+	77EB26AC	~z~We know you have that money here.
+	4A0A6821	FIN1A_EH
+	495744DA	FIN1A_A_PD
+	4993422E	100
+	40C0F7C2	~z~I don't think anything is straight forward.
+	4176EE1C	~z~I just wish I hadn't been put in that position.
+	4073702C	FIN1A_A_JC
+	79114A98	100010
+	3FF68B54	FIN1A_XD
+	4568B47A	~z~If I don't got Phil, I don't got much. I'm screwed.
+	45738038	FIN1A_CF
+	44D87D93	100010010100010010010010100
+	41C0F672	~z~Come on. There's a way through.
+	442F3FFA	~z~We've had to kill a lot of men for this money. It's rightfully ours.
+	4ED70DC3	FIN1A_BF
+	4EDDD48E	~z~The cash is what we're after, not your lives.
+	7770C53F	FIN1A_UA
+	4DCE1232	~z~Dimitri's giving the buyer the H while we pick up the money.
+	4DD5A1C1	FIN1A_A_LA
+	4F48C581	FIN1A_AA
+	4FD46829	FIN1A_EC
+	7404215A	~z~They're gonna be coming after us so we may as well make a play for the money while we still got a jump on 'em.
+	7641EBD0	~z~What the fuck are you doing? These boys ain't gonna do business with us now.
+	74AFE9E6	100
+	4A742CE8	FIN1A_JA
+	4A58464B	FIN1A_NB
+	4A972934	010
+	4A1E19FB	~z~I guess he wanted it to be him and Pegorino.
+	4B488CD9	~z~At least you knew what Ray was after from day one, Dimitri can turn on his best friend in a second.
+FIN1A_CUT1_1	5ADCCE58	~z~Vodka on the rocks.
+FIN1A_CUT1_10	04344013	~z~Well, commission or no commission, I ain't gonna starve.
+FIN1A_CUT1_11	19E36B71	~z~People don't want me around, they don't have to have me.
+FIN1A_CUT1_12	E7750695	~z~But I know how to earn.
+FIN1A_CUT1_13	F53FA22A	~z~I need a favor.
+FIN1A_CUT1_14	0C15CFCE	~z~Here we go.
+FIN1A_CUT1_15	19F96B95	~z~Fuck you - I looked out for you. And I'll pay good. Real good.
+FIN1A_CUT1_16	E7470631	~z~But I need you to do something.
+FIN1A_CUT1_17	F4D5A14E	~z~I need you to collect that H, I got some Russians who have a buyer.
+FIN1A_CUT1_18	D32A5DF8	~z~Russians?
+FIN1A_CUT1_19	E0CBF93B	~z~Yeah...
+FIN1A_CUT1_2	3E9595CA	~z~Niko - good to see you.
+FIN1A_CUT1_20	08414935	~z~Dimitri Rascalov.
+FIN1A_CUT1_21	EDEA1487	~z~No. We've got history.
+FIN1A_CUT1_22	AAEF8E93	~z~I know... but this is real. I need you.
+FIN1A_CUT1_23	18A9EA06	~z~Real? What the fuck is real? Real because it's you?
+FIN1A_CUT1_24	AC5F1142	~z~Real because it's my last chance.
+FIN1A_CUT1_25	1D2A72D7	~z~Then good luck.
+FIN1A_CUT1_26	D89BE9BB	~z~No. I need you to get that H. I need the money.
+FIN1A_CUT1_27	BE5AB539	~z~I looked out for you, you know. People wanted to whack you, I said no.
+FIN1A_CUT1_28	E5788374	~z~Now, I need you.
+FIN1A_CUT1_29	5A1F6CC0	~z~And I'll pay a lot of money.
+FIN1A_CUT1_3	AC6FF17D	~z~And you. How are you?
+FIN1A_CUT1_30	BF9B3922	~z~Listen, Mr. Pegorino. I already told you. I got history...
+FIN1A_CUT1_31	B1309C4D	~z~No, you listen, you dumb immigrant fuck. I ain't asking you. I'm telling you. Do this!
+FIN1A_CUT1_32	DC16F219	~z~Get over your principles, these guys don't hold grudges.
+FIN1A_CUT1_33	CDC7557A	~z~Do it - or you and me are gonna have a problem.
+FIN1A_CUT1_34	BF7D38DE	~z~Look, Phil will look after you. You won't even have to deal with the fucking Russians.
+FIN1A_CUT1_35	14CDE37E	~z~He's waiting for you down in Tudor.
+FIN1A_CUT1_36	DBF0F1C5	~z~Alright.
+FIN1A_CUT1_37	CDDD559E	~z~I knew I could count on you.
+FIN1A_CUT1_38	EA848EEC	~z~Hey, how about that drink?
+FIN1A_CUT1_4	2C627164	~z~Eh, eh. Fucking terrible.
+FIN1A_CUT1_5	22435D26	~z~We've got legal problems, all kinds of crap.
+FIN1A_CUT1_6	1151BB43	~z~You know how things have gone.
+FIN1A_CUT1_7	F5CF843F	~z~I've heard some things.
+FIN1A_CUT1_8	D728C6EE	~z~You get close to your dream, then something holds you back.
+FIN1A_CUT1_9	C550233D	~z~No!

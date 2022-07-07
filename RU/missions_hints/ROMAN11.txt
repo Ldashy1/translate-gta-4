@@ -1,0 +1,17 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6AA9E2BF	Поезжайте в ~y~таксопарк.
+	5C4B4602	Поезжайте в ~y~Бохан.
+	9D783255	Чтобы посигналить, нажмите ~INPUT_VEH_HORN~.
+	CB9DA4C5	Подождите ~b~Романа.
+	B9CF0128	~r~Мэллори погибла.
+	4D6C2844	Поезжайте к ~y~Роману.
+	14F53773	Посигнальте.
+	032A93DE	~b~Роман~s~ отстал от вас.
+	26AE5AE5	Найдите машину.
+	41368FD9	Поезжайте ~y~домой к Роману.
+	37FFFD88	~r~Роман погиб.

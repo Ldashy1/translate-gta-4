@@ -1,0 +1,174 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9913E8B2	~z~That's just dem downpressors in grey suits, making us waste our life filling out forms and ting.
+	9912FF34	FCJ2_JACOB_CONVERSATION_14_FQ
+	99F36AB2	~z~If I deal wit cocaine, everyting end up raas clot mash up, seen?
+	A27251D0	~z~How you mean?
+	9F6B1BCA	FCJ2_JACOB_CONVERSATION_11_CP
+	908C0184	FCJ2_JACOB_CONVERSATION_11_CO
+	9000FF0E	FCJ2_JACOB_CONVERSATION_11_CN
+	920EDB9D	FCJ2_JACOB_CONVERSATION_9_AB
+	92D54B9F	FCJ2_JACOB_CONVERSATION_14_FI
+	92919FDC	FCJ2_JACOB_CONVERSATION_10_BM
+	A2C017D8	~z~Herb be the most spiritual, y'know, messa man. You smoke it, it open your mind to be what's going on in the earth.
+	B04650A5	FCJ2_JACOB_CONVERSATION_11_CA
+	ADEA2060	FCJ2_JACOB_CONVERSATION_11_CI
+	B2619B9E	FCJ2_JACOB_CONVERSATION_13_EA
+	B492DEF8	~z~What made you come outta you own country, what ruined it for you?
+	B2BF1C51	FCJ2_JACOB_CONVERSATION_9_AA
+	A9444AC1	FCJ2_JACOB_CONVERSATION_12_DA
+	A5139EBB	FCJ2_JACOB_CONVERSATION_10_BC
+	AB9F2996	~z~It be de same. It put you in touch with de spiritual side.
+	AD011886	100010010100100010100100010100100100010
+	ABCF1D37	~z~That's some deep shit, man. Some deep shit.
+	7CAF5BB3	FCJ2_JACOB_CONVERSATION_11_CM
+	7C283DEA	~z~I drink.
+	7E504EF5	~z~Seen. Vodka be from de earth too. Inna Jam Dung we have de rum, where you from de rum is de vodka.
+	80006175	FCJ2_JACOB_CONVERSATION_11_CL
+	7F00F296	FCJ2_JACOB_CONVERSATION_13_EG
+	745AAB42	FCJ2_JACOB_CONVERSATION_11_CG
+	7170A21E	FCJ2_JACOB_CONVERSATION_11_CB
+	7536E041	~z~Alright, Niko, you mind me ask you a serious question?
+	79DE5C41	FCJ2_JACOB_CONVERSATION_12_DJ
+	75BCCA0E	FCJ2_JACOB_CONVERSATION_10_BD
+	805A0DA0	~z~All good, Jacob, all good. Or at least, I'm trying not to think too much about things.
+	8AA24BCF	~z~That's just bucky massa hitting our backs, making de slave ship keep moving.
+	8A0C6F51	FCJ2_JACOB_CONVERSATION_12_DN
+	8CD6037C	FCJ2_JACOB_CONVERSATION_12_DH
+	8E12A911	~z~Yeah man, I hear That. We gonna have some fun, we gonna sit and enjoy a lickle silence, and enjoy de world as it turns
+	8D26E204	FCJ2_JACOB_CONVERSATION_14_FL
+	81A648E6	~z~Niko, how old are you now?
+	8078A47E	FCJ2_JACOB_CONVERSATION_14_FG
+	83F6FAA7	FCJ2_JACOB_CONVERSATION_12_DB
+	88D2ADAC	~z~The world be a fucked up place, Niko. A place rammed up with fuckery.
+	88274E13	FCJ2_JACOB_CONVERSATION_11_CC
+	EC8F34A5	FCJ2_JACOB_CONVERSATION_10_BH
+	E9A396FA	FCJ2_JACOB_CONVERSATION_11_CF
+	EF472D41	~z~All good, me breda, all good. Me get a whole heap of Kali from Jam dung, from me cousin, him just bring it up.
+	F05458D8	~z~I look at Badman and tink what could be turning him into the man he's becoming. He's being ruined, you know, Niko?
+	EFF2D009	~z~Gwan man, hard ears, relax. Unwind.
+	E6B519BF	FCJ2_JACOB_CONVERSATION_14_FP
+	E4FE7F3B	FCJ2_JACOB_CONVERSATION_9_AD
+	E8A787DC	~z~Sure, I think you could be onto something there.
+	E95986BD	FCJ2_JACOB_CONVERSATION_9_AC
+	E9039212	FCJ2_JACOB_CONVERSATION_11_CE
+	F1841E02	FCJ2_JACOB_CONVERSATION_9_AE
+	FCF13B91	FCJ2_JACOB_CONVERSATION_11_CD
+	F9ECB961	~z~Alright, Rum be a spiritual ting. It wake up your senses and point dem out to de world around you.
+	FD67C982	~z~Oh, well no wonder you're good.
+	FECB957D	FCJ2_JACOB_CONVERSATION_13_ED
+	FE584238	~z~I drink vodka.
+	F3B9607A	FCJ2_JACOB_CONVERSATION_12_DD
+	F2EE4D3B	FCJ2_JACOB_CONVERSATION_12_DI
+	F613CD42	FCJ2_JACOB_CONVERSATION_10_BE
+	F8436686	FCJ2_JACOB_CONVERSATION_12_DC
+	F6DCB446	FCJ2_JACOB_CONVERSATION_14_FK
+	C968583E	FCJ2_JACOB_CONVERSATION_14_FJ
+	C92B6BEC	FCJ2_JACOB_CONVERSATION_14_FC
+	C99EF439	FCJ2_JACOB_CONVERSATION_12_DO
+	CDA80B74	~z~Whatever you say, messa. Whatever you say.
+	CAC60DA4	~z~We should be fighting Babylon, but instead we are fight one another.
+	C1128F10	100010100010100100010100010100010100010100010100
+	C0835B3A	FCJ2_JACOB_CONVERSATION_12_DM
+	C26D8552	FCJ2_JACOB_CONVERSATION_12_DL
+	C8790236	FCJ2_JACOB_CONVERSATION_12_DR
+	C5EAD16E	~z~You tink things like dat, but, you don't smoke trees. You need a spiritual edge, you know. You take anything?
+	CEA99583	~z~Badman is putting coke in his spliffs?
+	DCF9F5F2	FCJ2_JACOB_CONVERSATION_9_AF
+	DB773661	FCJ2_JACOB_CONVERSATION_12_DK
+	DF09362A	~z~Rastas be fighting one another, when they should be cotching and smoking de herb together. Badman included.
+	E06FB90F	~z~He ain't the dread he used to be. He used to be righteous man, now him a bad seed. It de coke dat he's doing, you know.
+	DFC48E3C	~z~How you doing?
+	D460CC5D	FCJ2_JACOB_CONVERSATION_13_EJ
+	D02BF2AF	~z~Thanks Jacob, but I'm alright with the shots of vodka. They fuck me up enough.
+	D5094C4E	FCJ2_JACOB_CONVERSATION_13_EK
+	DB10D26B	~z~That's just Babylon keeping a rasta down.
+	DA2896C4	FCJ2_JACOB_CONVERSATION_10_BF
+	2EABC105	FCJ2_JACOB_CONVERSATION_11_CJ
+	2EA4740E	FCJ2_JACOB_CONVERSATION_13_EE
+	2F3D150A	~z~That's that shit that's shutting down life.
+	311CB0EF	~z~Whatever you say.
+	30133CC4	FCJ2_JACOB_CONVERSATION_10_BI
+	28CEC1C0	~z~Hold your fucking corner, rasta - I was being quiet.
+	287FC96A	FCJ2_JACOB_CONVERSATION_10_BK
+	291FCA6E	~z~De whole Jam dung getting greedy off a des coke money. It a turn dread against dread.
+	2AFE0CC5	~z~I hear you.
+	29AE4C1B	FCJ2_JACOB_CONVERSATION_10_BL
+	315E892B	FCJ2_JACOB_CONVERSATION_12_DG
+	35DA0E0A	FCJ2_JACOB_CONVERSATION_14_FF
+	34DCB832	~z~No - cocaine is a bad business, but this whole life is a bad business.
+	3752B440	~z~Shit, I stopped counting birthdays when I saw my friends die back home.
+	3AA06563	~z~Then why you keep talking?
+	3884691F	~z~I wish my country had an excuse as good as cocaine for their fighting.
+	323B32D7	~z~Him want to be inna de mafia business, big time rude boy, all de time want mash up de place and broke down de place, seen?
+	321A2FAC	100010100010100010100100100100100100100100100100010
+	32525A75	~z~Then, the West takes notice
+	33207AC6	FCJ2_JACOB_CONVERSATION_13_EC
+	32E2AF61	FCJ2_JACOB_CONVERSATION_14_FN
+	0E6FF548	FCJ2_JACOB_CONVERSATION_14_FB
+	0DBE914E	~z~Rhaatid, Niko.
+	0FEAC120	FCJ2_JACOB_CONVERSATION_14_FE
+	11EE4025	~z~Seen, Niko. you, me, Badman, we all crazy living de life we live.
+	10A5E6D3	~z~Rum is I-tal. It made from the earth and it put you in tune with it. It's a natural ting.
+	05BFF006	FCJ2_JACOB_CONVERSATION_11_CK
+	02307484	~z~I'm trying! You keep talking.
+	0A914844	FCJ2_JACOB_CONVERSATION_10_BG
+	0B5A652E	~z~Don't deal wit cocaine, everything end up fine.
+	0AC6AB33	FCJ2_JACOB_CONVERSATION_13_EB
+	1292F764	FCJ2_JACOB_CONVERSATION_10_BA
+	260558F4	~z~We gonna have a whole heap of relaxation. A whole bunch of chilling it out. Of silence, yes? Seen?
+	22D51460	~z~This shit is spiritual man. Let me see clearly, hear the I-rations, let I and I enjoy life, and give I and I I-tection.
+	262A11EF	~z~I didn't think I deserved any more when they weren't getting any.
+	277E1D5D	~z~Yes - from what I understand he's pretty wild, but aren't we all?
+	26364483	~z~Sadly, is not the case.
+	1647630B	FCJ2_JACOB_CONVERSATION_14_FA
+	14E17CE1	FCJ2_JACOB_CONVERSATION_10_BB
+	168F9D42	~z~Hold you corner, rasta, shhh.
+	1B70ACB2	~z~and you are watching your neighbor's house blowing up on the international news channel.
+	1722A43B	FCJ2_JACOB_CONVERSATION_13_EF
+	5B815352	~z~People say it be the rules, the laws that make the world work, you know? But maybe it ain't dat way.
+	5AA11039	FCJ2_JACOB_CONVERSATION_14_FM
+	5BFBACE5	FCJ2_JACOB_CONVERSATION_12_DF
+	5C6C38CA	FCJ2_JACOB_CONVERSATION_12_DE
+	5C1E82F0	FCJ2_JACOB_CONVERSATION_14_FO
+	5837FEE8	~z~Man, me worry about him, you know?
+	57CF3C87	~z~Okay.
+	58455E38	FCJ2_JACOB_CONVERSATION_14_FH
+	5A12502C	~z~Sure, Jacob, it is. What I have seen of it at least.
+	58ACE7E9	~z~We give the world it's life and it's madness, you know.
+	5CD1468B	~z~I mean, I'm trying not to worry too much about the things that are messed up. Relax, you know, have some fun.
+	6ABFC901	FCJ2_JACOB_CONVERSATION_12_DP
+	6AB8E25A	~z~Cool.
+	6C4CF4A1	~z~Since you got to Liberty City, you meet anyone what wasn't crazy?
+	71467EDC	~z~Maybe it's this madness, this crazy shit, that make de world go round.
+	6F8CC0E6	FCJ2_JACOB_CONVERSATION_12_DQ
+	64DAD6B2	~z~Whappen Niko?
+	60738F4B	~z~What's going on, Jacob?
+	660B21AE	100010100010010010010100010100100010100100100100010010
+	676744A2	~z~No Jacob, go for it.
+	6736C766	FCJ2_JACOB_CONVERSATION_13_EH
+	40EAD587	010100010100010100
+	3FEF75AF	~z~One village fought another. Friends had to fight friends.
+	42D0D402	~z~Badman? Why?
+	442F24AE	~z~Cops chasing us, gangsters trying to rip us off, it ain't an easy life, that's for sure.
+	4318FC0A	~z~Why do you ask?
+	3CD8F1E0	~z~Nah man, he be selling it, and it making him gravalicious.
+	3AFCECC3	FCJ2_JACOB_CONVERSATION_13_EI
+	3D12B0B5	~z~Crazy rastas like I an' I, we don't listen to Babylon.
+	3F5DB547	~z~Doing that shit instead of really experiencing the world, the spiritual side.
+	3DE717D6	~z~No one I liked. I might have robbed some sane people, but I did not stick around for conversation.
+	44A65F88	FCJ2_JACOB_CONVERSATION_14_FD
+	4D96E98E	~z~Easy now, star, me worry about everthing with badman, you know?
+	4B300686	~z~I'm not.
+	4F87F96C	010100010100010100100010100190010
+	54029CD3	FCJ2_JACOB_CONVERSATION_10_BJ
+	52D0DC31	~z~It us a keep de world moving and jamming. Is us, and we make de world I-tal.
+	4637D231	FCJ2_JACOB_CONVERSATION_11_CH
+	45F75A67	~z~Man me right hand man, but him big inna de cocaine ting and him want bring it in from jam dung, seen? And it no good.
+	46C20358	~z~War ruined my country, Jacob.
+	498A9FFE	~z~Relax!
+	4852DF5B	~z~You stick with your schisms and your isms, bad boy.

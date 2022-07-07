@@ -1,0 +1,69 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	84D85AE6	PIP_DC
+	825BD262	~z~Thanks, man. I'll catch you around.
+	8A8673E7	PIP_CA
+	918E0DAB	~z~You a gangster!
+	8F403F10	~z~You don't know what it like to be no rapper.
+	5D5E0867	~z~You know the truth when you see it.
+	56C94E1B	~z~I'm more gangster than you ever gonna know, punk.
+	62E86659	~z~You better get down and stay down.
+	815A9DD8	~z~Yo, anyone like hip hop?
+	7D879B9F	~z~I'm gonna lyricize 'bout your punk ass.
+	9372748F	~z~Man, I'm going to immortalize you. Keep it real, from your man Pathos.
+	E8F69B26	100100100010
+	CD1AA7B2	190
+	EA6F65B9	PIP_BA
+	F676D777	~z~That's some crazy shit!
+	F0A5B123	PIP_DB
+	A3CEE519	PIP_DA
+	9BBC5C4E	190
+	B9DE8EDF	~z~Listen to my shit first.
+	C81FDD85	~z~Yo thanks, son. You, you a child of the street.
+	C7A82A72	~z~We gots underground hip hop right here.
+	50CD63D5	PIP_DD
+	1B996288	PIP_AA
+	1A84D593	~z~You don't get no real music, punk.
+	360A55FD	~z~And you're a fucking fag.
+	29293C3B	~z~You're ignorant, fool.
+	343C0901	~z~Shit, I know what it like to not be appreciated in my own time.
+	1669C7F4	~z~Who wanna hear some real beats?
+	23FC6319	~z~This shit be red hot.
+	0558753A	~z~For real, man!
+	45192AB3	~z~Yo don't nobody treat the Pathos like that.
+	09EB7530	100
+	450AAA9E	~z~I'm gonna shut all you haters up.
+PIP_CUT1_1	3E26997F	~z~I sense a little apprehension in your voice.
+PIP_CUT1_10	FBF91254	~z~Why are you selling it on the street?
+PIP_CUT1_11	32687F32	~z~The majors are just pimps, and I ain't no bitch.
+PIP_CUT1_12	2096DB8F	~z~No. I can see that.
+PIP_CUT1_13	DF9959D1	~z~Man, if I have to spend the rest of my life preaching on a street corner, so fucking be it.
+PIP_CUT1_14	915A3D54	~z~Give it up for Pathos!
+PIP_CUT1_15	7B2D10FA	~z~Yo, Pathos! You a bitch and you suck dick!
+PIP_CUT1_16	ACB7F40F	~z~Man, you hear that punk.
+PIP_CUT1_17	9E66576C	~z~Yeah, he heard me, bitch. What you gonna do about it?
+PIP_CUT1_18	38328AFE	~z~Hey, fuck you... I've had enough of your crap.
+PIP_CUT1_2	78518DD4	~z~I like it a bit but, uh, I'm not a crazy fan.
+PIP_CUT1_3	88C52EBB	~z~Cause the shit went all commercial? Cause people sold out? I hear you.
+PIP_CUT1_4	24AC668B	~z~-No, not really.~n~-Cause the shit ain't real no more?
+PIP_CUT1_5	F72F0B91	~z~Ain't got no intelligence? For real.
+PIP_CUT1_6	4F7E3C2E	~z~Well, you gonna love my shit.
+PIP_CUT1_7	11BBC0AA	~z~Your shit?
+PIP_CUT1_8	CFB63C7C	~z~Yes - it's the real urban consciousness and man it is real.
+PIP_CUT1_9	9349C39C	~z~Pathos. Believe that.
+PIP_CUT2_1	30AE13C7	~z~Player - you's already a fan of Pathos. I knows that... good to see you man. Give it up!
+PIP_CUT2_10	5EE1A7AF	~z~You all tough when your boyfriend's around, Mr. Pathetic.
+PIP_CUT2_11	6D1F442A	~z~You're ignorant, fool.
+PIP_CUT2_12	7B56E099	~z~And you're a fucking fag.
+PIP_CUT2_2	1D62ED31	~z~So how is the rap game?
+PIP_CUT2_3	0BA349B2	~z~Cold, man, but that's all part of the struggle.
+PIP_CUT2_4	F8CD2406	~z~Sure.
+PIP_CUT2_5	E70E8089	~z~I cut a new CD - "Pathos - From Suffering and Back Again".
+PIP_CUT2_6	AF1C90A2	~z~How cheerful.
+PIP_CUT2_7	E65BFF20	~z~I ain't into that club shit. I got a message, and bitches better listen.
+PIP_CUT2_8	8CB2CBCF	~z~You better start listening to me, bitch!
+PIP_CUT2_9	C1F9365B	~z~What you say?

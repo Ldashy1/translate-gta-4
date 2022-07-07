@@ -1,0 +1,296 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A8CEA574	GCKC_DATING_DH
+	ABC75DEB	~z~Whatever you say.
+	A729F77A	GCKC_LONELY_AL
+	A7C17E9A	~z~I cannot take grown men playing dressing up games very seriously.
+	AD2521BA	~z~This ex of mine, Mitch, I met him when I represented him on this bogus murder charge.
+	B1BDBB3D	~z~They do.
+	B3EEFE77	GCKC_EXES_FQ
+	B14C7CCE	GCKC_EXES_FS
+	B1A01553	~z~Yeah, I guess I do make a difference. I feel like all my life I've been given things by my parents.
+	9E7E28B8	~z~As I see it, I have chosen to live life outside the law. Rights mean nothing to me now.
+	9E9C7CFE	GCKC_DORIAN_GO
+	9C66EAE1	~z~I defend the people that the rest of the community has forgotten about.
+	9DD99375	~z~Guilt trip it better? Good luck.
+	9F449900	GCKC_DATING_DF
+	A2540C18	~z~Not everyone born in a project sells their ass for crack.
+	A4F69161	~z~Well, sometimes the cops are bigger crooks than the guys they're arresting.
+	9F781CDD	GCKC_GUILTY_CI
+	A1034E8D	~z~Maybe that's what I mean.
+	B801AA3F	100010100010100010100010100100
+	BA4C738C	~z~You know Dorian?
+	B70D358E	~z~It makes me so angry.
+	B7708DEC	~z~Mom and Dad made me promise not to date any more of them so here I am, dating on the internet.
+	BAE8BE14	GCKC_TREMAIN_HS
+	BEC46E89	~z~How's it going, Niko?
+	BEEFC54F	~z~I mean, Mitch was no angel. I'm not going to pretend that he was.
+	BCA5E507	~z~I'm so sorry! Our society let you down! My country failed you!
+	BCE40132	GCKC_GIVE_BACK_BL
+	B45AE8DB	GCKC_DORIAN_GC
+	B4F34341	GCKC_DATING_DC
+	B3EF3249	~z~Finding what? I don't get it.
+	B412598C	GCKC_RIGHTS_EF
+	B5409027	GCKC_LONELY_AO
+	B5D80B6A	GCKC_DATING_DN
+	B67C1828	~z~Oh... ummm... nothing. Have you got any ex-boyfriends I should worry about?
+	B5841A1F	~z~Me? No. Movies are dull.
+	B59EC998	GCKC_RIGHTS_EL
+	85A911FB	GCKC_DORIAN_GA
+	85EA9B37	GCKC_TREMAIN_HU
+	836694CF	GCKC_TREMAIN_HE
+	851C347F	GCKC_LONELY_AK
+	865B53D3	GCKC_EXES_FA
+	86B7D9C1	GCKC_DORIAN_GP
+	870CA38A	GCKC_TREMAIN_HO
+	866AFDD7	~z~Yeah, I guess so.
+	869019CB	GCKC_LONELY_AA
+	7CC8FAE8	GCKC_DORIAN_GF
+	7D77CA79	GCKC_DORIAN_GQ
+	7A1FC942	~z~Tremaine a client?
+	7BA88492	GCKC_DORIAN_GG
+	7E3EE307	GCKC_GUILTY_CA
+	81CA0573	GCKC_GIVE_BACK_BO
+	824AFDF6	GCKC_RIGHTS_EE
+	7EF1B7C0	GCKC_TREMAIN_HI
+	8181CD6F	~z~Finding the whole internet dating thing? I mean,
+	95FB94C0	GCKC_GUILTY_CC
+	972E5985	~z~I don't pretend that I wouldn't be selling my ass for crack if I was born in project housing though.
+	90673FDE	~z~I try not to lose touch though.
+	9144A7B4	GCKC_GIVE_BACK_BK
+	98152F1E	~z~No.
+	997FB95C	~z~It was a conspiracy. The government doesn't like free thinkers and autodidacts.
+	99B30029	GCKC_GIVE_BACK_BI
+	98A2445A	GCKC_TREMAIN_HA
+	98AE5068	~z~You date your clients?
+	8AE30182	~z~I'm a criminal, and a murderer. I arrived in your country and fell in with a bad crowd. What rights do I have?
+	8B01E06F	~z~I don't know, I just thought I'd try it. What made you?
+	87B00061	~z~Just sometimes I feel like I can't do enough though. I feel like I can't help people as much as I want to be able to.
+	87DBA251	~z~It's an absolute farce the miscarriages of justice that he's had to suffer.
+	8C666DCF	~z~Tremaine's appeal just got rejected.
+	8CA76458	GCKC_DORIAN_GM
+	8E254E5E	~z~It sounds as if you're being as helpful as you can be.
+	8C9329ED	GCKC_DATING_DJ
+	8C9F7662	GCKC_RIGHTS_EO
+	BFBAB188	~z~If I got hauled down to City Hall, I'd be grateful for your help.
+	F16AF6C6	~z~Unlucky though. Hopefully that won't rub off on me.
+	F26DD75A	GCKC_RIGHTS_EG
+	F0DAB6B6	~z~Client / ex, ex / client, lover, friend, spiritual guru.
+	F122E23C	~z~Yes, but I want to help.
+	F31B6529	~z~Good.
+	F4B9D52E	~z~I think I failed your country!
+	F4D57634	~z~You sound pretty naïve...
+	F375F97C	~z~Yeah, only Tremaine was completely innocent. There's no way he killed those guys.
+	F40B6994	GCKC_LONELY_AG
+	E7E06991	GCKC_TREMAIN_HC
+	E8BDFCAB	~z~I mean, are there any ex-girlfriends who are still hung up on you? What did you think I meant?
+	E704A5CA	~z~Well, I'm going to stop it.
+	E76AF5CF	GCKC_LONELY_AQ
+	E92CE80A	GCKC_EXES_FP
+	EBDCD7AC	~z~But I feel so guilty. Life is so unfair.
+	EEBF0C90	~z~I could just tell... I mean, not that I read too much into it. This is just a casual date, you know. Casual.
+	EADE34AA	GCKC_RIGHTS_EN
+	EB6288DB	~z~It might be because I feel guilty but is that a bad thing? Am I doing it for the wrong reasons?
+	FA9CCD6B	GCKC_DATING_DD
+	FB430F6F	GCKC_DATING_DL
+	F9E43B3B	~z~But the police will arrest any man in the vicinity of a crime in order to clear a file from their desks.
+	FA6849DD	~z~Like Dorian's?
+	FC7DA80D	~z~How?
+	FDCB8830	~z~Well, I do.
+	FFB3DB25	GCKC_RIGHTS_EJ
+	FD6B8136	~z~It was stupid. It just goes to show how the system is primed to punish people who already disadvantaged.
+	FD97FB22	~z~And you've come out okay - you should be grateful.
+	F71C061C	GCKC_EXES_FN
+	F80D767A	~z~Triple homicide - well that was what he was accused of.
+	F4ECEABB	GCKC_GIVE_BACK_BN
+	F4F06FDA	GCKC_LONELY_AC
+	F8632D20	GCKC_GIVE_BACK_BD
+	F92D84FB	~z~You two have so much in common, I mean more than just me. You're both such peace loving men.
+	F95DCA7C	~z~The world is certainly determined to screw itself up.
+	F8967B58	GCKC_DORIAN_GH
+	F8A63BB6	~z~It's just that I'm working these cases the whole time and I can't get out to meet new people.
+	D054681C	~z~Where's Mitch now?
+	D3DE6537	GCKC_GIVE_BACK_BC
+	CD60B848	GCKC_GUILTY_CK
+	CE3F2908	~z~I'm an idealist, if that's what you mean.
+	D52ADC68	~z~I represent the people who can't even help themselves.
+	D83D1C35	~z~You're a noble savage. You should sue the government.
+	DC92BF85	~z~In self defense?
+	D551A1A2	GCKC_RIGHTS_EC
+	D7ACC496	GCKC_TREMAIN_HF
+	C18F3235	~z~But, well... it was nice. It's strange. You always want something to be like it is in the movies, don't you?
+	C5903650	~z~So, Niko, are there any skeletons in your closet? Is anyone haunting you?
+	C044584A	~z~Sure.
+	C0590DC4	GCKC_GIVE_BACK_BJ
+	C6310C55	~z~How can I be grateful when I'm in so much pain?
+	CB3F1CDE	~z~But it was obviously self defense. A mother clearly attacked him, and he shot her, and her kids.
+	CC209C1B	GCKC_LONELY_AR
+	C8172907	GCKC_EXES_FO
+	C9333701	GCKC_DATING_DE
+	E148C184	~z~How are you?
+	E226AAD5	~z~Thank you, Niko, I knew you'd understand.
+	E093B22B	~z~Fine.
+	E09C0A93	GCKC_EXES_FC
+	E317D2B9	~z~And now I'm here, trying to make a difference. I'm not naïve... but...
+	E4800DAB	GCKC_EXES_FG
+	E5D2D205	~z~What did he do?
+	E3427897	~z~Cars, clothes, my apartment, my education. I help the people who haven't been given anything.
+	E382D47D	GCKC_TREMAIN_HN
+	DCACBC57	GCKC_GIVE_BACK_BP
+	DE2FEDBE	GCKC_GIVE_BACK_BB
+	DCA83843	~z~Then why'd you say great?
+	DCAC3F9A	GCKC_GIVE_BACK_BR
+	DE9D123B	~z~The line is so blurry. I'm too close to be able to tell what he is.
+	E0186F47	~z~Sure.
+	E030D2F2	~z~He's such a big softie. He's practically Buddhist.
+	DEB5515B	~z~It's not bad luck Niko. It's the system. It's totally fucked. Totally.
+	DEE175A1	GCKC_GIVE_BACK_BH
+	1BFF4487	~z~I came here and I thought it would be different.
+	1C808308	GCKC_DORIAN_GJ
+	1B2C656A	~z~Thank you.
+	1BACC644	GCKC_DORIAN_GD
+	1C9D19A0	GCKC_TREMAIN_HL
+	1D21594C	~z~I'm a go getter, Niko. A real Alpha female.
+	1D47C2E8	GCKC_LONELY_AE
+	1CDE1180	~z~Don't you sometimes feel really guilty driving a car?
+	1CF56C00	~z~It doesn't matter why you do something as long as it's right.
+	15A8F2C4	~z~"His clothes were covered in the victim's blood." An innocent man with a felony prior doesn't stand a chance.
+	15F080E5	~z~What's wrong?
+	13A7C735	GCKC_DATING_DB
+	157EFF88	GCKC_EXES_FT
+	15F1AAD5	~z~Good. I heard from Dorian yesterday.
+	18A47E94	GCKC_DORIAN_GK
+	1A486692	GCKC_GIVE_BACK_BA
+	1695F7E6	GCKC_EXES_FD
+	18223017	GCKC_GUILTY_CG
+	283A2578	~z~I'm going to warn you Niko, I'm not in the best of moods.
+	289F8FD8	GCKC_GIVE_BACK_BF
+	275D4EB0	~z~There will always be people who suffer, Kiki. That is the way of the world.
+	27E9528B	GCKC_LONELY_AH
+	2945EEA7	GCKC_TREMAIN_HH
+	2BF760B7	GCKC_GIVE_BACK_BM
+	2C3A4977	~z~Hey, you can't help everybody.
+	298E022D	~z~So, it's nice to meet you.
+	2AD574B4	~z~Yeah, it's alright.
+	1E853BFD	GCKC_GUILTY_CH
+	213ADE7D	GCKC_EXES_FR
+	1E31DB10	100010100010100010100010010100100100010100010100010100010
+	1E548E60	GCKC_DORIAN_GR
+	235DD652	GCKC_DORIAN_GI
+	2660972A	~z~The only guys I meet are the other lawyers - complete creeps - and my defendants.
+	26E7F938	GCKC_LONELY_AN
+	23EFBB99	GCKC_RIGHTS_EH
+	2437F39E	~z~You might be right.
+	04895E0C	GCKC_DATING_DG
+	04FD51C2	GCKC_DORIAN_GL
+	03FB73B1	~z~I'll bear that in mind.
+	04504166	GCKC_GIVE_BACK_BG
+	0596559A	~z~How're you finding this, Niko?
+	0778449F	GCKC_TREMAIN_HJ
+	07B89BFA	~z~I thought it would be like I imagined. But I'm really lonely. I mean, it's nice to be out with you.
+	05C95510	GCKC_TREMAIN_HR
+	072BD74D	GCKC_RIGHTS_EK
+	01F9AF22	~z~I mean, I was born into privilege. I was given an education.
+	0289705D	GCKC_RIGHTS_EA
+	00C4141C	~z~He's a really spiritual person, Niko.
+	01474248	GCKC_GIVE_BACK_BE
+	032C668A	GCKC_RIGHTS_EM
+	039B8629	~z~Great.
+	03EC87CF	~z~Do you not think that it is vain to think you can make a difference? To think it is your concern?
+	0338C9BC	GCKC_EXES_FF
+	033A11DB	GCKC_TREMAIN_HP
+	0F2424A7	~z~I was being sarcastic... don't worry about it... who is Dorian?
+	0F70BDEB	~z~You're seeing a different side of me meeting me this way. It's working out.
+	0EE3CFDD	~z~Thanks Niko.
+	0F01B097	~z~Yeah?
+	10922DBD	~z~I'm a girl who wants to make it in the big city. You know, I grew up in the suburbs, bored out of my mind...
+	12A02536	~z~Because some people are having a miserable time, I guess. I don't know.
+	134C51C7	~z~What do you mean? Who have you been talking to?
+	1114CECE	GCKC_LONELY_AM
+	11DEB046	~z~Good.
+	0ACF2D77	GCKC_DATING_DO
+	0B6F65CA	GCKC_DORIAN_GN
+	086EAFA3	GCKC_DATING_DA
+	0A326B8C	GCKC_DORIAN_GS
+	0B7A6EB5	~z~The world has rights, just like criminals and murderers and immigrants and all the other disadvantageous do, too.
+	0D6A49E6	~z~Yes - I knew you'd be nice, from your email.
+	0E2FC0E4	GCKC_LONELY_AS
+	0BCDDD26	GCKC_EXES_FH
+	0C1DDFAE	~z~I mean, it's just the arresting officer's word against the perps. "We found this gun on him."
+	2FC7A9F8	~z~this is so unlike me, but I'm giving it a go and it seems to be working out.
+	5EAACB09	GCKC_LONELY_AB
+	5EAB4FF5	~z~But he's a survivor. I'm trying to get him to write a book about it.
+	5D4AA4B7	GCKC_GUILTY_CF
+	5E956854	~z~It's nearly impossible for a man born into poverty in this country to make it without breaking the law.
+	5F2BD076	GCKC_EXES_FM
+	62F764F7	~z~Yeah, really sweet guys - misunderstood, you know?
+	63E92F15	GCKC_LONELY_AJ
+	60BA327A	~z~I wanted to help people. That's why I do pro bono work at City Hall.
+	61F534EC	~z~Are you though? Are you really?
+	56B3419A	GCKC_DATING_DP
+	59140178	100010100100100010100100100100010100100100010100100100010
+	543436EA	GCKC_TREMAIN_HM
+	56004B09	~z~Relationships can't rarely last when they get sent out of state to a Federal Penitentiary though.
+	59325A80	GCKC_LONELY_AP
+	5C876FB1	100010100010100100010100100100010010100100100100010100
+	5CD40414	~z~What made you decide to look for love online?
+	5A0F8FE2	GCKC_EXES_FJ
+	5AEF1081	GCKC_EXES_FK
+	73A76DAC	~z~Another one? What did he do?
+	75ECE176	GCKC_RIGHTS_EB
+	71D702BE	~z~I'm starting to understand why you're seeing me, I think.
+	7361FA23	GCKC_DATING_DS
+	7651F0CF	GCKC_GIVE_BACK_BQ
+	79E0BB36	~z~He's serving life upstate. Can you believe that they revoked his conjugal visit privileges? It's inhuman.
+	7A1C06D2	~z~If he does write one, I'll read it.
+	77435F88	~z~Sure, I'm fine. Are you okay?
+	7975051C	GCKC_TREMAIN_HD
+	64C14CC0	GCKC_DORIAN_GB
+	66B056CC	GCKC_LONELY_AF
+	63F21039	~z~Yeah... sure.
+	645FCB76	GCKC_DORIAN_GE
+	696847B1	GCKC_RIGHTS_EI
+	6DF74768	GCKC_GUILTY_CE
+	71314065	GCKC_EXES_FL
+	6C6DEB7A	~z~He's got such soul. Being unfairly incarcerated would break most men.
+	6CA867E6	100010100010100100010100100010100100100100100010100010100010
+	39992566	100010100010100100010100010100100010100100100100010100010010100
+	3CE106E1	GCKC_TREMAIN_HG
+	391AF22B	~z~Sometimes, when I'm having a fun time - even a fun time with a crazy man like you, I feel so guilty.
+	396571C0	~z~Yes, I'm great.
+	3DC20B66	GCKC_TREMAIN_HT
+	4072BA31	100010100010100010100010100010100010010100010
+	40D1D967	~z~Because of the carbon footprint, because of future generations, of course.
+	3E6BEDDA	~z~You can try. Most of the people from my law class just went to big firms on the Exchange to make their millions.
+	3F884EEE	GCKC_EXES_FI
+	354AFFE6	GCKC_DATING_DQ
+	35A6D83A	100010100010100010100010100010100010100010100100010100010
+	3357F94F	~z~All your ex-boyfriends seem to be real pacifists...
+	33BC4BF3	GCKC_GUILTY_CB
+	36487919	~z~You and me both.
+	38D47807	~z~An ex.
+	390DD9FE	GCKC_GUILTY_CD
+	387F1007	~z~This is good. I like you.
+	38D0F8DA	GCKC_LONELY_AD
+	4CBFAD82	GCKC_TREMAIN_HB
+	4DDF9AB4	~z~So, are you well?
+	4C737F0A	GCKC_LONELY_AI
+	4CB5113F	GCKC_RIGHTS_ED
+	50AABB65	GCKC_DATING_DM
+	52487C54	~z~Why?
+	53AEC29D	GCKC_DATING_DR
+	50D8CCDB	~z~None that are still on the outside. This government really annoys me, Niko.
+	512E64C6	GCKC_EXES_FE
+	43785BF4	~z~A triple homicide conviction.
+	4537C20D	GCKC_TREMAIN_HK
+	41008C33	GCKC_TREMAIN_HQ
+	42F3D050	~z~Like I said, this is so unlike me.
+	45A36253	GCKC_DATING_DI
+	4AA21539	~z~Why?
+	4AAD7B73	GCKC_DATING_DK
+	45BB607A	~z~What were you appealing?
+	4965DB49	GCKC_EXES_FB

@@ -1,0 +1,112 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9856B4AB	100100010100100010010100100100100
+	9B63D118	~z~Fucking yokel, you were meant to teach him a lesson.
+	92B53FB4	~z~Pull up, chump!
+	86C1B717	~z~Now your cousin's going to have to owe me for this as well.
+	8A8FAF70	~z~Vlad, I couldn't catch your friend.
+	9F49CA3D	~z~Come back to the bar soon.
+	A850FA35	~z~Stupid peasant, think about it. Dead men can't pay me money.
+	A9C15E97	V2_EC
+	A68B574B	V2_EB
+	A25203DB	V2_GB
+	A446F7AF	V2_IC
+	65089B58	~z~Who could be too clever for you, Vlad?
+	6ACFA6E6	~z~Fuck it. This is a lesson to every other fuck head who thinks he is too clever to pay me.
+	5862E510	V2_IF
+	5421BE3E	V2_BD
+	580E5149	~z~Shit, stay away from me!
+	6E2C67FF	~z~It's a shame everybody knows what a stupid yokel you are when you open your mouth, eh?
+	846D823B	V2_XA
+	859C8ABD	V2_ZA
+	8250E324	010100100010
+	7CBE1F94	~z~You enjoying yourself, asshole?
+	7D0A1106	V2_BC
+	A9EE6792	V2_BB
+	D99429C8	~z~Shit, you're starting to piss me off.
+	DC879DB2	V2_GC
+	D6F3464F	SFX_PAUSE_750
+	CC962D39	V2_IJ
+	CF378552	V2_GA
+	E42546F9	V2_YA
+	FDBC9CA7	~z~I have a message from Vlad.
+	FF4EC204	V2_FA
+	FD91B6CB	V2_IH
+	EFA6DCA5	~z~You got me, okay?
+	F8BB178C	~z~Stop your van already.
+	B263A25E	V2_JB
+	BD942C71	~z~I thought this country was different.
+	B202EFB1	010
+	AD9A7585	~z~He's going to be the problem buzzing in my ears now. Dipshit!
+	AE031A1D	V2_JA
+	BD95C193	010
+	CA288AD5	~z~Okay, you want me to ram you? I'll ram you off the road.
+	CBAD8DFB	~z~You're making this harder for both of us.
+	C8CBC91E	010100
+	BF697FBC	V2_IE
+	C0AE4334	V2_FB
+	53D52504	~z~I understand.
+	22C3AB11	V2_GD
+	247C3A42	100010100100
+	2572C83C	~z~Vlad is impatient man.
+	19D53101	~z~Why have you no paid Vlad the money you owe him?
+	1C9A422B	V2_EA
+	1F954435	010100100
+	2A9D5714	~z~You better hope the police get here real quick.
+	33AFFBD3	V2_HB
+	35486C6A	~z~Fuck you, I call police. They'll show you.
+	25A0E591	~z~Pull over your van.
+	27FDFFFF	V2_IB
+	2943CFE2	~z~Do you understand? I do not ask twice for a favor.
+	02753F32	V2_II
+	0768B4E7	~z~Come on, man. Just pull the fuck up.
+	099AFB14	V2_GB
+	001B7D8E	~z~You got me.
+	02147F82	010
+	02659073	~z~I spoke to the Laundromat owner. He gets the message. He will pay you now.
+	136E412C	~z~I'll ram you off the road.
+	15075B56	V2_IA
+	168034F8	V2_AA
+	0C9E1CB7	V2_ED
+	0D2B97AE	~z~I'm going to, I have just been having the trouble getting it together.
+	0F07DF0E	V2_FC
+	35BA1EDF	V2_IG
+	3B71828A	~z~I like your style. You can be an intimidating guy.
+	44E4B35A	~z~Vlad, the muscovite ain't around no more.
+	45B55CB2	~z~I hope you didn't kill him, I hope he choked on some detergent or something?
+	44A786A9	~z~I will get it to him.
+	404F8056	V2_ID
+	3F69BF48	V2_GA
+	438208DD	~z~In Russia I pay protection, not here.
+	51B42541	~z~America is land of free. Leave me alone.
+	365A6A0F	~z~You will be getting the money to him soon, or your wife shall be using your washing machines to get blood out of your clothes.
+	5373F82F	~z~Vlad, the muscovite ain't around no more.
+	4F433329	V2_BA
+	3A8F9EB0	~z~I hope you didn't kill him, I hope he choked on some detergent or something?
+	4F00F9BA	010100100100
+	36A773B5	010100100100
+V2_CUT1_1	16D0350E	~z~-You're going to have your license revoked...~n~-What?
+V2_CUT1_10	DDDC2927	~z~Who?
+V2_CUT1_11	C41BF5A7	~z~Muscovski jerk who owns a laundry on Masterson Street.
+V2_CUT1_12	91491002	~z~Thinks in this country, business is done differently.
+V2_CUT1_13	A7A43CB8	~z~Says he will call cops on us.
+V2_CUT1_14	78E05F2D	~z~Okay. So?
+V2_CUT1_15	8722FBB2	~z~Jerk needs to be taught a lesson.
+V2_CUT1_16	4C738654	~z~Give him a beating. Let him know... might is right!
+V2_CUT1_17	7F42EBEE	~z~Hey, stop that smoking back there.
+V2_CUT1_18	6459B61C	~z~~c~-Screw you.~s~~n~-Easy, buddy.
+V2_CUT1_19	3290D28B	~z~Go on. Do what you gotta do. But remember, you see a cop... you don't know me.
+V2_CUT1_2	94B3B0D7	~z~My friend, smoking in a bar is a crime. Plain and simple.
+V2_CUT1_20	F8C2E69C	~z~I see anyone, I don't know you.
+V2_CUT1_21	4074F607	~z~Ho, ho.
+V2_CUT1_3	8A569C1D	~z~You're joking right? This is a joke...
+V2_CUT1_4	F03667DB	~z~Hey, Mallorie. Tell fatty his cousin is okay... he just walked in.
+V2_CUT1_5	DDF2C354	~z~Great girl.
+V2_CUT1_6	278ED61F	~z~Yeah? Stay away from her.
+V2_CUT1_7	35E572CC	~z~Of course.
+V2_CUT1_8	C51B1139	~z~Now listen - you did good with that business the other day,
+V2_CUT1_9	E3434D89	~z~but now one more peasant is trying to avoid paying.

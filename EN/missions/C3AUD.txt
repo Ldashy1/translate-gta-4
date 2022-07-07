@@ -1,0 +1,145 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	927E7362	C3_MA
+	92CAC167	C3_JC
+	94B30A95	~z~Abort. Abort.
+	8CB68E94	~z~Roman, I really wish I could go bowling
+	891CF87D	~z~Sorry, but I didn't get a hold of that chopper.
+	8A1E861F	C3_FA
+	8B6DFD23	~z~Come to see me.
+	962CFBB5	~z~Yes, that is the crazy shit I am having to get up to
+	9DD83D80	C3_YA
+	A16B2429	~z~Get out of here. We have got real trouble on the ground.
+	A3A8287F	~z~Is too hot down here. Get out.
+	9BC42CBB	~z~but your setting me up with that Michelle woman has meant that I am chasing a helicopter through the streets of Algonquin.
+	97D20010	100100010100100
+	97DDD85B	~z~Get away from that.
+	9B3150C7	C3_NB
+	88A2AB03	C3_JA
+	76A30EBC	090
+	780834D9	~z~We need to get hold of it. Make sure you have a vehicle and follow it.
+	79CA0BF3	~z~This does not feel correct.
+	72EAB384	290
+	6ADFEE52	C3_JD
+	6B2D06AB	C3_IA
+	6DD9AB13	~z~Someone's got me by the balls, too, cousin. I'll send you a pic.
+	7B60C61D	~z~I don't know if you can hear it, Roman, but I'm in a helicopter.
+	7E83CE86	010100
+	7E8FDF00	~z~My men have the chopper. They're going to strip it down and put it back together.
+	80488103	C3_GB
+	7DB5FCDE	010100010
+	7B90E707	C3_NA
+	7BE6CAD7	C3_KD
+	7D95A3CB	~z~What this guy up to?
+	A5540F80	~z~get in and fly it to Francis International Airport.
+	E9362458	C3_KC
+	EA472622	C3_HC
+	EAA85C7D	C3_MD
+	E8A0CFFD	~z~Thank you. We'll take it from here.
+	CDAF4154	C3_PC
+	DCEFA76F	C3_NC
+	DECF3F26	290
+	EE069FF1	C3_AB
+	F5EEBB4C	C3_CB
+	FEC2D004	010010100
+	FF41F3B9	~z~We can't all have fun. I'll talk to you later.
+	F4185FB5	~z~What can I say, I am scary guy.
+	EE4D2432	C3_MC
+	EE6651F6	~z~Want to go bowling?
+	F256CC6E	~z~Some things are bigger than you, Bellic. We needed that bird. Come back to the office, fool.
+	C953D784	C3_AD
+	B27E6D0A	C3_ME
+	B3EFB73A	~z~Cousin. How you doing? I'm in the gentlemen's club. I think you'd really get into this. You should come down.
+	B54DCC31	C3_XA
+	ADD5AB5C	C3_HA
+	A74CB702	C3_NF
+	A7DB7856	~z~He's trying to take the chopper.
+	A8FE4723	~z~Hey man, it's me.
+	B672B680	~z~I haven't flown one of these things since the war.
+	C453B474	~z~Nearly there? You are about to see a chopper taking off from Civilization Plaza.
+	C4989B21	C3_LA
+	C6A55222	~z~Wait until it touches down. Then, when the passengers are out,
+	BFDAC950	~z~Here goes nothing.
+	BDFF27E3	~z~Okay then.
+	BE546FA2	290
+	BEFE6333	C3_OA
+	3A760E0A	C3_NE
+	3C660374	100010010010100010100
+	3CC19FFB	010100100
+	3725D5BF	C3_ZA
+	28C7FD5F	~z~Wait until it touches down then, when the passengers are out, get in and fly it to the airport in Dukes.
+	33F94B90	100100100100
+	350CCBFB	~z~It should be ready for you when you need it.
+	4A5069DF	C3_HB
+	4AD2FE98	100100100010
+	4BDA2DBB	C3_JB
+	4468EAB3	~z~Why would I need it?
+	3CCE6164	~z~I can't see the chopper anywhere. I lost it.
+	402BE89D	~z~The chopper's not in such good shape.
+	4068E108	C3_NG
+	27E431AA	~z~I'll call you when we have a window. Goodbye.
+	1454EECD	C3_AE
+	170159D2	~z~We need to get hold of it. Follow it.
+	18EA3330	C3_GC
+	0E618509	~z~I'm afraid you're not getting it.
+	00B54E96	300
+	01C9FB18	~z~You scared it off? Come to see me at my office.
+	0766A704	C3_ND
+	22FEAE43	~z~Not acceptable, Bellic. I'm cutting you a lot of slack and I need you to appreciate that. Come to the office.
+	24B2AB09	C3_DA
+	25AC19D9	~z~What's this guy doing here?
+	22FE1B32	290
+	1930C7D1	C3_JE
+	1A219625	~z~The guy I told you about. The guy you need to eliminate. The only way you'll get to him is in the air.
+	1E4C0AA2	C3_CA
+	4D0648D0	290
+	69BE1845	~z~Nearly there? You are about to see a chopper taking off from Civilization Plaza.
+	5CEE770E	C3_LB
+	5F030D62	~z~after you introduced me to Michelle or Karen, or whatever her name really is.
+	5C318C91	C3_KA
+	5C41821F	~z~Okay then, let's fly this thing.
+	5CE8807F	C3_MB
+	68A9D91E	C3_GA
+	68E9F057	100100010010010
+	6998228C	~z~I don't get it, is she a government agent or an undercover cop? What is she?
+	5F89B696	~z~I couldn't get to the helicopter.
+	606DA71F	~z~Bellic, I am not a man you want to disappoint on a regular basis. Don't make a habit of this.
+	60C08D2A	C3_LC
+	57DD0C2D	~z~I think we are one heavy at this meet.
+	5119718F	~z~Shit, I don't know. All I know is that her friends have got me by the balls.
+	588D8629	C3_KB
+C3_CUT1_1	981210A3	~z~Come in.
+C3_CUT1_10	7E86F656	~z~Middle aged men, paunchy, glasses... you bring them here?
+C3_CUT1_11	07F30940	~z~What's this? Empty office, leased to a man who died in the last days of Vietnam...
+C3_CUT1_12	79A96CAB	~z~Call me up. My number never existed. No. I'm not too worried about that.
+C3_CUT1_13	3CC3F2E1	~z~I mean, I think you'll end up on a flight deck, but that's your business.
+C3_CUT1_14	2E1A558E	~z~Then what?
+C3_CUT1_15	470A076D	~z~Because you're good!
+C3_CUT1_16	C072FA3D	~z~Because I need you to keep being good. And you're getting distracted.
+C3_CUT1_17	635D4013	~z~Funny, yeah. Good.
+C3_CUT1_18	552DA3B4	~z~I need someone neutralized.
+C3_CUT1_19	8D91947B	~z~Guy is moving a lot of money for terrorists...
+C3_CUT1_2	8B4B7716	~z~You're late... and please calm down out there.
+C3_CUT1_20	7DF2745D	~z~Whatever. It doesn't really matter. The guy's gotta go.
+C3_CUT1_21	31A2DBBF	~z~But I need to know his movements first.
+C3_CUT1_22	21C83C0A	~z~How? I've got something that's going to help you.
+C3_CUT1_23	452E82D6	~z~Head over to Albany Avenue in Lancet and give me a call. Go.
+C3_CUT1_24	B79DE7B3	~z~Can I get paid for this? Can I get a medal?
+C3_CUT1_25	6EA8D5CA	~z~Did you get a medal in your last war?
+C3_CUT1_26	5AE1AE3C	~z~What did you give Michelle? For me.
+C3_CUT1_27	01D37C1D	~z~Michelle? Karen. We gave her her life back.
+C3_CUT1_28	EC855181	~z~We didn't play too rough.
+C3_CUT1_29	A7564724	~z~We gave her some money. She still works for us.
+C3_CUT1_3	740B4896	~z~Excuse me?
+C3_CUT1_30	6579D46C	~z~What about me?
+C3_CUT1_31	7E89868F	~z~We'll discuss that later.
+C3_CUT1_4	66F1AE63	~z~I didn't give you a free pass to act like an asshole. You're bringing a lot of heat.
+C3_CUT1_5	51B683ED	~z~Hanging out with bad people, doing bad things, making idiot moves.
+C3_CUT1_6	3CAB59CF	~z~I'm an idiot. I move...
+C3_CUT1_7	2E69BD4C	~z~True... but the last thing I need is you getting caught.
+C3_CUT1_8	381DD0B8	~z~Why? Because I lead them to you in some plea bargain thing?
+C3_CUT1_9	29E1343F	~z~To me? Who am I? There's a hundred guys in this building alone who fit my description.

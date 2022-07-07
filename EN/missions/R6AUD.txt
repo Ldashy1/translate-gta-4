@@ -1,0 +1,160 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A4704FFA	~z~I am always looking for work, if it pays.
+	A1D59A73	~z~Go for it.
+	A8FB8AEC	~z~I want to make peace, but Jah know what type of shit they might pull off.
+	A515A0F3	~z~I gotta ask ya another favor too.
+	9ECFC1E8	~z~Can you keep an eye on the meet with I's piece?
+	9E737F43	R6_IA
+	9FC148D8	100100010010100100100100010100
+	9FBD279C	100010010100010100
+	A9A9C291	102
+	B5F742B6	~z~Respect. Alright, alright. We going to this spot where I need ya to wait for I, seen?
+	B260E90A	~z~That is fe me breda. Seen, Niko, seen. Can ya do me a favor?
+	B7EA00BF	100
+	B79A55FA	R6_PA
+	AE9512B4	R6_GB
+	AE7996EE	010010100100
+	B096E847	~z~Inna the future, you know?
+	AF4C61EA	R6_DC
+	9D97424C	~z~I have had much experience.
+	826EB65D	R6_DJ
+	7F5360B1	010100100
+	85D3097A	~z~Alright breda, forward a Dillon street, in Schottler.
+	83448A6B	121211211
+	7AB35A97	100
+	79A0A6C8	100010100100010100
+	7DFC5C65	~z~Bad shit happen, cousin. Jacob ain't around no more.
+	7B3739FF	R6_IB
+	86B5B792	R6_MB
+	949C72B4	R6_EB
+	943D3F26	101101
+	97B7760B	R6_LC
+	95F53033	~z~I don't know about that.
+	8D55A1C9	~z~I tink we could do some work together and tings.
+	8829949C	~z~You see, Real Badman, me boss man, he get in a fight with these boys and I gots to go down te make peace.
+	8F6FEF8D	R6_CF
+	8F260257	~z~Real sorry, but hurting you be the only way te do that.
+	EC2D1143	R6_GA
+	E7B29748	R6_LD
+	ED77DF37	~z~It seems that Roman has enough problem running his own life, let alone the whole city.
+	ECE3308D	~z~I know how to use a gun if you want me to keep watch on things.
+	E515E4A3	R6_KD
+	E28E6F15	R6_OB
+	E657DA28	R6_ND
+	E577C9D2	~z~Roman, I took Jacob where he wanted to go.
+	F002B42D	R6_CJ
+	FB3F12EB	R6_FB
+	FAE2AE39	R6_CA
+	FE58A9A9	~z~Sure.
+	FDB175D4	100
+	F3D2EEC2	~z~You a real creation stepper, Niko, righteous wit dat piece.
+	F17F0FF6	~z~Alright. There be a spot up there. Watch out for any badness.
+	FA408538	R6_KA
+	F8903E4C	R6_CC
+	DE011632	R6_DA
+	C98069C8	~z~I guess so.
+	C90090DF	~z~Come here back a' homebrew café.
+	CCDD31F2	R6_KF
+	CB459898	R6_DD
+	BE4438B3	R6_AA
+	BA5DF39A	~z~Sorry for maga dog, maga dog turn round bite you.
+	C22ADF43	100100010100100010100010010100100100
+	C10300E9	~z~Jacob is a good man, watching glue dry with Jacob would not be boring.
+	CDFF72C2	~z~Cousin Niko, gonna help Roman take over de world and ting?
+	DD083E54	~z~Alright, alright. Ya me man Roman's cousin, ain't ya?
+	DCE94068	R6_CL
+	DDF62D5F	R6_BA
+	DD310C0E	R6_CG
+	D739C9CB	R6_KE
+	D298A414	~z~Driving for you ain't as boring as I thought it would be.
+	D7B22C01	R6_DE
+	D7708F11	100010
+	7555CEB7	~z~Jacob, Jacob, Jacob... we have te teach Badman his lesson and ting.
+	2C56ECD1	R6_LA
+	2B475AD1	~z~Two of ya going to rule this city and ting, ain't it?
+	33503E82	~z~Irie, rasta. I an' I need fe talk. Mek we dweet.
+	312D3065	R6_CD
+	23D11E4B	102102
+	23A3AB4C	~z~What dis? I thought there was only going to be one of yous coming?
+	289C6853	R6_KC
+	24D8C861	R6_DG
+	3C10D708	R6_JA
+	3B58FBF9	R6_NA
+	400BC0B6	~z~He has been the same way since we were very young.
+	3D8F40DC	R6_LF
+	36E8FBD2	~z~One love.
+	35C8AC30	~z~Ya the type of man who can get out of a rukus, seen?
+	3AA48FA1	R6_FA
+	3804EB7D	R6_DF
+	0CDA5FE7	~z~Where your wheels at?
+	0C53F3B7	R6_DB
+	0EEB5B51	R6_HA
+	0E02760C	~z~Righteous. I gonna feel safer with some backup inna de ground.
+	041F0B46	R6_NC
+	0038D738	~z~Are you worried about this?
+	0A194D26	~z~Realness brother, you are me man Roman's cousin. Thanks, respect.
+	042BAA2C	R6_FC
+	1AC2EE79	~z~This ras clot had a rukus with me bredren Real Badman de other day.
+	190B7665	R6_LE
+	2386F256	R6_MA
+	21D0C131	R6_DH
+	12F99344	~z~Forward a' the Homebrew Café. It be inna Beechwood City.
+	1277FBB6	~z~Can you take dis piece? Ya hear any ting bad going down, you come and help, sight?
+	18D30111	R6_CE
+	14835B25	~z~Watch yourself, coo pon de other one inna the ground.
+	403E8644	~z~Shit, Niko. Get these bloodclots.
+	5F56454B	R6_NB
+	5F315A15	102292
+	6081E9AA	R6_OA
+	5FD01661	~z~Ya Niko? The one me man Roman's been talking about all this time?
+	55A60BB9	~z~Fuck, now I have to call his friend Real Badman. This ain't going to go well cousin.
+	53446727	~z~I might have some work for you now Niko. Here's me number.
+	5279AF33	R6_CM
+	71307642	R6_KB
+	5531D65E	R6_OC
+	6BECCFC8	R6_DI
+	6AEB5A20	~z~This is something I am more equipped to do than drive people around for Roman.
+	6E157492	100
+	6CE09A5F	~z~You look like you can look after yourself as well, man.
+	6A2D14B4	~z~I have the feeling it will be same story with Roman.
+	61FC4BBC	R6_CK
+	61DA55F7	R6_LB
+	68C531F7	~z~Jacob. Oh, Oh... I don't want know what happened.
+	680B22E0	R6_CI
+	4929CBAA	R6_CB
+	43505121	R6_EA
+	4E18A34C	~z~Here's me number. Mek we link up soon.
+	45BF3D90	~z~There be another one, Niko. Check him.
+	44211646	~z~Thanks for everything, ya can keep the piece. I tink ya know fe use it better than I an' I do.
+	4E7222AB	~z~Rhaatid, someone be inna de ground.
+	5099A57D	~z~They got too fierce and I ain't sure this is gonna be an easy ting.
+	41AE823E	~z~Thank you, cousin.
+	5574EB44	~z~Badman get I an' I in all type of shit you know, Niko.
+R6_CUT1_1	CB36B4E4	~z~Head into town. I don't give a fuck if the bridge is busy, you're a cab driver! Hey.
+R6_CUT1_10	6ED97F68	~z~Yeah... like war?
+R6_CUT1_11	BE0F9DAF	~z~Not exactly.
+R6_CUT1_12	AE60FE4A	~z~No. Maybe not. When you going to tell me properly about what happened?
+R6_CUT1_13	D9A054D0	~z~I'm not going to judge you.
+R6_CUT1_14	C7EAB165	~z~Ahh... when you got time.
+R6_CUT1_15	F7250FD9	~z~There, I have time.
+R6_CUT1_16	E366685C	~z~Another time. Can I help?
+R6_CUT1_17	1317C7BE	~z~Okay. Yes... go pick up my friend, Little Jacob... he's a good man.
+R6_CUT1_18	00C6231B	~z~Likes to smoke a bit. Look after him.
+R6_CUT1_19	27FFF18A	~z~He's on Oneida Avenue in South Slopes.
+R6_CUT1_2	D65ECB34	~z~Hello, Roman Bellic Enterprises...
+R6_CUT1_20	68686F3A	~z~Niko, man, we should talk some time - I'm a good listener.
+R6_CUT1_21	3F719D4D	~z~Whatever, man.
+R6_CUT1_22	492AB0BF	~z~Mohammed, where the fuck are...
+R6_CUT1_23	21AEE1CC	~z~Oh! Miss Weinstock, no no, not you... what can I do for you today?
+R6_CUT1_3	AF89FD8B	~z~No. Mr. Bellic has stepped away from his office, can I take a message?
+R6_CUT1_4	B8FB106D	~z~Okay... great... no, I'm not gay.
+R6_CUT1_5	F8E11034	~z~Yes, I'll... I'll tell him.
+R6_CUT1_6	0AFAB467	~z~Car seven, head to South Slopes. Come on, where are you, Mohammed?
+R6_CUT1_7	C40CA68C	~z~Hello, Roman Bellic's offi...
+R6_CUT1_8	EF4CFD0C	~z~Shit. Fucking battery. This is chaos!
+R6_CUT1_9	32B483DA	~z~Capitalism is a dirty business.

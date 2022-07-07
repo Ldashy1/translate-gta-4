@@ -1,0 +1,40 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B1B23826	~s~Mission ~g~Passed.
+PB_COMMAND_01	5D1183AC	~s~Call Bell.
+PB_COMMAND_03	50ACEAE3	~s~Go to the ~r~target's location.
+PB_COMMAND_04	43F9D17D	~s~Eliminate the ~r~target.
+PB_COMMAND_06	B7D73946	~s~Go back to the payphone when you want to do another hit.
+PB_COMMAND_10	03712F95	~s~Take out the ~r~target.
+PB_COMMAND_100	0187858D	~s~Stop the ~r~convoy.
+PB_COMMAND_101	EB48590F	~s~The ~r~target~s~ is fleeing. Take them out.
+PB_COMMAND_20	C718BA55	~s~Find a way to reach the ~r~target.
+PB_COMMAND_21	9938DE92	~s~Chase down the ~r~target.
+PB_COMMAND_30	99FCFE76	~s~The helipad is above the Booth Tunnel entrance. Take out the ~r~target~s~ before they escape.
+PB_COMMAND_40	42B8CA53	~s~Wipe out the ~r~targets~s~ making the deal.
+PB_COMMAND_41	5073E5C9	~s~Enter the ~y~Burger Shot.
+PB_COMMAND_50	FC8A41D3	~s~Chase down and eliminate the ~r~target.
+PB_COMMAND_51	F25C2D77	~s~Take out them ~r~all.
+PB_COMMAND_52	70D5AA68	~s~You've been led into an ambush. Take out the ~r~attackers.
+PB_COMMAND_60	5118EDFB	~s~Take out the ~r~targets~s~ and all their ~r~bodyguards.
+PB_COMMAND_70	4315BA35	~s~Take down the ~r~targets.
+PB_COMMAND_80	1A3A630F	~s~Take out the ~r~target.
+PB_COMMAND_90	0922C43C	~s~Take out the ~r~target~s~ leaving the police station.
+PB_FAIL_01	02777C22	~r~Mission Failed. -PH-
+PB_FAIL_02	90B31897	~r~The target got away.
+PB_FAIL_03	0CBD10AD	~r~A target got away.
+PB_MISC_01	9D710CB8	Target
+PB_MISC_02	AC4FAA75	~s~Your contact will leave you weapons and body armor for each job.
+PB_MISSION_1	F0262F14	Water Hazard
+PB_MISSION_2	FA384350	Hook, Line and Sinker
+PB_MISSION_3	0C67E7AF	Migration Control
+PB_MISSION_4	E4C49869	R.U.B. Down
+PB_MISSION_5	F75D3D9A	Dead End
+PB_MISSION_6	C130D13E	Industrial Action
+PB_MISSION_7	D1DA7291	Derelict Target
+PB_MISSION_8	8BCE667A	Taken Out
+PB_MISSION_9	9E758BC8	Bailing Out for Good

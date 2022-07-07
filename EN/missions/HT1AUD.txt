@@ -1,0 +1,316 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD5726FA	HT1_AUD_A_LB
+	AD878324	~z~Warmer waters have led some to speculate there may even be sharks...
+	ACB3B555	~z~Even after they tore out its heart.
+	AD4FE531	~z~Don't worry about the name, there is no joke I haven't heard.
+	AD9561C9	192192
+	AFD7D0CC	~z~Coming up to Vespucci University,
+	B03F3E84	~z~Give me a break.
+	AEC598E4	HT1_AUD_A_AB
+	AEFB2320	HT1_AUD_KB
+	AB36E4B9	~z~they say it has fifteen bodies within it's cement.
+	A56810E9	192192
+	A73F4FFB	~z~I need to make clear that Higgins is in no way responsible for any injuries -
+	A21725DD	HT1_AUD_A_NA
+	A2D21E04	~z~Cleethorpes Tower, where millionaires can go to the top floor,
+	A93AFE44	292292
+	AA9095BD	HT1_AUD_GA
+	AB2347A5	~z~these youngsters taunt death because they've never seen war. Bring back the draft.
+	A947273D	~z~This is the Exchange. High flying workers here are calling in debt
+	A9693040	192192192
+	BDE241BF	392392
+	BE4DE64A	HT1_AUD_A_QB
+	BAAE2D37	HT1_AUD_LB
+	BBFAD093	392392
+	BE73F862	HT1_AUD_A_PB
+	C286726E	~z~Amazing, honestly.
+	C2B656C8	392392
+	BFAED67C	~z~I'll be your guide as we survey the crown jewel of capitalism, Liberty City.
+	BFE7DEF5	~z~Ummm.
+	BA9F8638	HT1_AUD_HA
+	B482469D	~z~Yep, when the hippies were distracted with weed and shit, those money guys never missed a beat.
+	B4C4EB06	~z~physical or psychological, that you sustain during the trip.
+	B124BAA9	~z~lean over the marble balcony, and spit on ordinary Americans.
+	B1987623	~z~turning this whole area to shit. Shit, people, shit.
+	B76E0149	~z~Welcome to your Higgins Tour, my name is Vicki,
+	BA2B2534	HT1_AUD_A_OA
+	BA9B68AF	392392
+	B8ABE2B6	~z~One thing that thrives is extreme sports;
+	B9F8F9FD	~z~Well, that's it folks, you've seen the decline of the Roman Empire from the skies, choose Higgins again!
+	A150A1C7	~z~Okay?
+	84E2E8EC	~z~Oh. Okay.
+	851B4377	~z~That statue is such a great emblem of the Freedom of Speech and Expression
+	83B6F2E9	~z~a den of vice and corruption the likes of which most of you folks will never see again.
+	83DE6E44	HT1_AUD_A_QA
+	852AF9A5	492492
+	87557B71	~z~We are now flying over Chinatown.
+	88097FF5	392392
+	864A075E	HT1_AUD_BA
+	86E34F64	HT1_B_IA
+	83A31A39	~z~Heard the name Kenny Petrovic folks? He's a Hove Beach landmark too,
+	8092786E	~z~That is some serious all-American dough right there, I shit you not. Mon-ey.
+	80F6ED4C	~z~I always think of this place as like, Algonquin's appendix; it's there, but nobody knows why.
+	7FBDDD15	~z~Now, the GetaLife sign.
+	802A12C2	~z~I will be your guide for today. Buckle up, and no questions about my name.
+	811548CB	292292
+	82999FB9	192192
+	8307FFB5	192192
+	81C6512F	HT1_AUD_A_TB
+	81D78393	392392
+	92FCB59F	HT1_AUD_HB
+	98B41ECA	~z~Fascinating.
+	90597625	HT1_AUD_A_TA
+	90E489CA	HT1_AUD_TB
+	99216FC1	HT1_AUD_DC
+	9E002C25	HT1_AUD_QB
+	9FEB6101	192192
+	9CDCDF81	HT1_AUD_A_KA
+	9D923385	~z~Hove Beach, or Little Sodom as some call it, a nest of sin,
+	9008CA6A	HT1_AUD_A_ZB
+	8A93C321	HT1_AUD_XA
+	8A9FA4D8	192192
+	882C879A	~z~Whew, the Von Crasternburg Centre, cha-ching!
+	8A8DFDBE	~z~They can concentrate on making money in peace and quiet.
+	8C68D6C9	HT1_AUD_B_DA
+	8ED287F0	192192
+	8FACDC31	HT1_AUD_B_DB
+	8D61728D	~z~The Charge Island lighthouse,
+	8E3C94DA	~z~all of East Europe moves in to spread crime like jelly over LC.
+	C32AB02A	HT1_AUD_A_JA
+	EA7D075E	292292
+	EBC35D24	~z~and then the LCPD has to keep them apart.
+	EA263371	~z~Well then.
+	EA4EE3D4	~z~Approaching Leaper's Bridge, still the record-holder for suicides.
+	EC5348A0	HT1_AUD_ZB
+	ECDD7D52	HT1_AUD_MB
+	ED35BE2F	~z~Higgins Tours wishes you a pleasant holiday.
+	ECAA4923	HT1_AUD_OA
+	ECBBB14C	~z~just a little reminder that we all need a guide through the rocky waters, don't we folks?
+	E89CC7B7	~z~and they would if they could people, mark my words.
+	E25B5204	~z~History, it's right there, and we haven't learned a thing.
+	E2FA3733	HT1_AUD_OB
+	E12F170C	~z~and ruining lives all over the country. Now that's how to get rich!
+	E1BCBB11	HT1_AUD_B_BA
+	E3874BCC	~z~Of course, once you've seen war, God is a joke, but would you look at that architecture?
+	E7D5E24F	HT1_AUD_A_RB
+	E88324B0	HT1_AUD_B_CB
+	E598A71E	~z~Now Firefly Island, where some remnants of the glory days can still be seen.
+	E74BB7F3	HT1_AUD_TA
+	F6EE15A6	HT1_AUD_A_EA
+	F7EBD39B	~z~Well, here we are, I hope you've seen another side to Liberty City.
+	F5E49B90	HT1_AUD_A_ZA
+	F633BCEC	HT1_AUD_NA
+	F9360A03	392392
+	FE072342	~z~where Mayor Ochoa makes all his important decisions to keep LC running smooth.
+	FFC5AD3F	492492
+	FB9CF86A	~z~sometimes it's the only option. Carpet bomb those leeches...
+	FBB97419	~z~Remember to recommend Higgins Helitours to your friends.
+	F5C8640C	292292
+	F03FC0F1	HT1_AUD_A_XA
+	F0ED090E	~z~Here we have the Civic Citadel
+	ED6E7605	~z~and only eighty-six murders last year, that's a record!
+	F02AD733	HT1_AUD_AA
+	F3CFCF99	492492
+	F594294D	HT1_AUD_EA
+	F5C004FE	~z~look closely, you might just get a peek!
+	F4885B61	392392
+	F55D7F27	~z~The Broker Bridge; an open invitation to terrorism,
+	E0D93675	~z~disappointing arty liberal kids with their ideas about how there's no God.
+	D01F0DA7	~z~Yeah, sure.
+	D178BE3C	HT1_AUD_A_SB
+	CDAA7A7A	~z~That's interesting.
+	CE4BD0C3	HT1_AUD_MA
+	D17C27B6	~z~Now Columbus Cathedral, nice huh?
+	D2FBFF4C	~z~Man, those guards might be tubby, but they can move.
+	D32AABF3	~z~really shows how Liberty City brings people together,
+	D1E067AE	HT1_AUD_KA
+	D2D92D3C	HT1_AUD_VB
+	CD6896C4	HT1_AUD_A_HB
+	C68E0261	HT1_AUD_BB
+	C73607DA	~z~He saved our tourism industry that day.
+	C3B29BD2	~z~let's hope Ochoa has the stones to protect us all. Great view, huh?
+	C4B78B75	~z~home to artists and such, need I say more?
+	C8429623	~z~Now, the East Borough Bridge;
+	CBB4F9EE	HT1_AUD_IA
+	CCBBD84F	192192
+	C9E6B87C	192192
+	CA013254	~z~Middle Park East, how the other half jog folks.
+	DB261E8F	~z~Now a new development,
+	DC0682FA	392392
+	DA8A943A	~z~Yeah. Yeah.
+	DAD8D403	~z~There's a guy lives in a bush, can get you anything that smokes. Anything.
+	DD4AEF35	292292
+	DFB85A99	~z~Middle Park, a peaceful haven for so many LC residents,
+	E01A19E0	HT1_AUD_A_AA
+	DDD0A90A	~z~Uh huh?
+	DEE33E05	HT1_AUD_A_EB
+	D8BF90A0	~z~No way?
+	D54DFBBE	HT1_AUD_A_DB
+	D54EEB73	HT1_AUD_DB
+	D36A28DA	~z~Leading us on to Broker, a borough that's particularly pleased with itself,
+	D504A377	~z~It was here that Ochoa eased safety restrictions on Helicopters and their pilots.
+	D588F8BD	HT1_AUD_A_LA
+	D7A77EFD	192192
+	D7D94BF8	HT1_AUD_A_MA
+	D6BF23FC	~z~The tall, clean buildings smooth enough to do lines of cocaine off of,
+	D6D13BED	~z~Union Drive, built during an unprecedented reign of organized crime,
+	28118AF7	~z~Okay, the Libertonian.
+	295D3375	HT1_AUD_A_FB
+	27383BDC	~z~Really?
+	27AD3AC5	HT1_AUD_FB
+	2B0B60A6	~z~Hi, welcome to Higgins Tour, I'm Vicki, I'm your pilot.
+	2D1C2BB7	~z~if you look down now folks, you'll see three generations refusing to help themselves.
+	2D44CBCC	HT1_AUD_QA
+	2B654CA3	HT1_AUD_AB
+	2BEECE70	HT1_AUD_B_BB
+	26822097	~z~she's dirty, she's deep and she has her secrets, you betcha...
+	20E0D85A	HT1_AUD_A_MB
+	21426AD3	492492
+	2011B181	010
+	20D950EC	~z~Well, if you're going to do it, do it right, huh?
+	21431E0D	492492
+	236201EC	HT1_AUD_DA
+	25ADFD11	HT1_AUD_B_FA
+	22A235A7	HT1_AUD_JA
+	22BB15E7	HT1_AUD_B_CA
+	37713FB0	~z~Change of scenery, East Holland Projects,
+	38612A47	HT1_AUD_CA
+	36C4D657	292292
+	37602994	~z~I've never been in there, but it sure is popular with you visitors. Full of old stuff, crammed with it.
+	39285B52	HT1_AUD_B_EB
+	3ACC19EF	HT1_AUD_A_VB
+	3CF25921	HT1_AUD_A_XB
+	39B5709F	HT1_AUD_B_AB
+	39E571BA	492492
+	35BC4AE6	492492
+	3112BE0C	~z~bodies, torn up as if by artillery. That, or giant teeth.
+	31FABE71	192192
+	2E408C35	HT1_AUD_A_OB
+	2F374995	192192
+	3228DA6B	HT1_AUD_A_WA
+	355BAEF5	HT1_AUD_GB
+	35B4FC3C	HT1_AUD_YB
+	3284444F	HT1_AUD_A_FA
+	32A0B1A7	HT1_AUD_A_UB
+	1FC659B6	HT1_AUD_A_SA
+	0CDE9AED	~z~I've seen land laid to waste by war, and I'm here to tell you,
+	0D7BBC53	HT1_AUD_A_VA
+	0AC56D06	HT1_AUD_UB
+	0CB4C034	~z~It was recently targeted by terrorists in Weazel's 72.
+	0E5BDF94	HT1_AUD_A_BB
+	136ACE0D	HT1_AUD_RB
+	13B90179	~z~First up, the Daily Globe Building, home to all the LC news,
+	102B9C41	HT1_AUD_A_WB
+	11E0FE28	292292
+	0976DF6C	HT1_AUD_A_RA
+	035271EB	192192
+	04C8261A	192192
+	01035BA1	192192
+	033AC71C	HT1_AUD_A_GB
+	04F56BBF	192192
+	07C606A8	492
+	0885DAC7	HT1_AUD_B_GB
+	07B1303C	~z~If you ever feel like exploring the skies again, remember Higgins!
+	07B86E91	~z~That's something else.
+	1A6919C7	HT1_AUD_A_NB
+	1BB7E7F1	HT1_AUD_B_FB
+	19669A93	HT1_AUD_A_YA
+	1A375C86	~z~Look out to sea folks, the view goes for miles.
+	1BD243F1	~z~I'm Jase, you're in safe hands, I could fly this baby with my eyes shut.
+	1E5C8E38	~z~Onto North Holland,
+	1F7D1AE1	~z~Sharks would explain some of the things swept up on the beach,
+	1D4180A4	292292
+	1E3A5360	192192
+	18EE5350	HT1_AUD_WB
+	1639D6CB	HT1_AUD_RA
+	163AAADF	492492
+	1489365F	~z~The harbor, where complaining immigrants arrive by the masses.
+	15B90A9A	~z~You're shitting me?
+	172ED0A9	HT1_AUD_WA
+	18629E31	~z~You learn something new everyday.
+	18B0022E	~z~this won't be in guide books, you'd have to be one extreme tourist. Gnarly.
+	1734C5C3	~z~Every day, Algonquin residents are grateful that this is here to keep us separate from Alderney.
+	184B842A	~z~Firstly over the Humboldt River,
+	3DB75287	~z~Hi, welcome to your Higgins Tour, I'm Rob,
+	6A5C633E	~z~all manner of ways for chubby, spoiled brats, to get whipped into a sugar frenzy.
+	6B14C747	~z~you can spot the library, where they get their long hair stuck in their fancy books.
+	685831FC	~z~A sight usually reserved for transplant organs and the super rich.
+	6A356DFB	HT1_AUD_A_KB
+	6B64442F	~z~Shit?
+	7005F988	~z~Over Westminster now, some of you out-of-towners may never have seen a gay before,
+	70FE49DA	HT1_AUD_FA
+	6C3E97D8	HT1_AUD_EB
+	6FE821A6	HT1_AUD_PA
+	675FD527	HT1_AUD_VA
+	63E6153D	~z~It sure is great to be driving a chopper for fun rather than to mow down a village full of hostiles.
+	64E4293E	HT1_AUD_IB
+	62BE9E3B	HT1_AUD_UA
+	62FC3ABD	~z~Now the Libertonian, it's closed for renovation,
+	64F3CAEE	~z~but a third of the park's budget goes toward cleaning this fountain of pigeon shit.
+	66E7F499	~z~First, the famous Broker Bridge, used in many movies and TV shows.
+	6754C296	192
+	6507322F	HT1_AUD_B_EA
+	65839D7D	392392
+	78C2B0F6	HT1_AUD_A_GA
+	7AD05E43	~z~Workers in the exchange often live here in Castle Gardens.
+	7833DD2E	~z~Come back for food poisoning or a massage with the happiest ending in the City.
+	7898D82A	~z~From us at Higgins, have a nice day and remember that tips are appreciated.
+	7B7C7158	HT1_AUD_A_PA
+	7E0C7B60	HT1_AUD_ZA
+	7E2749BF	~z~I hope you've enjoyed your tour.
+	7C418FE3	~z~Here's the West River.
+	7D5DF358	~z~Ah, the housing projects of the world's finest city.
+	77B89CB3	HT1_AUD_A_JB
+	741B0444	492492
+	7440EDF7	HT1_AUD_B_GA
+	731BDED4	~z~I've seen war zones folks, and I can tell you, you're looking at one.
+	738BD727	~z~if those sheets could tell stories, right folks?
+	7498DA4B	492492
+	7676A9DE	HT1_AUD_A_CA
+	771E4D63	~z~Yeah?
+	749D8B75	192192
+	757DA43C	~z~that makes America the best country in the world.
+	61E3AD3A	392392
+	4A8A2164	~z~Folks, welcome to your tour of the LC skies!
+	4B391605	292292
+	45F9E5FA	~z~the murders, the robberies and the immigrants taking our jobs.
+	4A6B50C0	HT1_AUD_A_CB
+	4C41EAB1	HT1_AUD_A_UA
+	51FC0F5B	~z~Colony Island,
+	52D721C2	HT1_AUD_B_AA
+	4ECBDF4B	HT1_AUD_A_BA
+	506E1D7D	~z~Well, that's us; I hope you've enjoyed LC from the skies!
+	4465693F	HT1_AUD_B_HA
+	402196D1	HT1_AUD_YA
+	40FF0363	HT1_AUD_A_HA
+	3DCDFCA3	~z~See the lake? Few people know this,
+	3FDE6485	192192
+	41E624A5	~z~Okay, well I've had a blast, you folks have been great.
+	42ABF2C3	~z~Is that fact?
+	442EF0DB	~z~where Yusuf Amir is building more apartments for his foreign buddies to live in tax-free.
+	4224FB69	292292
+	428EDAA0	392392
+	5C68B7EF	492492
+	5CE2881A	~z~oh yeah, good guy. I mean, I don't vote or anything but nice guy.
+	5B0EC4A3	~z~Golden Pier now,
+	5B99CD05	192192
+	5DE32931	~z~Alright then.
+	617625BD	HT1_AUD_LA
+	61E133D2	~z~Ah, the Majestic Hotel, found in story and in song,
+	5DF507FD	292292
+	60AA9AAB	~z~Rotterdam Tower, a buddy of mine tried a base jump off that bad boy.
+	5A049551	~z~Higgins Helitours. We're here to show you Liberty City from the sky.
+	5358EA52	HT1_AUD_CB
+	53AB75AC	~z~Civic Citadel, I once flew the Mayor in this chopper,
+	53059519	HT1_AUD_JB
+	53279E3F	192192
+	558F169A	~z~Moving on, to South Algonquin,
+	56C07D8D	HT1_AUD_A_DA
+	597584BE	HT1_AUD_NB
+	565F13AB	HT1_AUD_A_YB
+	567366A9	HT1_AUD_PB

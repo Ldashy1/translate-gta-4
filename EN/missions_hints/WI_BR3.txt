@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	75694EE3	Take Brian ~y~home~s~.
+	623239A2	Take out the ~r~dealers~s~ attacking Brian.
+	7DDDF0F9	Lose your wanted level.
+	D683A22B	Take Brian to his ~y~dealer.
+	B3FC5D35	~r~The deal was disrupted.~s~
+	286EC600	You left ~b~Brian~s~ behind.
+	093B07B1	~r~Brian was abandoned.~s~
+	3416DD68	Get a vehicle.
+	3F7EE30F	~r~The deal was disrupted by police presence.~s~
+	3672E220	Pick ~b~Brian~s~ up.

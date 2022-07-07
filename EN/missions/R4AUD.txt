@@ -1,0 +1,241 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A7C1A259	~z~Of course.
+	A6879FE5	~z~And to see your cousin, of course.
+	A5C628D7	~z~Just some fucking petty Albanian hood. If I wanted to buy a stolen TV I'd go to Dardan.
+	A7E0954C	~z~Thank you, cousin, I'll see you later.
+	A99DD924	R4_A_IA
+	A89B6C3F	R4_XA
+	A7F78D94	R4_UK
+	A3989598	~z~to all these pimps and loan sharks from now on.
+	A2252A4B	~z~You can't let him lose you, Niko, drive.
+	9FE30E29	~z~Me and you, Niko, me and you going to be in control from now on.
+	A420E834	~z~I won't take no shits.
+	A5AA6F01	~z~We got some of them, cousin. But not all. This is not a good thing.
+	A5846233	100
+	A4E6C8C9	R4_PA
+	AA902383	~z~Vlad, Dardan, Bledar, even Mallorie push me around.
+	B1DF4101	~z~Who does he think he's fucking with? Bellic Enterprises, that's who.
+	B19FE7D1	100010100100
+	B0EF47DF	~z~If Dardan gets away, man... come on.
+	B2D80B41	R4_TB
+	B8A64C18	R4_TG
+	B71A8E27	~z~Piece of crap.
+	B3C99EBF	R4_LA
+	AE46AAF4	~z~Ain't going to let no one push us around. Going to stand up
+	AD84A6E4	~z~I will beat you like I beat your cousin.
+	AB48B26D	R4_TL
+	AFE0427E	R4_EC
+	B0D25A0F	~z~Dardan's left his car, he trying to get away on foot.
+	B0044542	R4_EB
+	AFF1BCE7	R4_TE
+	9254F085	~z~Dardan is my brother.
+	91E1F940	~z~Urghgh... I think it must be two ribs. Those fucking punks. What were you saying?
+	910CFB94	~z~Hey Dardan, you missed your party.
+	925AC4A8	~z~Screw you.
+	92CFC22B	R4_GD
+	92915986	R4_HA
+	926E7FDC	100
+	8613E2F0	R4_IA
+	84A7DC1F	R4_TD
+	8427C7C3	~z~I think he broke my rib. Man that hurts. Shit. I need a massage.
+	86954CA6	~z~You really are American. You don't even swear in our language.
+	90EAF03D	~z~Liberty City won't know what hit it, man.
+	8D9D03BC	R4_QA
+	8C2DBA2F	~z~You better run fast.
+	938F8D20	~z~Don't let him shake you.
+	9C28417B	R4_EA
+	9B7202BF	~z~You are a bitch just like your cousin.
+	98F5872F	R4_UA
+	9DF3FB5B	~z~We should go out and find some ladies, get some massage oil.
+	9FC84B74	100
+	9FA2AA3D	R4_KA
+	9E74B072	R4_FA
+	94C08316	~z~Go after him, finish him off. I would do it but I'm hurt, you know? Urgh.
+	9438E0F3	R4_UJ
+	942F24FD	~z~Ahhhhhhhh!
+	94DA60A2	R4_TA
+	98960E6F	~z~For now, let's just try to survive, cousin.
+	98078D5A	~z~Fucking Dardan smashing my fucking stuff. Who does he think he is?
+	974CEE15	~z~You say this now, but soon even you will forget about the Old Country.
+	B9ACD745	R4_UB
+	EAEF5E68	R4_NA
+	EAB89CA4	R4_AC
+	E9C454F4	~z~Your cousin owes us money, shithead.
+	EB04BFD4	~z~My cab, Niko. The cab is fucked.
+	ED875A67	~z~Dardan is stopping, he trying to get away on foot.
+	EBA9069E	R4_A_AB
+	EB7C8EBF	R4_HB
+	DECFA1FE	011
+	DE2A6277	R4_WA
+	DD7AEA2D	100
+	E385CE5A	R4_MB
+	E94AB89D	~z~You forgotten how to drive, cousin? He's losing us.
+	E56AD34C	R4_MA
+	E3988827	~z~Niko, Bledar has me cornered in the courts under the El Train on Firefly.
+	EDCABBF5	~z~Niko, get here quickly. This is getting out of hand.
+	F700D409	~z~He's driving better than you with one arm. Come on, Niko.
+	F6560F93	010
+	F2C0AAA3	R4_HE
+	F75DF027	~z~Motherfucker, stay away.
+	FDE6D00E	400
+	FAFFD741	~z~You shouldn't have messed with the Bellics.
+	F895165B	R4_A_CA
+	EF8931E7	~z~He made my life impossible. There was no avoiding him.
+	EE7BBA41	~z~These guys think that they're better than me.
+	EE0301DA	R4_A_AA
+	F0525A16	R4_A_GA
+	F231E5C2	010100100102142
+	F20FA515	~z~What does he want?
+	F18E4B19	R4_TJ
+	C8256D8D	~z~We're going to the top, Niko, the top.
+	C7EA790A	R4_TI
+	C52E48AB	R4_HF
+	C82F5C39	~z~~c~Fuck you, bitch fuck.
+	CD74FEF3	R4_ED
+	CA377AC8	R4_EB_QQQ1
+	C90D10E2	~z~You drive. I don't feel so good.
+	BC89C776	~z~Ever since I get to Hove Beach, Niko, ever since I arrive here I have been pushed around.
+	BA8C1BE9	010
+	B9F8DC2B	R4_A_HA
+	BE6DDA26	~z~They think they can fuck me around and beat me up because there are more of them. Not any longer.
+	C26657A2	~z~Did you deal with him like you did Dardan and Bledar?
+	C22EE1A8	~z~Me and you, Niko, me and you are going to show them.
+	C09AABBE	~z~Screw money I owe the Albanians, paying for the cab will be a lot harder.
+	CE6376B2	R4_TF
+	D8564E5F	R4_GE
+	D7626054	R4_UH
+	D4E6BA0D	R4_GA
+	DA3C9B5E	R4_TK
+	DD117751	R4_HG
+	DA4BB35F	~z~Come on, my car is over there, let's get him.
+	DA46A73D	R4_FB
+	D101B3F6	R4_DA
+	CF6C43B1	R4_A_DA
+	CF4DD644	R4_UL
+	D24D58EF	~z~I promised myself I wouldn't kill people here.
+	D4357B40	~z~He had too many connections for that. I had to leave. He is one of the reasons I came here.
+	D355E93D	100010010010010100010100010100100010
+	D2525B7D	~z~We will have no more problems from now on, cousin.
+	2DA8023B	R4_TC
+	2D6DC363	100
+	2D5AC0BC	~z~Catch up to him, cousin, he's getting away.
+	31DBAF90	~z~You're not going to beat me down, fool.
+	2FBCB205	~z~A man in Europe, another Russian... Bulgarin. He live on the Adriatic.
+	2E853E4B	~z~If I wasn't a pacifist I'd stick it to you too.
+	2C2E8FBF	R4_UI
+	257EA479	~z~If one more of these gangsters tries to...
+	228CF5C8	R4_UG
+	217A1E73	~z~Shit, Niko. Bledar has me trapped again. This is all your fault.
+	2B6DB871	R4_UD
+	2909B616	R4_A_EA
+	25D0762C	~z~See you later, cousin.
+	31FF453F	~z~There's what I owe plus interest.
+	412CFDD8	100100
+	4027E0AD	R4_TH
+	4026E18E	~z~Not so tough no more, are you?
+	4513BDE9	R4_UF
+	4371884D	~z~You broke my arm already, man.
+	42149D0E	100100100100100100100100
+	3EE563D1	~z~Don't let him get away, Niko, they are like locusts. A plague of them will come back.
+	38ADA800	R4_HC
+	366D594E	R4_RA
+	33D20AE2	100100
+	3E29BD14	~z~Come on guys, let's be reasonable.
+	3B38CFED	~z~Yeah, fine. Fucking loan sharks, man.
+	3A00A11F	R4_ZA
+	21626E76	100
+	0850F9A1	100
+	07BAB46A	400
+	07924207	R4_GH
+	0CD96C87	~z~Believed I owed him money when I did not.
+	0B606268	100010190
+	09EE8DEB	R4_JA
+	077D209C	100
+	0336B630	300
+	00E94A83	~z~Nice one, cousin. Drive back to the depot, these bruises are starting to really hurt.
+	007541E0	~z~I can't think what he could possibly want or why he'd be pissed off, can you?
+	06875F97	~z~These men, these shylocks like Dardan, they always try to squeeze you for everything.
+	05EF71E6	~z~Shit, we've got to catch up to him.
+	05DB339D	~z~You shouldn't play with sharp objects, Dardan.
+	0EADD0F5	100010100100010100010100010010100010
+	1AF89E99	R4_A_FA
+	177B5F39	R4_GF
+	16BB06F2	~z~Speaking of shitheads, here's Dardan.
+	202415C6	~z~It doesn't matter.
+	1DD1A40A	010
+	1D8FCE6A	R4_GB
+	15392E30	~z~Motherfucker!
+	1207E38D	~z~We shall see. I have reasons to remember it.
+	11330C93	100100100100100100100010
+	110BD221	R4_SA
+	14D2AFDE	100
+	1360F94A	~z~Nice one, cousin. Drive back to the depot, these bruises are starting to pain.
+	12E7D505	040
+	46943206	100010
+	7299AB30	R4_AB
+	711921A6	~z~What is it?
+	7115C0A3	490
+	7300BF78	~z~You alright, cousin?
+	765E618C	R4_OA
+	754DB890	R4_AA
+	749D407B	R4_A_BA
+	69483892	~z~Put your foot down, cousin, catch him.
+	6938B557	~z~He'll come back and trash our place if he gets away, get him, cousin.
+	67DA40B7	~z~Stay down, fat man.
+	6A3C12F1	300
+	6F37EAA4	~z~Niko, come help me... quickly.
+	6DDCFBAD	~z~Back off.
+	6B441604	~z~It doesn't matter. Argh, I think I'm in too much pain anyway. Fuck.
+	76C1395E	~z~Screw you, asshole.
+	800732EF	R4_A_ZA
+	7F8A9F08	~z~Motherfucker.
+	7EEF1FB2	~z~We're coming for you, Dardan.
+	81C3EE30	~z~Shit, Dardan has got away. Motherfuck!
+	83A85CCD	~z~I saw bad things happen there. You do not know what it is that...
+	83145204	~z~I do not go down so easy.
+	82A88A16	~z~Hey, that's a nice view.
+	7985D361	~z~I'm on my way, Roman.
+	796EDB04	R4_YA
+	76FDA4D5	~z~It is all plain sailing straight to the top for you and me.
+	7A4D32A6	010
+	7DFD5778	~z~Over on the courts under the El Train on Firefly. Bledar, buddy, you proved your point the first time...
+	7CE25EC9	R4_UC
+	7BBF70B0	~z~Stay the fuck away from me.
+	55659BCE	~z~You better not try to get up, fatty
+	55442BF2	~z~Stay the fuck away from me.
+	5523DE45	R4_GG
+	55960C74	~z~That is what we think of your debts.
+	5A5D8323	~z~We going to own this town, Niko.
+	5691233E	R4_A_GB
+	559CEEE7	200
+	53BF434C	100
+	4964252E	R4_GC
+	4910E086	~z~Mark the words that are coming out of my mouth.
+	46D0BBCC	190
+	4E61A883	R4_A_JA
+	5169FC93	R4_VA
+	50433A44	R4_AD
+	4F8AFA94	~z~Okay, Roman. I'm not going to let something else get in the way this time. Where are you?
+	61CB0682	R4_HD
+	607482AD	R4_HD_QQQ1
+	6636C7FD	R4_A_GC
+	64BF0058	~z~We will see if things are that simple.
+	648114DE	~z~This beating is for Dardan.
+	66520C18	~z~Will you drive me back to the office, cousin? Argh.
+	5B037583	~z~What about Mallorie, Roman? You shouldn't stay with her if you want to have these threesomes.
+	6735F136	400
+	5BAF328F	~z~Dardan ain't a problem for you no more, cousin.
+	5D0DEF5A	~z~There's what we owe you, Dardan. Nothing else.
+	67283F53	~z~You're not going anywhere.
+R4_ARRIVE_1	17103874	~z~Listen, Dardan is a good friend of mine.
+R4_ARRIVE_2	2DB865C4	~z~It was a misunderstanding... oh!
+R4_ARRIVE_3	1CAAC3A9	~z~Hey!
+R4_ARRIVE_4	D25D2F0B	~z~Shit, there he is.
+R4_ARRIVE_5	0B23A093	~z~Keep on fatboy here, and I'll talk to him.
+R4_ARRIVE_6	00908B6D	~z~Our problem's with your cousin.
+R4_ARRIVE_7	2FBE69C8	~z~I told you to stop. Now it's too late.

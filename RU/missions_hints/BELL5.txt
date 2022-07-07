@@ -1,0 +1,19 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+B4FAIL1	60A696CA	~r~Белл погиб.
+B4GT_01	AD5F4F17	~s~Следуйте за ~b~Беллом.
+B4GT_02	2DB9CFCE	~s~Догоните ~r~Толстяка Чарли.
+B4GT_03	D70E2278	~s~Убейте ~r~Толстяка Чарли.
+B4GT_04	C94486E5	~s~Сбейте ~r~вертолет.
+B4GT_05	F4CEDDF9	~s~Проникните внутрь ~y~здания.
+B4GT_06	89C107CB	~s~Найдите ~r~Толстяка Чарли.
+B4GT_07	97F5A434	~s~Продолжайте преследовать ~r~Толстяка Чарли.
+B4GT_08	5E32B0AF	~s~Поезжайте на ~y~завод Спранка~s~ в районе порта Тюдор.
+BELLLFT	7DC3E238	~s~~b~Белл~s~ отстал от вас.
+BELLLST	BD32D71D	~r~Вы бросили Белла.
+CHOPGNE	5020CCF0	~r~Вертолет улетел.
+CHUBGNE	DEC291AD	~r~Толстяк Чарли сбежал.

@@ -1,0 +1,161 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B5F8B977	FCPC2_SHAME_CB
+	B5CA0871	~z~I stuck around and life didn't go so good from there in.
+	B66748B3	~z~Yeah, nobody's perfect.
+	B658BDAF	FCPC2_SHAME_CE
+	B212167C	FCPC2_NIKO_AP
+	AF62BAAA	~z~Ended up in fucking Liberty City - the centre of sin on Earth.
+	AD85D3A7	~z~Yes, not bad, you know.
+	B1E8A8B6	~z~I'm a lunatic, but at least I know how to enjoy myself...
+	AFCB8341	FCPC2_SHAME_CI
+	B718E923	~z~Because life is shit. Or my life is shit.
+	C2ECDADF	FCPC2_FATHER_EC
+	C1EE961F	~z~Some people call this shit Catholic guilt. I reckon it's just confusion.
+	C4F52654	FCPC2_NIKO_AF
+	C3E608AD	FCPC2_SCHOOL_DI
+	BFEFECA3	~z~I don't know. Not much. What's up with you and the family?
+	BB6D2C0F	100010010010010100100100010010010100100100100010010010100
+	BA41BAA8	FCPC2_KATE_BB
+	BD2E5186	~z~I didn't say everything. He molested Gerry and me -
+	BC419F77	FCPC2_KATE_BG
+	9E4AA959	~z~Yes.
+	9C033EB9	FCPC2_SHAME_CK
+	9EDF19A8	FCPC2_FATHER_EG
+	9EADDA39	~z~He was the smart one, I was the active one.
+	9BD09386	~z~Came over from some bog somewhere. Pure as the driven snow.
+	92986D4E	FCPC2_KATE_BD
+	9028FC37	~z~Me mother in particular. I think it's the shame. The shame of her marriage to a drunken pervert.
+	9B37C8B6	~z~I think I'm straight but when it's late at night and I need another gram... I've thought about doing some fucked up shit, man.
+	9667973A	FCPC2_SHAME_CH
+	9F77945D	~z~I'll try to remember that.
+	A67729F8	FCPC2_FATHER_EF
+	A5DBC6A9	~z~Because I don't know... because all I fucking do is cause trouble and then drink and do drugs.
+	ACF26C2B	~z~At least you know yourself, man. Fuck, I don't know what I am. An Irishman, an American.
+	AA69896B	FCPC2_NIKO_AS
+	A51C5EAB	FCPC2_NIKO_AQ
+	A0E798F9	~z~Sorry.
+	9FC3B823	~z~You cool, Niko?
+	A3AB0C3B	~z~but by retarding myself on drink and drugs every day until I can't for the life of me remember why I'm miserable.
+	A2B690F7	~z~My father used to beat us, to provide discipline.
+	C68F22CC	FCPC2_NIKO_AB
+	EE5C2B4D	FCPC2_SHAME_CC
+	EAAAD046	~z~I'm bored man.
+	F478FB2B	FCPC2_KATE_BK
+	F4247BA2	FCPC2_KATE_BL
+	EA4B4D31	~z~Thank you.
+	E413C0C6	~z~It's always been weird. It's my dad's fault. He was an asshole.
+	E2C6B35A	FCPC2_FATHER_EP
+	E813ED04	~z~That's probably why he got out of there when things got bad.
+	E7299E18	FCPC2_SHAME_CD
+	F4BE2153	FCPC2_NIKO_AL
+	FF8F34E5	FCPC2_NIKO_AN
+	FD8497ED	~z~You seem like a solid guy, Niko.
+	FFC79074	FCPC2_KATE_BJ
+	FFBF3881	FCPC2_NIKO_AK
+	FC117313	~z~I hope so, because you're doing a good job of it.
+	F8278290	~z~And you only know this Niko, the one here in Liberty City.
+	F7B267FF	~z~I enjoy talking to you, man. Enjoy hanging out, after all the craziness, recently and a long time ago.
+	FA864A61	FCPC2_SHAME_CA
+	F8D10A73	FCPC2_NIKO_AE
+	CE956F44	FCPC2_SCHOOL_DM
+	CE539798	~z~I've been rucking and getting fucked up for fifteen years. Is this what I was put on the fucking earth for?
+	D0EFBEBC	~z~Yeah, we always were. Close but different. A good team.
+	CF10B06F	FCPC2_NIKO_AA
+	CCAFABA1	~z~My family's just as confused. Are we gangsters or cops? Drunkards or priests?
+	C944EE6E	~z~I blame her parents. They were first generation, you know.
+	C804CD94	FCPC2_FATHER_EN
+	CBCCD1B1	FCPC2_NIKO_AJ
+	C948E153	FCPC2_SCHOOL_DB
+	D12E4CEC	FCPC2_FATHER_EO
+	DF788A8A	~z~I could draw really well. It wasn't exactly encouraged.
+	D9E44026	FCPC2_SHAME_CL
+	DFD21549	FCPC2_FATHER_EE
+	DF99BA24	~z~I'm bored.
+	D9D9AC52	~z~No problem.
+	D4BFF191	FCPC2_SCHOOL_DD
+	D489749C	~z~My father was a long way from a saint... I wanted to be an artist.
+	D7F4A884	~z~Sorry about the troubles your family experienced. Really I am.
+	D7B100F7	FCPC2_FATHER_EB
+	8FB8E4CF	010100010100100010100100100100100010100
+	2F9333BD	FCPC2_SCHOOL_DK
+	2F893AF9	~z~Me mother? She's fucking dying. Has been since the day she was born as far as I can tell.
+	34D3D669	~z~Yes, she is.
+	3231DF53	~z~What's the problem?
+	2F5A49EF	100010100100010100100010100100010100100100100
+	2D91ED64	~z~There are very few people in Liberty City who met me before the war.
+	2D37B53B	FCPC2_FATHER_EH
+	2E60D55F	~z~I know, you said.
+	2DE0A61C	FCPC2_KATE_BF
+	39B2B844	FCPC2_KATE_BA
+	52989329	FCPC2_SHAME_CF
+	4BE84ECB	FCPC2_SCHOOL_DN
+	5473F683	FCPC2_SCHOOL_DC
+	52B4DA24	FCPC2_SCHOOL_DL
+	47EA3902	FCPC2_KATE_BI
+	406FEDA4	FCPC2_SHAME_CG
+	3B304EBC	FCPC2_FATHER_ED
+	46389EB9	~z~Is very rare to find one word that can sum up a feeling you have.
+	44D3D543	~z~Fucking stupid world though, isn't it?
+	17BB86C3	~z~I used to think maybe Gerry had killed him, but I think he killed himself...
+	12A0FC6A	~z~then he killed himself - nobody speaks much about it...
+	1AB81157	~z~Packie, man. How's it going? How is your mother?
+	18731AC0	100010100010010100010100010100100010100100100100
+	0F6BEA30	FCPC2_SCHOOL_DA
+	09C63070	~z~I know you talk about this bad shit that happened to you, but I think you can get over it, you know.
+	0035BF15	FCPC2_FATHER_EM
+	0E8308B7	FCPC2_SHAME_CM
+	0B31E1FC	~z~I was kept home from school so I could roll joints for my dad. Soon I had different goals.
+	1CB754BB	FCPC2_NIKO_AG
+	2AF08CD3	FCPC2_NIKO_AM
+	21A370E5	FCPC2_FATHER_EI
+	2C3DEF0C	FCPC2_NIKO_AR
+	2C23752A	~z~No one but me can see what is in my head when I try to sleep at night. No one has the dreams I do.
+	21492F54	~z~She seems more sane than the rest of you.
+	1DD95896	~z~You're a survivor.
+	1CF5E582	FCPC2_FATHER_EJ
+	1E5856A1	FCPC2_NIKO_AD
+	1E460C68	FCPC2_SCHOOL_DE
+	55D17269	FCPC2_KATE_BC
+	7C8D45D5	FCPC2_SCHOOL_DG
+	7B4ECDE8	~z~I think that's what really destroyed the family - the old man was a sick pervert.
+	7F9C567F	FCPC2_FATHER_EA
+	7E5B589C	~z~Aren't we all dying from the day we are born?
+	7B18130E	~z~Were you and Roman always close? Back home I mean.
+	78CF4601	FCPC2_SCHOOL_DH
+	77750131	~z~You could be fucking right.
+	79F6B8D3	~z~Looks can be deceiving. She can't enjoy herself. No sense of joy.
+	7927C7B2	~z~Of course she was gonna go wrong. They coulda ended up in Australia.
+	82B1B8B4	FCPC2_NIKO_AO
+	8A986289	FCPC2_NIKO_AH
+	89720DD6	~z~Why?
+	8EBEEA42	100010100010100100010100010100100100
+	8DB20828	~z~So, what's up, Niko?
+	8956D815	FCPC2_FATHER_EK
+	85EF047A	~z~Good. I also enjoy our friendship.
+	8504E154	~z~Damn this is all so embarrassing - why did I tell you that?
+	890AA45C	~z~Is very rare to find the word that says it all. I think is best to say nothing.
+	88DA7E75	~z~What I do know is she's good girl.
+	67073ACF	~z~I just wish she'd sort her head out - learn to enjoy herself a little bit more.
+	65AFA745	~z~The shame of her children. I don't think I have to spell that one out to you, do I?
+	688C2863	~z~Fuck. I never told anyone that before.
+	681CE809	FCPC2_NIKO_AC
+	641B9B7A	FCPC2_SCHOOL_DF
+	58E93885	FCPC2_SCHOOL_DO
+	58929DE6	~z~Look what goes on or went on between you two is your business... I don't want to know.
+	621E0884	FCPC2_FATHER_EL
+	5CB30EC9	~z~It ain't too late for you to get out of here, Packie. It ain't too late until you're dead.
+	68974C1D	~z~Very funny. I mean, I never paid any attention at school.
+	73EA7A1C	~z~In my language, in English.
+	7192E640	FCPC2_SCHOOL_DJ
+	77453800	FCPC2_KATE_BE
+	740A8D9A	FCPC2_KATE_BH
+	6F712A79	~z~When your family are drunks and killers, you don't really get all the moral discipline you might hope for.
+	6B8E5CB8	FCPC2_SHAME_CJ
+	6A78AA54	~z~Beaches, hot chicks, fucking who knows what else. I woulda liked it here. I could have been okay.
+	6D61B03C	FCPC2_NIKO_AI
+	6BEF449F	~z~Same shit. Well, Kate's being a bit odd, but you know about her.

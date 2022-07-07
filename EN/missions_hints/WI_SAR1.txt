@@ -1,0 +1,15 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	D0E20D13	Get a vehicle.
+	B8D7DCE3	Take Sara ~y~home.~s~
+	F5A956A1	You left ~b~Sara~s~ behind.
+	DB27219D	Pick ~b~Sara~s~ up.
+	7F0FE950	Get as far away from Sara's ~r~ex-husband~s~ as possible.
+	4D5285D6	~r~Sara was abandoned.~s~
+	2C974478	Wait for Sara.
+	6FCE4ACD	You are too far away from ~b~Sara.~s~ Get closer so you can interact with her.
+	5ABD20AB	~r~Sara has been killed.~s~

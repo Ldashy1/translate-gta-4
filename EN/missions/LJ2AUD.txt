@@ -1,0 +1,227 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9A5FDC07	LJ2_RA
+	9A271A8E	LJ2_A_AB
+	9B4FEDD9	100
+	9E098C2A	~z~One love, Niko.
+	9CA4616D	~z~You're just making me angry.
+	99BF30B4	310
+	93B07B94	010
+	9354F405	~z~I have some Jamaican friends who are real angry with you.
+	944E9E10	LJ2_LA
+	99BA8D76	LJ2_EA_TemP
+	95D02899	LJ2_ZA
+	A750119D	~z~Take care of this boy on my back.
+	A6CE22DB	010100100100
+	A8838B18	100
+	AC44C5EC	~z~Have these.
+	AC3A6040	LJ2_YA
+	A4228253	~z~That's some good shit. You done cleaned me out.
+	9FE5E929	LJ2_GA
+	9FC2F469	LJ2_PB
+	A03B7B87	~z~Wrong place, wrong time.
+	A0B68EC8	~z~You shouldn't deal drugs to kids, man.
+	A0A52104	100100010
+	75AD53B7	LJ2_VA
+	74AB5313	LJ2_VB
+	7AC92FA1	~z~That's a good price. I'm coming back to see you.
+	7C45FC35	010100100
+	7B2ECF6D	LJ2_QC
+	729E956A	~z~Who this cracker? You let him follow you back here?
+	6A92CAB0	~z~You gonna get punished, son.
+	68D521C2	~z~Tell Badman that I got rid of the competition.
+	6C0141A5	~z~You didn't have to do that, shit head.
+	702AE9E6	~z~I only found one dealer. He's dead.
+	6F4A114A	LJ2_WA
+	8FE3F6C1	~z~Some friends of mine are pissed off with you, now you got me angry.
+	8BCC5A96	~z~Thought you could handle it?
+	907483BE	090
+	9317D30F	010
+	91706D59	~z~Come check I soon Niko.
+	8993B3CE	LJ2_AC
+	81C63D13	LJ2_A_DA
+	7DBBE51A	~z~Sorry, babe.
+	8276E8D6	190
+	866D46C2	LJ2_PC
+	FF03A2F2	~z~Don't get so close to a brother.
+	E3D9FD88	130310130310
+	E1D71ED0	~z~Fuck off, bitch.
+	E51C1B1E	100
+	E5D6D4F8	090
+	E58575D0	~z~Turn around and leave, you hear?
+	DFD982B3	~z~You done got us killed.
+	DA676FEE	~z~Bounce, bitch.
+	D93D583F	LJ2_HA
+	DD623F63	190
+	DED6F008	100
+	DD7D5E0C	~z~Stay off of me.
+	F02418B6	~z~You want to shoot some pool?
+	EEB8F4E8	~z~Niko, it's your cousin.
+	F046BBAF	~z~You gonna get the hell beat outta you, boy.
+	F8241A66	~z~Badman ah get vex! Yo, come ah the apartment man. Yo, lose him pon da corner? Cha!
+	F0E8EFFD	LJ2_A_HA
+	EBF1E48D	190
+	E7A132C0	~z~I got friends, bitch.
+	E6681824	090
+	E8B8C261	100
+	EBC7FAA1	~z~Yo. You don't wanna be messin' with my boys.
+	EBB8BF3A	LJ2_A_GA
+	B956600F	~z~Should have recycled this shit.
+	B902B502	~z~What you doin' leadin' people up to this shit? You fuckin' stupid?
+	BD782503	~z~I lost him.
+	BEB020F1	LJ2_FA
+	BE406317	LJ2_OA
+	B61B81FC	LJ2_BA
+	AE752A45	~z~Why're you running away from me? I just want to talk.
+	AC54CEB4	LJ2_OC
+	B03E0A8F	~z~Ya lose him? How da blood clat ya can lose him? Pon da corner? How ya can lose him pon da corner?
+	B5031E01	LJ2_PA
+	B301C29B	100
+	D2DE3D33	~z~Shit Roman, I can't talk now. Damn.
+	CB0FE37A	~z~I can keep running all day.
+	D35ED183	~z~This fight ain't gonna go your way.
+	D7B279E0	~z~One? It be a whole operation, Dere be a lot of dem pon da street, killing one ain't nuttin man. Wha'gwan?
+	D6FF917D	~z~Get off a brother's back.
+	CA386C4F	LJ2_QB
+	C111462B	LJ2_A_EA
+	C06A984C	~z~You want to shoot some pool?
+	C54131BB	~z~Shit, he's coming in. You done got us killed.
+	C8AB4B64	~z~For sure you are.
+	C800DA7D	~z~I took the dealer down. With these injuries, he won't be shifting no weight anytime soon.
+	63D35249	310
+	2942B0C0	LJ2_UA
+	2890EEAC	~z~You better play nice.
+	2B245A54	LJ2_A_AB
+	2DF90418	~z~You think that will stop me.
+	2CD0E30F	~z~Fuck... here we go.
+	230486F3	190
+	1EC27719	310130
+	1BDBD542	~z~Let's have some fun.
+	1EDF472C	~z~Okay, well it's a good thing I didn't have none of that spliff.
+	205AB641	~z~All type a shit about to happen to you.
+	1FC14BA6	LJ2_A_AC
+	3295353F	~z~Righteous. De corner belong to I again.
+	38F94DD3	LJ2_OD
+	38C9967D	~z~Yo! Back off me, bitch.
+	390FDE2D	100
+	3CEABEC5	191
+	3AFF9E29	~z~You're going to need more than that to protect yourself.
+	374D47FC	~z~Bam!
+	34ED365E	~z~You want to shoot some pool?
+	3455BFAA	~z~That corner belongs to Little Jacob and Badman. You should know that.
+	357AC17C	~z~Hell no.
+	3720457E	LJ2_A_AA
+	3607C30E	~z~You deal on someone else's turf, you going to pay for it.
+	19A63CBA	~z~Okay then, I'll chase you.
+	037C1FC9	~z~Shit. Don't cap an innocent brother.
+	02D2D640	LJ2_A_CC
+	04ACF078	LJ2_A_BC
+	0D6BA469	~z~Come check I soon Niko.
+	05B7F5CE	LJ2_CA
+	01E08D53	~z~One? It be a whole operation, Dere be a lot of dem pon da street, killing one ain't nuttin man. Wha'gwan?
+	00797EDA	LJ2_QB
+	8563A14F	100
+	012FFA92	LJ2_JA
+	01B42E35	~z~The pain train's gonna get you, bitch.
+	013BA588	~z~I just trying to put food in my baby's mouth.
+	0DBBA27E	010100100
+	15CE7FA3	LJ2_A_AB
+	15487276	LJ2_DA
+	15DDDF31	LJ2_MA
+	19139A57	120210120
+	18B50C8B	~z~I know cats you don't wanna fuck with.
+	112A3614	~z~What you doing coming back here when you got heat on your back?
+	0E96C5A6	LJ2_AB
+	0E45E90C	~z~This isn't a good time, Roman. I got another type of shooting on my mind.
+	0F8E06A9	LJ2_OB
+	1110844B	LJ2_KA
+	10CABA66	~z~Hell no. Stay away, junkie. I'm all out of product.
+	3E2265F2	LJ2_A_AA
+	6068F0FF	~z~I didn't see nobody. Get rid of this fool.
+	61CB7C03	~z~I'm in the middle of something, Roman. I might be shooting something, but it won't be pool.
+	6168BD27	LJ2_QC
+	4A1DB1C5	~z~Scumbags.
+	6054DB96	LJ2_RB
+	444127B7	010100100
+	46346FCD	~z~Yo! Be cool, lieutenant.
+	465742FA	LJ2_A_AA
+	4844BD00	090
+	497F6C60	~z~Out my way.
+	6070F1AC	~z~Yo! I'm all out of product. Dropping in to pick some up. Be ready.
+	612F2C01	~z~Tough luck, lady.
+	49F3B6CF	LJ2_AA
+	47531B3D	LJ2_A_FA
+	47B9313F	LJ2_RC
+	4429FDDF	~z~Step off me, punk.
+	5B2802D3	~z~Niko, it's your cousin.
+	49E9C1C6	LJ2_XA
+	3E5BB524	~z~Niko, it's your cousin.
+	5C710FB6	LJ2_QA
+	431BF780	100100010
+	5A3C9A20	~z~You best not be coming in here. We packing.
+	443B588B	~z~Ain't nobody goin' to fuck with I's corner no more, no tings.
+	4B4BED1E	~z~Motherfuck.
+	62121180	~z~That corner belongs to Badman.
+	597CCF0E	LJ2_RD
+	56DDD97A	LJ2_IA
+	552BDEB0	100100010
+LJ2_CUT1_1	DF385F20	~z~-Hey boy, don't move, don't move.~n~-Hey! Ah!
+LJ2_CUT1_10	88E2ABEE	~z~-Your boy dat?~n~-Yeah.
+LJ2_CUT1_11	7B1C9062	~z~-Cho! Come, my youth.~n~-Me boy dat, yo.
+LJ2_CUT1_12	E40AE245	~z~-Come upstairs to talk wit' Mr. Jacob and ting, man.~n~-Ah him de one work wit' Roman,
+LJ2_CUT1_13	D66B4706	~z~de one dat control the taxi...
+LJ2_CUT1_14	2156DCDC	~z~Ya know, when ya have people dat knock upon people door an' ting, ya have fe careful an' ting.
+LJ2_CUT1_15	B326007C	~z~-No, it's ok.~n~-Yah man. See what me tell?
+LJ2_CUT1_16	FDFC1627	~z~-Don't worry about it.~n~-Ya have to watch out dere, ya know.
+LJ2_CUT1_17	2FC379B5	~z~See, ya boy over dere, sir. Niko, go deal wit' dem, see him dere.
+LJ2_CUT1_18	FF029830	~z~Wha' happen, Niko? Ya alright?
+LJ2_CUT1_19	30CE7BC7	~z~Hey, no problem. As good an introduction as any other.
+LJ2_CUT1_2	E8F7729E	~z~-Me say don't move boy. Who are you?~n~-What the fuck, are you kidding me?
+LJ2_CUT1_20	859EA646	~z~Yeah, me hear that, ya know?
+LJ2_CUT1_21	7519053B	~z~Anyway... some boy around ya boy Badman, ya know.
+LJ2_CUT1_22	F179FE03	~z~Him want ask ya a favor. Gwa'an, nuh?
+LJ2_CUT1_23	D3EEC2ED	~z~Hey, my youth. Some boy dem, dey pon de corner an' ting, an...
+LJ2_CUT1_24	CE343778	~z~de boy dem sell some tings and ting, an...
+LJ2_CUT1_25	C0621BD4	~z~I gwa'an, an' I say... oh, dem nah wan' gimme my money an ting. An'...
+LJ2_CUT1_26	F8D50CB9	~z~every corner my corner an...
+LJ2_CUT1_27	1B06511B	~z~I want my money an' ting, ya know?
+LJ2_CUT1_28	99CD4EE3	~z~Ah no see dat! Go, go, ya know, me wan' deal with de case proper. Ya nah see it?
+LJ2_CUT1_29	A3E3630F	~z~Alright, let me explain.
+LJ2_CUT1_3	B2E48679	~z~Where ya come from? Who are you?
+LJ2_CUT1_30	72700135	~z~Is a business ting a gwa'an down dere.
+LJ2_CUT1_31	A2F06235	~z~Right.
+LJ2_CUT1_32	5D1A568A	~z~Dey ah sellin' weed where dey not suppose to sell weed,
+LJ2_CUT1_33	876CAB2E	~z~an' dey nah cutting him in.
+LJ2_CUT1_34	953CC6CA	~z~Okay.
+LJ2_CUT1_35	BF6B1B2E	~z~So wan' ya go down dere and deal wit dem. Seen?
+LJ2_CUT1_36	71F18034	~z~Right. It's not gonna be cheap. Where do I find them?
+LJ2_CUT1_37	A3F96443	~z~Cheap? Cheap, my youth? Ya worry bout cheap?
+LJ2_CUT1_38	06762943	~z~We nah worry bout cheap, ya know!
+LJ2_CUT1_39	F8BC8DD0	~z~De boy dem dere pon de corner! Me say de boi dem a got tings, and uh,
+LJ2_CUT1_4	CD24BAF9	~z~Hey, man, I'm here to see Jacob. It's Niko.
+LJ2_CUT1_40	9B2CD39A	~z~on my corner dey a done ting and...
+LJ2_CUT1_41	B0FAFF36	~z~Is a heavy corner on my corner, tell ya me now right after de boy!
+LJ2_CUT1_42	E5CBE8DF	~z~Dem a gwa'an an say "Oh! Dem nah wan' gimme my money."
+LJ2_CUT1_43	CC3AB5BD	~z~Oh! Say fe gwa'an wit' dat!
+LJ2_CUT1_44	C1A4A101	~z~Alright, hear me now. What Badman is saying is...
+LJ2_CUT1_45	B79A8CED	~z~de boy dem a some novice, seen?
+LJ2_CUT1_46	7D299804	~z~Ya find dem when ya go pon de corner of Alpha and South Bohan. Seen?
+LJ2_CUT1_47	94FAC7A6	~z~When ya go down dere so, yuh see an... tsk! An' just deal wit' dem, seen?
+LJ2_CUT1_48	0A6C328F	~z~Ah go find and turn in work, alright?
+LJ2_CUT1_49	002E1E13	~z~Alright.
+LJ2_CUT1_5	964ACD3E	~z~Niko?
+LJ2_CUT1_50	2E79FB7A	~z~Alright. Ya want some of dat spliff here?
+LJ2_CUT1_51	34BC07FE	~z~No thanks.
+LJ2_CUT1_52	098D31A1	~z~Ya sure?
+LJ2_CUT1_53	1ED65C33	~z~I'm sure.
+LJ2_CUT1_54	7B571533	~z~Alright. Respect.
+LJ2_CUT1_55	89A3B1CC	~z~My youth. Pass me some of dat ting ya have over dereso.
+LJ2_CUT1_56	41F8A277	~z~Alright, here hold that, king.
+LJ2_CUT1_6	A083E1B0	~z~Badman, what gwa'an down there so?
+LJ2_CUT1_7	897B33A3	~z~Some boy down here, sir, beat up the door.
+LJ2_CUT1_8	A3BD6827	~z~Some boy dere, sir, call himself Niko, say he wan' see ya, rude boy.
+LJ2_CUT1_9	6D0F7ACC	~z~Niko? Ah me boy that, Badman. Yo, free up the boy, man. Yo.

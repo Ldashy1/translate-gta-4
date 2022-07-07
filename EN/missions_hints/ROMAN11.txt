@@ -1,0 +1,17 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6AA9E2BF	Go to the ~y~depot.
+	5C4B4602	Go to ~y~Bohan.
+	9D783255	Press ~INPUT_VEH_HORN~ to sound the horn.
+	CB9DA4C5	Wait for ~b~Roman.
+	B9CF0128	~r~Mallorie is dead.
+	4D6C2844	Go to ~y~Roman.
+	14F53773	Sound the horn.
+	032A93DE	You left ~b~Roman~s~ behind.
+	26AE5AE5	Get a car.
+	41368FD9	Go to Roman's ~y~apartment.
+	37FFFD88	~r~Roman is dead.

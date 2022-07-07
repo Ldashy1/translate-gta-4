@@ -1,0 +1,122 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C8DD45D0	V3_FB
+	B9AD16D5	~z~This car belong to Vlad?
+	4FB71C27	010100
+	5103707B	V3_CE
+	B284D7C9	V3_JA
+	62C688DB	~z~That's Jimmy's car.
+	B8A202E0	~z~Vlad can fuck off.
+	B82F96CA	100
+	C9369CD8	010100
+	D72851CB	~z~It belongs to Vlad now. You should pay your debts.
+	D144AA89	V3_AC
+	40F75050	V3_DA
+	45F14F31	~z~Jimmy ain't being punked by a bitch like you.
+	CF1BD245	V3_HA
+	4AC8E1CB	~z~Did they give the car up easy?
+	CF29EA5B	~z~I have your new car, Vlad. It's not pretty though, real dirty.
+	48BB8676	V3_EA
+	655716E7	~z~Relax man. You should lose your edge.
+	A1F2963D	~z~He was reluctant, he is dead now.
+	9A72E5B0	V3_FA
+	A5EA21C9	V3_GC
+	86AB4EEF	~z~I put the car in your lockup.
+	9355CA27	~z~No, it's mine, who asking?
+	92746FE5	V3_DB
+	894FEAD5	V3_GA
+	93ACF392	~z~There's a carwash over on Saratoga Avenue. Just take it over there and then to my lockup just off Mohawk.
+	7B1049D0	V3_CA
+	6E13607C	V3_AD
+	AC358FF5	010100
+	ADDDED54	~z~How am I gonna make my money without my car?
+	ACA5ABA3	~z~Stupid bastard, at least I got my money.
+	7471AA7C	~z~You not as stupid as you look, yokel. Come back to see me at the bar soon.
+	74B531D6	V3_CC
+	A72B17F8	~z~Get your ass up on out of there.
+	74342BB6	~z~You ain't gonna jack Jimmy's car off him, son.
+	1BE30400	~z~I know your cousins like them dirty. Maybe your whole yokel family drive around in their dirty cars but it's not the way over here.
+	EB2C3C20	010100
+	18708465	~z~He's a little bit bruised, but he gave it up easy enough.
+	EDFC2095	~z~I hope you going to buy me dinner first, Vlad. I'm not that easy.
+	22CA117C	200
+	E8D5F526	~z~You that fat Russian's bitch? Just try and take.
+	221113BF	V3_CD
+	2239C9FE	V3_AA
+	147E729D	~z~Like I said, that's Jimmy's ride.
+	0A54817D	010100010
+	0AAB5EF7	~z~Only Jimmy sits in that seat, cracker.
+	01724EEB	~z~Hey, I could fuck this car up worse than a little dirt.
+	082101CA	010100100100010100100100
+	1288E9AE	~z~Hey, Vlad. The car you wanted, it's... how you say? Fucked.
+	132F7265	~z~Fucking peasants don't do nothing right.
+	FCA96CFA	~z~Good, dead guys can't pay interest, you're learning.
+	0FB0038C	V3_EB
+	E5ACA231	V3_GB
+	3620B81E	V3_CH
+	E7D64354	~z~It was easy. I didn't even have to hurt the guy.
+	3287E77A	V3_AB
+	3D58B6A9	V3_IA
+	3FB24400	~z~You're going to be fucked when I'm done with you, yokel. Come back to see me.
+	E062382B	~z~I don't even like strawberries!
+	3C3AFE52	010100010100
+	31E8F56C	~z~I don't owe Vlad shit.
+	26BA20F8	~z~Good, dead guys can't pay interest, you're learning.
+	27BB395A	200
+	24000CED	V3_CF
+	25C22A07	V3_BA
+	2E29288C	~z~Dirty? I can't sell a dirty car.
+	2B7E9ADE	V3_CG
+	28EBC319	V3_EB
+	29571C37	V3_CB
+V3_CUT1_1	092A09BE	~z~Ahh, yokel there you are, okay.
+V3_CUT1_10	6FC2CFA8	~z~What the fuck you mean why?
+V3_CUT1_11	7D2F6A85	~z~Hey, you're a pretty relaxed guy, huh Vlad?
+V3_CUT1_12	6B704707	~z~Come on.
+V3_CUT1_13	56C71DB5	~z~~c~Move, you old hag.~s~
+V3_CUT1_14	46FD7E22	~z~Come on, yokel.
+V3_CUT1_15	326B54FE	~z~What's wrong with you? You gonna jump me?
+V3_CUT1_16	20AAB17D	~z~No... I had a late night last night. Spent it with Mikhail.
+V3_CUT1_17	0F6D8F03	~z~Great.
+V3_CUT1_18	FDC7EBB4	~z~Yeah... wild.
+V3_CUT1_19	CAFF8620	~z~So who the hell is Mikhail?
+V3_CUT1_2	1BA9AEBD	~z~Vlad.
+V3_CUT1_20	2397362A	~z~Mikhail's the man... shit my nose is bleeding. Is my nose bleeding?
+V3_CUT1_21	357059DC	~z~No. Not yet.
+V3_CUT1_22	473AFD71	~z~Fuck face. Come on.
+V3_CUT1_23	48FB00F1	~z~Wait! I'm walking here. Let's go.
+V3_CUT1_24	5A50A39C	~z~Damn city always trying to run you down, huh?
+V3_CUT1_25	6C18472B	~z~Get a job, you deadbeat crack head.
+V3_CUT1_26	5DC82A8F	~z~Man, where do these people get off? Like I'm gonna pay for their drug habits?
+V3_CUT1_27	6F92CE24	~z~Well say something... you're so fucking laid back. Moron!
+V3_CUT1_28	916611C6	~z~Come on.
+V3_CUT1_29	A2D7B4A9	~z~Want some?
+V3_CUT1_3	EDAA52BB	~z~Come on, let's go for a walk, okay?
+V3_CUT1_30	C58502A7	~z~Good.
+V3_CUT1_31	37B96712	~z~We walked all the way over here so you could snort coke?
+V3_CUT1_32	ECFE50BD	~z~No... listen, aaah, that's better... agh that's better.
+V3_CUT1_33	FEB7F430	~z~Man, Mikhail gets the good stuff... it's got some laxative in it, though... gives you stomach problems.
+V3_CUT1_34	918819D2	~z~Nice detail.
+V3_CUT1_35	A34EBD5F	~z~Yeah, listen, ah...
+V3_CUT1_36	A624C30B	~z~-where were we?~n~-I don't know.
+V3_CUT1_37	B7E26686	~z~Oh yeah... so, I need you to head up to Dukes and get a car for me.
+V3_CUT1_38	467F03BD	~z~It's a silver Blista, and it's parked in the projects by E.I.C. subway station, okay?
+V3_CUT1_39	58C12841	~z~Sure. You got keys?
+V3_CUT1_4	FFE6F734	~z~Right.
+V3_CUT1_40	5A4C2B1B	~z~Errr, no, yokel, I need you to take the car.
+V3_CUT1_41	4C7E8F80	~z~Asshole owes Mikhail some money. Take his car instead, eh?
+V3_CUT1_42	B82766D4	~z~We gonna drive over there?
+V3_CUT1_43	B2715B68	~z~What?
+V3_CUT1_44	A3A3BDCD	~z~Are we going to drive over there?
+V3_CUT1_45	8DF4926F	~z~No, you're gonna take the train, buddy. You think I wanna be in a car with a peasant?
+V3_CUT1_46	893988F5	~z~Come on, I'm gonna go meet somebody...
+V3_CUT1_47	FB80ED82	~z~-have a little party...~n~-Okay. Fine.
+V3_CUT1_48	ECBF4FFF	~z~Have fun... dick head.
+V3_CUT1_5	D21C9BA0	~z~Okay, come on.
+V3_CUT1_7	A812C78D	~z~-Where are we going?~n~-To my car.
+V3_CUT1_8	B64D6402	~z~Why?
+V3_CUT1_9	88970896	~z~Because of your cousin owing me a lot of money and until he pays me, your fresh off the boat yokel ass is mine.

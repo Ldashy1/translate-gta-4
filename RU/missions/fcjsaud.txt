@@ -1,0 +1,279 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A79F4AA9	~z~Йо, извиняй, раста, йо. Но сейчас у меня ничего для тебя нет, братан. Давай в другой раз.
+	A976D9E2	FCJ_ACT_CALL_REQ_SPEC_DOWNTOWN
+	A47434CE	100
+	A6220753	FCJ_ACT_PLJ_CALL_REQ_SPEC
+	AD0842E8	FCJ_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS
+	AD64F4F2	~z~Не промажь.
+	AB504802	FCJ_ACT_CALL_REQ_SPEC_PORT_TUDOR
+	ACE942FB	~z~Йо, я тут в Варсити-Хайтс, подгребай ко мне, крутняк.
+	A3A1DC8A	~z~Бывай, Нико. Позвони, ага?
+	9E0637EC	~z~Найди меня на Колони-Айленд.
+	9F2AD87E	~z~Этот твой. Молодец, раста.
+	9A6B6B4E	~z~Да, старик, найдешь меня на Чейз-Пойнт, подваливай давай.
+	9BCD5693	FCJ_ACT_CALL_REQ_SPEC_CITY_HALL
+	A34F1C1E	100
+	A3603DBA	FCJ_ACT_SPEC_INJURED
+	9FB5EFEE	FCJ_ACT_CALL_REQ_SPEC_SOUTH_BOHAN
+	9FD57D20	~z~Прости, старик, мне нужна помощь. Железно нужно, понимаешь, о чем я?
+	B5DA5180	100
+	B6EAFFE0	~z~Давай полегоньку, крутняк.
+	B3938157	~z~Опасный ты человек, Нико Беллик - БУМ, БУМ!
+	B4AD8268	FCJ_ACT_SPEC_GREETING
+	BA7386ED	~z~Береги себя, бандюган.
+	BBBB03A2	~z~Йо, увидимся в Даунтауне.
+	B6EB3C57	~z~Без проблем, Нико, разыщи меня в Шоттлере.
+	B9A07B5F	FCJ_ACT_CALL_REQ_SPEC_ACTER
+	B29242B5	~z~Да, старик, я тут в Вестдайке, подъезжай.
+	AEECC391	FCJ_ACT_CALL_REQ_SPEC_OUTLOOK_PARK
+	AF0854CF	100
+	ADF2A887	FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST
+	AE200CED	FCJ_ACT_SPEC_CAR_DAMAGE
+	B14A2116	FCJ_ACT_CALL_REQ_EAST_ISLAND_CITY
+	B182D846	100
+	B104D2A0	~z~Йо, крутняк, заскочи ко мне в Президент-Сити.
+	B12DA940	100
+	8AF2535A	~z~Прости, Джейкоб, это очень важно. Мне бы железа.
+	8B772EE9	100
+	878FF317	FCJ_ACT_CALL_REQ_SPEC_PURGATORY
+	88080DBA	~z~Ага, крутняк, я тут в Нортвуде, подгребай ко мне, старик.
+	8C6A9D8C	FCJ_GO
+	8DC3568B	~z~Причаливай ко мне в Маленькую Италию.
+	8BA6DD2F	FCJ_ACT_CALL_REQ_SPEC_TUDOR
+	8BEF8CB8	100
+	85D83F89	100
+	8151BE3D	100
+	8208B08A	~z~Встретимся в Порт-Тюдоре.
+	7F3B29BD	100
+	80E5D084	~z~Без проблем, Нико, старик, встретимся на Южном Склоне.
+	84DCA695	~z~Ты что вытворяешь, чувак?
+	85AE3B4C	100
+	8262B1F0	~z~Что такое? Чего ты меня разбудил?
+	83C54D2F	~z~Йо, старик, подъезжай ко мне на Файрфлай-Айленд.
+	96D67488	~z~Я в районе Малого Залива, старик, подгребай, подгебай.
+	97D46B22	100
+	945D24BE	FCJ_ACT_CALL_REQ_SPEC_COLONY_ISLAND
+	954573EB	~z~Я в Южном Бохане, старик, подгребай ко мне давай.
+	9997C106	FCJ_ACT_CALL_REQ_SPEC_THE_EXCHANGE
+	9A2B703A	FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST
+	9815C10F	100
+	9992C3F2	100
+	9393CBB1	FCJ_ACT_SPEC_GOODBYE
+	8F1C2EF6	FCJ_ACT_PLJ_CALL_CANCEL_SPEC
+	8FB171AC	FCJ_ACT_CALL_REQ_SPEC_CHARGE_ISLAND
+	8E3633C5	100
+	8EECC012	FCJ_MESS
+	924C9A3E	100
+	92E50AA6	100
+	91355FCA	FCJ_ACT_CALL_REQ_SPEC_LOWER_EASTON
+	914355C2	FCJ_ACT_CALL_REQ_SPEC_SOUTH_SLOPES
+	E93E7F92	~z~Ты меня с чего разбудил?
+	EA836815	~z~Давай ко мне на Звездный проспект.
+	E6A495A5	~z~Йо, найдешь меня в районе аэропорта.
+	E87E910A	~z~Ничего, старик, подгребай ко мне в Ист-Айленд-Сити.
+	ED2804F2	~z~Да без проблем, старик, подгребай в Берчем.
+	EE11FB27	FCJ_ACT_CALL_REQ_SPEC_CHINATOWN
+	EAFBB02A	FCJ_ACT_CALL_REQ_SPEC_WESTDYKE
+	EBB2E96B	~z~Бывай, знаешь, Нико.
+	E65E66EC	~z~А теперь давай скорей, Нико!
+	DCBEE2CF	~z~Ладно, старик, разыщи меня в Саффолке.
+	DE6157D7	100
+	DB513AF9	100
+	DB8C3DEE	~z~Йо, приезжай ко мне в Уиллис.
+	E47AD3D0	FCJ_ACT_CALL_REQ_SPEC_SUFFOLK
+	E4C12496	~z~Нико, я удираю отсюда. До встречи.
+	DF1D14E2	100
+	E092F188	~z~Йо, буду ждать в Бичвуд-Сити.
+	F49AC537	FCJ_ACT_CALL_REQ_SPEC_LITTLE_ITALY
+	F6DC48CC	~z~Йо, раста здесь не место. Потом.
+	F3F8717E	FCJ_STUFF
+	F3FE8B4D	~z~Йо, встретимся в Индастриал, йо.
+	FD6DE4FC	~z~А-а, это ты, поганец Нико.
+	FDDBF131	100
+	F7826450	~z~Увидимся в Промзоне Эктера.
+	F8E35967	100
+	F201640B	100
+	EEFF83B4	100
+	EFAAC976	~z~Ну, что, Нико? Рад видеть, старик.
+	EE1C430F	FCJ_ACT_CALL_REQ_SPEC_FORTSIDE
+	EE3C4C20	FCJ_GUN_CHAT
+	F1209BDC	~z~Ча! Ты что творишь, Нико?
+	F1BD187A	~z~Знаешь, Нико, пушки у меня.
+	EFCAEEE4	100
+	EFE055A9	FCJ_ACT_CALL_REQ_SPEC_BOULEVARD
+	C99579E9	~z~Без проблем, подваливай в Северный рыбный квартал.
+	CA1E766B	~z~Йо, подгребай на Чардж-Айленд.
+	C7644BBF	100
+	C8C72394	~z~До встречи, раста.
+	CB8AFB73	100
+	CBE9A996	100
+	CAC022DD	FCJ_ACT_PLJ_REQ_SPEC_SLEEP
+	CAF6000D	~z~Да это сам босс Нико.
+	C67A1511	~z~Волчара ты, знаешь, Нико?
+	BD5ECB7C	100
+	BE998A22	100
+	BC469AFF	~z~Разыщи меня в Лефтвуде.
+	BD2D37CF	~z~Прости, старик, проблемы у меня. Нужна твоя помощь. Инструменты разные, понимаешь, о чем я?
+	C1D6CBC3	~z~Встретимся на Бульваре, старик, йо, подъезжай давай, крутняк.
+	C614764A	~z~Как твое ничего, Нико? Как жизнь?
+	C0BAD20D	FCJ_ACT_CALL_REQ_SPEC_CHASE_POINT
+	C19A0328	~z~Йо, дуй ко мне в Северную Голландию.
+	D5896B42	100
+	D6EEB8C2	~z~Да, старик, встретимся в Эктере.
+	D29228FC	100
+	D2CF8E79	100
+	D85038BD	~z~Йо, ты меня обидел, поганец.
+	DA5C2BEF	FCJ_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS
+	D704DB1F	~z~Что за фигня? Ты меня разбудил.
+	D797BDFA	~z~Йо, разыщи меня в Хаттон-Гарденс.
+	D161A4ED	~z~Да, старик, подгребай ко мне в Истон.
+	CC9EBB16	FCJ_ACT_SPEC_BORED
+	CCE72478	FCJ_ACT_CALL_REQ_SPEC_YES_STEINWAY
+	CC1D6269	100
+	CC66C132	100
+	CE97C371	FCJ_BYE
+	D09AB56E	~z~Лады, лады, старик, двигай в Миддл-Парк.
+	CD8953A6	100
+	CE7DF39D	100
+	7ED095A7	010
+	20229B58	~z~Надо мне линять отсюда, пока не прикатил Вавилон.
+	21CB5DC5	~z~Сейчас будет взрыв.
+	1EC2BFD4	FCJ_ACT_CALL_REQ_SPEC_LITTLE_BAY
+	1ECC5C59	100
+	23EEFCDD	~z~Что такое, крутняк? Я нарыл то, что ты просил.
+	24675E13	~z~Мир и любовь, Нико. Скоро еще пересечемся.
+	2215F1B7	100
+	22AD4B2B	FCJ_ACT_CALL_REQ_SPEC_LEFTWOOD
+	1DF7DFB1	100
+	17470CBB	~z~Все железо на месте, ага?
+	18832911	FCJ_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL
+	16C51EDF	FCJ_ACT_CALL_REQ_SPEC_NORTH_HOLLAND
+	16F0C7EB	FCJ_ACT_CALL_REQ_SPEC_GENERIC
+	19F9DCD2	100
+	1C90AA16	~z~Йо, подъезжай в Кервеза-Хайтс.
+	195D80EA	FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK
+	19C30047	~z~Харе с меня.
+	315CDF14	010
+	32774001	~z~Ча, надо мне сваливать отсюда, браза, все потом.
+	2E4759D6	100
+	3109C040	~z~Любая мафиозная хрень, все в лучшем виде.
+	375FFEB7	~z~Йо, подгребай в восточную часть Миддл-Парк.
+	381E253D	FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND
+	34579A56	~z~Джейкоб, мне нужно то железо, которое ты обещал.
+	362E72AE	~z~Найди меня в Тюдоре.
+	2D7A03AA	~z~Да, приезжай ко мне в Треугольник.
+	28DA8B47	~z~Это еще что за хрень?
+	2B073B5E	~z~Крутняк, я в Восточной Голландии, йо, старик, подъезжай.
+	2573A914	~z~У меня тут волыны нарисовались, ну ты в курсе, братан.
+	2786BC89	FCJ_ACT_CALL_REQ_SPEC_AIRPORT
+	2C004E5E	FCJ_ACT_CALL_REQ_SPEC_NO
+	2C580343	~z~А вот и оно.
+	2BCEA46A	~z~Йо, не, нафиг это все.
+	2BD1C62F	100
+	09F7F21D	~z~Да, старик, есть у меня тяжелый огнестрел, как ты просил, знаешь, да?
+	0AD19298	100
+	0780439B	FCJ_ACT_CALL_REQ_SPEC_NORMANDY
+	078EB9B1	~z~Да, старик, погляди эту хрень, браза.
+	0F0A688E	FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH
+	0FC0EC80	100
+	0BA71DC4	100
+	0D078831	FCJ_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS
+	077E1D14	FCJ_ACT_CALL_REQ_SPEC_HOVE_BEACH
+	01558230	100
+	021019BF	FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd
+	00413582	~z~Эй, крутняк, у меня есть то, что ты хотел.
+	006BA417	100
+	05A33CA5	~z~Ладно, крутняк.
+	06CF8E0C	100
+	0240AFF2	010
+	0412F667	~z~Встреть меня в Сити-Холл.
+	14F0536C	100
+	157DE078	~z~Да, старик, встретимся в Чистилище.
+	145CB3B9	100
+	148B86BA	100
+	1688AE02	FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION
+	16990D48	100
+	15B67F49	FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS
+	15BCED83	~z~Йо, подгребай в западную часть Миддл-Парк.
+	145BBCD9	100
+	10FE32A7	100
+	11B1A512	FCJ_ACT_PLJ_GETCALL_SPEC_END
+	1011E886	~z~Двигай ко мне сюда... как его.. в Нортерн-Гарденс.
+	1040B871	FCJ_ACT_CALL_REQ_SPEC_LANCASTER
+	12FDAF9C	~z~Йо, Нико, это я, твой браза Джейкоб. Слушай, мы же давние друзья, да? Надумаешь брать ствол, позвони мне, идет?
+	13D9EDEC	~z~Нико, я здесь, в Фортсайде, подъезжай.
+	1293B79F	FCJ_ACT_CALL_REQ_SPEC_MEADOWS_PARK
+	12EA5F29	100
+	5E12E6B8	~z~Ну, что? Чуешь?
+	5E31B681	100
+	5A22C98D	~z~Давай, Нико. Полегоньку.
+	5D9A56A0	~z~Без проблем, Нико.
+	620440B0	FCJ_ACT_CALL_REQ_SPEC_CASTLE_GARDENS
+	628FA03B	~z~Без проблем, Нико, встречаемся у Биржи.
+	5F369D68	FCJ_ACT_CALL_REQ_SPEC_MEADOWS_HILLS
+	60B19C6F	FCJ_ACT_CALL_REQ_SPEC_SCHOTTLE
+	59B7D022	FCJ_TRUNK
+	5559A723	FCJ_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY
+	558A6C18	100
+	54B62549	010
+	5506F3A0	~z~Эй, Джейкоб, слушай, больше мне железо не нужно.
+	57D1DA36	~z~У меня тут вся крутотень, пацанчик.
+	58184DC7	~z~Да, старик, увидимся в Чайнатауне.
+	5736E7FF	~z~Ча, Нико, это еще что за хренотень?
+	57964FEB	FCJ_ACT_CALL_REQ_SPEC_BERCHAMN
+	7947D105	~z~Йо, Нико, разыщи меня в Стейнвее.
+	7AF5D1C9	FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs
+	78DC4E54	100
+	792AA529	100
+	7C180ECF	100
+	7D27D33C	100
+	7B73C891	~z~Йо, погребай ко мне в Файрфлай-Проджектс.
+	7BDA2AAF	~z~Йо, приезжай ко мне в Касл-Гарденс.
+	76FDA460	~z~Без проблем, старик, приезжай ко мне в Хоув-Бич.
+	6E979AA5	~z~Прости, старик, мне нужна помощь. Аппаратуру бы достать.
+	71162BC2	~z~Эй, слушай, Джейкоб, все круто, железо мне уже ни к чему.
+	69DBFAED	FCJ_ACT_CALL_SPEC_END
+	6D19318F	FCJ_ACT_CALL_REQ_SPEC_WILLIS
+	748C35F9	FCJ_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND
+	755C8F26	~z~Ладно, заскочи ко мне в Мидоу-Хиллз.
+	7179F4BD	~z~Без проблем, старик, приезжай ко мне в Мидоуз Парк.
+	7405E395	FCJ_ACT_GETCALL_SPEC
+	40C353E3	FCJ_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY
+	41262CDF	~z~Все здесь, браза.
+	402AB1FC	~z~Джейкоб, мне оружие нужно. Ты мне поможешь?
+	404C95E1	~z~Не нарывайся там, браза. До встречи.
+	43A23D96	~z~Э, Нико, я тут в Нормандии, двигай сюда.
+	43A8E772	100
+	4128D48B	~z~Да, подгребай в Нижний Истон.
+	43929144	FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH
+	3FBA8360	FCJ_ACT_CALL_REQ_SPEC_EASTON
+	3ACCDFBD	~z~Крутой брателло. В натуре, рад встрече.
+	3ACD1696	FCJ_ACT_SPEC_SLEEPING_YES
+	38CE8443	~z~Спасибо, Джейкоб, я это запомню.
+	3A392E04	~z~Укурился ты, что ли, браза?
+	3EDF36E4	100
+	3F1E9CBA	100
+	3B017DE8	100
+	3DA470A7	FCJ_GREET
+	52407F93	~z~Йо, надо сматываться отсюда, браза.
+	531EC312	~z~Что за нах, раста? Ты чего затеял?
+	4EDEAB43	100
+	50FA373C	~z~Пока, пацанчик. Позвони мне и вообще.
+	541CD565	~z~Йо. Ты меня разбудил. Хоть по важному делу или как?
+	54261D5F	FCJ_ACT_CALL_REQ_SPEC_INDUSTRIAL
+	53217551	100
+	53FF4EFE	100
+	4E195131	~z~Слушай, раста, у меня кое-что для тебя есть.
+	473CB82D	100
+	482E3BFD	FCJ_ACT_CALL_REQ_SPEC_THE_TRIANGLE
+	44F9A0DC	~z~Йо, разыщи меня в Обзорном парке, крутняк.
+	46DC721D	~z~Подгребай ко мне в Южный рыбный квартал.
+	4A39EDD2	~z~Да, старик. Найдешь меня тогда в Ланкастере? Приезжай, ага?
+	4D669639	~z~Йо, пока мне нечего тебе кинуть, крутняк. Дай мне время, я что-нибудь нарою, идет?
+	496FCC71	~z~Нико, давай-ка успокойся.
+	4A0516D9	100

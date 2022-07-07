@@ -1,0 +1,144 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A5417180	~z~No, sir. No way.
+	A5C06EC9	PML_BA
+	A7B31971	PML_CA
+	A525078F	~z~They're just off Montauk in an alley.
+	9E08F905	PML_JE
+	9F5EB290	~z~Dry now though, dry as a bone.
+	9F7189E3	PML_IB
+	A8DB70D7	PML_BE
+	B38EA462	~z~He's in an alley off of Montauk Avenue.
+	B43C29AF	PML_CI
+	B57FAC6E	PML_JA
+	AFE18D42	100010
+	AABA979E	~z~Sure... sure. Yeah. Serenity...
+	AE5AA04C	PML_CC
+	AEF39B33	PML_IF
+	818EE2C5	~z~This is where they should be. Can you clear things up with him?
+	8413FBFB	~z~And you shoulda seen the can after I was done with it,
+	84EC465C	PML_CE
+	7F51E427	~z~He doesn't want no trouble.
+	74CEB5C2	PML_IA
+	7600A2CD	PML_CF
+	762F51E6	~z~You got a lot of debt to pay, Mel.
+	86DA039B	100
+	90B347F6	100
+	93DEEBBE	PML_IH
+	9CA2E545	~z~He's gonna pay his debt.
+	8EC83D95	PML_BD
+	89480663	~z~Obviously, the DTs hit me pretty hard when I first got sober.
+	89AACFC2	PML_IG
+	8AFD41FA	~z~Mel owes me one hell of a lot now.
+	B73C1A77	~z~I been waiting to see this drunk ass loser for a long time.
+	E3CF839D	PML_FA
+	E4623C9A	~z~Shit, I couldn't hold a glass of water without spilling it all over myself.
+	E57A76F3	~z~Mel ain't nearly hit rock bottom yet.
+	E20F8637	~z~Maybe just one drink would calm my nerves?
+	D50CAB1D	~z~Who knows what I'll need. So long. Be serene...
+	DC5FECF2	~z~I don't think those guys are going to be calling that debt in.
+	DC68FAFA	~z~That stuff is what got you here in the first place.
+	E5DA4CB8	~z~Maybe I'll keep a ten spot for myself though.
+	F336FDF3	PML_HA
+	F676887C	PML_AA
+	F6F1EEE7	~z~Here's the roll I was gonna give that loanshark.
+	F2B7375F	PML_EA
+	E9F89E17	~z~I want to be someone, help people... seriously!
+	EEAA8455	~z~You seemed to like it when I last met you?
+	F0BEA13A	~z~Oh - oh, I'm getting the shakes again!
+	BE6FDCD9	PML_EF
+	C10E6CB9	PML_GA
+	C26E4EC4	PML_IC
+	BE09230F	~z~Not hanging around with losers like Sergei.
+	B778E2C4	~z~I'm waking up before noon, for Christ's sake.
+	B99FB2FD	~z~Shit, I can't remember none of that.
+	BBD31EA3	~z~Shaking off all the negative energy and concentrating on the productive.
+	C3EDCED2	PML_CD
+	CE1E5E65	~z~That's not what I meant, friend.
+	D07C569B	PML_CG
+	D2D99989	~z~I bet they did.
+	CD77494A	PML_KA
+	C642D13C	PML_CB
+	C806E45B	PML_EC
+	CD696254	100100100010100100100100
+	40D07D2B	010100100100100
+	15827709	020020210210210210
+	41CB4244	PML_IE
+	38EAB3EC	~z~How am I gonna cope out here? Who knows what I did when I was on the sauce?
+	15998C53	PML_EE
+	4080AEE7	PML_BH
+	15326A21	~z~I thought maybe that was another guy.
+	43E2A4AB	PML_BC
+	460DC5F9	200
+	425D1AB4	190
+	4263B906	PML_DB
+	42895A82	PML_ED
+	1659EABD	PML_JB
+	266381EE	100100010100100010010100
+	275207E1	PML_CH
+	29351481	~z~Oh boy, that shook me up, man. The stress was too much.
+	1FC13357	~z~You'd be amazed by the things I've been doing since I cleaned up.
+	1E5A0FC8	PML_EB
+	24572E4B	~z~Can't you remember coming over to my place and throwing the TV out the window?
+	2B75D7EE	~z~Be smart, friend.
+	2B8D96D7	~z~Damn those blackouts.
+	171C552C	~z~What made you want to get clean?
+	29E97AC6	~z~Positive thinking is what it's all about.
+	18893215	~z~Positive, that's me.
+	2B4FBC20	~z~Pissing all over my couch? Slumlord kicked me out on the street.
+	6A11B9A7	~z~Hey man, we're here to pay back the money my friend here owed you.
+	6A3B1F42	010
+	6C0F97AC	PML_ID
+	68130BDE	PML_JD
+	0ACCC193	~z~I was done with Mel's drunk ass weeks ago.
+	07C3112E	PML_CI_QQQ1
+	738746B6	~z~Don't worry. I'll make sure everything's cool.
+	00FCA8F9	~z~How many good years have I got left, ten... fifteen? Not many.
+	746FE70E	~z~Can you take me back to where we were before?
+	6D9B40BA	~z~You think money's gonna do it? Do ya, Mel?
+	0700CDBE	~z~Why didn't I fucking control myself?
+	06A84F68	~z~You'll be okay. Just chill out.
+	6639CAA2	~z~You're a saint, a real positive person.
+	58212E71	~z~Thanks, man. Can you take me back to where we were before?
+	5CAFE05E	~z~Drinking their lives away, it's not for me.
+	5CFB1E70	010100100100100010100100100100
+	1456EAC5	~z~Yeah, you're right. Just chill out.
+	559C1F0C	~z~whoa, like the fucking sprinkler had gone off.
+	5753CC99	PML_BB
+	0E6BC732	PML_BF_QQQ1
+	617AF726	~z~You don't need to worry about those guys no more.
+	0CCAD8B7	PML_JC
+	5E29E7F9	PML_BF
+	14015AE2	PML_DA
+	13074D0E	~z~I don't wanna spend them staring into the bottom of a glass.
+PML_CUT1_1	FB0B04EC	~z~Comrades!
+PML_CUT1_10	F1AE37A0	~z~I'm over that shit!
+PML_CUT1_11	3F795335	~z~Good for you!
+PML_CUT1_12	54E27E07	~z~Yeah... yes, siree. I'm a new man. Not dependent on anything.
+PML_CUT1_13	22979972	~z~No more drink. No drugs... even gave up hookers. Everything.
+PML_CUT1_14	A8DEA5FE	~z~Good! Why are you telling me this?
+PML_CUT1_15	F60BC05B	~z~It's good to share.
+PML_CUT1_16	0C36ECB1	~z~Cool.
+PML_CUT1_17	E1619707	~z~I'm positive person now. Positive.
+PML_CUT1_18	5F05124C	~z~I'm through with problems. Now they are just opportunities.
+PML_CUT1_19	75473ED0	~z~Well, good luck with your opportunities. I've got to go.
+PML_CUT1_2	E9FC62CB	~z~Excuse me?
+PML_CUT1_20	68A02682	~z~Oh, no! Wait, wait, wait!
+PML_CUT1_21	61FE193E	~z~I know... this is a lot to ask, but I was wondering...
+PML_CUT1_22	79B9C8BD	~z~I owe a guy some money, from my drinking days...
+PML_CUT1_23	2C402DCF	~z~and... he's kind of angry.
+PML_CUT1_24	6E6DB225	~z~I don't suppose you could come along and keep him cool?
+PML_CUT1_25	60B016AA	~z~I'm going to pay him back.
+PML_CUT1_26	38CD46E9	~z~Please?
+PML_CUT1_27	F314BB79	~z~Okay.
+PML_CUT1_3	E7395D45	~z~Didn't I see you at Comrades, pal?
+PML_CUT1_4	F673FBBE	~z~Where?
+PML_CUT1_5	E3ADD632	~z~That bar... Mickey's place.
+PML_CUT1_6	BF058CE2	~z~ I'm sure you was one of those commie bastards used to come in there. I remember you.
+PML_CUT1_7	B04FEF77	~z~Yes... you were the drunk guy who fell over.
+PML_CUT1_8	9B56C585	~z~Ha ha! That's about right. I was a mess, a mess!
+PML_CUT1_9	892C2130	~z~But I'm all sorted out now.

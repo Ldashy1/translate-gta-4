@@ -1,0 +1,28 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	84CF3488	~B~Petrovic~S~ is vulnerable. Get some transport to the extraction point.
+	894ACCBF	Wait until everyone is in a vehicle and then get out of here.
+	7C5314FE	Clear the area. Petrovic won't come out until it’s safe.
+	6F53BAD8	Wait here for the rest of your crew.
+	74B9239C	Protect ~B~Petrovic~S~ and find him some transport.
+	A5EB280E	~S~One of your crew has collected Petrovic. Make your way to the ~Y~safe zone.~S~
+	E5C685B9	Petrovic is vulnerable. Get some transport to the ~Y~extraction point.~S~
+	FCFA562B	~S~Take Petrovic back to the ~Y~safe zone.~S~
+	C5933F50	~R~The chopper's been destroyed.~S~
+	A9586F08	You must secure the area. Petrovic won't leave the jet while there are cops nearby.
+	C162A1B1	~R~Petrovic is dead.~S~
+	23BA63C6	Find a vehicle and bring it back to Petrovic's jet.
+	2EB59796	~B~Petrovic~S~ is making a break for the transport. Once he's in, get outta there.
+	1700E82D	Petrovic is in the ~B~chopper.~s~ Get in.
+	093D4CA6	You have collected Petrovic. Take him to the ~Y~safe zone.~S~
+	1504C65B	Keep the N.O.O.S.E. team away from the jet.
+	3C70330B	One of your crew has got some transport and it's on its way. Keep ~b~Petrovic~s~ alive until it gets here.
+	5D14965A	You must find another vehicle to get Petrovic to the ~Y~safe zone.~S~
+	5DF4F614	You have got transport, take it back to ~y~Petrovic's jet.~S~
+	428C614A	Someone has to collect ~B~Petrovic~S~ and take him to the safe zone.
+	3EE6B41E	The transport is full. Petrovic won't leave the jet unless there is a free seat.
+	406193C7	~S~Destroy the ~R~pursuing helicopters.~S~

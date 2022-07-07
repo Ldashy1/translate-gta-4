@@ -1,0 +1,42 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	96FD4793	~z~Welcome to Cluckin' Bell, can I get you a bucket o' chicken?
+	9683E03B	FFD2_CLUCK_BYE
+	ABDCD629	100
+	A69CF89A	~z~Thanks for comin' into Burger Shot.
+	872B5571	~z~I mean, I wouldn't eat it, but, here you go.
+	7AC6CA8B	FFD2_THANKS
+	73A7708C	~z~Ma dude, you OD'd on that bullshit!
+	844EA236	~z~Cluckin' Bell, whaddup?
+	81FCBE90	~z~Thanks for Cluckin', we'll see you again soon.
+	F63F1E2E	FFD2_BURGER_HI
+	EA751C07	~z~Here's the nasty garbage you ordered!
+	F8B6B88A	~z~Bon appetit, ma' fuckers!
+	F7E4CE73	FFD2_CLUCK_HI
+	E37568B7	100
+	BAD0AEF3	100
+	AE19B636	100
+	DB1EE1A1	~z~Burger Shot, holla back!
+	C4583BDE	100
+	36714E66	FFD2_FOOD_WHAT_WANT
+	2F58C094	~z~You look hungry man, what can I get you?
+	4168D3B8	100
+	41395C84	~z~Burger Shot, buck, buck, what's up?
+	2C66C850	100
+	06FDD518	~z~You musta gotta iron stomach, dog.
+	00D03C49	~z~Hey, thanks for comin' into Cluckin' Bell!
+	2BAA3166	~z~Welcome to Burger Shot ma'fucker!
+	22982713	~z~Hey man, what can I get you?
+	5F041FEA	~z~Yo! What you need, dog?
+	58D12648	FFD2_BURGER_BYE
+	6CEBBBB9	~z~You need help or you, you good?
+	5FA7B68C	FFD2_FOOD_PLAYER_SICK
+	57139B9A	100
+	4B62FA91	FFD2_FOOD_SERVE_MEAL
+	42D617D7	~z~Thanks, dog.
+	53202F7E	~z~That's why I don't eat this shit!
+	509EB368	~z~Thanks.

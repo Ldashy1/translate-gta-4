@@ -1,0 +1,112 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9C4D137B	RB3_GC
+	9F11107A	~z~You're making things real hard on yourself.
+	9974D80F	RB3_BC
+	94F1E84C	~z~You want to get your hands on it, come meet me at the bridge in Middle Park.
+	968B48CC	~z~I dunno what you talkin' bout, Nicky. I gave every one of those diamonds to Ray.
+	A2A5865E	~z~Fuck you, Nicky, fuck you.
+	A9BEA7B2	RB3_GE
+	ABCE7352	~z~Now we all know that that's not true.
+	A5D8F1B7	RB3_BD
+	A2F01C65	090
+	A5549D23	~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+	913349CC	RB3_BE
+	84565001	~z~Thanks for the advice.
+	FE99C48A	~z~I guess you never know who's gonna stab you in the back, eh?
+	820D1FD0	~z~Fuck you, you cabbage-eating prick. Who says it weren't you that made off with 'em?
+	7D5B927F	~z~Ray, Luca's crew gave me the shake.
+	7F581A62	~z~The game's up, boys. We're outta here.
+	8875FB02	RB3_EA
+	8F62E32B	~z~We'll split the ice. You'll be a rich man, Nicky.
+	90EBE2EB	~z~Shove this up your ass.
+	8F3BBA2D	~z~That's what I'm telling Ray.
+	8EC3DE9B	~z~I'm gonna clip you then I'm gonna go clip Ray Bo - fucking - ccino.
+	8ED4B6EC	RB3_GGC
+	B15B7A33	010100100010010
+	EB4D7220	RB3_GB
+	EC73203D	~z~Thanks, Nicky.
+	EA5DA712	~z~Luca, come out and we'll talk about this.
+	E83061D0	010100100
+	E9C6A606	~z~Hey Ray, the diamonds - I'm not going to be able to get my hands on them.
+	ED42F24C	~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+	FC36B96C	RB3_FB
+	FE2BCCEF	RB3_GB
+	F64130EA	~z~You can have Tuna and Johnny's cut. Come on.
+	EE128431	100
+	F3E47FFD	~z~Let's have a little talk, Nicky. Come see me when you can.
+	E7F79457	~z~Ray ain't gonna give you shit for helping him out, Nicky.
+	CFE93807	~z~Ray, Luca's crew gave me the shake.
+	D38E7996	~z~You're going to have to do without.
+	CD72F833	RB3_AB
+	BE653EEB	RB3_CA
+	C5EEB422	RB3_BF
+	D5D37DFE	~z~I'm going to find you, Luca.
+	DEEFCC14	RB3_HA
+	E225DC80	~z~Shit. I'm starting to think you guys are in bed together. You better prove me wrong.
+	DD97DA4D	RB3_GGD
+	D7D49279	RB3_BA
+	D8B5C932	~z~Let's have a little talk, Nicky. Come see me when you can.
+	1E3D5048	~z~I took out Luca's crew and I got your diamonds.
+	45ADE0CB	RB3_AC
+	43F2550F	RB3_AB
+	439F952A	100011101011201201190
+	2148950D	~z~Let's have a little talk, Nicky. Come see me when you can.
+	18E884CC	RB3_GD
+	53FD9137	RB3_IA
+	5774C2B6	~z~I was planning for an easy life. It don't matter too much, bring me the score at Drusilla's.
+	52BD7314	RB3_FC
+	46A228FB	~z~Luca, I need that ice back.
+	4C68DD38	~z~You and me can go to Venturas, no one's ever gonna find us.
+	31F925D0	RB3_FA
+	330B31E1	RB3_AC
+	319EF70B	~z~What do you mean, you took 'em out?
+	23280765	~z~None of you Russians got no respect for nothing.
+	2E446970	RB3_AB
+	3350A50B	~z~What do you mean, you took 'em out?
+	3ADEC404	RB3_HA
+	22A5DFAC	RB3_GA
+	39588AF5	RB3_GC
+	34BA2A89	~z~Ray ain't never gonna trust a fucking rat. Remember that.
+	38478C46	~z~Las Venturas, baby. We'll be our own bosses.
+	57B4707D	~z~You're a piece of shit, Nicky. You ratted us out.
+	71DAC9B1	400400040
+	03059193	RB3_AC
+	6F391CDB	~z~Whatever, they're dead and I've got the stuff.
+	6C48600A	202
+	6DAD9FCA	010100100
+	85321E34	~z~You were planning to let them live?
+	7B53B510	~z~I just wanted you to get the ice back. I didn't say nothing to you about killing those boys.
+	791FD1CE	RB3_XA
+	7874DA88	010010100100
+	78E3D272	RB3_XB
+	5A9F79A5	~z~You gotta make a play for yourself. Jesus.
+	03E89B9F	~z~I just wanted you to get the ice back. I didn't say nothing to you about killing those boys.
+	115278F0	RB3_BG
+	5D08F87B	~z~I took out Luca's crew and I got your diamonds.
+	5E670DD8	RB3_GA
+	0DE82166	010100100010100
+	6022657F	RB3_BB
+RB3_CUT1_1	ED980167	~z~Yeah, yeah, yeah. Sure, Phil, sure.
+RB3_CUT1_10	6A5AE6F2	~z~Yeah.
+RB3_CUT1_11	92ACB761	~z~I got two options. Option one, you ripped me off.
+RB3_CUT1_12	844B9A9F	~z~Option two, Luca and his buddies ripped us both off.
+RB3_CUT1_13	6D01EC08	~z~Hey, hey! I left them with the stuff to bring to you, as instructed.
+RB3_CUT1_14	6081D308	~z~Maybe you're in on it.
+RB3_CUT1_15	BB6988DA	~z~Maybe I am, but if you thought that, I wouldn't be standing here right now.
+RB3_CUT1_16	ED2B6C5D	~z~You ain't as dumb as you look.
+RB3_CUT1_17	97C4C191	~z~Luca hangs out in Castle Gardens.
+RB3_CUT1_18	C97DA502	~z~Go see him, go get my stuff back so everyone can get paid. Now.
+RB3_CUT1_19	00A5934D	~z~Right.
+RB3_CUT1_2	5FCF65D4	~z~Hey, Phil, listen.
+RB3_CUT1_3	50E94808	~z~You know me, and I know you.
+RB3_CUT1_4	432CAC8F	~z~Ah, I didn't mean nothin' by it.
+RB3_CUT1_5	95905129	~z~Hey, take it easy. Oh, Phil, take it easy.
+RB3_CUT1_6	874CB4A2	~z~Hey listen tell Jimmy I said hello.
+RB3_CUT1_7	7982990E	~z~Okay. I'm sorry. Goodbye.
+RB3_CUT1_8	EBBCFD89	~z~We got a problem.
+RB3_CUT1_9	C00DA62B	~z~Who? You and me?

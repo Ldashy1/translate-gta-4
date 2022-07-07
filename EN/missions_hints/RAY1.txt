@@ -1,0 +1,21 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BAEBD154	~s~Go inside and look for ~y~Teddy Benavidez's apartment.
+	A6F1657D	~r~Teddy got away.
+	9745C626	~r~Teddy's goon escaped.
+	CDBE76F9	~s~Go to the ~y~projects on Galveston.
+	E9843F20	~s~Teddy's goons are everywhere, use cover and move through the building with caution.
+	DE78EA52	~s~Intimidate ~r~Alonzo.
+	DB2D3069	~s~Press ~INPUT_PICKUP~ to call the elevator.
+	84A8E4CF	~s~Take out ~r~Teddy Benavidez.
+	40EF998B	~r~Dead people can't talk.
+	3C0B5395	~s~Get into the ~y~elevator.
+	243323E5	~s~He's heading for the roof.
+	4DC3F706	~s~The ~g~elevator~s~ can be used to reach the 20th floor.
+	75D24722	~s~Use Ray's text message to help you find Alonzo.
+	713A3DF2	~s~Go to ~y~Teddy Benavidez's apartment.
+	5E70985F	~s~Search the apartment, he must be here somewhere.

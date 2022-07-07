@@ -1,0 +1,16 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CE02B2C6	~R~Little Jacob is dead.
+	C82FA060	Elizabeta's coke is somewhere in the Old Hospital.
+	DDC2CB86	Go to the ~y~old hospital~s~ and get Elizabeta's coke back.
+	EDF9ED5C	~s~Find the drugs in the hospital and take out ~r~anyone~s~ in your way.
+	E1E35A87	Go and meet ~b~Little Jacob.
+	541F39AD	~s~You found Elizabeta's stuff, the ~g~coke~s~ is on the table.
+	45D89D20	Go to the ~y~table~s~ abd pick up the coke.
+	68C6E2FC	N.O.O.S.E. are raiding the hospital; get out of there, and lose your wanted level.~s~
+	B95E02BD	Take out the people protecting the deal.
+	88872048	Lose your wanted level before the meeting.

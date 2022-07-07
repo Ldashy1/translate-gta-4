@@ -1,0 +1,23 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A4103228	Enter ~b~Jeff's car.
+	C5977536	Lose your wanted level.
+	95460738	When a car is traveling at high speed, press ~PAD_Y~ to jump from the vehicle.
+	96259653	You have been spotted. Lose your wanted level.
+	F2ABCF5E	~r~Too much attention was drawn to the vehicle.~s~
+	F9C2A960	~r~Jeff was abandoned.~s~
+	DC42A288	~r~The car was trashed. The body will be found.~s~
+	EC100DFB	Wait here until Jeff arrives.
+	494E7CDA	The body has been disposed of successfully.
+	1E1F7219	Dump the car in water.
+	22CFFBCA	~b~Jeff: ~s~ has been killed
+	1085D6E6	Get back in ~B~Jeff's car.
+	18C99BD1	Get back to ~b~Jeff's car~s~ and finish the job.
+	4245BA69	Take the car up to ~y~Walnut Way~s~ where it is quiet and dump it in the water.
+	478544E8	You are too far away from ~b~Jeff.~s~ Make sure he is close so you can interact with him.
+	2687B74D	Enter the ~y~car park~s~ and wait for Jeff to arrive.
+	34C51F68	Go and speak with ~b~Jeff.

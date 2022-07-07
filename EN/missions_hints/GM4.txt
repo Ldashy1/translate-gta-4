@@ -1,0 +1,22 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C940850B	~s~You need to lose the ~r~cars~s~ first.
+	D21EB6B0	~s~Lose your wanted level.
+	BD4C0883	~s~Don't damage the car or you will kill Gracie.
+	C6BAFCA0	~s~Get in the ~b~car.
+	E185B475	~s~Now take the girl to the ~y~safehouse.
+	E5F43B0E	~s~The Ancelottis are on to you, get to the ~y~safehouse~s~ quickly.
+	D2A34DBB	~s~Go to the ~y~safehouse.
+	D4D798D5	~s~Go to the ~y~safehouse.
+	528CCD90	~s~Go to the ~y~safehouse.
+	5DDE3F55	~r~Packie was injured.~s~
+	323C3839	~r~The car was trashed.~s~
+	390A6139	~s~Get a car.
+	A8F8C11C	~s~Get in any car.
+	AD07EF36	~r~Gracie has been rescued.
+	608A327C	~s~Get in the ~b~car~s~ Packie left you.
+	744AA65B	~r~Gracie is dead.~s~

@@ -1,0 +1,337 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A7C4371C	~z~I think it's my conscience. I don't know.
+	A8ADA19C	~z~Sure Roman, I'll see you at the church. I'm looking forward to it.
+	A7869696	010100010100010010010100100010
+	A529ED34	~z~You shouldn't have borrowed money from them in the first place, Roman.
+	A72667E5	~z~I don't know nothing about this. Give her back as soon as you can. I've got to go, Niko.
+	AA6569F9	MF3_C_MG
+	AB08346D	~z~I need to work with these guys. Hopefully they'll be able to find Darko Brevic for me.
+	A9A7C6DF	~z~Remember to make it clear that you are a red blooded animal though and you won't be tied down
+	A8ADAE4B	MF3_C_DG
+	A93324EC	~z~I mean like this Dominican looking guy shot up a deal I was trying to make.
+	9F767279	~z~It's been a fucking hassle and all for nothing.
+	A027FED8	010100010100010010100100
+	9F5F6DE3	~z~Have you seen this bank heist on the news, NB? That's some crazy shit. I bet you wish you'd pulled off a job like that...
+	9E95F2EA	MF3_C_XA
+	9E9B24EF	~z~I hear you were seen out on the town with a sexy young girl. Who is she?
+	A31B1A14	MF3_C_SA
+	A4ECFA14	100
+	A201600D	MF3_C_JC
+	A0D602CE	MF3_CC_PB
+	A1E6F5C4	~z~Make sure you get lots of beauty sleep. You need to be at the church at 10am though.
+	AB2A70D5	MF3_C_LF
+	B5BE49D9	~z~Stay disorganized would be my advice, Niko. Don't let them get you for racketeering.
+	B5DDBB79	MF3_C_DJ
+	B57BA559	MF3_C_CF
+	B54E448A	MF3_C_OC
+	B5745EC4	~z~Were you an asshole to the people who took you or did you behave yourself?
+	B859C27E	MF3_C_NE
+	B9A52286	~z~There are four brothers: two are gangsters, one's a cop
+	B76BBE85	~z~You're an animal, Roman. Nothing can stop you being horny. I'll see you soon.
+	B602D399	~z~Why, what's wrong?
+	B6EF916B	MF3_C_QA
+	AC3991E5	010
+	AC579A84	MF3_C_YB
+	AC35C024	~z~Her name is Carmen. I met her on Lovemeet.
+	AB7E8639	~z~and the other is a heroin addict ex-freedom fighter. Then there's a sister...
+	AB8A20F3	~z~You're an animal, Roman. Nothing can stop you being horny.
+	B23109E7	MF3_C_UA
+	B2AC42F0	MF3_C_DB
+	AF890971	MF3_C_HC
+	AD0D9739	~z~If she was not a friend of Mallorie's it would be me with the smell of tittie on my breath and you who ended up in hospital.
+	AE3DD375	~z~There is the man who chose cooch before his cousin. I hope she was worth it.
+	8A8FB24A	MF3_C_JB
+	8BB9CB12	MF3_C_CH
+	8A80AE9A	~z~I'm working with that Irish family. She's some mobster's daughter - Gracie Ancelotti.
+	87DAB296	~z~Anyway, I was seeing Michelle. I thought you wanted me to date her?
+	88F77803	100010010100100100100010
+	901287DE	~z~No connections to your friends no chance of your girlfriend finding out.
+	90647F26	~z~He should be paranoid. The Feds are after organized crime in a big way.
+	8ECCCCD2	~z~This fucked up Irish family, well some of them.
+	8C3FC1E7	MF3_C_KE
+	8E27D56A	MF3_C_CG
+	81DEEB4A	~z~He was a cockroach - a pest. But I don't know how long I can keep on dealing in death.
+	81F7A0D6	~z~He's fine.
+	81B5F45D	MF3_C_RA
+	80FE14E1	MF3_C_LE
+	818D91B1	MF3_C_UE
+	85A460B7	MF3_C_OF
+	86EC01B4	~z~I did everything they said except for give you up, cousin. I was scared shitless.
+	847E9E2A	MF3_C_FE
+	81FED082	100010100010010100100010010
+	82E13B89	MF3_C_CC
+	90DBDED6	~z~Secondly, I don't think that your loan shark friends could hospitalize me. I can look after myself.
+	9AEFC772	MF3_C_JA
+	9BB42743	MF3_C_FL
+	9A0EA7F9	~z~That's what I thought. I've had to kidnap this girl and she's a fucking nightmare.
+	994AF38B	MF3_C_YA
+	999611DB	100010100100010010100010100010100100
+	9DDE859C	~z~Look you'll have to have some fun with the nurses because I can't pick you up. See you soon.
+	9E2C6B91	~z~You're shitting me, NB. No fucking way! Who'd you do it with?
+	9D7B5FF2	~z~I heard there was a war or something on between the Lost and the Angels of Death.
+	9CF1E46B	MF3_C_KF
+	9D660299	100100010100100
+	94F2C37E	~z~Niko, shit. You're fucking with the mob. The Ancelottis are one of the five old families.
+	95C54E6B	~z~Thank you for taking the time out of your busy schedule to protect me from those crazy loan sharks you attacked, Niko.
+	94A00050	MF3_C_DH
+	90E7B891	MF3_C_GD
+	91D0D85B	MF3_C_IA
+	9883C65D	MF3_C_GF
+	992390A4	~z~Paranoid about wire taps and helicopters but he seems legitimate.
+	9822516F	010100010100010010100
+	96666AAC	MF3_C_ZB
+	96699467	~z~Your conscience? Have you killed too many people, Niko?
+	BB670331	MF3_C_FH
+	E81B839C	MF3_C_XC
+	E835FC0F	MF3_C_EK
+	E7FD6823	MF3_C_GC
+	E44ADAE4	MF3_C_HB
+	E511F95F	~z~A sister? That sounds more my speed than these crazy brothers.
+	EECA1AA5	~z~All the more reason why I should have hooked up with Michelle. Everyone would be a winner.
+	EFFC9B76	MF3_CC_PC
+	ED03FEEE	MF3_C_KA
+	E84519BF	~z~Don't worry, Niko. Call me soon.
+	EBE64B57	~z~to a monogamous relationship.
+	E12F14E3	~z~Then, I've kidnapped this girl and we're handing her over for these same diamonds
+	E14077C7	MF3_C_WE
+	E099373A	~z~I'll try to. Later on.
+	DE8DB781	100100010
+	DEA0C25E	~z~I'll see you soon.
+	E2C6EA88	~z~My heart goes out to you, cousin. I'll talk to you soon.
+	E3914AC4	010010
+	E1E01725	MF3_C_OH
+	E1D775B8	~z~Niko, I'm getting married tomorrow. Can you believe it?
+	E1D81F6E	MF3_C_ZD
+	F02B32DB	~z~It's not as much of a coincidence as the mother and daughter.
+	F9414BD1	MF3_C_DF
+	F98417D2	MF3_C_EA
+	F92F5A1E	~z~The best place to find a woman, NB.
+	F7DFF324	MF3_C_UC
+	F8578E03	~z~Good, NB. I'll talk to you later on.
+	FBBCD7BC	MF3_C_CB
+	FD8B3DDC	MF3_C_WA
+	FB7F4983	~z~and this Dominican looking guy is there again.
+	FB0F5585	MF3_C_CA
+	FB2E0889	100100010
+	F2630270	MF3_C_EC
+	F44D4478	MF3_C_NC
+	F166990D	MF3_C_GE
+	F05F79BF	MF3_C_GB
+	F0F93EF0	MF3_C_ND
+	F5649ACE	MF3_C_XB
+	F6259FDA	~z~Who's paying the bills at the moment?
+	F530F22E	MF3_C_CE
+	F45F42B3	010100010100010010100010100
+	F5218724	~z~Niko, today is going to be the happiest day of my life.
+	C9460488	010100010100010100100100010
+	CA41B1D0	~z~This drug dealer, Playboy X.
+	C814F214	MF3_C_KG
+	C61A8838	MF3_C_FB
+	C7CDD1D1	MF3_CC_PA
+	CC446202	MF3_C_OB
+	CE860166	MF3_C_KI
+	CC3368A7	~z~Niko, I'm getting married tomorrow. Can you believe it?
+	CA662BE0	MF3_D_AD
+	CB57C532	MF3_C_HG
+	BD222472	MF3_C_ME
+	BD2EEDED	~z~That is a useful profession considering your job, NB. Good work.
+	BC08155D	~z~He tried to get me to get rid of a friend of his for him but, uh, I liked the friend better.
+	BBB4E624	MF3_C_FK
+	BBDFB0BE	100100010100100
+	C4DA99B0	MF3_C_FI
+	C5D15E28	~z~So, he steals the diamonds at the deal and then has to give them back for the girl. What's the big deal?
+	BE92BA43	~z~Firstly Roman, my breath does not smell of titty.
+	BDF4CC2A	~z~Go home and get some sleep then meet me at the church for 10am.
+	BE5BAEC1	~z~Sure Roman, I'll see you at the church. I'm looking forward to it.
+	CF1191AE	~z~That won't be a problem, Roman. We're not serious. I'll talk to you soon.
+	D6DDCDCD	MF3_C_JH
+	D82DCD2B	MF3_C_VA
+	D63B0714	MF3_C_ZC
+	D5A45A84	~z~I can tell from your voice that you like her, Cousin. Are you two doing it?
+	D61A4981	~z~Now that you mention it...
+	DBD0D3D9	100010100010100010010100
+	DCD3F128	MF3_C_GG
+	DB51DB48	MF3_C_UB
+	D896B7C5	~z~I hope you will be able to relax when you do finally find him, Niko. Speak soon.
+	D9BF709C	~z~How was she cousin? Tell me how she was. I wondered about Michelle when I first met her.
+	D1D925B7	MF3_C_UD
+	D21C8564	MF3_C_DC
+	D1B61974	~z~some of them want to fuck you. It's mad cousin. Enjoy the ride.
+	D022464B	MF3_C_KB
+	D1B3CBD2	MF3_C_KD
+	D49E4E37	~z~This Dominican looking guy shot the place up.
+	D4EF1DB1	~z~Cousin, how's it going?
+	D495FBB1	~z~Hey Roman. You ever wonder if things are just coincidence or if everything is all planned?
+	D3103539	MF3_C_IF
+	D3A91AE1	~z~Not much, cousin. I've gone on a date with this girl I met on Lovemeet.
+	809F3063	~z~Who says I didn't.
+	2DA066C8	~z~Will you drive me back to the office, cousin? Argh.
+	2DFAD60A	MF3_C_EB
+	2BA85EDB	~z~Niko, my cousin. Give me some tales of the Liberty City underworld. I'm curious.
+	2B57D0C0	MF3_C_HH
+	2B968CD4	MF3_C_IB
+	2FF904B7	~z~There is no cut of the diamonds, the ice got jacked when we tried to sell them.
+	305A9565	MF3_C_CD
+	2E360FFA	~z~Shit, Niko, you're involved with one of the five families?
+	2E196FF5	MF3_C_LD
+	2E3206A6	MF3_C_EL
+	252167DE	~z~Hello, Niko. How's it going, killed anyone recently?
+	25279CDB	~z~This man is nearly dead, cousin. He knows the government agent that Michelle forced me to work for.
+	205E9351	~z~Jon Gravelli? The head of the Gambetti crime family. Shit, Niko. This man is very dangerous.
+	1F3D037A	010100010010010100100010
+	201A5323	MF3_C_FC
+	29EB49D9	~z~It wasn't like that. You don't get it.
+	2B4813E4	MF3_CC_PF
+	2986731E	MF3_C_EE
+	263466AE	MF3_C_ED
+	29314638	~z~I thought this time would come, Niko, but, to be honest,
+	31019319	MF3_C_EJ
+	3A490AE2	MF3_C_JD
+	3BBBAB05	~z~At the moment, it's the Mafia.
+	3A2E9FA5	MF3_C_MD
+	3995B718	MF3_C_WB
+	3A28DBE3	~z~Roman, good to speak to you. I needed to talk to a friend
+	41B055EC	~z~Don't get ahead of yourself, Niko. Be careful around these men. Talk to you soon.
+	41E988F2	~z~Hey Roman, I got your text.
+	3F2605D6	~z~I just hope he's got enough power to be able to find Darko Brevic for me.
+	3C096617	010100010100
+	3C8F6CF4	~z~I don't know how I'm so successful with the ladies. They just love me.
+	3553BD3B	~z~Roman, how are you?
+	3626FCC1	MF3_C_IE
+	350B86CC	MF3_C_EF
+	32CD3826	~z~They say they will give me Darko. You don't know how long I have waited for this, Roman. It is nearly over.
+	33610FCA	MF3_C_MB
+	38671433	~z~Who is the lucky lady?
+	39338659	MF3_C_FD
+	378ACD74	~z~Always, Roman. As much as I can at least when I'm doing the bidding of these Alderney gangsters.
+	36F290C7	~z~They were nice titties, yes?
+	375964B5	~z~Come on, NB. I do get it. Liberty is a crazy place.
+	09B39D2B	MF3_C_IG
+	0BC03F6A	MF3_C_HE
+	086940A3	MF3_C_OG
+	081A97C0	~z~That's a low blow, NB. Seriously, what're you up to at the moment?
+	08482DE4	~z~Shit NB, I was joking. Who was it this time?
+	0DC88F67	~z~That wasn't what I wanted to ask you, I wanted to know what it was like to be kidnapped.
+	0FAEC092	MF3_C_JG
+	0D82FE54	MF3_C_DA
+	0CB0D278	MF3_C_LA
+	0CF3AD0D	MF3_C_DE
+	035C2399	~z~I'm getting married to the beautiful Mallorie. How is the best man?
+	03793A81	~z~Niko, there you are. Tell me what's happening in the exciting world of the gun for a hire?
+	012F69F1	~z~Perhaps. That man who I worked for, Ray Boccino. I was asked to kill him and I did.
+	009BBE48	~z~Yes, well, I will not let these men treat you like that again. I'm sorry for letting you down, Roman.
+	00E5306F	MF3_C_MA
+	0563FE56	~z~She's called Kiki, she's a lawyer.
+	05A83EAC	MF3_C_ID
+	04EBB519	MF3_C_HD
+	0396D9BE	~z~Fantastic cousin. Mallorie is going to make me the happiest groom on earth. How are you?
+	042F155D	MF3_D_AC
+	108E9720	~z~I don't know, I just met someone in the street. It was weird.
+	1B06BD24	MF3_D_AB
+	1BC5BD9A	MF3_D_AA
+	1AA6CFA1	MF3_C_GA
+	1935F3DD	100
+	1A604256	MF3_C_FG
+	1E70F06C	~z~Not quite. I'm working for a family out of Alderney called the Pegorinos.
+	1EC5338D	~z~I hope you took her back to the apartment and had your way with her, Niko. Did she have nice titties?
+	1E55DAE2	010100100010
+	1DE9EE4F	MF3_C_IC
+	1E092FA0	~z~You are a Bellic, remember, and you can't help playing the field. You don't want her getting jealous.
+	1274CDEB	MF3_C_HF
+	12E3C363	~z~Hey Roman.
+	116F755B	~z~Thanks, for putting things in perspective, Roman. Later on.
+	10CBDBE6	MF3_C_LB
+	10D2552F	~z~This guy called Ray Boccino has had me working with this guy from the Lost biker gang called Johnny,
+	18944F0D	MF3_C_JF
+	18B6B1EF	R4_UA
+	14D446FC	~z~Niko, shit, I hope this guy is paying you good for saving his ass.
+	13077A8B	MF3_C_OD
+	1479307D	~z~Maybe, if you give me tales of a womanizing, gambling addict.
+	4420DED5	MF3_C_OE
+	6B7D4AD3	~z~Shame on you, Niko Bellic. You should know better than this. Who is she? Who'd you take her for?
+	6BA43EEE	~z~Cousin.
+	6B3FF961	~z~And at least tell me that you got her titties out? Maybe then your betrayal would be worthwhile.
+	69AC7B40	MF3_C_MC
+	6B02997B	~z~Don't worry, Roman. I'm on my way.
+	6ED3FD09	MF3_C_LG
+	6F6A9799	MF3_C_ZE
+	6EAE7702	MF3_C_LC
+	6D997E97	~z~Some trust-funder called Alex. I don't really like her but it's something to do, isn't it?
+	6E2BF93F	~z~I want you looking good for the wedding.
+	64C127E0	~z~What're they like, NB? The gangsters?
+	67096342	MF3_C_JE
+	64A3B101	~z~Enjoy her, Cousin. Later on.
+	62A1CCCD	~z~Yeah, the head of the family. Is he a big time gangster like in the movies then?
+	6441F7A9	~z~Roman, how's it going?
+	67ED8516	MF3_C_MF
+	69716C90	MF3_C_FA
+	674179D7	MF3_C_EG
+	671885E6	100100010100010010010010100100100010010100
+	671E8AFD	MF3_C_ZA
+	7014E548	~z~Great, Niko. I've got my hands full at the moment with these charming money lenders I know.
+	7C7F172B	MF3_C_VB
+	7D1A547D	MF3_C_DI
+	7C77203A	MF3_C_KC
+	7B8ED2A6	MF3_C_DD
+	7BAA088C	MF3_C_HA
+	802EF663	~z~What happened to you, Niko?
+	80431F93	MF3_C_VC
+	7F664242	~z~I want you looking good for the happiest day of my life.
+	7D303DD6	~z~Thank you, cousin. Remember to wear some nice clothes.
+	7EA24FBF	~z~You mean like when you sleep with two girls on one night and they turn out to be mother and daughter?
+	72E4DBCF	~z~Roman, you are right about Liberty City. It is a crazy place.
+	7327B723	MF3_C_NA
+	70E36950	~z~I've been working for Jimmy Pegorino, the head of that Alderney guido family.
+	702A53E1	~z~Niko, man. What's up?
+	708897AB	MF3_C_GH
+	78988410	MF3_C_MH
+	7AE1DD69	~z~NB, you are certainly my cousin.
+	760CCA5B	~z~I can't think who else would. Speak to you soon, cousin.
+	733919FF	~z~running around after these diamonds he stole.
+	741D4FC7	~z~It must be difficult, Niko. Maybe there is another path to take.
+	4A32FD6E	MF3_C_FJ
+	4A41B7E8	~z~Roman, you'd never believe it but I met this girl on Craplist.
+	49680C9C	100100010010100010
+	48B46FC7	~z~Hello there. Behaving yourself are you, NB?
+	48B834B6	MF3_C_EN
+	511874C4	~z~Good, I feel like I am getting close. I have been working for Jon Gravelli.
+	5277DF65	100010010100100100
+	500BBD6A	~z~He just got out of prison and he hasn't got much but... I made the right decision.
+	4A8F42B8	MF3_C_EM
+	4F50A62B	~z~Wants to be. Keeps talking about being powerful, about getting on the Commission with the five big families.
+	448C5250	~z~Roman, I apologize again for not being there for you. You have done a lot for me since I got here.
+	44C69738	MF3_C_UF
+	447BCC2E	MF3_C_YC
+	4462C4ED	010100100
+	44757EF1	~z~There are all types of people here. Most of them ignore you, some of them want to employ you, some of them want to kill you,
+	475F7319	MF3_C_RB
+	480AD09E	MF3_C_WC
+	46C2D0FC	~z~Niko, where are you? I'm at the church now! I'm getting married.
+	4540B262	MF3_C_EH
+	46A01791	MF3_C_FF
+	52A0839F	~z~I'm working for this guy, Phil Bell, at the moment. He's better than Ray Boccino.
+	5E6341E5	~z~Maybe you should come to the cab office and help me out?
+	602281DD	MF3_C_WD
+	5E3023ED	~z~A less violent one. I'll speak to you soon, okay?
+	5C1F9B58	~z~I've got to go, Roman. I'll talk to you soon.
+	5C793A65	010100100010100100100
+	6266FF2D	MF3_CC_PD
+	62877BF2	MF3_C_CI
+	61EC689D	~z~You don't want to get caught up in that shit. Take your cut of the diamonds and get out of there.
+	6121A307	MF3_C_KH
+	61345F50	~z~You better be better than fine, cousin. Get to the church for 10am and remember to wear some nice clothes.
+	55DD2A95	MF3_C_GI
+	57E5239F	~z~Roman, can I ask you a question?
+	559BC6CC	MF3_C_EI
+	540565CA	MF3_CC_PE
+	5579F42B	~z~The choice between some titties and your safety would have been difficult for me as well.
+	5BE1DB28	~z~It's all sport, NB. Have some fun with her. Later on, cousin. I'm proud of you.
+	5BF98FB2	MF3_C_OA
+	5A0DD6FD	~z~Not when it means me getting beat up and sent to hospital. Come and pick me up, cousin.
+	58657441	~z~This cannot happen without my best man.
+	59B266F2	~z~The Lost? Those guys are meant to be really dangerous, cousin.

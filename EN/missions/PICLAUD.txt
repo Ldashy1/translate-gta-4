@@ -1,0 +1,20 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	BCBAFF68	~z~I don't let nobody disrespect me.
+	ABC6A99C	100
+	98123617	~z~It's your turn to beg.
+	D7B21FC8	~z~Yo, player.
+	F866E131	~z~Yo, yo, yo.
+	EA94458C	~z~Hey, boss man.
+	E66F52D0	~z~I wouldn't never have let me live. You a fool.
+	4F6C7C4B	100
+	1C0BA87A	~z~Boss, whatup?
+	0E420CE7	~z~Whassup player?
+	5AA732FA	PICL_AA
+	92712B41	~z~Shit, Mr. Boss man. Didn't expect this, did you?
+	8B041BFB	~z~Who the big man now, boss?
+	88C7DCF3	PICL_BA

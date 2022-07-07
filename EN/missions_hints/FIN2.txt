@@ -1,0 +1,44 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9160D377	Press ~INPUT_VEH_ATTACK2~ to fire the helicopter miniguns.
+	90C72FCF	~r~Little Jacob and Roman were abandoned.
+	95DF35C3	~r~Dimitri~s~ is inside the old casino. Find him.
+	957E3BCD	~s~Get in the ~b~boat.
+	7FD0949E	~s~Repeatedly tap ~PAD_A~ to climb into the chopper.
+	74A477BA	~r~Dimitri got away.
+	720DA9DD	~s~Roman and Jacob are waiting for you in a ~b~car~s~ in Alderney.
+	7EB58BAC	~r~Pegorino got away.
+	7DCCE76F	~s~Get underneath Little Jacob's ~b~chopper.
+	9A1D427B	~r~Pegorino's goons got away.
+	F15A1CC2	~r~The boat was destroyed.
+	E3EF8DAF	~r~Pegorino~s~ is inside the old casino. Find him.
+	FF27B85D	~r~You abandoned the helicopter.
+	F55D2191	~s~Chase ~r~Dimitri
+	E160E648	~r~Pegorino's goon got away.
+	BAA0BB02	~s~Chase ~r~Pegorino.
+	A7E08803	~s~Get low and stay close to ~r~Dimitri.
+	DD4FF2E1	~s~Get low and stay close to ~r~Pegorino.
+	C573992B	~r~Little Jacob is dead.
+	20263B62	~r~Little Jacob was abandoned.
+	161CF209	~s~Follow Pegorino's ~r~goons~s~ they'll lead you to Pegorino.
+	2A738EF4	~r~You destroyed the bike.
+	270AC9F8	~s~Get back in the ~b~helicopter.
+	13D26C7C	~s~Jacob is waiting for you in a ~b~car~s~ in Alderney.
+	04994340	~r~You abandoned the boat.
+	03350416	~s~Lose your wanted level.
+	0DFDCC56	~s~Repeatedly tap ~INPUT_JUMP~ to climb into the chopper.
+	08635696	~s~Get on the ~b~bike.
+	2BEB6625	~r~You killed Pegorino's men.
+	5807BE81	~r~You can't chase Pegorino's men if they don't have a vehicle.
+	4DDE55C9	~r~The helicopter was destroyed.
+	6249D305	~r~The car was destroyed.
+	5DB2F572	~r~You abandoned the bike.
+	4D9460F7	~s~Accelerate off the ~y~jetty~s~ to jump.
+	38C16D65	~s~Chase ~r~Pegorino's goons.
+	2F30DA48	~s~Get back in the ~b~car.
+	45681912	~r~Roman is dead.
+	4037B557	~s~Chase ~r~Pegorino. ~s~Stick to the coastline, do not lose him.

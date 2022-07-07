@@ -1,0 +1,28 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8E1B0163	Get on the ~b~train.
+	8FA52A70	~s~Take Jimmy's car to the car wash.
+	8623147F	~s~Drive the car into the ~y~garage.
+	81C48EAF	~s~Go to the ~y~subway station.
+	8252A4D9	To perform a stun punch lock onto an enemy and approach them unarmed. When close enough the target reticule will change then press ~INPUT_MELEE_ATTACK1~ to perform the move.
+	926C450C	You can surprise some enemies with a ~h~stun punch. ~s~This will knock them to the floor instantly. Stun punches can not be performed while in combat.
+	D1B1F937	~r~The car has been trashed.~s~
+	DF6049E5	~s~Get back in the ~b~car.
+	D029A88F	~s~Walk out of the garage.
+	A403D32D	~s~Go up to the ~y~station platform.
+	CBD47CD5	Wait for the ~b~train~s~ to arrive.
+	2E3B5754	Press ~INPUT_FRONTEND_ACCEPT~ to skip directly to your destination.
+	325B6F13	~S~Lose your wanted level.
+	1822BB55	~s~Find and take the ~b~silver Blista Compact.
+	02D7008C	Trains can be used to travel large distances in a short time around the city.
+	14A2A423	While in the train press ~INPUT_NEXT_CAMERA~ to cycle through different camera modes.
+	40147B06	Press ~INPUT_ENTER~ to enter a train.
+	59575210	~r~The vehicle is stuck.~s~
+	62D150B1	~s~Take Jimmy's car to the ~y~lockup.
+	58263B6F	~s~Now take Jimmy's car to the ~y~lockup.
+	49EA0EB1	An icon with an upward pointing arrow indicates that the objective is above your current position, and an icon with a downward pointing arrow indicates that an objective is below you.
+	4A5F9FE2	~s~You are on the wrong platform, go to the ~y~platform below.

@@ -1,0 +1,34 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8DE753D3	~s~Go to the diner and meet French Tom.
+	8F940F52	~s~Use ~INPUT_MOUSE_WHEEL_UP~ and ~INPUT_MOUSE_WHEEL_DOWN~ to scroll.
+	91C2E346	~s~Get back on the computer and check Lovemeet for FRENCH TOM.
+	7E8ABCD6	~s~To arrange a meeting, scroll to the bottom of the page and click on the DATE button.
+	6CD4D368	~r~French Tom got away.
+	72D2A492	~s~Go back to the diner and meet French Tom.
+	7746AE5A	~s~French Tom is registered in the male section. Click on the MALE button.
+	D4E561CE	~s~Take down ~r~French Tom.
+	EEE71485	~s~When ready, stand up and take out a weapon. Press ~INPUT_PICKUP~ to get up.
+	F31E9E44	~s~Use a computer to get on love-meet.net and find FRENCH TOM.
+	CC64BABD	~s~Lose your wanted level.
+	A64732B7	~s~Use ~PAD_RSTICK_UP~ and ~PAD_RSTICK_DOWN~ to scroll.
+	A97B8AFF	~s~You have a new email. Check your inbox.
+	B3179E33	~s~French Tom is inside the diner. Look for him.
+	31F0A3AF	~s~You have sent a date request to French Tom. Log off.
+	3DFBBAE5	~s~Allow some time for French Tom to check Lovemeet and email you his reply.
+	41DF438C	~s~Click on the LOVEMEET link.
+	2BAE964B	~s~Reply positively to French Tom's email to confirm the date.
+	05F6C3F4	~s~Go to the internet cafe.
+	09CB8B22	~s~When ready, stand up and take out a weapon. Press ~PAD_LT~ to get up.
+	1E8F7CED	~r~You failed to lure French Tom out of hiding.
+	6230118B	~s~Lose your wanted level before meeting French Tom.
+	637540AD	~r~You abandoned the date.
+	658D0AE7	~s~Find French Tom and click the MORE button underneath his picture to view his profile.
+	53A1E711	~s~Click on the WEB icon.
+	47F989B6	~r~You missed your date with French Tom.
+	50435F74	~s~French Tom hasn't arrived. Wait in the diner.
+	5257639C	~s~You have refused a date with French Tom. Log off.

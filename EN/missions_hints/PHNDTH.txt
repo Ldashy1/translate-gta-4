@@ -1,0 +1,39 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B6EA0D7E	~R~The bomb was destroyed.~s~
+	AD0604C6	Go to the back of the Ancelottis' ~b~car~s~ to rig it with the bomb.
+	BADFA079	Lose your wanted level before rigging the car.
+	B9190EA0	Follow the ~r~Ancelottis~s~. Don't let them know you're following them.
+	A8201921	Lose your wanted level before the Ancelottis leave for the meeting.
+	A117E1DA	~R~You let the driver escape before killing him.~s~
+	ABD87F6F	Take out the remaining ~r~Ancelottis.
+	AA3DF0EA	Get a car before the Ancelottis leave for the meeting.
+	EA1173CC	~R~The Ancelottis got away.
+	E3736354	~r~You damaged the Ancelottis' car, the meeting is cancelled.
+	FFCF9F48	~R~You spooked the Ancelottis, the meeting has been abandoned.
+	FEF81A5D	~r~The Ancelottis discovered the bomb.
+	C600A86F	Get a vehicle and move ~y~away~s~ from the rigged car.
+	C475A895	~s~You better back off, don't spook the ~r~Ancelottis.
+	DA5CD463	Get closer to the ~r~Ancelottis.
+	D9C85E4A	Select 'Detonate' to explode the bomb.
+	9DAD57C9	Press ~INPUT_PICKUP~ to rig the car.
+	3A0E1BDC	Call Gerry to detonate the bomb.
+	2A17709B	Don't get too close or the Ancelottis will spot you.
+	54F8499C	Pick up the ~g~bomb~s~ on Inchon Ave.
+	4F57466E	You have found the car that needs to be rigged with the bomb.
+	1A5B5F6F	~s~Detonate the bomb.
+	0EA9B9C0	Get out of there and lose the wanted level.
+	23017C1E	You already have a bomb, get to the Ancelottis' ~b~car~s~ and rig it with the bomb.
+	1C5CD526	Clear away any vehicles parked behind the Ancelottis' car before planting the bomb.
+	8AD5BD52	Go to the Ancelottis' ~b~car~s~ and rig it with the bomb.
+	844AB054	~R~You failed to detonate the bomb.
+	9A99DCF2	Go to a ~y~safe point~s~ and detonate the bomb.
+	8D47BA3A	Lose your wanted level and then rig the car with bomb.
+	65A2EAF1	~R~The wrong car was rigged with the bomb.~s~
+	56251104	Use the phone to call Gerry.
+	7F6E1E87	Put the bomb in the trunk of the ~b~car.
+	76B51529	~r~You failed to follow the Ancelottis to the meeting.~s~

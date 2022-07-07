@@ -1,0 +1,284 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A0FE242A	R14_ZA
+	A1709418	~z~Where am I? What is this place?
+	A024C66D	~z~I have worked to find out who it was that betrayed us.
+	A0FD7A2A	R14_VP
+	A787D440	~z~to not get revenge for all those lives he took away.
+	A88A5B95	~z~Only those who die get closure, the living do not.
+	A27D5173	R14_RA
+	A4E3C402	R14_CK
+	9ACCD0FF	~z~Maybe... maybe, I don't know.
+	9AE8AEAD	R14_VW
+	9A73B71B	R14_WB
+	9A876486	R14_PA
+	9E5B4791	~z~I'm turning this shit off, I can't take listening to those annoying ads and DJs right now.
+	9F643670	~z~This is it. This is where it all ends.
+	9B844DF3	R14_VR
+	9CA56CAD	~z~Niko, you can't do this alone. I'm coming with you. Come collect me from Firefly Island.
+	B017DB8A	R14_CL
+	B116110A	~z~Thank you.
+	AE5662D0	~z~And when I knew, everything I've done has been to find that person.
+	AEDC7916	~z~No, it hasn't. Does that make you happy?
+	B58D8C44	100100010010010100010010010010010100010010010010100010010010010100010
+	B6E8EA09	R14_VN
+	B3EA1EB9	R14_UN
+	B57EBD57	R14_ZC
+	AA41A7FD	R14_ZB
+	AA9419A1	~z~This killing must stop sometime, Niko. Once this is done, then you must begin to forgive.
+	A8C9D1A2	R14_CQ
+	A8D922E9	~z~I'm lost...
+	ADC5660B	~z~So, you keep living and you try to have a happy life. You try to move on.
+	ADF88720	090
+	AC778894	~z~There's no need to take that tone, cousin.
+	ACB31DCB	~z~I deal in death because that is all that is open to me.
+	95154588	~z~Of course it doesn't make me happy but maybe this is good for you.
+	84990F56	~z~I know, Niko.
+	86FE3D9E	~z~It is not often that a man can be sure of that but you definitely did the right thing. Be proud of yourself.
+	814E4702	~z~I think I would have preferred to be buried in the pit along with everyone else.
+	821FC59F	R14_CS
+	8A71159E	R14_VJ
+	8A97F582	R14_ZF
+	8995D25A	010010100010
+	8A224386	R14_JA
+	7C9483AE	R14_VB
+	7DC0E805	R14_CR
+	77F08246	R14_VE
+	79EEF11A	R14_VU
+	8083B214	090
+	80B9E25C	100010100010100010010010010010100010100100100010
+	7F679A2D	~z~fulfillment in other places. Healthy ones.
+	7FB80A09	~z~I try to, yes.
+	90E7FFE6	R14_ZD
+	9247AF10	~z~revenge would not somehow shut the book on what I have seen.
+	8F93E38D	~z~This is all that is left of me. What am I good at, Roman? What is my trade?
+	9056FEA5	R14_CN
+	942C67CE	~z~They are bringing him to the cargo bay at Francis International. I do not want to be late after I have waited so long.
+	94BBD919	~z~Let's have a fucking party, break out the champagne.
+	92D3ABCB	~z~It was weeks after the massacre that I realized that we must have been given up by someone in our group...
+	9408C1A9	100010010010100010010010010010010010100100100010010100100100010010
+	8BE6CB30	~z~Alright, wait there for me.
+	8C151D5B	~z~I don't know. I wanted it for so long.
+	8ADB8932	R14_CI
+	8B21B1A1	~z~Maybe now that you know that revenge is not what you are after you can look for
+	8D8BEE80	~z~There you go, you got your revenge. How does it feel?
+	8DC120B3	~z~He would just be dead like everyone else from our village.
+	8C8D7E8D	R14_XQ
+	8D5C8F54	R14_CJ
+	E4D90E1A	~z~That might give me some perspective.
+	E51C505B	~z~by someone from our own village.
+	E44D9839	010100
+	E4922A09	100
+	E6B77D13	~z~Shit, someone hand me the keys to the fucking city.
+	E723DC2F	R14_VH
+	E5B86047	~z~Well, this is the big moment - what you have been waiting for for so long. I hope you will not be disappointed.
+	E6490E90	R14_YA
+	DFEFFD63	R14_VG
+	E026A13A	R14_XN
+	DFA1438F	100100100
+	DFBCAE6A	~z~but losing those friends, seeing them cut down in their prime.
+	E4128C99	R14_CA
+	E42760E3	100100010010
+	E163C6C6	R14_VO
+	E3F2B30A	R14_ZH
+	F3816D25	~z~I had to go back to the pit where the bodies were dumped.
+	F6DA930E	R14_UI
+	F2A00871	R14_BA
+	F2E867A7	R14_VI
+	FBF8F950	R14_A_AC
+	FEAE3420	R14_SA
+	F7872916	R14_CF
+	FAE51A1A	~z~Fine, keep it. Plenty more quarters where that came from.
+	EA8D4407	R14_XA
+	ED42D10A	R14_XH
+	E8B7C212	200200200200200200200200
+	E92564F0	R14_UH
+	F14069FF	R14_VL
+	F27E7C32	R14_BC
+	EDD90F17	~z~Roman, they've brought Darko Brevic into the country for me.
+	F00FF5CB	R14_VS
+	DEF28F17	~z~~s~
+	C3B04605	R14_CC
+	C421B7E8	~z~I'm sorry if my tone offends you, Roman.
+	BF7A5FDB	R14_A_CB
+	C3154A8F	~z~No matter what you say there is humanity in you.
+	C6C528E7	~z~And it hasn't?
+	C71FBA8D	R14_UJ
+	C54D1F71	~z~Disappointment is not a consideration.
+	C5C9B6A9	R14_UP
+	BB3EFBAE	~z~What made you spare him, Niko?
+	BB4FA628	~z~Man, it's Packie calling.
+	B9F1B848	~z~I will tell you what you are good at, Niko. You are a good cousin and a good friend. You still have integrity.
+	BAA2C67C	~z~I'm lost!
+	BCC952CA	100010010010100010010010010100010010010100100100010010
+	BF4A2E35	~z~You did the right thing, Niko.
+	BBF6326C	R14_VF
+	BC09E705	~z~Niko, I know.
+	D5270DF9	R14_A_BA
+	D6877173	~z~You still have the power to be good. It's important that you believe that.
+	D0D65151	~z~I let a diseased, traitorous junkie live after hunting him for over a decade.
+	D32D486C	R14_BD
+	D98DE6CF	~z~Let's go, cousin.
+	DB5A8A24	~z~I thought that revenge, that killing Darko, might fill me up a bit.
+	D71AAB0A	R14_XP
+	D978B825	~z~but then, when I looked at him, I realized that nothing would change if I killed him,
+	CA628E66	R14_XG
+	CA6799A3	~z~pulling in the same direction, not to kill Darko,
+	C73068F3	R14_CU
+	C8D4765B	R14_CP
+	CE030AF7	~z~That wasn't something the old me could have done,
+	D01434FF	~z~I have not been the same man since the day that Darko betrayed us.
+	CBDC736B	R14_CH
+	CD4DEBD2	~z~I just helped you see that!
+	75C86407	R14_XF
+	29BC0197	R14_JB
+	2B3373F0	~z~~s~
+	287A754D	~z~Here we are, do you want to come in and hang with Brucie?
+	28C3C07B	~z~But the Darko you are going to meet might be very different from the one who led our friends to their death.
+	2D3EE09F	~z~I had to count the ripe corpses and to see who was missing.
+	2DB90B19	~z~It took every fiber of my being
+	2B5C9834	~z~After this is done, then we can talk about forgiveness and redemption.
+	2B930ADC	~z~Leave him. He's not worth wasting your energy on.
+	225415D9	~z~~s~
+	22935C16	R14_UE
+	20196FDA	~z~But this has been a very difficult moment for me.
+	20C4565A	~z~Since I saw those things.
+	2784BDFD	~z~I'm not saying that Darko should be forgiven - it is not our place to do that.
+	2861EACB	R14_UD
+	245A3499	R14_IB
+	276A63AA	~z~In some way, our friends from the village were lucky.
+	3FDAFDB5	R14_XC
+	419DCBF7	R14_XR
+	3BEAB7D4	R14_CD
+	3CB8E865	~z~He will be enough of that man to justify what I have to do to him.
+	4562A2F4	R14_UF
+	45E40C51	R14_VK
+	4430DBCB	~z~I mean I don't know. I feel empty, okay? I feel empty.
+	450C0F4A	~z~I would live through killing Darko as well,
+	30043CE4	R14_ZE
+	3186A488	~z~Now is not the time for such conversation.
+	2F1BB1A1	~z~The emptiness is what I was trying to get rid of by finding Darko.
+	2F5FF391	~z~You lost a lot of friends that day, Niko. We both did.
+	39EB236D	~z~Maybe I'll feel like getting drunk later though.
+	3A2A2E27	R14_CT
+	326FEA1E	R14_VA
+	32BC9222	R14_VV
+	0C037CBE	R14_A_CA
+	0C1CBC92	~z~Do not mention it. Call me, Niko. The wedding is soon.
+	08AE77D1	R14_XK
+	0AF03A28	~z~Come on you stupid thing.
+	0E8797A3	R14_XD
+	0E8BA24A	~z~I was the one that survived the first attack.
+	0D00F926	R14_ZG
+	0E358AA4	~z~Will you take me over to Brucie's house?
+	02E88DA7	R14_WA
+	032CF54A	~z~It hardened me, it made me cold.
+	003CC4E1	~z~Think about your future instead of the horrible things that have happened to you,
+	007BD466	~z~I've been empty ever since that day.
+	052C1F2E	~z~I lost myself that day too.
+	054279B2	R14_IA
+	03783AA3	~z~Come on, Niko. It's time to go.
+	04AC0528	R14_XE
+	1779C760	R14_BB
+	1A1F4FA2	~z~It might give me some substance.
+	167C64A8	R14_CG
+	168AEF49	R14_CV
+	1D01715A	R14_SB
+	2001136C	~z~No Roman, it's nothing.
+	1B8296D9	R14_XM
+	1C3EEBE2	~z~This is almost over. I'm going to finish it.
+	10F15595	~z~It seems like living will be more painful for him than death. Let's go.
+	11B2CC36	R14_UK
+	0F906388	~z~Maybe I will start to believe it when Darko is dead.
+	0FD693AD	R14_TA
+	14D129D8	R14_A_AD
+	15ED1ACE	~z~I know it did, Niko. But that was a long time ago.
+	124EB973	~z~Everything that was good and innocent in me died along with them.
+	13230DEA	R14_XL
+	56CC8102	~z~I don't know how it feels. I'm trying to take it all in.
+	558A5929	R14_VQ
+	55838F1A	R14_XJ
+	655C0A2A	~z~Cousin, there you are.
+	57B8B596	~z~Darko Brevic, here in Liberty City. You have worked hard to make this happen.
+	577ACB84	R14_UB
+	65646637	R14_UA
+	52867876	~z~That's something, at least.
+	65A75173	~z~Every moment since our friends from the village were killed,
+	540051E0	R14_UM
+	53426336	R14_VD
+	52D71F8E	R14_UL
+	597A9661	R14_CO
+	5D8FEAB6	~z~How about we go drinking?
+	5D5AEE6B	~z~We should go, Niko. You've seen what happened to him.
+	60B9E5BA	~z~You're not eating my money.
+	5F46C0FE	R14_A_AB
+	60AA5629	~z~If I could live those hours again,
+	5DC51822	R14_CM
+	625549DC	~z~Living is not easy.
+	59FBD857	~z~No, I need to be alone. Thank you for being with me, cousin.
+	62F235FB	R14_XB
+	61204689	010
+	619CFD8A	~z~You piece of shit. That was for everyone. That was for me.
+	5D2C0B90	~z~~s~
+	678D108C	~z~to us, to all of us, in the past.
+	4D2FAF02	R14_UO
+	6F02AF3D	~z~You say I ruined you? You were always a killer!
+	4BECD54C	R14_CE
+	6D9B265D	090
+	4DAC7170	100
+	4D52831F	100010
+	47440FA5	R14_WC
+	73C4DC79	200
+	751CF5CB	R14_VC
+	7317EB61	~z~No.
+	4AF32B69	R14_UG
+	731913FB	~z~~s~
+	4E369787	R14_VT
+	6B3BB932	R14_XO
+	519B5D87	~z~Okay, Niko. It's over. It's all over now. Leave him there. We should go before anyone turns up.
+	501A4FCB	~z~I can't, Packie. I might have found what I was looking for all this time.
+	5219229B	R14_VM
+	67FE10D6	R14_CB
+	69FB275F	~z~This is the moment you've been waiting for for so long, Niko. What do you mean you don't know how you feel?
+	4E949450	R14_JC
+	6CCC72C7	R14_UC
+	4E5EED6D	100010100
+	6CB2B364	R14_XI
+	6CCB30E3	R14_A_AA
+	4EFE8CF0	~z~Be assured of that, cousin.
+R14_CUT1_1	930BDB8E	~z~You remember me?
+R14_CUT1_10	7DB9B642	~z~~c~Dmitar, Dragan, Goran, Mijo... should I go on and name them all?~s~
+R14_CUT1_11	A41782FD	~z~We were friends, but I had other friends.
+R14_CUT1_12	E21DFF09	~z~Friends that Goran and his guys killed.
+R14_CUT1_13	E2CB005F	~z~My fucking neighbors!
+R14_CUT1_14	21237D0F	~z~Because of what? Because of shit.
+R14_CUT1_15	49DC4E70	~z~Lies. Fucking lies.
+R14_CUT1_16	F5B6A636	~z~So that makes it okay. To stab your friends in the back?
+R14_CUT1_17	3B8AB1CD	~z~When everything you believe is shown to be shit,
+R14_CUT1_18	2D33151E	~z~-you make strange choices, I guess.~n~-Fuck you!
+R14_CUT1_19	9EF1F89A	~z~Strange choices? How much?
+R14_CUT1_2	45B3C0F3	~z~~c~Leave me alone. I don't know you.~s~
+R14_CUT1_20	1E1CF16A	~z~A thousand.
+R14_CUT1_21	DB0E6B4E	~z~You killed my friends for one thousand dollars?
+R14_CUT1_22	AD448FBB	~z~How much do you charge to kill someone?
+R14_CUT1_23	8463BE06	~z~You ruined me, you fuck!
+R14_CUT1_24	C7174360	~z~I needed the money... I had problems.
+R14_CUT1_25	A04D75D9	~z~You're a fucking junkie.
+R14_CUT1_26	7217196D	~z~Kill me, then!
+R14_CUT1_27	A15C77EB	~z~You fucking hypocrite.
+R14_CUT1_28	6FA5947E	~z~Trust me, you'll be doing me a favor.
+R14_CUT1_29	2D530FDA	~z~Niko - come on, let's go.
+R14_CUT1_3	FBF72D77	~z~I don't know you.
+R14_CUT1_30	9270D904	~z~Let him suffer... he knows what he did.
+R14_CUT1_31	41963750	~z~He doesn't look like he enjoys life too much.
+R14_CUT1_32	2DEF9003	~z~Come on.
+R14_CUT1_4	42513A2E	~z~Yes you do.
+R14_CUT1_5	589866BC	~z~I'm the one... who survived.
+R14_CUT1_6	109CD6C2	~z~Niko... hello.
+R14_CUT1_7	BE56B237	~z~~c~Just tell me why.~s~
+R14_CUT1_8	EC190DBB	~z~~c~Why?~s~
+R14_CUT1_9	19CAE91E	~z~~c~We were friends. We were all friends. We all grew up together...~s~

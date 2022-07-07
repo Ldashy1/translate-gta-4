@@ -1,0 +1,21 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	6B8F0DD7	Eliminate ~r~Oleg.
+	67EC9DC2	Search Oleg's emails, try to find information on his location.
+	5C065F34	This route is blocked, back up and go around.
+	7938A92A	Ram ~r~Oleg's car~s~ off the road.
+	B654C4C1	Go to the ~y~jewelry store.
+	95D34232	~r~Oleg got away.~s~
+	7944C072	You found the information, now exit the computer.
+	550560C4	Go to ~y~Oleg's apartment~s~ in Hove Beach.
+	33C58A5A	Get a vehicle.
+	33AA1E0E	~r~Oleg~s~ is getting away. Take him down.
+	1BFCDB89	Lose your wanted level.
+	37D42E68	Keep up. You're losing ~r~Oleg.
+	46C0C43B	Check the ~y~computer~s~ for information.
+	4611CAE3	Go back and eliminate ~r~Oleg.
+	42A1BBFD	Get a vehicle and go to the ~y~jewelry store.

@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8E5DCF1A	~r~You have gone off course.~s~
+	B3C22096	~r~One of the Dimitri's men got away.~s~
+	67465053	~r~Bernie is dead.~s~
+	505FC144	Follow ~r~Dimitri's man~s~ and get rid of him.
+	597CB4C0	~r~Bernie is dead.~s~
+	F0CA4785	~r~Bernie was abandoned.~s~
+	F29739E5	Take Bernie to the coast off ~y~Firefly Island.
+	E5972015	~s~Go back to ~b~Bernie.
+	D78803C7	~s~Get back to the ~b~boat's~s~ controls.
+	E4F64BB5	~r~You have capsized the boat and allowed Dimitri's men to escape.~s~
+	2E1B5DFE	~r~You have capsized the boat and ruined your fun day.~s~
+	3D6F6066	~r~Dimitri's man~s~ has reached land.
+	0CFD6EB1	Follow ~r~Dimitri's men~s~ and get rid of them.
+	009502F2	~r~You have gone off course and allowed Dimitri's men to escape.~s~
+	04EB6FCB	Make sure ~b~Bernie~s~ is with you at all times.
+	444E5D4E	Take out ~r~Dimitri's men.~s~
+	4BA09908	~r~The boat has been badly damaged.~s~
+	43E9DCB5	~r~Dimitri's men~s~ have reached land.
+	3DF3FDAF	~r~Dimitri's men got away.~s~
+	4315BACB	~r~You have capsized the boat.~s~

@@ -1,0 +1,238 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B006139D	~z~Nah, man. All you wanna do is eat, eat, eat, eat, eat, eat - maybe later.
+	AF5C7859	~z~Yo, no feel no way, but me can't have a drink right now.
+	AED83574	~z~Mek we play darts? Did we nuh just play recent?
+	B100CB33	~z~Mek we go a' de show? Why not. Pick me up.
+	B4A75052	100
+	B43AA78D	~z~Sure, man - just pick me up in about a hour.
+	B159D465	FCJ_ACT_ANSWER_PHONE
+	A5C44465	~z~Wanna hang out, have a drink or something?
+	A495F2E7	100
+	A2EFDA94	~z~You got time for a game of pool?
+	A5F50520	~z~No worries, man - everything cris.
+	AE759BE1	010
+	AB2015E9	~z~You got time for a quick game of darts?
+	A8E2EA7C	FCJ_ACT_CALL_SLEEP_REPLY
+	B77D4F3E	~z~Sorry, I've got to back out of the drinking.
+	BB5D79B4	100
+	BB1232A7	FCJ_ACT_CALL_POOL_NO_RECENT
+	BADD8E83	FCJ_ACT_CALL_EAT_YES
+	BCC40D1A	100
+	C06A13EA	100
+	BEA454A2	100
+	BE06A8D0	FCJ_ACT_PLJ_CALL_STRIP_CANCEL
+	B8EC77ED	FCJ_ACT_CALL_SHOW_YES
+	B8DEB166	~z~You wanna play some darts?
+	B8ADFB78	010
+	B90D8C2E	~z~Jacob.
+	BAC7A4AE	~z~Nah, man - maybe later, man. Me full up.
+	BAB925C9	010
+	BA49F60B	100
+	8C9D026C	~z~Niko, sure - pick me up.
+	8C39C138	100
+	8AECC329	~z~No problem, let's play soon.
+	8D413AF4	FCJ_ACT_PLJ_CALL_SHOW_CANCEL
+	8F2CB86D	~z~Hey there, Jacob.
+	8E8E7B25	010
+	8D6E2F1C	FCJ_ACT_CALL_SHOW_NO_RECENT
+	851041FA	~z~Again? So soon? Ram goat - maybe later.
+	844CEC23	~z~Some other time - did we nuh just go a' the show?
+	83A2B495	~z~Okay, man. Another time.
+	8511498B	~z~Why not? Pick me up in about a hour - me play.
+	87E96793	~z~Did we nuh just play arrows?
+	87601EDE	~z~Great - see you soon.
+	85694A7C	~z~So, you got any interest in a game of darts?
+	8F3A938E	~z~Rasta want a ketchy shuby? Sure thing. Pick me up in about a hour.
+	9B41762C	~z~You wanna go play darts man?
+	99D82BB8	FCJ_ACT_CALL_SHOW_NO_GENERAL
+	99A7436C	~z~Excellent - I am on my way, Jacob.
+	9BF11B6B	~z~Not too soon, rasta, another time.
+	9EC7A6C1	~z~Okay, man, pick me up in about a hour.
+	9DCD4F2A	~z~Alright, thanks for that, yeah? Me apprieciate that, yeah, yeah, uhuh, yeah alright, cool.
+	9D613704	~z~You wanna get some food?
+	95A980DC	~z~Me a lickle bit busy right now y'know, breda. Maybe later.
+	91263B5D	010
+	90953071	100
+	96DEA935	FCJ_ACT_CALL_DARTS_YES
+	989B43BE	~z~Yeah man, everything cris now, ye done know. Pick me up later, rudeboy.
+	98522981	~z~You wanna have a drink man?
+	97335250	FCJ_ACT_PLJ_CALL_MEDLIKE
+	E849E3AD	FCJ_ACT_PLJ_CALL_ACCEPTED
+	E72F169A	~z~I'm afraid I won't be making the pool - sorry man.
+	E6BF8113	~z~Maybe later. Did we nuh just eat, man?
+	E982B695	~z~Not again, star - another time, seen?
+	EC4E3D8A	100
+	EBCBF1AA	~z~Jacob, it's Niko.
+	EB1D9552	~z~For sure, breda. Just pick me up.
+	E0BED19A	~z~I'm on my way.
+	DF7CF6D2	~z~Nah, me nuh going to the strip club now, ram goat - maybe later.
+	DCCE78B4	~z~Yeah, man - me play pool, for real. Pick me up in about a hour.
+	E13E1E2A	~z~Sure, I'm a lickle hungry y'know. Pick me up.
+	E5BE7A9B	~z~Nah, man. Me full, star - but... maybe a lickle later.
+	E341E092	~z~Mr. Jacob, it's Niko.
+	E1D3F738	~z~Nah man, not again man. So soon?
+	EDD3E4DE	100
+	F8B71BA1	~z~You got any interest in going to a show? I'm bored.
+	F69D9B32	~z~Ease up with the drinking now. Niko, maybe a next time?
+	F504AF24	FCJ_ACT_CALL_DARTS_NO_GENERAL
+	FA688A1D	~z~Yeah, man. Pick me up in about an hour, seen?
+	FE1415CB	~z~No disrespect, but me can't meet up for a drink right now.
+	FD669483	~z~Jacob - sorry - I'm not going to be able to give you a lift.
+	FB061FCB	~z~Not again so soon, man. Me could play ya later, man.
+	F0C59520	100
+	EEA3B8F5	~z~Sure, just pick me up in a hour.
+	EE7D9FCF	010
+	F1FA7411	~z~Great. I'll head over to your place.
+	F421975D	~z~No, Star. Me full, man - maybe later.
+	F3309BA7	~z~Jacob I can't make the darts, sorry man.
+	F29370BD	~z~Sorry, man.
+	C9B225EB	~z~Yeah man, me done now, so me ready fe link up with de man again, seen?
+	C8E91D69	~z~Sorry, Jacob - I didn't realize what the time was.
+	C8DB40D5	~z~Nah, man. Me have nuff food inna me belly, man, to last a week - maybe later.
+	CA372707	FCJ_ACT_PLJ_CALL_SHOW
+	CE3AFFFE	~z~All you wanna do is show, show, show, seen? Maybe another time.
+	CB76EC76	~z~Nah, Niko - me kinda busy just now, man - maybe later.
+	CAE0BB96	100
+	C1AF71F3	FCJ_ACT_CALL_DARTS_NO_RECENT
+	C1ABE47E	FCJ_ACT_PLJ_CALL_DRINK_CANCEL
+	C06B06FB	FCJ_ACT_PLJ_CALL_STRIP
+	C2199285	100
+	C5CB6E8C	SFX_MACHINE_BEEP
+	C2FD026A	~z~Okay, me breda. Me love play darts, y'know. Come on my place in about an hour.
+	C2EE7EB9	~z~You got time to have a drink with me?
+	CE67ACEC	~z~Cool, Jacob - I'll be there in a bit.
+	D79C6BDC	010
+	D77BA413	~z~Okay ram goat! Just pick me up.
+	D754D8AE	100
+	D94A2F04	~z~You know me, Niko - me love play darts. One hour me wait.
+	DCB25377	~z~Hey, Jacob.
+	DBD23D9E	~z~It's alright, man. Maybe a next time, it's alright.
+	DA0E2E57	FCJ_ACT_CALL_DRINK_NO_RECENT
+	D110D019	~z~Yo, me can't drink all the time y'know, Niko. Maybe a next time?
+	D047ED48	FCJ_ACT_CALL_VERYIRATE
+	CFC1B342	~z~Thanks! Me like hung around for nothing y'know?
+	D208F4DD	010
+	D443C23B	FCJ_ACT_CALL_LIKENO
+	D2AD5D10	100
+	D29BBF46	~z~It me, so listen Jacob.
+	23B4F91B	~z~I'm a lickle busy just now, y'know - maybe later, star.
+	2389068B	010
+	21D6870C	~z~No pool right now - mek we play a lickle later or something.
+	2421FA5B	FCJ_ACT_PLJ_CALL_EAT
+	2667E21B	~z~Everything cook and curry, so why not, star?
+	2664EACF	FCJ_ACT_CALL_IRATE
+	24D4E510	FCJ_ACT_PLJ_CALL_REJECTED
+	1B7660AB	~z~Mek we play pool? Maybe later?
+	19C355D5	FCJ_ACT_PLJ_CALL_DARTS_CANCEL
+	192AF8A0	100
+	1C38E73D	~z~I feel like checking some girls out. You want to go to a strip club with me?
+	1FD2D9B3	~z~Hello, Jacob.
+	1F314AB9	FCJ_ACT_CALL_STRIP_YES
+	1D5EDC2B	~z~Me man still alive here, rasta?
+	28307E57	~z~All you wanna do is drink, man - maybe later.
+	2DD73330	100100100
+	2D68899C	~z~You want to come to a strip club with me?
+	2D1FF44D	~z~Jacob, it's me, Niko.
+	300993A6	~z~Nah, man. All ya wanna do is full me belly up, man - maybe later.
+	36E18279	~z~Any chance you can play a bit of pool?
+	35F1192F	~z~Okay, Jacob. I'll call again soon.
+	32F14F1E	~z~Sure, rasta - pick me up in about a hour.
+	2A6E17FB	FCJ_ACT_PLJ_CALL_POOL_CANCEL
+	2998F775	100
+	2962BF46	~z~Me can't go look pon some umoden right now y'know, ram goat. Maybe later.
+	2A8506BB	~z~No, rasta, not now, maybe later.
+	2CDE4ED7	~z~Mek me look at the girl den. Why not.
+	2B6D2E9C	~z~No star - we play recently - another time.
+	2AAD51C9	~z~Yes, rasta, for sure. I and I wait an hour for the I, seen.
+	0685373D	~z~I got some free time. You wanna go to a show?
+	05039000	~z~Alright den, maybe a next time. Gwan man.
+	04FAC1D1	~z~Again? What's wrong with you, Niko? Him love the skettels y'know! Maybe later.
+	07512845	~z~Not now, rasta, maybe later.
+	0A7B43C2	~z~Why don't you and me hit up a gentlemen's club?
+	0833CAF1	FCJ_ACT_CALL_DRINK_YES
+	082FB1CD	~z~Niko, me tink you dead or something!
+	02E15B4E	~z~Nah, man. Maybe later.
+	00D1966E	FCJ_ACT_CALL_DRINK_NO_GENERAL
+	001AA9F4	~z~Mek we play pool again? So soon? Nah man.
+	03E68778	010
+	04DAB7AC	~z~Nah man, we went drinking the other day, man. Maybe a next time.
+	044A98B5	~z~Great - see you in a bit Jacob.
+	0414EC51	100
+	0B1071CE	~z~Yeah man, me hungry, man. Me need some food. Pick me up in about a hour.
+	1541C3A5	FCJ_ACT_CALL_POOL_NO_GENERAL
+	13EB610B	~z~No problem, star - another time.
+	134825F3	~z~Jacob, I'm sorry, I ain't going to be making the meal. Something has come up.
+	162518CB	~z~Mek we go the strip club? Nah, ram goat.
+	191F8A01	~z~No, me play recent - maybe later, star.
+	17D89897	100
+	16BE79E2	100
+	1054C631	100
+	0FAA0062	~z~Niko, me think you gwan away, man. You haven't called in a long time.
+	0DE3FCD6	~z~Niko? Me can't hear from you. Me tink you inna trouble or something?
+	109AF266	FCJ_ACT_PLJ_CALL_DARTS
+	12D4A453	FCJ_ACT_CALL_POOL_YES
+	11DC4D77	~z~Nah man, did we nuh just play, man? Maybe later.
+	10E186EB	SFX_MACHINE_BEEP
+	5C35AE7E	010
+	5C0F8F86	FCJ_ACT_PLJ_CALL_LIFT_CANCEL
+	5B05E7BF	~z~Nah man, me not take no more disrespect from you, man. Just call me back after me relax or something.
+	5C56351A	~z~Sure, why not? Come get me inna the next hour.
+	629F5EE0	~z~Not now, star - another time.
+	61ED6E18	~z~You want to go a show or something?
+	612A579F	~z~Yeah, man. Pick me up inna my place inna one hour.
+	56F8C3D2	010
+	5634162B	010
+	553DF660	FCJ_ACT_PLJ_CALL_HILIKE
+	57B0F7D3	~z~Yeah - me asleep, man. Call me back 'bout two o'clock or something, seen?
+	5948FD77	~z~Yeah, I'm busy. Call me back.
+	5938BFC8	FCJ_ACT_PLJ_CALL_SLEEPING
+	58F56E0B	~z~I won't be able to make that show, man.
+	63EAF986	~z~No - me can't play darts right now, star, maybe later.
+	780B09B6	~z~I won't be making the trip to the skin club, Jacob. I'm having a few problems.
+	774AB712	~z~Yeah man, me asleep man. Call me back 'bout two o'clock, seen?
+	770F62A1	FCJ_ACT_CALL_STRIP_NO_GENERAL
+	7AC3301D	FCJ_ACT_CALL_STRIP_NO_RECENT
+	821A90B1	010
+	7F0D5E97	~z~Jacob, listen, I'm sorry, but I ain't going to be able to go out drinking.
+	7BD76462	~z~Nah, ram goat, maybe later.
+	677158CC	100
+	6710420C	FCJ_ACT_PLJ_CALL_POOL
+	6642613A	~z~Any interest in playing pool?
+	685138E6	100
+	71571A88	~z~Maybe later, star. Me can't deal with them tings again so soon.
+	6F04F354	~z~Why not, rasta? Be at my place for one hour.
+	6945538E	FCJ_ACT_CALL_EAT_NO_RECENT
+	44CD6547	~z~Sure, me hungry, man. Just pick me up.
+	447A4C53	~z~No, star. Me a lickle busy, man. Call me later.
+	3FC5AE56	~z~You feel like coming to a strip club with me? Relieve some tension...
+	4524F4A9	FCJ_ACT_PLJ_CALL_LOLIKE
+	48A52600	~z~You wanna play some pool, man?
+	45C487CC	~z~You want to get a meal or something?
+	459BBECA	~z~Niko. Maybe later.
+	3A31A474	010
+	38A1A5A2	FCJ_ACT_CALL_LIKEYES
+	371B6A7A	~z~You wanna get something to eat?
+	3ABAB8D4	~z~No, I and I too busy for pool just now, y'know. Call me later or something.
+	3CFD8A1A	~z~Good. I'll be there in a bit.
+	3C1EED58	~z~Sure thing, ram goat. I wait for an hour for the I.
+	3BED645B	~z~Maybe later, ram goat. Me too busy for that right now.
+	48AE4310	~z~Nah, breda - me not have time for deal with the I y'know, still vexed with I y'know, star, for real. Call me back after me done fe? Let me relax or something.
+	52171D0C	~z~So, you wanna go for a drink?
+	51E587AA	FCJ_ACT_CALL_EAT_NO_GENERAL
+	5181D050	~z~Okay, no problem. Another time.
+	52C6505C	010
+	54BC53B6	~z~I'm bored. You got time to go to a show?
+	54545A59	~z~Maybe later, star.
+	53972371	~z~You wanna get some food, man?
+	4C82D7E0	100
+	4A455AA8	FCJ_ACT_PLJ_CALL_GREET
+	4988E479	FCJ_ACT_PLJ_CALL_EAT_CANCEL
+	4F342E87	~z~Good - I'll come get you.
+	51003A02	FCJ_ACT_PLJ_CALL_DRINK
+	4F961849	010
+	4F940371	100

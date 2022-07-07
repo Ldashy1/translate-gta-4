@@ -1,0 +1,26 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	CF659DEF	~S~Take Jermaine to ~Y~Masterson St.
+	D0433ED1	~r~You have abandoned Jermaine.~s~
+	CF403CC7	~r~Jermaine is dead.
+	B2A08E5F	~S~It will repair and re-spray your vehicle and three hours will pass.
+	B535E764	~S~Drive to ~Y~Rotterdam Hill~S~ and meet Roman's customer.
+	E2F3FF87	~S~You have lost your wanted level, take Jermaine to ~Y~Gibson Street.
+	E62F020F	~S~Get in Roman's ~B~car.
+	DD273972	~S~Lose your wanted level.
+	D7700B19	Your wanted level is represented by the number of stars on screen. The more stars the harder cops will try to catch you.
+	DAAE53A3	~r~The vehicle is stuck.~s~
+	5FAE985C	To lose your wanted level escape the flashing zone and keep a low profile.
+	63827858	~S~Reverse out of the garage.
+	4F7745B7	You have evaded the cops. Stay out of trouble to completely lose your wanted level.
+	0511665B	The area the cops search in is represented by the flashing zone on the Radar. Cops in this zone are marked by flashing red and blue icons.
+	2ECF0802	~r~Roman's car was trashed.
+	A0E56ADD	~S~Drive into the ~Y~Pay 'n' Spray.
+	AFF23B12	Anyone seen performing a crime will gain a wanted level and the cops will attempt to hunt them down.
+	9E5E6F0B	~S~~INPUT_VEH_EXIT~ exit vehicle.
+	6D18B330	If you are seen leaving the zone by the cops then they will refocus their search and a new zone will be created.
+	8ECE46AF	~S~You can use the Pay 'n' Spray to clear your wanted level as long as the cops don't see you entering.

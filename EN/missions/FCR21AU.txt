@@ -1,0 +1,264 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B19C7B67	~z~It is a shame we did not meet Vlad in there. I wanted to tell him what a good loanshark he is.
+	B3169306	FCR2_ACT_LEAVE_FASTFOOD
+	B0F0B1CD	~z~Ahh, Comrades. We shall raise our glasses to the late Vlad while we're here.
+	B18BCED4	100
+	B4B512E4	~z~This is so funny, cousin. Don't you think? Don't you think?
+	B5347669	FCR2_ACT_LEAVE_BURGER_SHOT
+	B41225A3	~z~Later, Niko. Give me a call sometime, okay?
+	B424F010	~z~Niko, you're pretty good. It's clearly those Bellic genes you've got. If we were a team we'd be unstoppable.
+	A7980D0E	~z~There is only one thing I'm better at than playing pool, Niko. And, as a man, you won't get to see me in action.
+	A91A00E7	100
+	A591E2E5	FCR2_ACT_LEAVE_SHOW_EARLY
+	A6A3E375	FCR2_ACT_POOL_LEAVE_ABANDON
+	AEA786DD	100
+	AF561EFB	~z~Okay, I am ready to go home. You will drive your cousin.
+	AC0F4739	FCR2_ACT_TAKEHOME
+	ADD8192F	~z~Call me cousin, I'll see you soon.
+	C08F1FA8	100
+	C13730EA	FCR2_ACT_DARTS_LEAVE_LOST
+	BDCED998	~z~Do not worry about losing. At least you are better at stealing cars and shooting things.
+	BE9EC060	~z~Okay Niko, watch out for all the bullseyes I will be getting.
+	C1F8182A	~z~What have you been doing, cousin? We missed the damn show.
+	C220C54F	~z~Next time let us finish the game, okay?
+	C1B0B2C3	FCR2_ACT_LEAVE_PUB_VLAD_ALIVE
+	C1DC9EB9	~z~You see, aren't you pleased you are not in Old Country where that is all that is on.
+	B80E0C24	~z~What a nice place this is. If I didn't know better I would have thought you were trying to fuck me.
+	B94B9CD7	100
+	B5EAA9B3	~z~Niko, you rack 'em up and I'll knock 'em in. Let's go.
+	B65AB82F	FCR2_ACT_ARRIVEF_NOTLATE
+	BB2C19B7	FCR2_ACT_LEAVE_HIGHEND
+	BB3AAEAC	100
+	BAEE0EEC	100
+	BB291DBA	~z~Niko, I was starting to think you wouldn't come. Let's go now.
+	91E953A3	~z~Niko, we are evenly matched. There can clearly be no winner when two cousins such as us compete.
+	921897DB	~z~Niko, this is just the place. I hear it is filled with girls with low self esteem.
+	8EC8DB01	~z~That was fun NB. Hit me up if you want to hang out again soon.
+	8FB9DEAF	FCR2_ACT_DURING_SHOW_NEG
+	9739ACD0	FCR2_ACT_LEAVE_CLUB_FAUSTIN_ALIVE
+	97EE96E5	FCR2_ACT_ARRIVEC_NOTLATE
+	946CE649	~z~I'll catch you round, NB. Call me if you want to hang out again.
+	95855485	~z~I am pissing myself, literally.
+	89EB38A6	100
+	89FBBDF5	100
+	86219865	FCR2_ACT_POOL_LEAVE_DRAW
+	87709ED2	100
+	8C74B147	~z~Hey, NB. We can take one of the cabs if you like. You mind driving?
+	8C9690A2	FCR2_ACT_DARTS_LEAVE_ABANDON
+	8B9DCBD5	~z~You must be in a hurry, Niko. It does not take long to finish a game of darts with your cousin.
+	8BC057D0	~z~You mind driving your tired cousin home? Thank you.
+	9E4CB23A	~z~We can get a quick bite here, cousin. Let's go.
+	9EF0580C	~z~NB, my cousin. Why don't we find a car so we can go.
+	9DF2112F	FCR2_ACT_ARRIVE_DARTS
+	9E257C1C	FCR2_ACT_DIFF_POOL_YES
+	A265F234	~z~There are better things to do on a pool table than play pool. I could show you the things I'd do to a bored housewife on one.
+	A4687199	100
+	9FCE57CB	~z~Fucking Vlad. I cannot help but think of that scumbag in that place.
+	9FDD3364	~z~We shall drink and remember the old days. I'll buy the first round. That's if I remembered my wallet.
+	98E7E734	~z~I am feeling a little drunk. I don't think they water the drinks down too much at that shit hole.
+	9903D7C7	100
+	98355EA3	~z~Sorry, Niko. I don't feel like doing this just now.
+	983EC58F	100
+	9CBF334C	FCR2_ACT_ARRIVE_PUB_VLAD_DEAD
+	9D4B61DB	~z~Late, NB. Tut, tut, tut. Let's go.
+	9996F37D	~z~Let us go now, cousin. Take me home.
+	9A6806C7	FCR2_ACT_BOWL_LEAVE_LOST
+	C295D086	100
+	ED1F98C3	100
+	EDFEDBCB	100
+	EC91875E	~z~I'm not really feeling the vibe right now, cousin.
+	ED16F52D	~z~Those Russians are sure a strange group, no?
+	EF4276E1	~z~Cousin, let us go.You can drive me in one of my cabs if you like.
+	F014DEAB	FCR2_ACT_ARRIVE_FASTFOOD
+	EE61DEE2	100
+	EE643C5F	100
+	E6C4E991	~z~Niko, you are treating your cousin right. This is very sweet of you.
+	E7760E8A	~z~Take me home, Niko.
+	E4DE784E	~z~Niko, you call yourself a criminal but the real crime would be coming home without a lady tonight. Let's go.
+	E5078450	~z~I worry for you, cousin. How could any red blooded male want to leave all those lovely titties so soon?
+	EB6E247F	100
+	EBD6C2CE	100
+	E9A3C372	FCR2_ACT_ARRIVE_PUB_GENERIC
+	EB1E84CE	~z~Ladies watch out, the cousins Bellic are here. You are not safe.
+	F5409039	FCR2_ACT_DIFF_BOWL_YES
+	F67A6CBA	FCR2_ACT_LEAVE_PUB_GENERIC
+	F4F0B62E	~z~Niko, why you so impatient? We could have stayed until the end.
+	F533AA05	~z~Can you drop me off at home, cousin?
+	FD3D7D06	~z~You keep your cousin waiting, is a disgrace NB. Now, we must find a car.
+	FEFBF620	FCR2_ACT_ARRIVE_BURGER_SHOT
+	F71962B0	~z~You must have happy memories of your time here with the late Mr. Faustin. Isn't that right, cousin?
+	F9401359	FCR2_ACT_BOWL_LEAVE_ABANDON
+	F0EAA04C	100
+	F3AE3E4F	100
+	F05AD659	~z~Ok we can fill up with good American food. I'm in the mood for a hormone and chemical hit
+	F0B1759C	~z~Niko, you lazy bastard. All your screwing around has made us miss the show.
+	F4A209A8	~z~I am not so sure about this one.
+	F4A800AC	100
+	F421D679	100
+	F47754E1	100
+	CAE7574D	~z~Cousin, you are late. For that you are driving. I will let you use a cab if you want to though.
+	CC736CFE	100
+	C9D63D26	~z~Mallorie would love this, I tell you she would.
+	CABB998D	~z~Niko. You had lost before we even got here. Darts is about having the mental edge
+	D05B5E35	~z~See you later, NB. Give me a call, yes?
+	D1B7E30E	~z~Take me back won't you?
+	CC9CF734	~z~Niko, how could you expect to beat someone as supremely skilled as me? It was foolish
+	CDE89E5D	~z~I wait and I wait and now you come without even a car. Well, let us find one.
+	C35F91AA	~z~I am no longer hungry, cousin. That was good.
+	C49EFD1D	FCR2_ACT_DURING_SHOW_POS
+	C2A54599	~z~Is time to go back home, will you take me?
+	C35BC605	FCR2_ACT_ARRIVE_SHOW_COMEDY
+	C7F53752	~z~Oh cousin, I wish I could get angry at you for being late but you're too loveable. Let's go.
+	C954E038	100
+	C638DD12	100
+	C7F26776	~z~Niko, you are really moving up in the world, no? I tell you we are going to the top when you arrive.
+	DCA8BD67	~z~I could have beaten you with my eyes closed, cousin. I'm sorry but I'm that much better.
+	DD3668A8	~z~I didn't sign up for this, cousin. What gives?
+	DA2CFCD8	~z~I like that place, now that Vlad is gone I can really appreciate the atmosphere.
+	DBBBF147	100
+	DFCD46DE	~z~Niko, we have left now but those titties will inhabit my dreams for many nights to come.
+	E3010E3C	FCR2_ACT_ARRIVE_STANDARD
+	DE818950	~z~Niko, why you want to leave, cousin? We could have at least seen the end.
+	DEBBFAF6	~z~I enjoyed that, Niko. We should do it again soon.
+	D5163517	~z~That served it's purpose cousin, my stomach is full.
+	D68CD481	~z~You're late but I can't stay mad at you. Let's go.
+	D3BAE883	~z~Maybe we will play a whole game the next time we bowl, cousin.
+	D49FE9F4	FCR2_ACT_POOL_LEAVE_WON
+	D9679A56	FCR2_ACT_DIFF_ACTIVITY_NO
+	D9E48B14	~z~What amazing burgers, I feel another chin growing on my face. Do you see it?
+	D8F4DB63	~z~Do you get it cousin, do you get it?
+	D94A4AF1	~z~Niko, there you are. Why don't you drive me in one of the cabs?
+	20D06D3D	100
+	22A99CA9	~z~Those are the best burgers in Liberty City. I promise you this, cousin.
+	1F05560D	~z~I have been wanting to see this act, cousin. My friend saw this and he pissed in his pants.
+	1F5FA620	100
+	25DC9A96	FCR2_ACT_BOWL_LEAVE_WON
+	25FD2CFE	~z~It was a great restaurant but do not expect me to sleep with you now, cousin. I am not one of your girlfriends.
+	254D6CD7	100
+	258DC740	100
+	1A9686DE	FCR2_ACT_ARRIVE_LATE
+	1ADB3ABA	~z~My one and only cousin, except for the other ones. Let's go.
+	16B7412A	~z~Nothing hits the spot like a Burger Shot, cousin. My fifth chin is all thanks to these guys.
+	18BA68E0	~z~Niko, I don't like to stop things half way though. Ask any lady, I always satisfy.
+	1EA3C244	~z~Old Vlad's bar. We shall see if he can add our drinks to the rest of my debt.
+	1EC8C311	~z~There you are cousin, let's move.
+	1B2B7600	~z~This is real entertainment, cousin. It's hard to find performances of this premium quality, even on Burlesque.
+	1DBCAADE	~z~I like that guy Niko. He sure is funny.
+	347EEE7D	~z~Niko, good to see you, let's go.
+	34B18388	~z~Niko. Good to see you. We need to find a vehicle.
+	2F167559	~z~I'm sorry for beating you cousin, but I'm the better player. That is it.
+	322634D0	~z~Faustin's Club, eh? So this is where he hangs out when he's not shooting innocent men in their stomachs.
+	373EF381	~z~My cousin, is so good to see you. Let's do this.
+	375BCB44	100
+	361107CF	~z~Niko, the phonebook on my cell is filling up so many hot chicks are giving me their numbers.
+	36D46BBC	100
+	273EAF00	~z~We're here Niko. Let's do some bowling.
+	285B781D	~z~Finally cousin, you're late. We should go now.
+	266F2AF6	FCR2_ACT_ARRIVE_HIGHEND
+	26AB28C8	~z~Cousin, you know these things scare me. No matter, we go.
+	2C2C7ED5	FCR2_ACT_BOWL_LEAVE_DRAW
+	2EA50490	~z~Disgraceful to keep your cousin waiting. Well, we go now.
+	28BB34EA	100
+	29761295	~z~This is a good idea. It will remind us how lucky we are to have gotten out of the Old Country.
+	05B01064	~z~NB, the big man. Let's hustle.
+	077B7C16	FCR2_ACT_DROPOFF
+	04CD57FB	~z~Niko, that was fun. I was at a place belonging to Mikhail Faustin and I was not even shot.
+	05A69FE1	100
+	0991B070	FCR2_ACT_LEAVE_STRIP_GOOD
+	09E676F2	FCR2_ACT_LEAVE_SHOW_CABARET
+	08E5D4ED	~z~Get ready to watch a master at work. I am to darts what Perseus is to clothing.
+	08EADE8D	100
+	0262E81B	100
+	02B01BC1	~z~That was quick, Niko. You would almost think you didn't want to sit down and converse with your cousin.
+	009458CE	FCR2_ACT_ARRIVE_BOWL
+	017FFF94	100
+	03F9D48C	100
+	042E2EE1	100
+	02EC753E	~z~That is one funny man, Niko. Good choice.
+	03101D4D	~z~Niko, when will you learn? Your cousin is better than you at pool. You are no match.
+	143F8983	~z~We have truly made it, Niko. The cousins Bellic eating in the finest dining rooms in Liberty City.
+	146BC3D8	FCR2_ACT_DIFF_DARTS_YES
+	12CC4494	~z~We are the perfect match, cousin. A tie. That is unheard of, no?
+	134260C5	~z~Niko, how could you want to leave so early. You haven't been hanging out at Hercules Nightclub or something have you?
+	1513F7E0	FCR2_ACT_ARRIVEF_NOTLATE_CAR
+	15960BAF	~z~Okay cousin, let's hit the alleys.
+	147ACB86	FCR2_ACT_LEAVE_STRIP_OK
+	1485BF6C	~z~American fast-food. Just think we could have the exact same meal in the Old Country.
+	0D0D4EC2	~z~Niko, I like to finish my darts games. Maybe next time we do that.
+	0D6B6937	~z~That would have been even more fun if I hadn't been fearing for my life. Your Russian gangster friends are scary.
+	0AF92D72	FCR2_ACT_LEAVE_SHOW_COMEDY
+	0C609E1E	FCR2_ACT_ARRIVEF_LATE
+	0E1D99CD	~z~I did not expect an opportunity to kick your ass at darts. How could I refuse?
+	110C00A1	100
+	0DC2B388	~z~Niko, this is meant to be a very funny man. Anything you do not understand, you ask me and I will explain.
+	0DDB1AD9	100
+	3BC69212	100
+	6CA9DFFE	~z~Even without a warmup you will be no match for me on the pool table.
+	6D065F0F	~z~Ahh, NB. Seeing you puts a smile on my face. Let's go.
+	6BF68D52	~z~There is a fire in my belly, I like the drinks at that place.
+	6C472E30	~z~We must settle this some other way. Maybe we should compete over a woman. Clearly not Mallorie though.
+	71B703D0	~z~Oh really, umm, yes.
+	71EC1967	FCR2_ACT_ARRIVE_SHOW_LATE
+	6F450805	~z~Ha, ha, ha, ha, ha.
+	6F695C38	FCR2_ACT_LEAVE_CLUB_FAUSTIN_DEAD
+	62BD06FA	~z~Late NB, not acceptable. Make it up by driving me in one of my cabs.
+	632066A3	~z~Okay, alright, what's going on?
+	60830ED5	100
+	626DD83D	~z~Okay cousin, let's have a meal here.
+	6ABC5CBA	~z~Niko, I love that place. Is hard to believe but man cannot live on titties alone.
+	6AC703C7	~z~Ummm, you didn't check this by me. I'm not in the mood, Niko.
+	6692A5E5	~z~Titties, titties, titties. Let me at them, cousin. Unleash me.
+	66B08AE1	~z~Thank you, cousin. We should hang out again soon.
+	7F2F9F7E	~z~Niko, congratulations. It is not often that someone beats me at darts.
+	8160A3E0	~z~Do you see... do you see something in my eye. I am not seeing so good. Must be how you beat me.
+	7EE0E6C9	100
+	7F2C4817	100
+	83BDD4F4	100
+	84AD933F	100
+	8370DFA1	~z~Oh cousin, I salivate at the thought of all the naked flesh in there. Let's go.
+	83804CF0	FCR2_ACT_ARRIVE_CLUB_FAUSTIN_DEAD
+	74082860	~z~Thank you in advance for driving me home. Let's go now.
+	74EF7D40	~z~Ahh, is this where we eat, cousin? Let's do it.
+	7253504F	100
+	73759E55	~z~Niko. Were you afraid of playing out the game for fear that I would beat you? Do not be scared of defeat, cousin.
+	79EB9949	FCR2_ACT_ARRIVE_CLUB_FAUSTIN_ALIVE
+	7ECD15F8	~z~Cousin Niko, what's up? We can take one of the cabs. Shotgun not driving.
+	75B39E41	FCR2_ACT_ARRIVE_CLUB_GENERIC
+	793B9FE0	~z~Niko, you are good with a pool cue. You can teach me about that while I teach you about women.
+	4842D1F6	~z~Niko, you said you'd be here earlier. No matter, you will drive us. If you like you can use a cab.
+	490225BF	~z~Niko, I could suck a Bleeder Burger dry. This is my favorite.
+	438C7AB6	FCR2_ACT_ARRIVEF_LATE_CAR
+	44DA441C	~z~It is a shame that Mr. Faustin your Russian gangster friend, is dead. The place is going to pot.
+	4BFE1E8F	100
+	4ECB52AE	FCR2_ACT_LEAVE_PUB_VLAD_DEAD
+	49CE1B64	~z~Niko, good game. You are good at bowling and I'm good with the ladies. We both have skills.
+	4A68B141	100
+	3D9E8524	FCR2_ACT_ARRIVE_STRIP
+	3E461E04	FCR2_ACT_LEAVE_STANDARD
+	3CEFFEDC	~z~Shit, I hope to God that Vlad isn't here.
+	3D6F4599	FCR2_ACT_POOL_LEAVE_LOST
+	430FD6A3	~z~You are taking me to Perestroika. I hope that Mr. Faustin gives you an employee discount?
+	435AA262	~z~You see that girl who was eyeing me, I would have sealed that deal if I didn't have to see Mallorie later.
+	3F21DB1D	FCR2_ACT_ARRIVE_POOL
+	4052D095	FCR2_ACT_ARRIVE_PUB_VLAD_ALIVE
+	5E04FD7A	~z~NB, you are making an important business owner wait for you. I am generous though. You can drive me in one of my cabs.
+	5F332F98	100
+	59246C06	100
+	5C29A57E	100
+	5FA4401C	FCR2_ACT_LEAVE_CLUB_GENERIC
+	6076671E	FCR2_ACT_DARTS_LEAVE_WON
+	5F55AB25	100
+	5F9B1AA7	~z~Niko, you like it when I hold you on these motorbikes, don't you. Let's go.
+	5272FD23	100
+	52C8F14E	100
+	509C3172	FCR2_ACT_ARRIVE_SHOW_CABARET
+	518AD463	~z~Bowling, Niko. This is a surprise. You know that I like to beat you though. Let's do it.
+	5892DC40	FCR2_ACT_ARRIVEH_NOTLATE
+	58CC232D	FCR2_ACT_ARRIVEM_NOTLATE
+	561D2469	100
+	57B54F50	FCR2_ACT_DARTS_LEAVE_DRAW

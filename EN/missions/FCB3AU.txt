@@ -1,0 +1,322 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9ED89F80	~z~Maybe that's what you need?
+	A03C3EE6	FCB3_ACT_GENERIC_INCAR_5_ED
+	9C7A65CE	FCB3_ACT_GENERIC_INCAR_3_CB
+	9EB9AA36	FCB3_ACT_GENERIC_INCAR_6_FG
+	A0896AAD	~z~Nothing funny about the way Brucie rolls now, is there, fucker?
+	A28F230A	FCB3_ACT_GENERIC_INCAR_1_AC
+	A2A80145	~z~What?
+	A0DB8E4D	~z~Look, you're fast and you're powerful, but unless you turn speed into velocity,
+	A118FE1B	~z~Sure.
+	9B6FE08C	~z~I don't know... win... at everything.
+	9781F4F5	FCB3_ACT_GENERIC_INCAR_10_JO
+	97C6B566	~z~Good point! Sometimes I wonder why we hang out,
+	97296948	FCB3_ACT_GENERIC_INCAR_10_JJ
+	9756AF13	100010100010100100010100010100010100100100010010100
+	9809ACD0	~z~They see that shit and it's just more interesting bro.
+	9B272926	FCB3_ACT_GENERIC_INCAR_7_GB
+	9B34B660	FCB3_ACT_GENERIC_INCAR_5_EN
+	996CFF6C	~z~Let me let you in on a little secret, NB.
+	9A4DAFD4	~z~You are, because you know you're not realising the inner you -
+	A46E731E	FCB3_ACT_GENERIC_INCAR_3_CD
+	AEFDEE1E	FCB3_ACT_GENERIC_INCAR_5_EH
+	AF77DA28	~z~But you're incredibly defensive.
+	ACB7A605	~z~You want to learn something or you want to make fun?
+	ACCCD5F3	FCB3_ACT_GENERIC_INCAR_9_IM
+	AFD863A5	FCB3_ACT_GENERIC_INCAR_10_JD
+	B101C10B	FCB3_ACT_GENERIC_INCAR_1_AF
+	B14835C4	FCB3_ACT_GENERIC_INCAR_6_FL
+	B099E899	~z~You can't see yourself in me because you haven't unlocked your full potential.
+	B0C24BB3	~z~Anyway, there was this article about bitches digging guys
+	ACB03B2F	~z~I was happy! In myself!
+	A7BB1C03	FCB3_ACT_GENERIC_INCAR_8_HI
+	A7DDBA4A	FCB3_ACT_GENERIC_INCAR_6_FI
+	A6DC5CCF	FCB3_ACT_GENERIC_INCAR_5_EI
+	A77866C0	~z~Come on, Niko. Just cup them bro. One time.
+	A853AEE6	~z~You know it NB. I don't let anything stop me from hitting the pinnacle baby.
+	AB19DC0C	~z~What better judge of a man is there than how many push ups he can do?
+	AC68558D	~z~Alright, look... look, when a bitch sees you all cut, standing there just out of the shower...
+	AA0A1A79	FCB3_ACT_GENERIC_INCAR_2_BJ
+	AA8B5A9F	FCB3_ACT_GENERIC_INCAR_4_DG
+	96A98D1F	FCB3_ACT_GENERIC_INCAR_1_AA
+	8068B3D6	FCB3_ACT_GENERIC_INCAR_10_JH
+	8213B349	FCB3_ACT_GENERIC_INCAR_3_CH
+	7EF760BF	100010100010100100010100100100010100100100010100010100010100
+	802B2C50	FCB3_ACT_GENERIC_INCAR_3_CA
+	8253EA78	~z~Steroids don't fucking shrink your balls, man. My balls are actually pretty big.
+	86D17FAA	FCB3_ACT_GENERIC_INCAR_6_FF
+	87895BA5	~z~Make fun.
+	85991007	FCB3_ACT_GENERIC_INCAR_10_JA
+	85E0087D	~z~water's dripping down your abs, your veins are popping out cause you're jacked, and your towel is like slung real low.
+	7E26F3C5	~z~What?
+	746F1279	~z~Not laughing at me now, are you?
+	74836440	~z~Thanks man, but can we just drop the self improvement for once?
+	736022B9	FCB3_ACT_GENERIC_INCAR_4_DH
+	73D51265	FCB3_ACT_GENERIC_INCAR_9_ID
+	7749EE52	FCB3_ACT_GENERIC_INCAR_3_CG
+	7D170198	~z~You know that I look at you and I see myself. You know that?
+	7D31B210	FCB3_ACT_GENERIC_INCAR_8_HM
+	7A1675B6	FCB3_ACT_GENERIC_INCAR_4_DB
+	7BAAB141	FCB3_ACT_GENERIC_INCAR_7_GM
+	88191D1D	FCB3_ACT_GENERIC_INCAR_5_ET
+	9000192D	FCB3_ACT_GENERIC_INCAR_4_DC
+	921B64B2	FCB3_ACT_GENERIC_INCAR_2_BD
+	8EF5794E	FCB3_ACT_GENERIC_INCAR_2_BC
+	8F4B5A80	~z~You know what - you've got to learn to abstain. You know, once I abstained from pussy...
+	926EFF7C	FCB3_ACT_GENERIC_INCAR_9_IH
+	943EBCCA	100100010100100100100010100100100
+	968EB56C	FCB3_ACT_GENERIC_INCAR_5_ES
+	9291DA90	FCB3_ACT_GENERIC_INCAR_10_JG
+	93A60CA3	FCB3_ACT_GENERIC_INCAR_6_FB
+	8EF359B8	FCB3_ACT_GENERIC_INCAR_5_EB
+	89DCB2A4	FCB3_ACT_GENERIC_INCAR_9_IF
+	8A0E15EE	FCB3_ACT_GENERIC_INCAR_5_EF
+	898B7D42	~z~You believe that shit? Right? You believe that shit.
+	89ABDC68	FCB3_ACT_GENERIC_INCAR_3_CL
+	8AA09B1A	~z~Are you wheat or chaff bro? I know your wheat, man - you're pretending to be chaff.
+	8ECDA505	~z~It's funny but I look at you and I don't see myself.
+	8EE8FFA1	~z~Alright, maybe if you started to look after your body, you'd start to look after your mind, man.
+	8CB9CD68	FCB3_ACT_GENERIC_INCAR_8_HD
+	8E5D60A0	FCB3_ACT_GENERIC_INCAR_5_EA
+	DD80054F	FCB3_ACT_GENERIC_INCAR_6_FR
+	DDEBFAC0	FCB3_ACT_GENERIC_INCAR_10_JN
+	DCF1C7D4	~z~I'd settle for people stopping trying to kill me.
+	DCFFEB87	FCB3_ACT_GENERIC_INCAR_8_HF
+	E090B897	~z~I'm an animal on fire. I'm crazy. Loco. Lunatic. Look, all I'm saying, man,
+	E298811D	~z~You've got to get more control. Learn to resist.
+	E35BBED5	FCB3_ACT_GENERIC_INCAR_5_EO
+	E216C231	~z~You need a lot of help, bro okay - to unlock your potential. To be something.
+	E21D5BE1	FCB3_ACT_GENERIC_INCAR_8_HA
+	DB7EFBF5	FCB3_ACT_GENERIC_INCAR_6_FQ
+	D550A5D9	~z~No idea - twenty? Thirty?
+	D652190F	FCB3_ACT_GENERIC_INCAR_5_EP
+	D36D9105	~z~So, I'm sitting there and I'm reading one of those women's magazines. You know the ones I mean?
+	D43F253A	~z~That's just a rumour made up by guys who don't got the bods bro. That's it.
+	D66FA507	FCB3_ACT_GENERIC_INCAR_4_DD
+	DA4E3158	~z~Yeah, I didn't realize that. I thought people had different opinions.
+	DB03066A	~z~You know that people used to bully me, Niko? I don't tell many people that.
+	D8C69950	FCB3_ACT_GENERIC_INCAR_7_GG
+	D9FDF423	FCB3_ACT_GENERIC_INCAR_4_DR
+	E3D11437	~z~unless you have direction, you might be going in the wrong direction, okay?
+	F625E783	~z~I think I do that already - I think I need to learn to calm down.
+	F72A587E	~z~So, man. I was in the doctors office
+	F5834CD4	FCB3_ACT_GENERIC_INCAR_6_FA
+	F59C16E0	~z~Amazing. How do people do this?
+	FA01399D	FCB3_ACT_GENERIC_INCAR_4_DM
+	FE9F5B7C	~z~I wanna be everything I can be. I will pump iron, hit the cardio,
+	FF2CBFE5	FCB3_ACT_GENERIC_INCAR_2_BM
+	FA521E47	~z~Not really.
+	FCA1DB0D	~z~Okay, so I was this guy who was going nowhere and I changed my life.
+	F36BECAF	~z~Thank you, thank you.
+	EB3AD3D6	FCB3_ACT_GENERIC_INCAR_5_EC
+	EBB209C0	FCB3_ACT_GENERIC_INCAR_3_CC
+	E68CD2F1	~z~then I remember it is because of all the wisdom and vision I get from you.
+	E8E3CCFF	~z~You need help. How many push ups can you do?
+	EF0E3FE6	~z~Hit the weights right, hit the 'roids, then the bull shark. I didn't get angry anymore.
+	F2B326DA	FCB3_ACT_GENERIC_INCAR_10_JL
+	F320E2DB	FCB3_ACT_GENERIC_INCAR_5_EK
+	F09B26A9	~z~No! that's fuel man, it's not the engine.
+	F1355781	FCB3_ACT_GENERIC_INCAR_7_GD
+	D296036A	~z~the sweetest rides in my garage, the coldest ice on my wrist okay?
+	BCC93F06	~z~I can tell.
+	BDEAC86B	~z~Thanks for that Brucie - really interesting.
+	BB7EF236	~z~you've got to unlock your wild animal.
+	BC247E21	~z~No better - it separates the strong from the weak, and the wheat from the chaff.
+	BE1FF9A9	FCB3_ACT_GENERIC_INCAR_3_CI
+	C09CF8B0	~z~Definitely true.
+	C147C4F7	FCB3_ACT_GENERIC_INCAR_4_DK
+	BE5866DF	~z~who don't work out. I mean, what the fuck man, what's that?
+	BF263288	FCB3_ACT_GENERIC_INCAR_10_JF
+	BA58567F	~z~But didn't you get me running around town, killing people, because you got 'roid rage?
+	B32FD54A	FCB3_ACT_GENERIC_INCAR_6_FE
+	B35D44DD	FCB3_ACT_GENERIC_INCAR_2_BA
+	B19411EA	FCB3_ACT_GENERIC_INCAR_9_IB
+	B1D64577	~z~Dude, I had low cheekbones as well. Thank god for implants, man. Okay
+	B4B3501E	FCB3_ACT_GENERIC_INCAR_7_GH
+	B57ACAF5	100100010100100010100100100100010100010
+	B587F279	~z~You know what, NB. You crazy immigrant killer.
+	B501DBFB	FCB3_ACT_GENERIC_INCAR_7_GC
+	B56AA6CA	~z~Will you shut up?
+	C176827E	FCB3_ACT_GENERIC_INCAR_5_EE
+	CC17EBF7	FCB3_ACT_GENERIC_INCAR_1_AH
+	CC8EFEF5	~z~Whether steroids give you funny balls. Right?
+	C9EA9157	FCB3_ACT_GENERIC_INCAR_5_EL
+	CB3C99C2	100100010010100100100100010100100100100100010010010100100
+	CD9E952F	FCB3_ACT_GENERIC_INCAR_1_AJ
+	D118A63E	FCB3_ACT_GENERIC_INCAR_5_ER
+	D148D09F	FCB3_ACT_GENERIC_INCAR_9_IJ
+	CE290231	~z~Shit man, I'm fucking done with it - alright. If one more person asks me I'm gonna flip alright?
+	D0526D3A	~z~Tough - it's time you learnt something, okay?
+	C99A7464	FCB3_ACT_GENERIC_INCAR_6_FN
+	C483485B	FCB3_ACT_GENERIC_INCAR_2_BN
+	C4AD6799	~z~That's why I've got the hottest bitches in my bed,
+	C1CD8057	~z~Girls like poor guys too, right? Whatever. You crack me up, man.
+	C2F4A39B	FCB3_ACT_GENERIC_INCAR_9_IG
+	C6046DD7	~z~I don't want to sound like a dick, Brucie.
+	C89ACBBD	FCB3_ACT_GENERIC_INCAR_4_DQ
+	C8EC15C4	FCB3_ACT_GENERIC_INCAR_10_JC
+	C6E68204	FCB3_ACT_GENERIC_INCAR_7_GE
+	C893F87E	FCB3_ACT_GENERIC_INCAR_6_FH
+	26161009	FCB3_ACT_GENERIC_INCAR_2_BI
+	276F2D1B	~z~As I was saying, people settle for the average and don't look for any more okay?
+	25A92B54	~z~I'll try not to.
+	25DE7C5F	FCB3_ACT_GENERIC_INCAR_8_HC
+	27FED765	~z~I can believe that.
+	2A3924C4	FCB3_ACT_GENERIC_INCAR_1_AG
+	2A45CC00	~z~Sure - my English not so good. Can you keep it simple?
+	286013BB	FCB3_ACT_GENERIC_INCAR_2_BP
+	2888F23E	FCB3_ACT_GENERIC_INCAR_9_IE
+	24F02FB2	~z~They are, man. You wanna feel them?
+	20E905D9	FCB3_ACT_GENERIC_INCAR_2_BL
+	219EECE0	~z~Whatever - you sound confused, pal. I know mine. You wanna hear?
+	20AF6D06	~z~A lot of hard work down the gym, some excellent supplements and two-hundred egg whites a day.
+	20E7C056	FCB3_ACT_GENERIC_INCAR_7_GA
+	21F09444	~z~Back when I was fat and had a weak jaw. I probably would have bullied me too.
+	230C8B8B	~z~it's a steel trap. It's solid steel.
+	23EDA968	FCB3_ACT_GENERIC_INCAR_2_BB
+	22A38409	FCB3_ACT_GENERIC_INCAR_4_DL
+	23075402	~z~There's nothing wrong with that.
+	2A793A3C	FCB3_ACT_GENERIC_INCAR_7_GL
+	3644E3FE	~z~I'm a wild animal, man. I'm a raging torrent, bro.
+	378ABF7C	~z~It's always the Captain of the football team, ain't it?
+	3616204A	FCB3_ACT_GENERIC_INCAR_8_HG
+	363F044B	~z~That ain't going to happen, friend. Let's drop this.
+	3800B6C3	FCB3_ACT_GENERIC_INCAR_4_DN
+	3C52DE83	~z~The hate is gonna descend and I'm gonna start breaking things. I fucking swear it, man.
+	3C74B4D4	~z~for six months alright. No sex for six months, can you imagine?
+	3844C607	FCB3_ACT_GENERIC_INCAR_6_FJ
+	3ACFB70C	FCB3_ACT_GENERIC_INCAR_2_BG
+	35D94DC8	FCB3_ACT_GENERIC_INCAR_6_FO
+	2CC298DA	FCB3_ACT_GENERIC_INCAR_2_BE
+	2DBE852B	~z~Great - well you're certainly winning the tanning competition. I've seen handbags that are less leathery.
+	2BE013AB	~z~I was so pent up.
+	2C201BD7	~z~Oh. Sorry bro. Sorry.
+	2E78D758	FCB3_ACT_GENERIC_INCAR_4_DP
+	3290EE3E	100100100010100100100010100100100010100100100100100010
+	33023667	~z~We're close man, fucking close.
+	2F47C20D	FCB3_ACT_GENERIC_INCAR_6_FS
+	312FB868	FCB3_ACT_GENERIC_INCAR_7_GJ
+	1FDB7A9D	FCB3_ACT_GENERIC_INCAR_8_HH
+	086AC832	100010100010100100100010100010100100010100
+	0B085B83	~z~It's a coiled spring of pure power -
+	06B2590C	FCB3_ACT_GENERIC_INCAR_8_HJ
+	07A212C0	FCB3_ACT_GENERIC_INCAR_5_EG
+	0B5A74F2	~z~juice to the max - I'll do, I'll do all that to look the best I can.
+	0F7C646B	~z~and what drives it is control, okay?
+	0F9896A6	~z~But underneath these rock hard abs and biceps of steel, lurks the beast, bro.
+	0CAF69C2	~z~Yeah, man.
+	0E3D2A6E	~z~That's an average life I could go for.
+	067D48EE	~z~And no masturbating, either. That was the hardest bit.
+	04D5B553	~z~"Life is about making the best of yourself."
+	050B33B9	~z~Listen, you might learn something important okay.
+	01694BDD	FCB3_ACT_GENERIC_INCAR_6_FM
+	04886D66	100010100010100100010100010010100100100010
+	057F89DC	FCB3_ACT_GENERIC_INCAR_5_EM
+	05D5D840	~z~Yeah I'm writing a book. Yeah and I've got my own website - all about life coaching.
+	061BC7AE	FCB3_ACT_GENERIC_INCAR_4_DI
+	05BB75A0	~z~waiting to go in and have some shots in my forehead and lips, right?
+	05CA9976	FCB3_ACT_GENERIC_INCAR_5_EJ
+	0FFCD674	FCB3_ACT_GENERIC_INCAR_8_HE
+	1AC39158	FCB3_ACT_GENERIC_INCAR_7_GN
+	1B4BA0C0	~z~Takes all sorts, people got different tastes.
+	194CFA9C	FCB3_ACT_GENERIC_INCAR_3_CJ
+	19D711EB	~z~You don't mean that! Shit, you like to push shit to the next level as much as me.
+	1B85B88E	FCB3_ACT_GENERIC_INCAR_10_JQ
+	1DB6B970	~z~Anything else?
+	1F8EBA7C	FCB3_ACT_GENERIC_INCAR_4_DE
+	1BB4F83C	FCB3_ACT_GENERIC_INCAR_4_DJ
+	1C2DD155	FCB3_ACT_GENERIC_INCAR_8_HB
+	18F4EDDD	~z~I'm not really enjoying the images that are running through my mind.
+	110BD896	FCB3_ACT_GENERIC_INCAR_10_JE
+	1214042A	~z~don't unlock the forces you can't possibly understand. Capiche?
+	104E269F	FCB3_ACT_GENERIC_INCAR_10_JB
+	10A01F43	~z~I'm a winner, man.
+	1298F70C	FCB3_ACT_GENERIC_INCAR_6_FK
+	16E6D770	~z~I don't know - to find resolution, I guess.
+	183EDA28	~z~Let me ask you, NB - what are your personal goals, bro?
+	162C33C0	~z~You're gonna have to trust me on that one because I burnt all the photos.
+	165A2C0B	FCB3_ACT_GENERIC_INCAR_4_DA
+	622390DA	~z~Sure, as long as it doesn't involve what you really get up to in the gym.
+	636444CA	~z~To turn heads when you walk into the VIP bar or a high rolling environment.
+	61D07F93	~z~Just shut up.
+	61E22DF4	~z~Yeah right. What would we do without them, right?
+	63D8559B	~z~Can't say that it keeps me up at night, but I'd guess that it's because you're a bit insecure.
+	661198D4	FCB3_ACT_GENERIC_INCAR_6_FP
+	680F2080	~z~Captain of the fucking football team, man.
+	64032947	FCB3_ACT_GENERIC_INCAR_1_AD
+	655A91DA	FCB3_ACT_GENERIC_INCAR_3_CK
+	61B1BE9D	~z~No, I'm not.
+	5C17FF72	FCB3_ACT_GENERIC_INCAR_2_BK
+	5C76F908	FCB3_ACT_GENERIC_INCAR_10_JP
+	5A67CC9C	~z~I really don't want to touch your balls Brucie.
+	5B437B83	FCB3_ACT_GENERIC_INCAR_2_BH
+	5C9B98BF	FCB3_ACT_GENERIC_INCAR_6_FC
+	5F4245EB	~z~That is exactly what I'm talking about, man.
+	61513A1A	~z~No, trust me, it seems pretty weird.
+	5D0547FD	~z~They settle for what a midsize car, 2.4 kids and a chubby fucking wife. Huh? Yeah right.
+	5D9B2107	~z~If someone asks you what?
+	6858FC58	~z~Good luck.
+	6FD0A512	~z~Yes, that bullshark stuff.
+	711CF024	~z~You ever think, what motivates Brucie to sculpt his body into rock hard, cut granite?
+	6D637AE2	FCB3_ACT_GENERIC_INCAR_9_IK
+	6EF7E3C9	~z~I can do five-hundred, in one go.
+	7260DFA9	FCB3_ACT_GENERIC_INCAR_1_AK
+	72C0E23F	~z~I'll show you a picture I took this morning when I got out of the shower. You'll see what I mean.
+	7314B417	FCB3_ACT_GENERIC_INCAR_8_HL
+	72A5A8B4	FCB3_ACT_GENERIC_INCAR_3_CM
+	72AB4B27	~z~Touch my balls and end this once and for all bro.
+	6D1A51AC	~z~I know it all seems straight forward - what you see is what you get. Ok?
+	6A87E302	~z~Okay, I'm cut like I am because I can. Most people are happy with being average.
+	6AA47EF6	~z~Incredible. Win at what?
+	694ACF53	~z~bitches like hard straight lines, they don't like flab, alright?
+	6985987C	~z~You know what the secret to my success is NB?
+	6B00C1BD	FCB3_ACT_GENERIC_INCAR_6_FD
+	6BDE26FA	FCB3_ACT_GENERIC_INCAR_8_HK
+	6D1103A9	FCB3_ACT_GENERIC_INCAR_9_IA
+	6BB4157E	FCB3_ACT_GENERIC_INCAR_10_JI
+	6BD9B2EB	FCB3_ACT_GENERIC_INCAR_7_GI
+	5A187E76	FCB3_ACT_GENERIC_INCAR_3_CN
+	44C24E87	FCB3_ACT_GENERIC_INCAR_2_BO
+	44E50688	~z~I'm alright, Brucie. I'm really alright.
+	43EF05EC	FCB3_ACT_GENERIC_INCAR_4_DO
+	44A14B9D	FCB3_ACT_GENERIC_INCAR_10_JM
+	4545E19D	FCB3_ACT_GENERIC_INCAR_1_AI
+	47D34021	FCB3_ACT_GENERIC_INCAR_3_CE
+	490F29EB	~z~I was juggling them like melons just the other day bro.
+	45C15BE9	~z~Whenever I'm fucking a hot model, I see his face.
+	461C5EEE	FCB3_ACT_GENERIC_INCAR_1_AE
+	43AA9EB1	100010100010100010100010100100010
+	3E65423C	~z~Okay.
+	3F5B8CA2	~z~NB, man. You ever wonder why I look so good? Huh?
+	3D49006C	~z~Sounds fun.
+	3DFB3E83	FCB3_ACT_GENERIC_INCAR_2_BF
+	3F7B3ACD	FCB3_ACT_GENERIC_INCAR_10_JK
+	435581E5	~z~You've got to work out more, man - you've got so much potential.
+	43A0E90A	~z~All I'm saying is I'm a more rounded person, that's all.
+	413FD2E2	~z~Yeah, we're close. I'm sorry to hear that you were bullied.
+	42728C4C	~z~Look, between you and me, I used to be an out of shape guy with anger issues just like you bro.
+	491A7806	~z~You can tell everyone that juicing don't actually shrink people's balls because Brucie's are fucking huge.
+	54E66F3E	~z~The engine is my mind -
+	551F5B99	FCB3_ACT_GENERIC_INCAR_3_CF
+	5415125A	~z~Sure, Brucie. The ones that give the teenage girls of America low self esteem and eating disorders.
+	5427D3F6	~z~No I don't need luck - I've got vision bro. In short, my philosophy is:
+	5546B880	~z~You're a crazy bastard, man. Fucking crazy. I love you, man. I love you but you're wrong, bro.
+	590FF196	FCB3_ACT_GENERIC_INCAR_5_EQ
+	5A0D847D	~z~Fucking Marty Daniels pointing at me and laughing.
+	585FDA6D	~z~My goal is always the same... to win! Okay?
+	58B62F6E	~z~Sure.
+	52DB8030	FCB3_ACT_GENERIC_INCAR_1_AB
+	4C9BA09E	~z~Must be a one way mirror or something.
+	4D0E3F0B	100100010010100100100010010100100100100100100100
+	4A561B96	FCB3_ACT_GENERIC_INCAR_4_DF
+	4B08C3D1	FCB3_ACT_GENERIC_INCAR_9_IC
+	4FF98464	FCB3_ACT_GENERIC_INCAR_7_GF
+	5166049C	~z~If those aren't anger issues, I don't know what are. At least when I decide someone's gotta go, there's a good reason.
+	52A99CCB	~z~The thing is Niko, there is something you don't understand about me bro.
+	50C878B9	FCB3_ACT_GENERIC_INCAR_7_GK
+	511587FC	~z~Yeah, man. I'm sure they are.

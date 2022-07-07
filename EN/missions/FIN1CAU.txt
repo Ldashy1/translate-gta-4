@@ -1,0 +1,307 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AD2B6463	FIN1C_A_XA
+	AF431469	~z~You motherfucker. Don't think for a second that this was anyone's fault but your own.
+	AB0CB48C	FIN1C_KA
+	ABEA6AC1	FIN1C_BA
+	AFAE4E18	~z~Grab on, Mr. Pegorino.
+	B1DE587C	~z~Shit de mother fucker got us!
+	B2EC9A0B	~z~Rhaatid, we losing him. Get closer now rasta.
+	B0F2AA5B	~z~I hope so, see you later.
+	B1952CB2	~z~I know. Jacob was a good friend to both of us. Call me soon, Niko.
+	A57296AD	~z~Jacob taking dis blood clot down.
+	A583DEDC	~z~Niko, we see the boat! Me and Jacob are going after it!
+	A38228C1	~z~You are my cousin Niko, and Kate died at my wedding. I'm helping you.
+	A4CD336A	FIN1C_SB
+	A5CD8E29	~z~We were so close, I thought we had him.
+	A88EA89C	~z~Ya see, after dat heroin deal, Dimitri's hangin out wit Pegorino now.
+	AAF6E228	~z~Get I in closer, rasta.
+	A782F498	~z~Will someone get rid of this dickhead already?
+	A7CFB96D	FIN1C_A_LC
+	B383C8C4	~z~Rhaatid, see him dere. Ya have fe stick to him me breda.
+	BC144FA7	~z~I tink dis boy gonna lead me to right where Jimmy and Dimitri are.
+	BC544E1F	FIN1C_AC
+	BB3F4006	~z~It's not worth it. None of this is worth it.
+	BB455A20	FIN1C_FB
+	BF73CBAA	~z~Bumba clot!
+	C14B5671	FIN1C_AA
+	C1BB6C14	FIN1C_A_LB
+	BF75EDA7	~z~Mr. Pegorino. I got you.
+	C0D0442E	~z~Well, we did not have him. He is still alive. I'll see you both later.
+	B59D5A7D	~z~Niko, ya make it, rasta.
+	B5D6C4A7	~z~We being fucked wit and ting.
+	B4839D45	~z~Niko, you need fe get closer. We can't be losing him.
+	B53B2672	~z~Dis a black day me breda, a black day.
+	B72CBA21	~z~Ya need fe give I and I some cover else we never be able fe follow em.
+	BA4E1AF3	~z~Mallorie can't lose her groom today.
+	BAD81BFF	~z~There must be a safe way to catch this guy.
+	B73609A1	~z~I'd clip that bitch again if I had the chance.
+	B82A3D17	~z~Jah know ya feel de heat.
+	A2340BC5	~z~Land pon de Island mek we finish him.
+	8AEB24CA	FIN1C_A_GB
+	8BC630AC	FIN1C_TC
+	89095FE0	~z~He backing you up, rasta. I an' I both be, seen? One love.
+	8A278A0A	FIN1C_SD
+	8C8587C7	~z~Jump on, Peg.
+	8E39FB8D	~z~A rocket be heading at us, rasta.
+	8E7E2937	~z~Get I closer for de shot, cousin.
+	8CF85F71	~z~Seen, Niko. Good luck.
+	8D6E7F99	FIN1C_SA
+	81C9711C	300
+	832DBB18	FIN1C_TA
+	7EA79C57	~z~Niko, get inna the car.
+	7EF7B38C	FIN1C_TB
+	837EBE37	~z~Lord protect us. We shot and ting.
+	84F80ECE	~z~Wait here while I finish this.
+	866C599C	~z~Dis how we dweet inna Jam Down!
+	8391D07C	300030
+	8459139B	090
+	8F03FFC5	~z~Me tink his next step is wit Pegorino. We follow him there, seen?
+	9AF702B1	~z~Ras clot!
+	9B07A1A4	FIN1C_A_TA
+	98C21341	~z~Thank you, both of you. But I do not think this is the place for you, Roman. This is too dangerous.
+	99F0229C	~z~Get in, Jimmy.
+	9ED9AEB2	FIN1C_DA
+	A0BD43D6	FIN1C_A_GA
+	A13C7034	300
+	A009774C	~z~We going down, we going down.
+	A018D573	~z~You're a scumbag, Niko.
+	9185AD94	FIN1C_XA
+	91D95AEC	~z~Someone protect us.
+	8F71EC62	300
+	90CABA6A	FIN1C_HE
+	92C1AA61	~z~Urgh...
+	958256DB	302
+	95C25117	~z~Clip that asshole.
+	93B67430	~z~I and I be de righteous dread!
+	951131A2	090
+	E8817759	~z~Please don't kill us, please don't kill us, please don't kill us.
+	E8F8ED26	~z~Your problem is you like killing too much.
+	E6555705	FIN1C_A_QA
+	E7F7763D	~z~I just got married. I can't die here.
+	E91F972F	FIN1C_A_OA
+	EACE89DA	~z~Step on the accelerator, Niko. Get closer to de fool.
+	EB1021E7	~z~Yo, two can play at this game ya know, star.
+	E92F1A7D	FIN1C_YA
+	EA3AC953	~z~~s~
+	E0464152	FIN1C_A_EC
+	E0C6937A	090
+	DF6474AB	~z~You coulda worked with me and everything woulda been gravy.
+	DFDEF179	~z~Would the black Huntley please pull over to the central reservation. You have been flagged for reckless driving.
+	E13267F6	~z~Shoot that fuck before he kills us all.
+	E488906D	~z~Put de chopper pon di island, mek we end dis now.
+	E6034560	~z~Fuck, we got a tail. Better lose this piece of shit on the way back to the Peg. I don't wanna be late.
+	E253C984	~z~Irie, man.
+	E45EE9BE	010
+	EF7CDF7D	300
+	FA5D28F7	~z~Cha, Niko. Don't be losing de bumba clot boy.
+	FB1A1B5B	FIN1C_CA
+	FA355DA7	FIN1C_FA
+	FA3A0F79	FIN1C_A_BD
+	FE599D7C	FIN1C_A_BA
+	FF0E1D1E	~z~Come on me breda. Get inna the car.
+	FFFD9B37	~z~Don't think I don't know how to fight.
+	FEDF44C1	406046
+	FEFC855D	~z~I ain't got nothing left. You better kill me.
+	F141AF49	~z~Ya fucking dead now man!
+	F1DF7424	FIN1C_LA
+	F1193B23	~z~Cha!
+	F11CC9B9	~z~She didn't do anything to you.
+	F73912A4	~z~Niko, de boat get away and ting. We ain't gonna get him, yo.
+	FA0652D7	~z~Poor girl, she should never have got close to me...
+	FA2193C0	FIN1C_A_JB
+	F76FC2B2	302302032492
+	F9E8DCF4	~z~Cousin, me and Jacob are here to help you.
+	DEED38DA	~z~Get up, NB. Climb.
+	CA39FBEC	~z~Couldn't you have killed me, you dumb shit?
+	CC79BF42	~z~You shouldn't drive angry, NB.
+	C929819D	~z~Okay, let's get this guy.
+	CA16C23A	FIN1C_FD
+	CC9B1436	~z~Niko, you can do it. Climb.
+	CD92DD6B	~z~Boy, me don't like dis at all.
+	CE1E1081	~z~Air unit seven-b has been engaged. This is a potential terrorist situation.
+	CCA96DA9	FIN1C_AB
+	CD01E6C6	~z~Feel I teeth!
+	C5524E3D	FIN1C_A_OB
+	C59B3F68	~z~Get in closer, Niko. We losing the ras clot.
+	C201E835	400300090
+	C474241D	~z~Shit, I wish I'd have hit you at the wedding.
+	C663D53D	~z~I an' I will find dat ras clot again.
+	C856FFF0	~z~No thanks to you, you trying to ditch me?
+	C90B8932	FIN1C_A_CA
+	C6A531AE	FIN1C_HC
+	C742CCF0	FIN1C_WA
+	CEDBC349	~z~Get that immigrant shit.
+	D9034D3B	~z~How you gonna get by in this country if you ain't gonna go after the big money?
+	D9B09D1C	402
+	D7AD96DB	~z~I'm going to get you, Jimmy.
+	D8753D28	~z~Come on, Niko. Me can't get no shot from here.
+	DAE32510	~z~Me knew you'd find a way, me bredren. Take control of dis ting. You better at driving than me.
+	DBA426DD	~z~Air unit seven-b has taken damage. Brace position! Brace position!
+	DCBC8540	~z~I an' I need fe kill dis teeth affa de transport.
+	DB375CC5	~z~You're checking your blind spots, right Niko?
+	DB3A75A9	FIN1C_IA
+	D326A3C0	FIN1C_A_RA
+	D367FFC9	~z~How long dis transport gwan last?
+	CF67E15D	~z~Yeah, me tink so too, ya know me breda.
+	D1A25927	~z~I wanted out and you killed someone I cared about. It's over for you now, Jimmy.
+	D3CE008D	~z~Rhaatid.
+	D5249EE7	FIN1C_SE
+	D628D2A0	~z~Are you trying to kill us too?
+	D4667142	~z~There'll be another chance to find him cousin.
+	D4DA92D8	~z~Alright, dis is where he be going. What's the plan, Niko?
+	7E32A2B5	~z~Come on, drive safely.
+	29D92191	~z~He be inna some building in Koresh Square. We keep an eye out pon it.
+	2AA20C0B	~z~Shit, we're shot.
+	284E6E38	600
+	29476CA2	FIN1C_A_HB
+	2B8DE45C	~z~Get me close to dis bumba clot.
+	2CAF5728	FIN1D_A_OA
+	2DA8BCE3	600
+	2BA2EFB4	FIN1C_HD
+	2BD63F2B	~z~Fuck you Pegorino.
+	241DC33A	~z~Come on, NB. You can do it.
+	24A72D53	FIN1C_ZD
+	23032DC7	~z~Jacob get de boat and ting. He ain't going far, rasta.
+	23E52DB7	300300300
+	256ED241	~z~Fight me like a man, Pegorino.
+	26C9D4F3	~z~Jimmy, your time is up.
+	27E5E323	100100010100
+	260C1660	FIN1C_A_PA
+	26C50FCE	~z~Boy, dat was close and ting rasta.
+	2DB5446C	~z~Also, figure out an exit strategy. When this guy is dead, I'm not going to want to hang around long.
+	38D684F8	FIN1C_A_VA
+	391D75AC	FIN1C_A_UA
+	37C05FA5	102
+	387149DA	~z~It's all fuckerys.
+	3C395B57	FIN1C_ZC
+	3E0C83DD	FIN1C_A_EA
+	3F144C07	~z~Niko, I and Roman have found one a dat ras clot Pegorino's men, seen?
+	3D5446A2	~z~Jacob nah mek no boy shoot after him.
+	3DB44D83	~z~Roman. I'm so sorry, cousin.
+	30866587	300
+	323A7FB0	~z~I still got something left.
+	2E0D783F	FIN1C_A_BC
+	302E22A0	~z~Shit, dat was close.
+	32F5C506	~z~Cha, Niko. Watch out for de missile.
+	366C67D7	~z~Climb up, cousin.
+	377CF637	~z~Be safe, Niko. Be safe.
+	3352DB63	~z~Hold on.
+	342F501F	~z~I an' I get him, rasta. He going fe crash pon the island.
+	2238DFAD	~z~You're nothing but a two bit hood.
+	0F133C49	400
+	13CE8155	600
+	0DC7B6CB	~z~Motherfucker.
+	0EDA9F3D	FIN1C_JA
+	147B25B1	FIN1C_EA
+	16824638	FIN1C_A_HA
+	17533BF8	~z~Cha! Ya are go down!
+	147B3056	~z~I'm getting sick of killing these lackeys, where is Pegorino?
+	15CCC5DF	FIN1C_TD
+	05791E1A	302032302032
+	06F44225	~z~Come on me rasta. Get closer!
+	00AF0D9B	~z~Me can't shoot from back here and ting, Niko.
+	02104665	~z~Boy, me tink me was gone den, ya know?
+	07CCCB94	~z~I cannot talk about this now. Goodbye, Jacob.
+	0C90271E	FIN1C_A_GC
+	0CC1B885	~z~Get in, Niko.
+	0AFF61C5	~z~Ya keep shooting and this transport aint gonna be in no good shape at all.
+	0B2CFF7C	~z~Jacob, you and Roman stay back. I'm going in to get Pegorino.
+	17D7173A	FIN1C_A_LA
+	1CD46869	FIN1C_A_KA
+	1EA9680F	FIN1C_A_BB
+	1BE0BF25	~z~Pegorino! You're mine!
+	1BEBA0D9	~z~Jacob, the best way to help me is to keep my cousin alive. I don't want to lose him as well.
+	1EC64C08	302
+	207BE3FA	FIN1C_HB
+	21B59FD9	302
+	1FD08523	~z~Alright, cousin. We hear anything. We will come to help you.
+	200D8C15	~z~Let I show these ras clots how fe shoot a piece.
+	18EB9B03	~z~Damn, I was meant to protect her...
+	1A040D00	~z~Man, dis can't be good.
+	1805E448	~z~We need fe be nearer to de pussyhole ya know. Me need more speed!
+	183E525A	212
+	1A1B9BB6	~z~Come on, shit.
+	1B3C667F	FIN1C_A_DA
+	1BAE853C	~z~Wait for me, I'm on my way. What is Roman doing there? This is not the place for him.
+	1A299D55	~z~What? We want get dis raas clot too ya know, Niko.
+	1A6A020A	040400
+	68F91DEB	~z~Yo man, I try keep dis ras clot off of us, ya know.
+	6B3E259B	400300090
+	669FFC9B	302
+	66CF7F37	~z~Cha, him get away from us.
+	6C5EC3DE	102
+	6E3E770D	300030400300030030
+	6EAA5F02	301300090400300
+	6D5B5D83	400
+	6D8E0E57	~z~Faster, rasta, faster. Catch up pon him.
+	61CF4FDA	~z~Cha, get closer to de ras so him can feel me teeth.
+	61CF77DE	~z~Give me some heat, Niko. We need fe catch up pon him.
+	61479B8A	~z~I and I is fucked.
+	61CB2016	FIN1C_A_NA
+	61E19087	~z~Ya nah shoot at us no more!
+	633B996F	FIN1C_A_FA
+	64D53F3E	300
+	622A5B59	FIN1C_A_IA
+	62F3FCAF	090
+	6EF5B6E6	~z~Jah know me nah do good.
+	7B189167	~z~You immigrant piece of shit.
+	7C19046D	~z~I need fe get closer to get dis ras clot.
+	77AC832E	~z~Not without me, you're not.
+	7ADE94CE	FIN1C_A_YA
+	7C465A4A	~z~Alright, me breda. Dat blood clot be inna de place. I an' I been following him for a time, seen?
+	7D424854	100100010
+	7E26A1E0	~z~I'll give fifty Gs to the man that drops this fuck.
+	7D2220A1	FIN1C_HA
+	7D3261E2	~z~You're not getting away, Pegorino.
+	710747A4	090400300
+	71BC89C9	~z~Are you crazy?
+	6F62E628	~z~I'm either dying here or killing Jimmy P. I ain't backing down.
+	6FC33EA0	~z~If dat hits us, we're fucked and ting, Niko.
+	72678A62	~z~Take that boy down.
+	7348AEEA	~z~Jacob stopping these ras clots from taking us down and ting.
+	73DDCA2A	FIN1C_FC
+	72904C9E	~z~I'll swim if I have to. Urgh.
+	730D7256	~z~Get I in range, ya know breda.
+	6015C50A	~z~Are you both alright?
+	4B47918D	~z~Up, Niko. Get up here.
+	4C184C70	~z~There ain't no way we going be finding these boys if ya lose de transport ya know, rasta.
+	48027B3A	FIN1C_SC
+	4A87402C	~z~Jacob's gone. How many people have to die today?
+	4C4B2186	FIN1C_A_EB
+	4FCB6B90	~z~Let Jacob stop these bumba clots from shooting after us.
+	50776670	~z~Stay here, I need to end this by myself.
+	4D7B932B	FIN1C_SF
+	4E85BC4B	FIN1C_A_MA
+	41376189	~z~Rhaatid, dere be a missile heading at us.
+	41E39003	~z~Come on, Niko. Wine up on him.
+	3F2BAFE0	300
+	400A6F59	FIN1C_ZB
+	423F72A3	FIN1C_ZA
+	45A76446	~z~Dey fucking wit our structure.
+	4637ACF3	FIN1C_A_JC
+	43380F04	090
+	45887FCE	~z~Fuck, fuck, fuck!
+	507C7E91	FIN1C_A_NB
+	57CE3694	590
+	590A7458	~z~Boy, dis no good for me heart.
+	5690F9E6	~z~Me no like ya bumba clot!
+	5762BB01	~z~Get near to him now rasta.
+	5996A7EA	~z~Yeah man, me get de ras clot. See him a crash pon de island?
+	5CCA40F7	~z~Pegorino is mine, no one can keep me from him.
+	5E17F2F6	~z~We shot, dis ain't good.
+	5BBF508F	FIN1C_A_SA
+	5BE79F49	~z~Why didn't you just hit me instead?
+	511ABC1F	FIN1C_A_WA
+	51EF991F	FIN1C_GA
+	5106C386	302
+	5113799F	~z~Rhaatid! Roman be dead rasta.
+	52F82D53	~z~None of you are going to stop me from killing Jimmy P.
+	543A6014	090300400090
+	5472C715	FIN1C_A_JA
+	53A587C0	302
+	5408872B	~z~Look out for de rocket now, man.

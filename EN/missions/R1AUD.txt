@@ -1,0 +1,292 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8407E160	~z~Just a temporary place.
+	83633418	~z~What'd you do that for? Let's go home.~c~ If that is okay with his majesty?
+	822330F0	~z~Oh, you're back. Can we go home now? ~c~ Please, important sir.
+	851BAED3	~z~Our country has women too.
+	84FCE4D5	~z~people leave home to hang around the people they ran away from,~c~ very odd.
+	84390306	R1_BI_XXX3
+	7C2E0B2E	010100010100100100100100100100100100100100100010100100100100010100100100100100100100010010100100100100010100100100100100100100100100
+	7C0C98C3	R1_BW_XXX1
+	7BDBB8AE	R1_DA
+	80E640CD	R1_CA
+	7FD288AD	R1_BF_XXX1
+	7F9169E6	~z~Scared Canadians, bored housewives from the Midwest - every possible choice!
+	967A9204	SFX_PAUSE_4000
+	959B1821	R1_BF
+	8ED5A44C	R1_AA
+	A2F6BFA1	R1_BI_XXX2
+	A0D8C87A	R1_BU_XXX1
+	A0D4CC12	SFX_PAUSE_1000
+	87B4BDE8	R1_EA
+	866D767E	~z~Immigrants here do not make it very far from the boats they come in on.
+	85D910DA	R1_BP
+	8D2CB351	010100010100100100100100100010100100010100100100100100010100010100100100100100
+	8CE3C671	~z~~c~ Egomaniac!
+	8CCE7F04	~z~~c~Cousin, are you running away from me as soon as you get here?
+	7BC77997	~z~Terrorists. There's been a big scare and you can't go across the bridges so good.
+	66C17566	R1_BI
+	663BCE7C	~z~~c~I thought I had died and gone to Heaven, man.
+	614BBD63	100
+	691D5EE4	R1_BS_XXX1
+	688E7D3E	R1_BQ_XXX2
+	674E39BC	~z~Cousin, it's been too long... you should have come out earlier.
+	5BD64071	R1_BM_XXX1
+	5BBC9CE1	~z~I thought we were a team? ~c~Come back Niko.
+	5A39365B	R1_BQ_XXX1
+	5FBD7C28	R1_BJ
+	5EC0F864	R1_BU
+	5D10DE82	~z~Here we have white, black,
+	7517D3D3	~z~No, everyone seems happy where they are. It reminds them of the Black Sea or something -
+	72DA0A50	~z~Yes, but only locals.
+	72AE4038	~z~It reminds them of the Black Sea or something -
+	7A69D333	R1_BD
+	79611F6C	~z~~c~ And stop with this weird behavior of yours.
+	7719539A	~z~Where you going, cousin?~c~ Niko don't be a dick.
+	6ACEBF41	~z~people leave home to hang around the people they ran away from,~c~ very odd.
+	6AC936C6	SFX_PAUSE_1000
+	6959381A	~z~I need to show you our place,~c~ come back Niko.
+	6D6FDCE8	~z~What?
+	6D4C455C	~z~Here we have white, black, the Puerto Ricans and the Asians, Europeans on vacation...
+	6B0E7A7D	~z~the Puerto Ricans and the Asians, Europeans on vacation...
+	A5C1893F	R1_BK
+	D446B234	R1_BM_XXX2
+	D3B391B5	~z~Four big titties to be playing with?
+	D37D8521	R1_BD
+	D62BD3DB	R1_BP
+	D50E5CDD	R1_BV
+	D492EBC9	R1_CC_QQQ1
+	CAF1C2EF	SFX_PAUSE_1000
+	C9C0B5AE	R1_BW
+	C675F7AE	~z~~c~What a charming image. Hove Beach, next to the docks.
+	CF6E4377	~z~Think of all the girls you've been missing out on!
+	CF1C96DC	100
+	CF132393	~z~I would stay in Broker.
+	F7F74E28	~z~Our sights are set for the top.
+	F41E51EA	R1_BB
+	F1370839	R1_BN
+	F9939789	~z~scared Canadians, bored housewives from the Midwest -
+	F9867513	~z~Why don't you show me around the city?
+	F88DD690	R1_FA
+	DFFFAA4D	~z~~c~I thought I had died and gone to Heaven, man.
+	DCFDC543	R1_BR
+	D98E1D66	~z~Niko,
+	F0684B9A	R1_BA
+	EF138027	R1_BW_XXX2
+	EBB14838	R1_BX
+	C6220E4B	~z~Fucking terrorists.
+	B05E051F	~z~~c~What a charming image.
+	B042C5EC	~z~How you going to find your way round the city without me? Come back Niko.~c~ Don't be a child.
+	B018C6E4	R1_BE
+	B292E72D	~z~You, without a visa. I would stay in Broker. Fuck it, stay in Hove Beach. Everyone like us does.
+	B226259C	R1_CC
+	B0ECBEF8	R1_BE_XXX1
+	AB54C04C	~z~Mansions in Berchem, penthouse in Algonquin...
+	AA075897	R1_BS_XXX2
+	A772FB8F	~z~I will show you around more, later.
+	AF188ADA	~z~I'm drunk and tired Niko, please drive me home, ~c~ be a good guy.
+	AF093D09	R1_BE_XXX3
+	AB75B146	~z~Hove Beach, next to the docks.
+	C087867C	~z~Fuck it, stay in Hove Beach. Everyone like us does.
+	BD9D64E1	~z~a model on each arm - me and my cousin Niko, rulers of the world!
+	BD8864B3	~z~Is just temporary for us though. Our sights are set for the top.
+	C32ADF95	~z~That is my cab depot, cousin. It is where I make all the money.
+	C1B1E3D6	R1_BE_XXX2
+	C0CF2E47	~z~Did you see everything you wanted to see? Can you drive your cousin home now?
+	B5F5D666	R1_BA
+	B47CD418	~z~I can't say that I have. ~c~ But I know what it's like to hang out with a tit.
+	B4205303	~z~Hove Beach is our little corner of Eastern Europe.
+	BB6F3742	R1_CB
+	BB5C1BA4	R1_BM
+	B98A93D5	SFX_PAUSE_1000
+	57138903	~z~Is just temporary for us though.
+	16C232F4	~z~Why don't you show me around the city?
+	34717904	100010100100
+	135504E3	~z~penthouse in Algonquin...
+	13E94C34	~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.
+	33692CEE	100
+	323C69E4	~z~Terrorists. There's been a big scare and you can't go across the bridges so good.
+	32329DE8	R1_BT
+	177D3466	~z~What?
+	3245CED8	~z~~c~I can't prove that I have.
+	45E46E21	SFX_PAUSE_1000
+	0C7B0343	~z~it's been too long...
+	0C6B3D40	R1_BB
+	464D6AD7	~z~a model on each arm -
+	0C857249	~z~We are passing the cab office, Niko. This is the business that will take us to the top of the pile.
+	423D6EC7	~z~Cousin,
+	40BB7E38	R1_BI_XXX1
+	0C9A9177	R1_BF_XXX2
+	42810707	~z~Niko, you ever had two women at once?
+	1A52207D	R1_BG
+	2284B565	R1_BU_XXX2
+	24F5CF57	~z~You, without a visa,
+	1EB9A7C0	~z~you should have come out earlier.
+	2DE40C25	R1_BK
+	266AC15F	R1_BG
+	2A0C4F8E	R1_BH_XXX2
+	2A114A0C	R1_BX
+	26775374	R1_BN_XXX1
+	29937788	~z~Hove Beach is our little corner of Eastern Europe.
+	1B7CEE3D	R1_BR
+	1D279514	~z~Immigrants here do not make it very far from the boats they come in on.
+	1AD10EF4	~z~The mansion is coming, cousin. That's the dream... follow me.
+	1B1ACBDB	SFX_PAUSE_1000
+	31D9BE78	~z~No, everyone seems happy where they are.
+	2F1D0FB7	R1_BJ
+	1DE42689	~z~Yes, but only locals.
+	1DAD3F84	R1_BO
+	3061F5C8	100
+	5013467C	R1_BO
+	292CABAB	~z~... and here we are, at my place. Pull up.
+	50D9A3B8	~z~Four big titties to be playing with?
+	50C2AA8F	SFX_PAUSE_1000
+	4DFBB03C	SFX_PAUSE_1000
+	4DAE050B	R1_BV_XXX2
+	07583312	~z~every possible choice.
+	08849679	~z~Fucking terrorists.
+	06C53AB6	SFX_PAUSE_4000
+	54F2E288	R1_BS
+	06233B74	R1_BL
+	032477B9	R1_BV_XXX1
+	051DE875	~z~Mansions in Berchem,
+	51B4819D	~z~me and my cousin Niko, rulers of the world!
+	50DF8C83	~z~The city is like a big Uder Milken Ice Cream shop: thirty-six flavors of titty.
+	5351CF39	R1_BQ
+	065AEC1B	R1_BC
+	09421A36	R1_BN_XXX2
+	0BAA8216	~z~Our country has women too.
+	4B7F3DD2	R1_BH
+	09D65247	R1_BL
+	4A77FFB0	~z~Think of all the girls you've been missing out on!
+	4B40715D	R1_BC
+	4B441C72	R1_BT
+	4C55E4A5	~z~Drive us to our place on Mohawk, it's just up the road. I'll let you know when we're there.
+	0971FD31	~z~you ever had two women at once?
+	4EEBF729	~z~This is the mansion?
+INT_CUT1_1	0496CBC1	~z~Daddy's back, you bitches...
+INT_CUT1_2	EA6C976D	~z~Daddy's back, you bitches!
+INT_CUT2_1	E1F52E1F	~z~Dave, come on.
+INT_CUT2_2	D39E1171	~z~Come on Dave.
+INT_CUT2_3	90B58B9D	~z~Niko? What are you doing?
+INT_CUT2_4	C2236E78	~z~Dave is not coming.
+INT_CUT2_5	09407CB1	~z~Ah ignore him. Come on we got to get this thing ready before we dock. Let's go.
+INT_CUT3_1	CD62AFF4	~z~Here, pass me that.
+INT_CUT3_10	6DC53371	~z~Like they say, it is the land of opportunity.
+INT_CUT3_11	0DB5F350	~z~I always wanted to make it big... own a nice place, get a dog, a house...
+INT_CUT3_12	9F6896B7	~z~live the dream!
+INT_CUT3_13	B12ABA3B	~z~Like my cousin.
+INT_CUT3_14	C508E1F7	~z~Oh yeah?
+INT_CUT3_15	44F361CE	~z~Yes - he's got the lot - house, women, cars, parties...
+INT_CUT3_16	D6CA0579	~z~he writes me in these wild emails, and after I got into trouble, I thought maybe uh...
+INT_CUT3_17	E87028C5	~z~and then I got this gig, and I spend the next seven months with you fine people and I forget...
+INT_CUT3_18	FA10CC06	~z~After the war finished, I couldn't get a job, nobody could...
+INT_CUT3_19	63491E75	~z~so I, uh, did some dumb things and got involved with some idiots...
+INT_CUT3_2	6A336993	~z~There.
+INT_CUT3_20	8577FA8E	~z~Ahh, we all do dumb things... that's what makes us human.
+INT_CUT3_21	9BAC274A	~z~Could be.
+INT_CUT3_3	58E146EF	~z~Whooh yeah! There she is... Liberty City.
+INT_CUT3_4	05C520B8	~z~Yeah.
+INT_CUT3_5	037C1C26	~z~You ever been?
+INT_CUT3_6	85209F71	~z~No.
+INT_CUT3_7	AFE2F4F5	~z~Crazy place, Niko.
+INT_CUT3_8	A0BD56AA	~z~What you going to do?
+INT_CUT3_9	4E79321F	~z~I might come back on board... or I might try to make a go of it.
+R1_CUT1_1	69EEFDA7	~z~Hey...
+R1_CUT1_10	812E406E	~z~Ahh, you'll be fine. Better than my Serbian.
+R1_CUT1_11	737CA50B	~z~So good to see you cousin.
+R1_CUT1_12	99E271DA	~z~I can't believe you made it! Ha!
+R1_CUT1_13	8BB0D577	~z~Shit... I have to tell you I had quite a night last night.
+R1_CUT1_14	B82D2E6F	~z~Two women! The land of opportunity.
+R1_CUT1_15	AAEE13F1	~z~I've made it!
+R1_CUT1_16	D4AFE774	~z~Shit, man, I'm still a touch drunk.
+R1_CUT1_17	C539C888	~z~A touch?
+R1_CUT1_18	0F30DC75	~z~My cousin is here!
+R1_CUT1_19	E1E981E7	~z~-Woah! Roman, Roman, come on, come on, relax.~n~-We're going to rule the world!
+R1_CUT1_2	3B98A0FB	~z~-Niko! My cousin! I can't believe it! You're here!~n~-Hey!
+R1_CUT1_20	E3760AD0	~z~Yeah, yeah, whatever, buddy.
+R1_CUT1_21	11D76792	~z~-Just take over the world someplace else, alright?~n~-Yeah, buddy!
+R1_CUT1_22	BD55BE70	~z~-You're in the Goddamn way.~n~-Take off!
+R1_CUT1_23	900D63E0	~z~-Screw you... screw you all! My cousin is here!~n~-Hey, come on, man!
+R1_CUT1_24	D9A3770B	~z~Niko Bellic! He's the fucking man, bitches!
+R1_CUT1_25	ABB61B31	~z~Roman, come on, let's go... to the mansion, eh?
+R1_CUT1_26	46C55151	~z~Yes, the mansion! Whoa.
+R1_CUT1_27	5913F5EE	~z~Maybe you should drive...
+R1_CUT1_28	63290A18	~z~-Maybe I should.~n~-Okay!
+R1_CUT1_29	755EAE83	~z~Okay. Hey is this a cab? Where's the sports car?
+R1_CUT1_3	0518B400	~z~-Welcome to America! ~n~~c~-Good to see you, cousin.~s~
+R1_CUT1_30	B2F2A67A	~z~Err, it's in the shop... come on!
+R1_CUT1_4	F9179BFE	~z~What?
+R1_CUT1_5	90EA4B9D	~z~Good to see you, man - what, you forget our language?
+R1_CUT1_6	8282AECE	~z~Uhhh... ~c~cabbages?~s~
+R1_CUT1_7	2C440252	~z~Maybe a little. I've been here 10 years! You can speak English.
+R1_CUT1_8	A015E9F4	~z~Remember, we learned off the English girls with the big...
+R1_CUT1_9	E0DEEB8D	~z~Hey, a little... not so good.
+R1_CUT2_1	CF6925A5	~z~Come in, come in!
+R1_CUT2_10	7B826A1A	~z~So...
+R1_CUT2_11	4A190748	~z~So, you full of crap, or what?
+R1_CUT2_12	7DA96E6C	~z~What?
+R1_CUT2_13	4C608BDB	~z~Where's luxury condo? Where's sports car?
+R1_CUT2_14	570EA137	~z~Where's Barbara with big titties and Stephanie who sucks like a vacuum?
+R1_CUT2_15	2832C37C	~z~What you talking about?
+R1_CUT2_16	44D5FCC2	~z~In your letters to my mother, in your letters to me...
+R1_CUT2_17	12A71865	~z~all I hear about is Mr. Big, Mr. Roman, living the American dream.
+R1_CUT2_18	215135B9	~z~Sports cars, condos, women, money, the beach...
+R1_CUT2_19	EEF9510A	~z~opportunity!
+R1_CUT2_2	BD8381DA	~z~Make yourself at home... what's mine is yours!
+R1_CUT2_20	A00FB494	~z~I come here, and the only thing big about your life is the cockroaches.
+R1_CUT2_21	89D2881A	~z~That's right. I got the best cockroaches, I got the best dirt!
+R1_CUT2_22	BC8C6D8D	~z~Screw you, you idiot!
+R1_CUT2_23	A6464101	~z~Okay, I'm an idiot, but you must admit I have the best line in bullshit you ever heard.
+R1_CUT2_24	59762762	~z~Yeah, this I know. Asshole.
+R1_CUT2_25	83357AE0	~z~But here, all I needed was one good guy.
+R1_CUT2_26	87E18424	~z~One good guy, I could do well.
+R1_CUT2_27	B2A2D9A6	~z~Not take over the world, but do okay.
+R1_CUT2_28	6555BF0D	~z~Now, maybe I have this.
+R1_CUT2_29	4F979391	~z~But what about you? What about you, cousin?
+R1_CUT2_3	3BBD7E4C	~z~Got him! Little bastard. If he paid some rent I wouldn't care...
+R1_CUT2_30	524A99B3	~z~What? What about me?
+R1_CUT2_31	56D8A2CF	~z~Well...
+R1_CUT2_32	A6DEC2DA	~z~why you leave home after all this time?
+R1_CUT2_33	B8726601	~z~First, I hear you're running with the wrong kind,
+R1_CUT2_34	8B340B85	~z~then I hear you joined the merchant navy, now you're here.
+R1_CUT2_35	9D0EAF3A	~z~You never tell me anything.
+R1_CUT2_36	E3DEBCC1	~z~Huh. No.
+R1_CUT2_37	2596C030	~z~What do you mean no?
+R1_CUT2_38	3825654D	~z~No, I never tell you anything.
+R1_CUT2_39	0AF40AEB	~z~Another time.
+R1_CUT2_4	2922D917	~z~Oh... shit... oh, that's not nice...
+R1_CUT2_40	88518720	~z~Oooh, mystery man...
+R1_CUT2_41	F68AE395	~z~strange and exotic sailor!
+R1_CUT2_42	A33BBD18	~z~What happened? Did your captain make you pregnant?
+R1_CUT2_43	B176598D	~z~Screw you! No, no, it's nothing like that.
+R1_CUT2_44	B69063C1	~z~The ships were fine.
+R1_CUT2_45	4BE18E65	~z~It was before that, two things.
+R1_CUT2_46	5C662F6E	~z~You remember, during the war...
+R1_CUT2_47	6AACCBFB	~z~we did some bad things and bad things happened to us.
+R1_CUT2_48	0F8615CB	~z~War is where the young and stupid are tricked by the old and bitter into killing each other.
+R1_CUT2_49	1D3BB136	~z~I was very young, and very angry.
+R1_CUT2_5	AA855BDE	~z~Ah, cousin, it's so good to see you!
+R1_CUT2_50	A1603155	~z~Maybe that is no excuse...
+R1_CUT2_51	7DB9EA09	~z~Roman?
+R1_CUT2_52	A0B9300B	~z~-Roman! Are you sleeping, you fat fuck? Come on!~n~-Huh! No! No way!
+R1_CUT2_53	92F59484	~z~What's the time? Shit... I've got to get the cab back. It's on a shift.
+R1_CUT2_54	C56BF970	~z~-Oh, Jesus! Tastes like a rat shat in it...~n~-Roman...
+R1_CUT2_55	B7B15DFB	~z~-Niko, I've got to run, come meet me at the cab office.~n~-Jesus... what?
+R1_CUT2_56	D9C0A21D	~z~-It's easy. Out the door, turn left, then the first left at the diner,~n~-What are you talking about? I don't...
+R1_CUT2_57	CBFB0692	~z~-go down one block and turn right on Iroquois,~n~-I'm new here...
+R1_CUT2_58	FE456B26	~z~-then walk all the way down and we're right there on the left on the corner of Cisco Street.~n~-what are you talking about, man?
+R1_CUT2_59	EFC4CE25	~z~It's really flash. We got lots of titties and some incredible motors...
+R1_CUT2_6	97CA3668	~z~Yeah! Hmm...
+R1_CUT2_60	1CA6292F	~z~Niko. Give me a hug. Good to have you here cousin... I've got something for you.
+R1_CUT2_61	0D4F8A82	~z~Oh, damn... damn, damn, damn!
+R1_CUT2_62	42F9F5D6	~z~Yes, Vlad, sorry, forgive me, okay, no... no.
+R1_CUT2_63	30AC513B	~z~Please don't cut my cock off, eh?
+R1_CUT2_64	66C1BD81	~z~Oh, okay, bye... yes, no, uh, okay.
+R1_CUT2_7	F2E3EC9A	~z~Shit... well, I needed to change anyway...
+R1_CUT2_8	E0D34879	~z~So!
+R1_CUT2_9	97BBB63F	~z~So...

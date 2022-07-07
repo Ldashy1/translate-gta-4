@@ -1,0 +1,33 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A30C592D	~s~Stop the truck near the trash bags.
+	B0E974E7	~s~Press ~INPUT_PHONE_ACCEPT~ to operate the trash compactor.
+	B17FF524	~s~Go back and pick up ~b~Tuna~s~ and ~b~Johnny.
+	90DF34C3	~b~Johnny~s~ fell off. Go and pick him up.
+	924936CF	~s~Get back in the ~b~truck.
+	92B1998F	~s~Get in the ~b~truck.
+	B6D5FFE8	~r~The truck has been destroyed.
+	E237CAE1	~s~Go back and pick up ~b~Tuna.
+	E9EC66F0	~b~Tuna~s~ fell off. Go and pick him up.
+	F4A86FC2	~s~Go back and pick up ~b~Johnny.
+	D64A3FAC	~s~Open the back of the Trashmaster.
+	D96D9DE6	~s~Press ~PAD_X~ to operate the trash compactor. You must put your phone away first.
+	DC11CB3B	~b~Tuna~s~ and ~b~Johnny~s~ fell off. Go and pick them up.
+	8E0A2E39	~r~Luca is dead.
+	3AEA8813	~s~Go and pick up the ~b~Trashmaster.
+	3F4F02EE	~s~Press ~INPUT_PHONE_ACCEPT~ to operate the trash compactor. You must put your phone away first.
+	5C493C78	~s~Press ~PAD_X~ to operate the trash compactor.
+	10A2EC26	~s~Wait here until the pickup is completed.
+	2FA77AFD	~r~You have abandoned the truck.
+	3ADE993B	~r~You attacked Ray's boys.
+	6108E58F	~r~Johnny is dead.
+	80D913D7	~s~Wait here while Tuna and Johnny make the pickup.
+	841C1B3D	~s~Lose your wanted level.
+	84881B4D	~s~Go to the ~y~drop-off~s~ in Fishmarket South.
+	6196556A	~s~Drive to the ~y~second diamond pickup.
+	6DA46D86	~s~Drive to the ~y~first diamond pickup.
+	7C301BD9	~r~Tuna is dead.

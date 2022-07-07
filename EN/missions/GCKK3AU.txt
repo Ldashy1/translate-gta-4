@@ -1,0 +1,241 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A85DC7DD	~z~That man was very amusing.
+	A835D6D4	GCKK_ACT_SHOW_RESPONSE_POS
+	A6355C0C	~z~Goodbye then.
+	A89CB1F6	~z~I'd like a lift home, if that's okay?
+	AB6A6286	~z~Why are we leaving? Do you have to get back to some cheap whore or something?
+	AAF11DE0	GCKK_ACT_PKI_END_NO_RESPONSE
+	A9E5ED6F	~z~This date has been amazing. We're really breaking down barriers. Maybe we should call it a day though.
+	9D334689	~z~I need it to really mean something when we're together physically. Not tonight, Niko.
+	9AF4F9A2	~z~See you really soon, Niko.
+	9A7F8395	100
+	9DE59C88	~z~It'd be nice if you took me home now.
+	A21BCCE1	~z~I thought you were taking me somewhere.
+	A172F4C7	~z~I feel like I really understand you now, Niko.
+	9E661CF8	GCKK_ACT_BORED_HOME
+	AC71E506	~z~Niko, I'm scared of getting close to you. I can't invite you in.
+	C2F60376	~z~I've had a nice time, Niko.
+	C2AE3F03	~z~I guess there isn't a winner then.
+	C2728BCA	100
+	C3C3C92C	GCKK_ACT_DARTS_LEAVE__LOST
+	C6E45651	~z~Did you take me out just to humiliate me, Niko? Show me some respect.
+	C509D2D3	~z~Why are we stopping? Have you got to run to some cheap whore?
+	C4C5192F	GCKK_ACT_POOL_LEAVE_WON
+	B2647CDB	~z~Why don't we do something else now?
+	AD40E32B	~z~Niko, I'm taking time out from work to be here. Can we do something?
+	ACE87FC5	100
+	B479E7B7	100
+	B82EE1A0	~z~I bet you finish the games you start with your other whores.
+	B7741AC5	~z~Wow! Who'd have thought I was so good at bowling?
+	B4AB434E	100
+	7F434003	100
+	7EFAFFCA	~z~Man, oh man. I think I should have stopped drinking three beers ago.
+	7C4F762A	~z~Oh well, this has been fun.
+	80D36248	~z~Can you bring me home?
+	811BF01F	010
+	81009C15	GCKK_ACT_PKI_END_KISS_RESPONSE
+	80DA2644	100
+	78232F89	GCKK_ACT_LEAVE_PUB_FAVOURITE
+	77AA4FF6	~z~I'd like it if you dropped me back at my place.
+	741DEB93	~z~That was so nice, Niko. I don't care what they say about health risks, that stuff tastes good.
+	78ACDA02	GCKK_ACT_DATEFINISHED_OK
+	7C210913	~z~What's the chances of finishing on a tie? I guess we're perfectly matched, aren't we?
+	7BF0C09E	~z~I don't understand why we stopped. Have you got sick of me?
+	7AEAFE7C	~z~I feel like you're stalling, Niko. Why is taking so long to get there?
+	8330671E	~z~Drop me home please.
+	94BD18BF	100
+	92057551	~z~I hope you're not intimidated by my beating you, Niko.
+	9026B878	~z~How about you take me somewhere else now? That's if you're not tired of me yet.
+	94F3E19A	~z~Enjoy the memories then. Goodbye.
+	9A09C55E	100
+	98553401	~z~That was so nice, you don't have to spend money for me to have a good time.
+	9693066B	~z~You're really good at bowling, Niko.
+	8BBE469B	010
+	8A1BD08F	GCKK_ACT_PKI_END_REJECT
+	85BC557F	~z~I'd like to come in with you, Kiki.
+	8F126BC6	GCKK_ACT_DARTS_LEAVE_ABANDON
+	901D2C5D	~z~There's nothing I want more than to be both physically and emotionally close to you. Not tonight though.
+	8FAEB6BB	GCKK_ACT_POOL_LEAVE_ABANDON
+	8F7F9C8A	~z~This has been swell, Niko.
+	C739D608	~z~Whatever you say, Kiki.
+	EE8FA988	~z~I had a really good time, Niko. I can't tell you how nice it is to be taken out on a date.
+	EE173117	~z~So you think I'm cheap like your other whores! Thanks a lot, Niko.
+	EDFC4204	~z~That place is full of bankers and lawyers. I'm not interested in guys like that. Don't turn into one of them.
+	EEB8DB02	GCKK_ACT_LEAVE_CLUB_GENERIC
+	F38E03A1	~z~I'm going home now.
+	F26037FC	GCKK_ACT_DARTS_LEAVE_WON
+	EF8EF814	100
+	E4D986BA	GCKK_ACT_PKI_END_RESPONSE
+	E3E1F8C2	100
+	E2460D18	~z~I think it's time to put an end to this date.
+	E60E57C9	~z~Can't stand sitting next to me, is that it? I can't believe you couldn't even wait until the end of the show.
+	ECDC23BD	~z~This date could keep going inside your place if you invite me in. How about it?
+	EC0D20A6	~z~I can tell your mind has been on your other cheap whores all night, Niko.
+	E69E1FBE	100
+	F3C65932	~z~We're so perfectly matched, Niko.
+	FA811AFB	~z~You shouldn't have let me drink so much. I'm feeling buzzed.
+	FA041091	~z~I'll see you round, Kiki.
+	F80D1814	010
+	FA990114	GCKK_ACT_PKI_END_KISS_AGREE
+	FE69FC03	~z~It's been so hard resisting you. I'm so pleased that it's time.
+	FDD7AB07	~z~You really know how to handle those darts, Niko. I wonder what else you're good at?
+	FD82D2AA	100
+	F5A7365F	~z~You'll be on my mind then, Kiki. I'll see you soon.
+	F5524513	GCKK_ACT_DATEFINISHED_BAD
+	F48FC2EC	100
+	F76BF780	~z~My time is really valuable, Niko. Can we do something soon?
+	F7E4B816	~z~Well, maybe I'll take you out again, give me your number. I'll see you soon.
+	F7DDEC8A	~z~Yeah. Okay.
+	F7799D58	GCKK_ACT_LEAVE_SHOW_EARLY
+	D06E97FE	~z~It was a bit degrading but funny all the same.
+	CF3DE879	~z~Hey, now that I've brought you back here, are you going to invite me in?
+	CD36C7D4	100
+	D262BDAD	100
+	D4F9A0C2	~z~Ummm, Niko, it sure is taking a long time to get me home, isn't it?
+	D4469F5C	~z~Come on, Niko. It can't be that hard to get me home. Why is it taking so long?
+	D390274B	100
+	C98C9F51	100
+	C945BE68	~z~I've got to compete with men as part of my career, it's no real surprise I beat you.
+	C7660012	~z~I don't like a man who won't finish what he's started, Niko.
+	CA438027	GCKK_ACT_DARTS_LEAVE_DRAW
+	CCF8B6C5	100
+	CC572CD2	GCKK_ACT_LEAVE_SHOW_CABARET
+	CB4C4879	~z~That really taught me a lot about your culture, Niko. Thank you for sharing it with me.
+	D5069D55	~z~Let's go inside.
+	DD4BC684	GCKK_ACT_POOL_LEAVE_LOST
+	DC38AD8C	GCKK_ACT_DATEFINISHED_HOME
+	DB328176	~z~Well you're being sensible for both of us. Thank you. I'll call you, Kiki.
+	DEA0EBC3	~z~There's nothing like sharing a moment like this with someone you care about, is there?
+	E226C37D	~z~I'm gonna remember this moment for ever. It's so special.
+	E0B5E74D	~z~Whoa. I thought you were going to keep an eye on my drinking, Niko.
+	DEF487EE	~z~It would mean a lot to me if I could come inside, Kiki.
+	D58DC652	GCKK_ACT_PKI_END_NO
+	D55F36FE	GCKK_ACT_BOWL_LEAVE_WON
+	D520A7CB	~z~Niko, you're sweet.
+	D5B072F5	~z~Sure, Kiki, sure.
+	D9B13F84	~z~What sort of girl do you think I am, Niko?
+	D919390A	GCKK_ACT_END_BAD_RESP
+	D7F4CC8A	010
+	7201BF0B	100
+	2BC359FC	GCKK_ACT_DATEFINISHED_GOOD
+	29361C74	~z~Don't leave me out here in the cold, Kiki. Invite me in.
+	28D06E25	~z~Enjoy yourself.
+	2CFD4D41	~z~Okay.
+	31D6C3FA	GCKK_ACT_PKI_END_REJECT_RESPONSE
+	30492829	~z~Alright, I get it.
+	2D4A40C3	GCKK_ACT_BOWL_LEAVE_LOST
+	24B2B6B8	~z~Were you ashamed to be bowling with me, Niko? That's why you stopped, wasn't it?
+	22ECC996	100
+	22E3E44A	100
+	25976787	GCKK_ACT_BORED_GETTING
+	27B75C2A	~z~Ha ha ha ha.
+	27603EFE	~z~Congratulations, Niko. Good game.
+	2737235A	~z~I'm not going to get played by you, Niko. I'm not stupid.
+	31F2F0A1	~z~Oh my God.
+	3B5E40C4	~z~Kiki, I don't want to have to say goodbye to you out here. How about I come in?
+	3B340323	~z~That is too much.
+	3B1AF560	~z~This is really going to mean something, Niko. Come in.
+	3CA20FF6	GCKK_ACT_SHOW_RESPONSE_NEG
+	3E66C087	~z~See you, sweetie.
+	3E31850A	~z~I'm starting to get suspicious, Niko. Why haven't we gotten there yet?
+	3DEFE304	GCKK_ACT_END_GOOD
+	37971C62	GCKK_ACT_PKI_END_YES
+	36B8074D	~z~Niko, I wish this date could go on forever, but it's got to end, doesn't it?
+	330D1FB5	~z~Niko, are you trying to fatten me up? I like this place but I can't eat here again.
+	379A79A4	~z~Call me, okay? Call me soon.
+	3AF4A46D	~z~You are an amazing man, Niko.
+	38BCC4AB	100
+	381ABA3D	~z~How about I keep you company inside?
+	0622AAAC	100
+	056CA75E	~z~Well, have fun in there.
+	0562C791	100
+	08BBF138	GCKK_ACT_END_BAD
+	0CA0B5CA	~z~Goodbye, Kiki.
+	09609D31	~z~I'll be thinking about you... a lot.
+	08D97C79	100
+	030EB231	GCKK_ACT_LEAVE_FASTFOOD
+	02A72075	010
+	02924F29	~z~We're both adults, Kiki. Why don't you ask me into your place?
+	033579B2	~z~Let's go, Kiki.
+	03F13663	~z~Your language is so beautiful, Niko. It's such a shame you've got to speak English the whole time.
+	03BC1434	~z~That is hilarious.
+	03B2F8BE	100
+	0CC298B4	~z~This is going to be amazing. I might cry with happiness.
+	1B0BD977	~z~I really didn't think there was any way I wouldn't enjoy being taken out. But this wasn't fun. Goodbye.
+	19378753	~z~Shit, add insult to fucking injury, Niko. Sorry, I'm not one of your cheap whores, okay?
+	1788CB96	~z~Later on.
+	1B353338	~z~Ummm.
+	21DD0964	GCKK_ACT_PKI_END_KISS
+	20D68569	100
+	1EDD108C	010
+	102C4FB0	~z~Niko, you really dominated me on that dart board. I loved it!
+	0EC467A0	100
+	0D5965C3	~z~You know, you're probably right. I'll see you soon.
+	1073FA43	~z~I hear they've got bowling alleys at American Air Force bases overseas. Is that where you learnt how to do it?
+	170D04EC	GCKK_ACT_DATEFINISHED_AGAIN
+	148EF676	100
+	12D2D426	~z~Do you ever get so happy that you feel like crying, Niko? That what I'm feeling right now.
+	3E708754	~z~Fine. You'll call me, right?
+	5EDD7BA0	GCKK_ACT_PKI_END_GOOD_N
+	5E8C3040	~z~I enjoyed that, Niko. You're a good conversationalist.
+	5B6A68D6	100
+	5F25138D	010
+	6096CF5D	100
+	60858995	~z~Jesus, Niko. This was hardly even a date.
+	5F536D2A	~z~Niko, I feel like we were destined to meet each other.
+	589BEAD2	~z~Niko, I can't eat here now. There are too many painful memories of Tremaine.
+	5810F0F2	100
+	57EFB886	~z~Niko, are you taking me somewhere or what?
+	58A97ADB	GCKK_ACT_LEAVE_HIGHEND
+	5B10296A	~z~Alright then.
+	5B0BACE8	~z~Hey, I thought you were taking me home.
+	58D16D82	GCKK_ACT_LEAVE_PUB_GENERIC
+	624D7800	100
+	6F2BF834	~z~I really felt like we got close on this date. It can't go on forever though.
+	6C664F9D	~z~I thought you were taking me home, Niko.
+	6BE973B5	GCKK_ACT_POOL_LEAVE_DRAW
+	6F5E3153	100
+	7163C385	~z~Bring me home, will you?
+	7136ECE0	~z~Umm, you're going to call me aren't you?
+	70A3A500	~z~It's hard to say goodbye but we have to.
+	6655242D	010
+	6568AB73	~z~Can you take me back to my place?
+	6468D102	100
+	690538E9	GCKK_ACT_PKI_END_BONK
+	6A13BE91	100
+	6952C2AA	~z~You're so clever with that pool cue, Niko.
+	69233A3C	GCKK_ACT_BOWL_LEAVE_ABANDON
+	4582A319	~z~How about we find something else to do now?
+	44F3A3C4	~z~This has been so much fun. But I'm kinda worn out though.
+	44D35334	~z~Sorry for beating you, Niko. I couldn't help it.
+	4683A993	~z~So long.
+	490ADF7B	GCKK_ACT_PKI_END_GOOD_Y
+	47FC578F	~z~Okay then.
+	47A05778	GCKK_ACT_LEAVE_STANDARD
+	3EFBEB4A	~z~Can't you even finish bowling with me? Are you that keen to get off with some other whore?
+	3ED334B4	100
+	3ECAFA63	~z~Alright then.
+	4088E12B	GCKK_ACT_LEAVE_WALK
+	447353FA	~z~Another time then, Kiki? I'll call you.
+	411EE848	~z~You really didn't have to spend that money, Niko. I'm not impressed by conspicuous consumption.
+	40B50A77	~z~Fuck me. I'm buzzed. Man, those cocktails have got a kick.
+	49DA4238	~z~You are so misunderstood, Niko.
+	52E5AED8	~z~Whoa. Those drinks were strong weren't they?
+	516A95FD	~z~That was really nice, Niko. I feel like I'm really getting to know you.
+	5041A258	~z~My ex-boyfriend used to take me here before he got sentenced.
+	558DF4A9	~z~I don't often lose, Niko.
+	57C5479E	~z~I don't want to go home yet. Is there something else you'd like to do now?
+	576FC786	GCKK_ACT_DIFF_FASTFOOD_NO
+	5618EFEB	~z~Bye, Niko.
+	4A1674CF	~z~Will you take me home?
+	4A09655A	~z~Niko, if you've got a problem with a dominant female who can beat you at pool, then maybe you're dating the wrong girl.
+	49E88E0F	GCKK_ACT_BOWL_LEAVE_DRAW
+	4ACCEA85	~z~Yeah, give me all the STDs you've caught off those other cheap whores. Shame on you, Niko.
+	4E0D6C10	100
+	4D80A7BC	~z~Stop it!
+	4D5B4F6E	GCKK_ACT_LEAVE_SHOW_COMEDY

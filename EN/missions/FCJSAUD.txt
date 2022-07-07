@@ -1,0 +1,279 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	A79F4AA9	~z~Yo, sorry rasta, yo. I don't have nuthin for ya right now, man. Try again later.
+	A976D9E2	FCJ_ACT_CALL_REQ_SPEC_DOWNTOWN
+	A47434CE	100
+	A6220753	FCJ_ACT_PLJ_CALL_REQ_SPEC
+	AD0842E8	FCJ_ACT_CALL_REQ_SPEC_FIREFLY_PROJECTS
+	AD64F4F2	~z~Don't miss.
+	AB504802	FCJ_ACT_CALL_REQ_SPEC_PORT_TUDOR
+	ACE942FB	~z~Yo, me down Varsity Heights y'know, link up, star.
+	A3A1DC8A	~z~Irie, Niko. Gimme a call, nuh?
+	9E0637EC	~z~Meet me down at Colony Island now.
+	9F2AD87E	~z~You get dis one, you win rasta.
+	9A6B6B4E	~z~Yeah man, meet me round Chase Point, man, link up, link up.
+	9BCD5693	FCJ_ACT_CALL_REQ_SPEC_CITY_HALL
+	A34F1C1E	100
+	A3603DBA	FCJ_ACT_SPEC_INJURED
+	9FB5EFEE	FCJ_ACT_CALL_REQ_SPEC_SOUTH_BOHAN
+	9FD57D20	~z~Sorry, man - I need some help. I need some hardware, know what I mean?
+	B5DA5180	100
+	B6EAFFE0	~z~Easy now, star.
+	B3938157	~z~You're a dangerous man ya know Niko Bellic, BOOM, BOOM!
+	B4AD8268	FCJ_ACT_SPEC_GREETING
+	BA7386ED	~z~Be safe, rude boy.
+	BBBB03A2	~z~Yo, see you Downtown.
+	B6EB3C57	~z~No problem Niko, meet me at Schottler.
+	B9A07B5F	FCJ_ACT_CALL_REQ_SPEC_ACTER
+	B29242B5	~z~Yeah man, me down a' Westdyke man, link up.
+	AEECC391	FCJ_ACT_CALL_REQ_SPEC_OUTLOOK_PARK
+	AF0854CF	100
+	ADF2A887	FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_WEST
+	AE200CED	FCJ_ACT_SPEC_CAR_DAMAGE
+	B14A2116	FCJ_ACT_CALL_REQ_EAST_ISLAND_CITY
+	B182D846	100
+	B104D2A0	~z~Yo star, just pick me up at the Presidents City now.
+	B12DA940	100
+	8AF2535A	~z~Sorry, Jacob - it's real important - I need some hardware.
+	8B772EE9	100
+	878FF317	FCJ_ACT_CALL_REQ_SPEC_PURGATORY
+	88080DBA	~z~Yea star, me down a' Northwood man, link up.
+	8C6A9D8C	FCJ_GO
+	8DC3568B	~z~Pick me up a' Little Italy.
+	8BA6DD2F	FCJ_ACT_CALL_REQ_SPEC_TUDOR
+	8BEF8CB8	100
+	85D83F89	100
+	8151BE3D	100
+	8208B08A	~z~Meet me a' Port Tudor.
+	7F3B29BD	100
+	80E5D084	~z~No problem Niko man, jus meet me a' South Slopes.
+	84DCA695	~z~What you doing, man?
+	85AE3B4C	100
+	8262B1F0	~z~Whappen? Why you gwan and wake me up?
+	83C54D2F	~z~Yo man, meet me pon Firefly Island.
+	96D67488	~z~Me down Little Bay man, link up, link up.
+	97D46B22	100
+	945D24BE	FCJ_ACT_CALL_REQ_SPEC_COLONY_ISLAND
+	954573EB	~z~Me down South Bohan man, just link up star, link up.
+	9997C106	FCJ_ACT_CALL_REQ_SPEC_THE_EXCHANGE
+	9A2B703A	FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK_EAST
+	9815C10F	100
+	9992C3F2	100
+	9393CBB1	FCJ_ACT_SPEC_GOODBYE
+	8F1C2EF6	FCJ_ACT_PLJ_CALL_CANCEL_SPEC
+	8FB171AC	FCJ_ACT_CALL_REQ_SPEC_CHARGE_ISLAND
+	8E3633C5	100
+	8EECC012	FCJ_MESS
+	924C9A3E	100
+	92E50AA6	100
+	91355FCA	FCJ_ACT_CALL_REQ_SPEC_LOWER_EASTON
+	914355C2	FCJ_ACT_CALL_REQ_SPEC_SOUTH_SLOPES
+	E93E7F92	~z~Wa mek ya wake me up?
+	EA836815	~z~Pick me up a' Star Junction now.
+	E6A495A5	~z~Yo, pick me up at de airport.
+	E87E910A	~z~No problem man, meet me at East island City.
+	ED2804F2	~z~No problem man, me see you at Berchem.
+	EE11FB27	FCJ_ACT_CALL_REQ_SPEC_CHINATOWN
+	EAFBB02A	FCJ_ACT_CALL_REQ_SPEC_WESTDYKE
+	EBB2E96B	~z~Be cool ya know, Niko.
+	E65E66EC	~z~Hurry up now Niko man!
+	DCBEE2CF	~z~Okay man, jus meet me a' Suffolk.
+	DE6157D7	100
+	DB513AF9	100
+	DB8C3DEE	~z~Yo, me see you a' Willis.
+	E47AD3D0	FCJ_ACT_CALL_REQ_SPEC_SUFFOLK
+	E4C12496	~z~I hot-stepping outta here Niko. See ya.
+	DF1D14E2	100
+	E092F188	~z~Yo, me see you at Beechwood City.
+	F49AC537	FCJ_ACT_CALL_REQ_SPEC_LITTLE_ITALY
+	F6DC48CC	~z~Yo, dis rasta be getting outta here. Later.
+	F3F8717E	FCJ_STUFF
+	F3FE8B4D	~z~Yo, meet me down a' Industrial yo.
+	FD6DE4FC	~z~Wicked Niko, yah here.
+	FDDBF131	100
+	F7826450	~z~I see ya Acter Industrial.
+	F8E35967	100
+	F201640B	100
+	EEFF83B4	100
+	EFAAC976	~z~Wha'gwan Niko? Good fe see de man.
+	EE1C430F	FCJ_ACT_CALL_REQ_SPEC_FORTSIDE
+	EE3C4C20	FCJ_GUN_CHAT
+	F1209BDC	~z~Cha! What ya are do Niko?
+	F1BD187A	~z~I got the guns you know, Niko.
+	EFCAEEE4	100
+	EFE055A9	FCJ_ACT_CALL_REQ_SPEC_BOULEVARD
+	C99579E9	~z~No problem, me meet you at Fishmarket North.
+	CA1E766B	~z~Yo, pick me up at Charge Island now.
+	C7644BBF	100
+	C8C72394	~z~See you later, rasta.
+	CB8AFB73	100
+	CBE9A996	100
+	CAC022DD	FCJ_ACT_PLJ_REQ_SPEC_SLEEP
+	CAF6000D	~z~Dat's me main man, Niko.
+	C67A1511	~z~You wolf man you know Niko?
+	BD5ECB7C	100
+	BE998A22	100
+	BC469AFF	~z~Meet me down a' Leftwood.
+	BD2D37CF	~z~Sorry man - I've got a problem. I need your help. I need a tool if you know what I mean?
+	C1D6CBC3	~z~Meet you pon the Boulevard man, yo link up star, link up.
+	C614764A	~z~Wha'gwan Niko? How's it going?
+	C0BAD20D	FCJ_ACT_CALL_REQ_SPEC_CHASE_POINT
+	C19A0328	~z~Yo, pick me up a' North Holland, now.
+	D5896B42	100
+	D6EEB8C2	~z~Yeah man, see you at Acter.
+	D29228FC	100
+	D2CF8E79	100
+	D85038BD	~z~Yo, you vexing me now, fassy one.
+	DA5C2BEF	FCJ_ACT_CALL_REQ_SPEC_VARSITY_HEIGHTS
+	D704DB1F	~z~Wha'gwan? You wake us up.
+	D797BDFA	~z~Yo, link me down a' Hatton Gardens now.
+	D161A4ED	~z~Yeah man, just pick me up at Easton.
+	CC9EBB16	FCJ_ACT_SPEC_BORED
+	CCE72478	FCJ_ACT_CALL_REQ_SPEC_YES_STEINWAY
+	CC1D6269	100
+	CC66C132	100
+	CE97C371	FCJ_BYE
+	D09AB56E	~z~Ye dun know, ye dun know man, Middle Park.
+	CD8953A6	100
+	CE7DF39D	100
+	7ED095A7	010
+	20229B58	~z~I and I best clear outta here before Babylon arrive.
+	21CB5DC5	~z~Der be an explosion.
+	1EC2BFD4	FCJ_ACT_CALL_REQ_SPEC_LITTLE_BAY
+	1ECC5C59	100
+	23EEFCDD	~z~Whappen star? I got the tings a' you wanted yo.
+	24675E13	~z~One love, Niko. I and I be seeing each other real soon.
+	2215F1B7	100
+	22AD4B2B	FCJ_ACT_CALL_REQ_SPEC_LEFTWOOD
+	1DF7DFB1	100
+	17470CBB	~z~All de heat is right here, seen?
+	18832911	FCJ_ACT_CALL_REQ_SPEC_ACTER_INDUSTRIAL
+	16C51EDF	FCJ_ACT_CALL_REQ_SPEC_NORTH_HOLLAND
+	16F0C7EB	FCJ_ACT_CALL_REQ_SPEC_GENERIC
+	19F9DCD2	100
+	1C90AA16	~z~Yo, meet me at Cerveza Heights.
+	195D80EA	FCJ_ACT_CALL_REQ_SPEC_MIDDLE_PARK
+	19C30047	~z~Had enough o' dis.
+	315CDF14	010
+	32774001	~z~Cha, me need fe get outta here me bredren, later.
+	2E4759D6	100
+	3109C040	~z~Everyting a mafia don could want inna dis shit.
+	375FFEB7	~z~Yo, pick me up a' Middle Park East now.
+	381E253D	FCJ_ACT_CALL_REQ_SPEC_EAST_HOLLAND
+	34579A56	~z~Jacob, I need some of that hardware you promised me.
+	362E72AE	~z~Meet me at Tudor.
+	2D7A03AA	~z~Yeah, just meet me up at Triangle.
+	28DA8B47	~z~Why ya fucking around and ting?
+	2B073B5E	~z~Star, me down East Holland man, yo, link up.
+	2573A914	~z~I got some teeth inna here ya know, bredren.
+	2786BC89	FCJ_ACT_CALL_REQ_SPEC_AIRPORT
+	2C004E5E	FCJ_ACT_CALL_REQ_SPEC_NO
+	2C580343	~z~There it be and ting.
+	2BCEA46A	~z~Yo, me not having no more o' dis.
+	2BD1C62F	100
+	09F7F21D	~z~Yeah man, me have di heavy firepower ya need, ya know man?
+	0AD19298	100
+	0780439B	FCJ_ACT_CALL_REQ_SPEC_NORMANDY
+	078EB9B1	~z~Yeah man, check this shit out ma bredren.
+	0F0A688E	FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_SOUTH
+	0FC0EC80	100
+	0BA71DC4	100
+	0D078831	FCJ_ACT_CALL_REQ_SPEC_CERVESA_HEIGHTS
+	077E1D14	FCJ_ACT_CALL_REQ_SPEC_HOVE_BEACH
+	01558230	100
+	021019BF	FCJ_ACT_CALL_REQ_SPEC_NORTHWOOd
+	00413582	~z~Hey, star - I got what you wanted.
+	006BA417	100
+	05A33CA5	~z~Right you are star.
+	06CF8E0C	100
+	0240AFF2	010
+	0412F667	~z~Meet me at City Hall now.
+	14F0536C	100
+	157DE078	~z~Yeah man, meet me down at Purgatory.
+	145CB3B9	100
+	148B86BA	100
+	1688AE02	FCJ_ACT_CALL_REQ_SPEC_STAR_JUNCTION
+	16990D48	100
+	15B67F49	FCJ_ACT_CALL_REQ_SPEC_NORTH_GARDENS
+	15BCED83	~z~Yo, link me down a' Middle Park West now.
+	145BBCD9	100
+	10FE32A7	100
+	11B1A512	FCJ_ACT_PLJ_GETCALL_SPEC_END
+	1011E886	~z~Pick me up a' - em, the gardens yo, Northern Gardens.
+	1040B871	FCJ_ACT_CALL_REQ_SPEC_LANCASTER
+	12FDAF9C	~z~Yo Niko, I your bredaman, Jacob. Listen, we been friends for a long time, seen? Phone me up if you need to buy some guns, seen?
+	13D9EDEC	~z~Niko, me there a' Fortside, link up.
+	1293B79F	FCJ_ACT_CALL_REQ_SPEC_MEADOWS_PARK
+	12EA5F29	100
+	5E12E6B8	~z~What? You feeling this?
+	5E31B681	100
+	5A22C98D	~z~Later on Niko. Easy.
+	5D9A56A0	~z~No problem Niko.
+	620440B0	FCJ_ACT_CALL_REQ_SPEC_CASTLE_GARDENS
+	628FA03B	~z~No problem Niko, just meet me at the Exchange.
+	5F369D68	FCJ_ACT_CALL_REQ_SPEC_MEADOWS_HILLS
+	60B19C6F	FCJ_ACT_CALL_REQ_SPEC_SCHOTTLE
+	59B7D022	FCJ_TRUNK
+	5559A723	FCJ_ACT_CALL_REQ_SPEC_PRESIDENTS_CITY
+	558A6C18	100
+	54B62549	010
+	5506F3A0	~z~Hey Jacob, listen. I don't need the hardware no more.
+	57D1DA36	~z~I an' I got nuff guns ya know, my youth.
+	58184DC7	~z~Yeah man, me see you at Chinatown.
+	5736E7FF	~z~Cha, Niko. What kind of fuckery's a go on?
+	57964FEB	FCJ_ACT_CALL_REQ_SPEC_BERCHAMN
+	7947D105	~z~Yo, Niko, meet me at Steinway.
+	7AF5D1C9	FCJ_ACT_CALL_REQ_SPEC_HATTON_GARDENs
+	78DC4E54	100
+	792AA529	100
+	7C180ECF	100
+	7D27D33C	100
+	7B73C891	~z~Yo, just meet me a' Firefly Projects.
+	7BDA2AAF	~z~Yo, meet me at Castle Gardens now.
+	76FDA460	~z~No problem man, just meet I an' I at Hove Beach.
+	6E979AA5	~z~Sorry man - I need your help. I need some equipment.
+	71162BC2	~z~Hey, listen, Jacob - it's all cool. I don't need that hardware anymore.
+	69DBFAED	FCJ_ACT_CALL_SPEC_END
+	6D19318F	FCJ_ACT_CALL_REQ_SPEC_WILLIS
+	748C35F9	FCJ_ACT_CALL_REQ_SPEC_FIREFLY_ISLAND
+	755C8F26	~z~A'ight, pick dem up a' Meadow Hills.
+	7179F4BD	~z~No problem man, meet me a' Meadows Park man.
+	7405E395	FCJ_ACT_GETCALL_SPEC
+	40C353E3	FCJ_ACT_CALL_REQ_SPEC_BEECHWOOD_CITY
+	41262CDF	~z~It all there, me breda.
+	402AB1FC	~z~Jacob, I need to get a hold of a weapon. Can you help me?
+	404C95E1	~z~Keep outta trouble bredren. I an' I see ya soon.
+	43A23D96	~z~Ye Niko man, me down a' Normandy, link me up now.
+	43A8E772	100
+	4128D48B	~z~Yeah, pick me up a' Lower Easton.
+	43929144	FCJ_ACT_CALL_REQ_SPEC_FISHMARKET_NORTH
+	3FBA8360	FCJ_ACT_CALL_REQ_SPEC_EASTON
+	3ACCDFBD	~z~Righteous, bredren. Good fe see de I.
+	3ACD1696	FCJ_ACT_SPEC_SLEEPING_YES
+	38CE8443	~z~Thanks Jacob - I appreciate that.
+	3A392E04	~z~Ya been blacking up too much me breda?
+	3EDF36E4	100
+	3F1E9CBA	100
+	3B017DE8	100
+	3DA470A7	FCJ_GREET
+	52407F93	~z~Yo, I an' I should be geting outta here bredren.
+	531EC312	~z~Whappen rasta? What you doing?
+	4EDEAB43	100
+	50FA373C	~z~Later my youth. Call me and ting.
+	541CD565	~z~Yo. You wake me up. It better be important y'know?
+	54261D5F	FCJ_ACT_CALL_REQ_SPEC_INDUSTRIAL
+	53217551	100
+	53FF4EFE	100
+	4E195131	~z~Whappen, rasta, I got de ting dem for you.
+	473CB82D	100
+	482E3BFD	FCJ_ACT_CALL_REQ_SPEC_THE_TRIANGLE
+	44F9A0DC	~z~Yo, meet me a' Outlook Park star.
+	46DC721D	~z~Pick me up at Fishmarket South.
+	4A39EDD2	~z~Yeah man, ya can find me at Lancaster man, just come for me, nuh?
+	4D669639	~z~Yo, me can't hook you up again y'know, star. Just gimme some time to get some merchandise, seen?
+	496FCC71	~z~Niko, ya need fe calm yourself down.
+	4A0516D9	100

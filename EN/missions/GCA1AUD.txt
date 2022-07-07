@@ -1,0 +1,226 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	AA9D3184	~z~Sorry, Alex, but I kind of have a lot on my plate. But maybe another time.
+	AA9A495A	GCA_ACT_PAL_CALL_HOSP_CANCEL
+	AA6E7BE7	~z~Shit, I would have been better off putting my energy into a block of wood than you.
+	AE2273AF	100
+	ADA4130B	100
+	AD68B0AF	100
+	A95674C9	GCA_ACT_GETCALL_DATE
+	A6E846B7	~z~Okay. I'll make some calls. I can get you a fifty percent off at the major outlets in Liberty City for the rest of the day.
+	A6563325	GCA_ACT_CALL_DATE_YES
+	A54DE144	GCA_ACT_CALL_DATE_NO_RECENT
+	A929E065	~z~Niko. I don't want this to get too serious. Maybe we shouldn't see each other this often. Maybe in a while.
+	A82788E5	~z~So you're still on the scene, are you?
+	A7B37FB6	~z~See you soon, Alex.
+	AE8A68E8	GCA_ACT_GETCALL_HOSP_ASK
+	B9D085B5	GCA_ACT_PAL_CALL_HILIKE
+	B74D935B	GCA_ACT_PAL_GETCALL_DATE_NO
+	B4A0E228	~z~I'll sort it, Niko. There'll be a discount for the rest of the day. Promise to buy nice clothes though.
+	BF790424	~z~I'll give you another chance, Niko. But this better be the best date of my life though. Come collect me in an hour.
+	BB1608A0	~z~Sorry Alex but something's come up. I can't get you from the hospital.
+	BA7DB118	~z~I wouldn't ask you to do this if it wasn't absolutely necessary.
+	B45190D9	GCA_ACT_GETCALL_REJECT
+	AFFEDC34	~z~Good news, Alex. You don't have to worry about slumming it no more. We're done.
+	AFA3B4EE	~z~I'll go on a date with you, Niko. Pick me up in the next hour.
+	AF8DA21F	~z~A relationship is not a one way street, Niko. If you don't start going in both directions you might lose me.
+	B41B5CBB	~z~Hello Alex.
+	B34362AE	~z~I can't just go helping anybody out. I'd lose my reputation. Why don't you hang out with me more and then maybe we'll talk?
+	B2C28AB4	100
+	A4026C9D	~z~If you ever want a discount from a clothes shop in Liberty City, call me and I'll arrange it.
+	8EC42B9A	~z~Niko, I cannot get tied down right now. We should leave a bit of a gap between each date.
+	8EC0B686	~z~Alright then, I'll call another time.
+	8D98B91B	~z~If you think you can just treat me like some slutty European whore then you are sadly mistaken.
+	920B3F50	010
+	90E45218	~z~Wait there, Alex.
+	8F7159E4	010
+	8D50F0CD	010
+	88E20647	100
+	88BF1EEB	GCA_ACT_PAL_GETCALL_HOSP_NO
+	87F4920C	010
+	8C119F88	GCA_ACT_PAL_CALL_MEDLIKE
+	8C0EAC4A	GCA_ACT_GETCALL_HOSP_REJ_MEDLIKE
+	89FD0300	~z~Well this really is a surprise. Guys don't normally wait this long to call me back.
+	94A89F49	100
+	9D2E1003	~z~Okay Niko, we can go on a date. Come pick me up in the next hour.
+	9C7B4708	~z~I'm scared that if we see each other this much someone's going to get hurt. In a while, maybe.
+	9C659F27	~z~Do you want to take me out?
+	A0178AEC	~z~It's Niko. You think you could arrange some money off for me at a shop?
+	9ECC009C	~z~Girls like me do not get treated like this by guys like you. Deal with yourself, Niko.
+	9E3DE643	GCA_ACT_CALL_SLEEP_REPLY
+	9C1EDF48	~z~My therapist was right. He was totally right about you.
+	989B9B57	~z~Jesus. What sort of guy am I dating? Goodbye.
+	98162913	~z~Sure, Niko. I tell the stores you're a friend of mine and you'll get a price reduction for the rest of the day.
+	95BE189B	~z~Niko, they're letting me out of the clinic and Daddy's driver is busy. Would you pick me up?
+	9BD2FAAA	~z~Niko, I am not someone you want to fuck things up with. You will regret losing me for the rest of your life.
+	9B744613	GCA_ACT_GETCALL_SPEC_AA
+	994035CD	010
+	E62FE149	GCA_ACT_PAL_CALL_SLEEPING
+	E60B63AF	100
+	E454B6B1	~z~Sure, I can be at your place in the next hour.
+	E6D26EA8	~z~I'm not used to taking rejection, Niko. Goodbye.
+	E6CD500B	GCA_ACT_PAL_CALL_GREET
+	E6C94377	~z~Alex, you're a socialite. Surely you know someone else who'll come pick you up.
+	E20D331F	~z~The mystery man returns. I did not think I'd be hearing from you again.
+	DE545B4D	100
+	DE2E6CAB	~z~I'll come collect you then.
+	DD8D4BE1	~z~Okay, Niko. I've got a blog to write anyway.
+	E17ABF1C	~z~Sorry, Niko. No can do now. Maybe if you paid me more attention I'd be able to help you out.
+	E0A41FB6	010
+	E02A7C0A	GCA_ACT_PAL_CALL_DATE_CANCEL
+	E6E1DE0B	100
+	F924D21B	GCA_ACT_GETCALL_SPEC_AB
+	F577A8C7	GCA_ACT_GETCALL_HOSP_ACCEPT
+	F52F8E8B	GCA_ACT_PAL_CALL_REQ_SPEC
+	FD1B7DE7	~z~It'd be good to do something with you.
+	FC00950F	100
+	FA90A112	GCA_ACT_CALL_HOSP_CANCEL_HILIKE
+	F3B71475	100
+	EBC9462C	100
+	EA0450D4	010
+	E6EE518D	~z~You want to go on a date?
+	F1220997	GCA_ACT_PAL_GETCALL_HOSP_YES
+	EF967B70	GCA_ACT_PAL_GETCALL_DATE_YES
+	EC3D08BC	~z~Sure, wait for me.
+	DCCEAE29	~z~Hey Alex.
+	CFFAE167	~z~Well I'll get someone else to do it, goodbye.
+	CF46AF54	~z~That's fine, Niko. I'll just meet up with the girls.
+	CE9452E2	GCA_ACT_CALL_LIKENO_1_AA
+	D1C66E49	~z~I'd like to buy some stuff. Can you arrange a discount for me?
+	D0872790	100
+	D0299601	GCA_ACT_GETCALL_GREET
+	CA609872	~z~I'd like to see you.
+	C23D9F62	100
+	C1C18AD3	~z~Alex here, Niko.
+	C1AD9AD1	~z~My therapist was right. He was totally right about you.
+	C463CBCB	~z~A woman has needs, Niko. If you aren't prepared to meet those needs then she might look elsewhere.
+	C2F8730F	~z~Niko, time to earn some brownie points. Would you pick me up from the hospital?
+	C2BB46E8	~z~Fine, Niko. I'll call a cab.
+	D2D739E6	GCA_ACT_GETCALL_ACCEPT
+	D8A934AC	010
+	D793077A	GCA_ACT_CALL_REQ_SPEC_NO
+	D6FDF56B	GCA_ACT_GETCALL_REJECT_IRATE
+	DC640228	~z~Niko, I am an intellectual, beautiful, and interesting woman. I do not need to see a man who treats me like you do.
+	D9FF8837	~z~There's mysterious and then there's a little too fucking mysterious Mr. European.
+	D991C77A	GCA_CBRKUP
+	D6929384	~z~I feel like you should take me out on a date.
+	D47E15D7	100
+	D3F77D95	~z~Sure, I'll let you take me out. Come pick me up in the next hour.
+	D3F33F5C	~z~From now on I am only dating Americans.
+	D592992D	~z~Okay, I'll come and pick you up in the next hour.
+	D490CA25	~z~Alright, Niko. Treat me like this then.
+	D4891EF7	~z~Sorry Alex. I got more important things to be doing.
+	303F717D	100
+	2E70998C	~z~Don't be late, Niko.
+	2D973BEF	GCA_ACT_PAL_GETCALL_SPEC_END
+	320BCFE4	GCA_ACT_CALL_LIKENO_2_AB
+	30E32DED	~z~I didn't know you'd be in bed. I'm sorry.
+	30B755F1	~z~Alex, hello.
+	2CCA665E	100
+	2BBD44CE	GCA_ACT_PAL_CALL_REJECTED
+	28FFC754	100
+	28CD81E8	~z~Alright, I'll be there soon.
+	2CC5E559	~z~Well there's the mysterious European. I was starting to think you were done with me.
+	2C545C11	~z~This is Alex Chilton's phone. Leave me a message.
+	2C349C53	GCA_ACT_CALL_IRATE
+	335FFFCA	~z~Another time, Alex. We will put on a rain check.
+	436A034E	010
+	42E3A91D	GCA_ACT_GETCALL_REJECT_VERYIRATE
+	403C3D23	~z~I'll be waiting, Niko.
+	441C0D6C	~z~Alright, well top prize for effort. I'll let you take me out. Come by in the next hour.
+	44060F5A	~z~Niko, this is Alex calling.
+	43CFF09B	~z~I'm sorry but I've got to see the girls. Maybe another time.
+	3ED6ADFA	~z~I'll be there in a bit.
+	37EE5A08	GCA_ACT_GETCALL_VERYIRATE
+	367A55F0	~z~Niko, I just can't see you right now. I have to put in some serious Daddy time to make sure the card doesn't get cut off.
+	352AB510	~z~Alex, I want to go shopping. Can you get me some money off?
+	3E107BF4	~z~Okay, I was getting ready, but fine.
+	39182752	GCA_ACT_CALL_REQ_SPEC_YES
+	384FE26C	GCA_ACT_CALL_VERYIRATE
+	27845657	~z~Hey, it's Alex.
+	0F365701	~z~Oh, you've decided to call, have you?
+	0F21374D	~z~Okay, Alex. I'll try you again later.
+	09F00863	~z~Alex. It's Niko.
+	11BFD3C1	~z~I'll be by in a bit.
+	10CD5E46	~z~I'll see you then.
+	0FE98631	~z~Why don't you show me a good time?
+	09C8AC92	100
+	0344C120	100
+	0338AD0B	010
+	008B170A	GCA_ACT_CALL_HOSP_CANCEL_LOLIKE
+	055B4DB8	GCA_ACT_CALL_LIKEYES
+	03903762	~z~I'm on my way.
+	035B46DA	~z~Okay then Alex, I'll come and get you in the next hour.
+	15116A46	~z~Sure, I'll be there in the next hour.
+	1F43B770	~z~That won't be a problem Niko. I can get you a fifty percent discount for the rest of the day.
+	1E948950	~z~Sorry, Alex but I don't memorize your sleeping hours. I'll call you later.
+	1D02AE88	~z~How's it going, Alex?
+	2752B7A1	~z~You know, I don't feel like seeing you right now. Maybe in a while.
+	2325BA35	~z~I knew you'd do this. I just knew it.
+	20F75AF9	~z~We'll do something another time then. I'll call again later.
+	1CD14DEF	~z~There are plenty of guys who'd kill to collect me from the hospital. I'll call one of them.
+	183F5181	~z~Okay, Niko. If that's the way it is, that's the way it is.
+	1731B5B2	~z~Niko, it's Alex.
+	16E59C67	GCA_ACT_GETCALL_IRATE
+	1B13CACC	100
+	19AC3708	~z~Why don't you and me go do something?
+	19899C0F	~z~My psychiatrist says that I shouldn't be seeing anyone in this emotional state, maybe if you me call back later...
+	6D0EEDB0	GCA_ACT_PAL_CALL_ACCEPTED
+	68FD98AD	100100
+	6847539C	100
+	722EC7D7	010
+	70CB1DB4	~z~Be warned Niko, I look like a mess.
+	6DC80029	~z~Thanks Alex, that's kind of you.
+	67DFF6CF	~z~This is a fucking joke. You never want to go out with me.
+	6427817A	GCA_ACT_CALL_LIKENO_1_AB
+	636D79C8	100100010
+	62DDD6BD	GCA_ACT_CALL_DATE_NO_GENERAL
+	678B9324	100
+	65FDA9E8	~z~Alex Chilton stood up by a European nobody? My friends will not believe it.
+	64DB82D6	100
+	734C1F2E	~z~Alex, I'm sorry about this but I can't take you out anymore.
+	83C683C4	~z~Alex. You probably got more important things to worry about like boots or something, but we're over.
+	8363D185	~z~Hey Alex, I want to go buy some clothes. Will you get me a discount?
+	8289DABB	~z~Okay, pick me up in the next hour and you can take me out.
+	874394B0	GCA_ACT_PAL_CALL_LOLIKE
+	84B99AC7	010
+	844CBCE9	~z~Yeah, well actually there's a cute orderly that I'd like to fuck. I'll do that and then get a lift home. Bye.
+	80128E37	~z~Sorry, Niko. But my friends just saw us out again and they might actually think we were serious. Leave it a bit.
+	78450623	GCA_ACT_GETCALL_HOSP_REJ_LOLIKE
+	77D3BFCB	100
+	74AE8DFA	~z~Hey Niko, I was just thinking I like guys I date to look good in case the paps snap us together or something.
+	7FFD1DE4	~z~I am a beautiful flower and I need to be treated with care. And if you do that, I might date you again.
+	7D8633A2	~z~Sorry, Alex but I have to cancel our date.
+	794AE71B	~z~Hi Alex. It's Niko.
+	62BA21BF	~z~I can't take you out just now, Alex. I'll call you later.
+	4CEDA4E2	100100
+	4C8BBA19	~z~I'm going to have to call my therapist. Goodbye.
+	4C597F10	~z~Why don't you take me out on a date?
+	4F9F1F11	~z~Well, I blew off a lot of people to see you but... sure.
+	4F3F67DD	~z~I'm not saying this is over for good but I need a break.
+	4D4FF42E	GCA_ACT_PAL_CALL_DATE
+	4B6508C5	~z~What are you doing? Ha fucking ha. I'm asleep. Call me after noon.
+	45CC0B21	GCA_ACT_GETCALL_REJECT_VERYIRATE
+	44D8957E	~z~Niko, you picked up. Well it's been a while since I've heard from you.
+	44BEC89B	010
+	485C3CF0	100
+	479C7A0D	GCA_ACT_CALL_LIKENO_2_AA
+	45E032CC	~z~From now on I am only dating Americans.
+	50E5D561	100
+	5A354BC8	100
+	59B72569	~z~Are you fucking stupid? I'm sleeping. Call me back after noon. I might be awake then.
+	57BD0D67	~z~Fuck you. I could have done anything now. You were lucky I agreed to see you.
+	61CC381E	~z~Alex, that you?
+	5E11D3A3	~z~Shit, I would have been better off putting my energy into a block of wood than you.
+	5C33BB18	100
+	569B8169	~z~Oh, you picked up. I was starting to think I'd have to get Daddy's private investigator to track you down, Niko.
+	539B9BBD	~z~Alex, how's it going?
+	5353BE27	~z~This is a fucking joke. You never want to go out with me.
+	52F1712B	GCA_ACT_GETCALL_HOSP_REJ_HILIKE
+	54006525	GCA_ACT_ANSWER_PHONE
+	53B7E41A	~z~See you in a bit.
+	53B723A2	~z~Sorry Alex, it's over between us. I can't say I'm going to miss you.

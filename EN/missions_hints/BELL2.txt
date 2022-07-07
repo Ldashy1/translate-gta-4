@@ -1,0 +1,31 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+B2_ABANDONB	90C98006	~r~You have abandoned the boat.
+B2_ABANDONT	513400E8	~r~You have abandoned the truck.
+B2_BBEACH	83D8A7FB	~r~Bell's boat was beached.
+B2_LOSECOPS	087575BA	~s~Lose your wanted level.
+B2CUTSCENE1	C1B8AED9	~s~The Russian drug runners are using the boatyard to smuggle cocaine into the city.
+B2CUTSCENE2	0B2C41BF	~s~The coke is brought in on speedboats from Vice City and has not yet been unloaded.
+B2CUTSCENE3	D44E5404	~s~The boatyard is heavily guarded - the element of surprise will be crucial.
+B2FAIL_01	E9A07286	~r~Bell is dead.
+B2FAIL_02	D334C5AF	~r~The truck got trashed.
+B2FAIL_03	C10A215A	~r~The boat was destroyed.
+B2FAIL_04	B6B70CB4	~r~You beached the boat.
+B2GETBACK_01	91362D7B	~s~You have left ~b~Bell~s~ behind, go and get him.
+B2GETBOAT	97EBE055	~s~Get back in the ~b~boat.
+B2GETTRUCK	50109C4A	~s~Get back in the ~b~truck.
+B2GT_01	9C48497E	~s~Go to the ~b~truck.
+B2GT_01A	741B118A	~s~Drive to the ~y~boatyard~s~ on Charge Island.
+B2GT_02A	D9FBC06D	~s~Get through the boatyard with ~b~Bell.
+B2GT_02B	0BC4A3FE	~s~Go to the ~b~coke boat.
+B2GT_03	019B9427	~s~You left ~b~Bell~s~ behind. Go back and help him.
+B2GT_03A	B1876E79	~s~Follow ~b~Bell~s~ to the drop-off point.
+B2GT_03B	7D4105ED	~s~Get the coke boat back to the ~y~jetty.
+B2GT_DISEMBARK	2DDA39DE	~s~Disembark onto the ~y~jetty.
+B2GT_GIVEUP	6EB6100A	~s~The attackers have given up. Follow ~b~Bell~s~ to the drop-off point.
+B2GT_KILLED	EDAD32FA	~s~The attackers have been killed. Follow ~b~Bell~s~ to the drop-off point.
+B2GT_PROTECT	24E31F70	~s~Protect Bell from the ~r~attacking boats.

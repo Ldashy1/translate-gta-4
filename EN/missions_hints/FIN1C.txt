@@ -1,0 +1,32 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	815D647F	~s~Go to Perseus and buy a suit.
+	8371B397	~s~Buy a suit jacket and shoes for the wedding.
+	911703FA	~s~Go to Perseus and buy a suit jacket and shoes for the wedding.
+	7373139A	~s~Buy suit pants and shoes for the wedding.
+	74E44B8D	Lose your wanted level.
+	8037E3A0	~s~Go to Perseus and buy smart shoes for the wedding.
+	96E8DA85	You left ~b~Kate~s~ behind, go get her.
+	D1D886E4	Meet Roman at the ~y~church.
+	DF8C224B	~r~The guests were scared off.
+	F5F04F13	~s~Go to Perseus and buy a suit jacket for the wedding.
+	A8AA7E08	Go and pick up ~b~Kate.
+	BA9721E1	~r~Kate is dead.
+	CD657DFE	~r~The wedding was cancelled.
+	184F5D20	Press ~INPUT_VEH_HORN~ to sound the horn and get Kate's attention.
+	1B7098B3	~s~Buy suit pants for the wedding.
+	2A7BB6C9	~s~Buy a suit jacket for the wedding.
+	042AEB88	~s~Go to Perseus and buy suit pants for the wedding.
+	0E09FDE6	~s~Buy smart shoes for the wedding.
+	16B790A1	~s~Go to Perseus and buy a suit for the wedding.
+	2DC83D56	~s~Go to Perseus and buy a suit jacket and pants for the wedding.
+	61676F4F	Change into a suit for the wedding or go to Perseus to buy a smart outfit.
+	66B1AF28	~s~Go to Perseus and buy suit pants and smart shoes for the wedding.
+	70A4C31A	~s~Buy a suit jacket and pants for the wedding.
+	37ED51AC	~s~Buy a suit for the wedding.
+	46A539CB	Go and get a vehicle.
+	495275D6	~r~You missed the ceremony.

@@ -1,0 +1,10 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	61FC6C28	~r~You injured Pathos.
+	CAFCF53E	You're losing ~b~Pathos.
+	2F0E064C	Take out the ~r~men~s~ that are hassling Pathos.
+	50B5C99B	~r~Pathos is dead.
