@@ -1,0 +1,11 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9D2F6517	Go see Roman.
+	A88586FC	The flashing ~BLIP_29~ on the radar shows the entrance to this apartment. You can save the game here.
+	745B1A25	Sleeping on the bed will save the game and advance time by six hours.
+	1FAA8467	The flashing ~BLIP_27~ on the radar shows where to meet Roman.
+	4E006112	Go see Roman when the ~BLIP_27~ is on display.

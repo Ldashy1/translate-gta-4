@@ -1,0 +1,33 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	B64213D6	Press ~PAD_LB~ to close van doors.
+	C852B7F7	Stop and search the other vans.
+	C930FF37	~S~You need a cop car to pull over the vans.
+	898F3A75	~s~Stay close to the ~b~van~s~ to make it pull over.
+	ACD2A95D	~s~Find and pull over the ~b~van~S~ before it reaches its destination.
+	AFC307F8	Pull over the other ~B~vans.
+	CDCC886E	~S~Find a cop car.
+	E21F6CB0	~S~Get out of the van.
+	E2F3ED3D	~s~Drive to the ~y~lockup.
+	ECE38118	~R~The van got away.~s~
+	D0964882	~s~Steal the ~b~van.
+	D45620A5	Press ~INPUT_VEH_HORN~ to turn on the siren and pull the van over.
+	E0CCE8EB	~r~The content of the van wasn't checked.~s~
+	7DC4710B	~S~Check out what's in the back of the van.
+	2BAFFEB0	~r~The van was not delivered to the lockup.~s~
+	3601935B	~s~Pull over the ~b~van.
+	38689B75	Find a cop car that doesn't have a busted siren.
+	059D35DB	~r~The vans were not pulled over in time.~s~
+	196CDB4A	Get back in the ~B~car.
+	217A924B	~s~The ~b~vans~S~ are in transit. Find them and pull them over.
+	52E5506E	Lose the wanted before delivering the van.
+	6CC07FF9	Park up and approach the driver's window.
+	6FF40A8B	Get back into the ~b~van.
+	7BF8EF28	~s~Find and pull over the ~b~vans~S~ before they reach their destinations.
+	53894F8A	~S~Take the van to the ~Y~lockup.
+	5A46DB06	Get closer to the ~b~van.
+	69267CF0	Lose your wanted level.

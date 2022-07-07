@@ -1,0 +1,34 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8D444F8B	The Boss has reached the getaway vehicle.
+	8E28B313	The Boss has been taken out.
+	977BE462	~r~The getaway vehicle has been destroyed. The round will end shortly.
+	8CC09740	Some of the crooks have got into the getaway vehicle.
+	6E89575E	The boss needs to stay in the vehicle - the game will end shortly if he doesn't.
+	79B56DD7	WAITING FOR VIP TO BE SELECTED.
+	7F11C29A	A Crook needs to stay in the vehicle - the game will end shortly.
+	DCF94776	4
+	EDC5A63B	Find the ~COL_NET_1~Boss~s~ and take him out.
+	F512C502	One for All
+	DA1DBD1B	~r~The getaway vehicle has been flipped. The round will end shortly.
+	9AFB86E9	LEAVE
+	BDCE4649	You are the boss, make your way to the ~b~getaway vehicle.
+	CC23E2F4	Protect the ~COL_NET_1~Boss.
+	2C974253	~r~The getaway boat is on land, it needs to get back into water.
+	2EC8EB14	6
+	30E5E57A	Rounds
+	0BB13B14	Game Type
+	00FF0F81	8
+	0855EB88	All for One
+	0B2023C3	2
+	4CC2AA6C	A crook has got into the getaway vehicle.
+	56EB3B5C	10
+	5DFEEC69	The ~COL_NET_1~crooks~s~ have been spotted, they are highly dangerous. Take them down.
+	4BF36295	You are the team's Boss.
+	3BFFC2AE	Head to the ~b~getaway vehicle.
+	4994C395	The ~COL_NET_2~cops~s~ have been alerted. Get to the ~b~getaway vehicle.
+	4AD5A538	GAME IS ABOUT TO END

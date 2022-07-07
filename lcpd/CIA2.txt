@@ -1,0 +1,23 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9F0E136A	Choose "Search by Photo"
+	B1D438F6	Press ~ACCEPT~ to upload a photo.
+	871EEA69	~s~Stop the car.
+	8A5D1663	~s~Dimayev is there with his ~r~guards.~s~ Eliminate them all.
+	DF369DD5	Check the photo message your contact has just sent you.
+	EA07F243	~s~Access the police computer.
+	C1828F2D	~s~Press ~PAD_LB~ to access the police computer.
+	CCB8F8D2	Use the police computer to locate your target.
+	7A074AFE	~s~Get in a cop car. Your contact has left one across the street from the U. L. Paper office.
+	095F721E	~s~Lose your wanted level.
+	59064E5F	~s~Go to Dimayev's ~y~hangout.
+	06C3EE2F	Your contact will send you a picture of the target. Read the message when it arrives.
+	072F52A6	~s~Press ~PAD_LB~ to leave the police computer.
+	695B2AAD	~s~Press ~PAD_DPAD_DOWN~ to read the text of a photo message.
+	78FC473B	To search the database using a photo on your phone, first select "Search Police Records".
+	5E5D8F97	~s~Get a cop car.
+	65A5208D	Press ~ACCEPT~ to mark Dimayev's hangout on the radar.

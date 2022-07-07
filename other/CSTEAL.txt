@@ -1,0 +1,43 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	C45AAB98	Car Destroyed
+	B989EC0A	30 mins
+	D21B8CFF	A vehicle has been stolen and is being taken to a ~y~dropoff.
+	C5B282A3	Far
+	B1CC8A5D	Take the car to a ~y~dropoff.
+	8BAD121A	Car Spawning
+	8BA01A1B	Sports
+	A5D55D7A	A ~g~vehicle~s~ containing drugs has been spotted. Go and get it.
+	9E85BFE6	Regular
+	F42A113C	The target car has been destroyed.
+	F174378E	Dukes/Broker
+	FF15F515	Get the car stuffed with drugs to the ~y~dropoff point.
+	F67A4B20	A vehicle is being taken to the final ~y~dropoff.
+	EBE5AE91	Car Entered
+	DF63936D	Algonquin
+	D46FC12C	Take the car to the ~y~dropoff.
+	EAE5384D	Duration
+	E45BEFAA	A.I. Level
+	8754E351	Random
+	35B4E2A6	Close
+	32488833	You have destroyed the vehicle.
+	3E85C79C	Delivered Car
+	3D8BB229	Hard
+	2FB91684	Off
+	138D813F	Get the car to the ~y~dropoff point.
+	05EAA663	Location
+	2F1DBDAE	Car Type
+	25FC7849	All of the parking spaces were successfully filled.
+	6D66B6EC	Car Spotted
+	6C84CCCB	Go and collect a ~g~vehicle.
+	7DC26F46	Go and get a ~b~vehicle.
+	7297005B	Go and get the ~b~Car.
+	667E45F4	15 mins
+	57C42880	10 mins
+	4896B632	Get the car to the final ~y~dropoff point.
+	5B53EDB9	Normal
+	58C70636	Alderney

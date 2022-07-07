@@ -1,0 +1,19 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	8A13940D	Press ~PAD_LB~ to quit.
+	7BC12322	~s~Quitting activity in ~1~ second.
+	67A0BB8D	~s~Go to the ~y~Statue of Happiness.
+	D752374C	~s~Go to the ~y~Poop Deck.
+	D17BCE96	~s~Quitting activity in ~1~ seconds.
+	B3B3F021	~s~Take everyone ~y~home.
+	64029568	Press ~PAD_LB~ to warp.
+	3C5E79AF	~s~Go to ~y~Pier 45.
+	371DDC7D	Wait for ~b~Brucie~s~ and the ~b~girls.
+	299717F2	~s~Go to the ~y~driving range.
+	61BFE207	Hold ~PAD_Y~ to quit.
+	5E2853A4	~s~Go to the ~y~sunken ships.
+	4AA68102	~s~Go to the ~y~industrial area.

@@ -1,0 +1,38 @@
+# Do not change the format of file
+# File created by X GXT Editor
+# http://www.x-squares.com/File/fi/0/X-GXT-Editor.aspx
+
+
+
+	9F5681D0	You are on the ~BLIP_86~ line.~n~The next stop is ~a~.
+	9F3F6897	You are on the ~BLIP_90~ line.~n~This stop is ~a~.
+	B527F3CF	You are on the ~BLIP_85~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	AA73C1BE	You are on the ~BLIP_83~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	8BC05362	You are on the ~BLIP_87~ line.~n~This stop is ~a~.
+	8B615587	You are on the ~BLIP_86~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	9DE3F7A9	You are on the ~BLIP_87~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	99B2F69D	You are on the ~BLIP_90~ line.~n~The next stop is ~a~.
+	EA7F1808	You are on the ~BLIP_87~ line.~n~The next stop is ~a~.
+	DC1DA50D	You are on the ~BLIP_83~ line.~n~This stop is ~a~.
+	FBD8C286	You are on the ~BLIP_84~ line.~n~This stop is ~a~.
+	F325817E	You are on the ~BLIP_89~ line.~n~This stop is ~a~.
+	C72E5167	You are on the ~BLIP_88~ line.~n~The next stop is ~a~.
+	B6AC382E	You are on the ~BLIP_84~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	D0916445	You are on the ~BLIP_85~ line.~n~The next stop is ~a~.
+	C9AF9CDA	You are on the ~BLIP_85~ line.~n~This stop is ~a~.
+	2D99C808	You are on the ~BLIP_83~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	2AD6146E	You are on the ~BLIP_86~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	39EEBEB1	You are on the ~BLIP_84~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	3360703E	You are on the ~BLIP_85~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	0F09C832	You are on the ~BLIP_90~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	092ED59B	You are on the ~BLIP_84~ line.~n~The next stop is ~a~.
+	256465FB	You are on the ~BLIP_89~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	198C71DB	You are on the ~BLIP_86~ line.~n~This stop is ~a~.
+	803A4380	You are on the ~BLIP_89~ line.~n~The next stop is ~a~.
+	77F9DB65	You are on the ~BLIP_88~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	84F0A512	You are on the ~BLIP_89~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	81C4BF67	You are on the ~BLIP_87~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	70A38B60	You are on the ~BLIP_90~ line.~n~The next stop is ~a~.~n~Press ~INPUT_FRONTEND_ACCEPT~ to skip there.
+	411DEDB2	You are on the ~BLIP_88~ line.~n~This stop is ~a~.~n~Press ~INPUT_VEH_EXIT~ to leave the train.
+	76A758CC	You are on the ~BLIP_88~ line.~n~This stop is ~a~.
+	73DEAAF9	You are on the ~BLIP_83~ line.~n~The next stop is ~a~.
