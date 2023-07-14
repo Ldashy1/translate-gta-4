@@ -1,4 +1,4 @@
-# Grand Theft Auto 4 - Исправляем локализацию от 1С
+# Grand Theft Auto 4 - Исправляем локализацию от 1С (на стадии переработки репозитория)
 
 ![Grand Theft Auto 4 (from libertycity.ru)](https://libertycity.ru/uploads/posts/2016-10/1476208800_gta-4.png)
 
